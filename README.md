@@ -1,0 +1,1 @@
+# open_ai_structured_output
