@@ -1,0 +1,859 @@
+Bau-EPD-Knauf-Ceiling-Solutions-2021-1-ecoinvent
+EPD - ENVIRONMENTAL PRODUCT DECLARATION
+UMWELT-PRODUKTDEKLARATION
+nach ISO 14025 und EN 15804+A2
+HERAUSGEBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+PROGRAMMBETREIBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+DEKLARATIONSINHABER Knauf Ceiling Solutions GmbH & Co. KG
+DEKLARATIONSNUMMER Bau-EPD-Knauf-Ceiling-Solutions-2021-1-ecoinvent
+AUSSTELLUNGSDATUM 2021-07-07
+GÜLTIG BIS 2026-07-07
+ANZAHL DATENSÄTZE IN EPD DOKUMENT 1
+Heradesign Akustikplatten (Euroklasse B)
+Knauf Ceiling Solutions GmbH & Co. KG
+Bau-EPD-Knauf-Ceiling-Solutions-2021-1-ecoinvent
+Inhaltsverzeichnis
+1 Allgemeine Angaben ................................................................................................................................................................................. 3
+2 Produkt ..................................................................................................................................................................................................... 4
+2.1 Allgemeine Produktbeschreibung ...................................................................................................................................................... 4
+2.2 Anwendung ........................................................................................................................................................................................ 4
+2.3 Produktrelevanten Normen, Regelwerke und Vorschriften ............................................................................................................... 4
+2.4 Technische Daten ............................................................................................................................................................................... 5
+2.5 Grundstoffe / Hilfsstoffe .................................................................................................................................................................... 5
+2.6 Herstellung ......................................................................................................................................................................................... 6
+2.7 Verpackung ........................................................................................................................................................................................ 7
+2.8 Lieferzustand ...................................................................................................................................................................................... 7
+2.9 Transporte .......................................................................................................................................................................................... 8
+2.10 Produktverarbeitung / Installation ................................................................................................................................................ 8
+2.11 Nutzungsphase .............................................................................................................................................................................. 8
+2.12 Referenznutzungsdauer (RSL) ....................................................................................................................................................... 9
+2.13 Nachnutzungsphase ...................................................................................................................................................................... 9
+2.14 Entsorgung .................................................................................................................................................................................... 9
+2.15 Weitere Informationen ................................................................................................................................................................. 9
+3 LCA: Rechenregeln .................................................................................................................................................................................. 10
+3.1 Deklarierte Einheit ........................................................................................................................................................................... 10
+3.2 Systemgrenze ................................................................................................................................................................................... 10
+3.3 Flussdiagramm der Prozesse im Lebenszyklus ................................................................................................................................. 12
+3.4 Abschätzungen und Annahmen ....................................................................................................................................................... 12
+3.5 Abschneideregeln ............................................................................................................................................................................ 12
+3.6 Hintergrunddaten ............................................................................................................................................................................ 13
+3.7 Datenqualität ................................................................................................................................................................................... 13
+3.8 Betrachtungszeitraum ...................................................................................................................................................................... 13
+3.9 Allokation ......................................................................................................................................................................................... 13
+3.10 Vergleichbarkeit .......................................................................................................................................................................... 13
+4 LCA: Szenarien und weitere technische Informationen .......................................................................................................................... 14
+4.1 A1-A3 Herstellungsphase ................................................................................................................................................................. 14
+4.2 A4-A5 Errichtungsphase ................................................................................................................................................................... 14
+4.3 B1-B7 Nutzungsphase ...................................................................................................................................................................... 15
+4.4 C1-C4 Entsorgungsphase .................................................................................................................................................................. 15
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial ............................................................................................... 16
+5 LCA: Ergebnisse ....................................................................................................................................................................................... 17
+6 LCA: Interpretation ................................................................................................................................................................................. 19
+7 Literaturhinweise .................................................................................................................................................................................... 21
+8 Verzeichnisse und Glossar ...................................................................................................................................................................... 22
+8.1 Abbildungsverzeichnis ...................................................................................................................................................................... 22
+8.2 Tabellenverzeichnis .......................................................................................................................................................................... 22
+8.3 Abkürzungen .................................................................................................................................................................................... 22
+1 Allgemeine Angaben
+Produktbezeichnung Deklariertes Bauprodukt / Deklarierte Einheit
+Heradesign Akustikplatten 1 m² Heradesign Akustikplatte (Euroklasse B)
+Deklarationsnummer
+Anzahl der Datensätze in diesem EPD Dokument: 1
+BAU-EPD-Knauf-Ceiling-Solutions-2021-1-ecoinvent
+Deklarationsdaten
+Gültigkeitsbereich
+Spezifische Daten
+Die vorliegende Umwelt-Produktdeklaration deklariert Holzwolle Produkte
+Durchschnittsdaten
+unter dem Markennamen Heradesign, produziert am Standort Ferndorf,
+Deklarationsbasis Österreich.
+MS-HB Version: BAU-EPD-MS-HB-Version-1-0-0- Sie bezieht sich auf eine deklarierte Einheit von 1 m² Heradesign Akustikplatte
+Stand-2021-01-14 (Euroklasse B) mit einem repräsentativem Flächengewicht von 13,1 kg/m² und
+PKR: Holzzement – Mineralisch gebundene einem Wassergehalt von etwa 16 %. Es handelt sich um eine Durchschnitts-
+Holzwerkstoffe EPD einer Produktgruppe.
+PKR-Code: 2.11.4
+Version V 2.0, 26.05.2021 Die Produktnamen sind:
+Heradesign superfine
+(PKR geprüft u. zugelassen durch das unabhängige Heradesign fine
+Heradesign macro
+PKR-Gremium)
+Heradesign micro
+Heradesign plano
+Der Inhaber der Deklaration haftet für die
+zugrundeliegenden Angaben und Nachweise; eine Die Umrechnung der Ökobilanzergebnisse auf andere Produktdicken als die
+Haftung der Bau EPD GmbH in Bezug auf hiermit deklarierte Referenzstärke kann linear über das Flächengewicht
+Herstellerinformationen, Ökobilanzdaten und erfolgen. Die Ergebnisse der Ökobilanz verschiedener Produkte variiert damit
+Nachweise ist ausgeschlossen. abhängig vom Flächengewicht der Platten.
+Datenbank, Software, Version
+Deklarationsart lt. ÖNORM EN 15804+A2
+Datenbank: ecoinvent v.3.7.1.
+Von der Wiege bis zur Bahre
+Software: openLCA 1.10.3
+Die Europäische Norm EN 15804:2019+A2 dient als Kern-PKR.
+Ersteller der Ökobilanz Unabhängige Verifizierung der Deklaration nach EN ISO 14025:2010
+Daxner & Merl GmbH intern extern
+Lindengasse 39/8
+1070 Wien Verifizierer 1: DI Dr. Gschösser Florian, Universität Innsbruck
+Österreich Verifizierer 2: DI Roman Smutny, Universität f. Bodenkultur, Wien
+Deklarationsinhaber Herausgeber und Programmbetreiber
+Knauf Ceiling Solutions GmbH & Co. KG Bau EPD GmbH
+Elsenthal 15 Seidengasse 13/3
+94481 Grafenau 1070 Wien
+Deutschland Österreich
+DI (FH) DI DI Sarah Richter Mag. Hildegund Figl
+Geschäftsführung Bau EPD GmbH Stellvertretung Leitung PKR-Gremium
+DI Dr. sc. ETHZ Florian Gschösser DI Roman Smutny
+Verifizierer, Universität Innsbruck Verifizierer, Universität für Bodenkultur Wien
+Information: EPD der gleichen Produktgruppe aus verschiedenen Programmbetrieben müssen nicht zwingend vergleichbar sein.
+Seite 3 von 23
+2 Produkt
+2.1 Allgemeine Produktbeschreibung
+Heradesign Platten sind Holzwolleplatten gemäß EN 13168 bzw. EN 13964, hergestellt aus Holzwolle und mineralischem Bindemittel.
+Die EPD steht für folgende Produkte:
+Heradesign superfine
+Heradesign fine
+Heradesign macro
+Heradesign micro
+Heradesign plano
+Die in dieser Studie berücksichtigte deklarierte Einheit repräsentiert 1 m² durchschnittlicher Heradesign-Platte. Details zur deklarierten
+Einheit finden sich in Kapitel 3.1. Die Durchschnittsbildung erfolgt basierend auf der jährlich produzierten Quadratmetermenge im Werk
+Ferndorf, Österreich.
+Die deklarierte Einheit ist repräsentativ für die Heradesign-Produkte der Euroklasse B. Diese Produktgruppe unterscheidet sich bezüglich
+ihrer Rezeptur nur marginal. Die Hauptunterschiede zwischen den verschiedenen Produkten liegen in der Produktdicke, naturgemäß damit
+auch deren Flächengewicht und der Faserweite. Detaillierte Beschreibungen der einzelnen Produkte sind unter
+www.knaufceilungsolution.com verfügbar. Der Hauptunterschied besteht in den unterschiedlichen Schallabsorptionswerten. Innerhalb
+der Produktpalette bietet Heradesign superfine die höchsten Schallabsorptionswerte.
+Tabelle 1: Die einzelnen Produkte im Vergleich
+Heradesign® Heradesign® Heradesign® Heradesign® Heradesign®
+fine superfine macro micro plano
+Schallabsorptionswert αW bis 0,9 bis 1 bis 0,8 bis 0,55 bis 0,35
+Brandverhalten nach EN
+B-s1, d0 B-s1, d0 B-s1, d0 B-s1, d0 B-s1, d0
+13501-1
+Verfügbare Dicken [mm] 15, 25, 35 15, 25, 35 25 25, 35 25
+2.2 Anwendung
+Heradesign Akustikplatten werden vorwiegend als akustisch/dekorative Wand- und Deckenbekleidungen in Büros, Eigenheimen,
+Wohnbauten, Schulen, Kindergärten usw. eingesetzt. Für die Produktverarbeitung werden von der Knauf Ceiling Solutions Deckensysteme
+Ges.m.b.H (ehemals Knauf AMF Deckensysteme Ges.m.b.H) technische Datenblätter zur Verfügung gestellt.
+Da die Verarbeitung sehr vielfältig sein kann, wird eine eigene Verarbeiterfibel, worin alle notwendigen Details, Anleitungen und Techniken
+gezeigt werden, zur Verfügung gestellt.
+2.3 Produktrelevanten Normen, Regelwerke und Vorschriften
+Für das Inverkehrbringen der Produkte in der EU/EFTA (mit Ausnahme der Schweiz) gilt die Verordnung (EU) Nr. 305/2011 (CPR). Die
+Produkte benötigen eine Leistungserklärung unter Berücksichtigung der EN 13168:2012+A1:2015, Wärmedämmstoffe für Gebäude -
+Werkmäßig hergestellte Produkte aus Holzwolle (WW)-Spezifikation bzw. EN 13964:2014, Unterdecken - Anforderungen und Prüfverfahren
+und die CE-Kennzeichnung. Für die Verwendung gelten die jeweiligen nationalen Bestimmungen.
+Seite 4 von 23
+2.4 Technische Daten
+Leistungswerte des Produktes entsprechend der Leistungserklärung in Bezug auf dessen wesentliche Merkmale gemäß
+EN 13168:2012+A1:2015, Wärmedämmstoffe für Gebäude - Werkmäßig hergestellte Produkte aus Holzwolle (WW)-Spezifikation bzw.
+EN 13964:2014, Unterdecken - Anforderungen und Prüfverfahren.
+Tabelle 2: Technische Daten mineralisch gebundene Holzwerkstoffe
+Bezeichnung Wert Einheit
+Rohdichte nach EN 1602 470 - 545 kg/m3
+Flächengewicht 7,2 - 19 kg/m²
+Feuchtegehalt bei Auslieferung nach EN 322 16 %
+Maßabweichung +/- 1 mm
+Länge (min. - max.) 600 - 1250 mm
+Breite (min. - max.) 600 - 625 mm
+Höhe (min. - max.) 15 - 35 mm
+Flächengewicht 7,2 – 19,0 kg/m²
+Wärmeleitfähigkeit nach EN 12667 0,08 - 0,11 W/(mK)
+Wasserdampfdiffusionswiderstandszahl nach DIN 4108-4 2-5 -
+Ausgleichsfeuchte bei 23 °C, 80 % 11 M.-%
+Schallabsorptionsgrad (nur mit Hinweis auf Bauteilkonstruktion) 0,35 - 1 %
+Brandverhalten nach EN 13501-1 B, s1, d0 -
+Produktspezifische Werte und Produktdatenblätter finden Sie unter www.knaufceilungsolution.com
+2.5 Grundstoffe / Hilfsstoffe
+Zusammensetzung der Heradesign-Produkte:
+Tabelle 3: Grundstoffe in Masse-%
+Material Funktion Wert Einheit
+Fichtenholz (Picea abies) 1) Strukturmaterial 34 +/- 3 %
+Kaustisch gebrannter Magnesit (MgO) 2) Bindemittel CAS-Nr. 1309-48-4 50 +/- 3 %
+davon Primärmaterial 35 %
+davon Recyclingmaterial 15 %
+Magnesiumsulfat (MgSO ) 3) Bindemittel Co-Partner CAS-Nr. 7487-88-9 5 +/- 1 %
+4
+Lösemittel für Magnesiumsulfat und
+Wasser (H O) 4) Hydratwasser im Bindemittelsystem 10 +/- 3 %
+2
+CAS-Nr. 7732-16-5
+Kalziumcarbonat (CaCO ) CAS-Nr. 471-34-1 1 +/- 0,3 %
+3
+1) Das Fichtenholz wird aus nachhaltiger Forstwirtschaft bezogen und dient als Trägermaterial. Der Massenteil bezieht sich auf 20 %
+Holzfeuchte.
+2) Kaustisch gebrannter Magnesit wird aus dem regionalen Rohstoff Magnesit gewonnen. Darüber hinaus enthält das Produkt
+Sekundärmaterial in Form von Knauf Sekundärkauster aus dem innovativen Rekalzinierungsprozess.
+3) Das Magnesiumsulfat dient als Co-Bindungspartner.
+4) Das Wasser ist zum Teil als Kristallwasser gebunden und zum Teil als Restfeuchte enthalten.
+In den ausgelieferten Heradesign-Platten dient Fichtenholz aus nachhaltiger Forstwirtschaft als Trägermaterial. Damit sind 1,86 kg
+Kohlenstoff/m² Platte im Produkt gebunden.
+Das Produkt/Erzeugnis/mindestens ein Teilerzeugnis enthält Stoffe der ECHA-Kandidatenliste (Datum 16.01.2020) oberhalb 0,1 Massen-%:
+nein.
+Seite 5 von 23
+Das Produkt enthält weitere CMR-Stoffe der Kategorie 1A oder 1B, die nicht auf der Kandidatenliste stehen, oberhalb 0,1 Massen-% in
+mindestens einem Teilerzeugnis: nein.
+Dem vorliegenden Bauprodukt wurden Biozidprodukte zugesetzt oder es wurde mit Biozidprodukten behandelt (es handelt sich damit um
+eine behandelte Ware im Sinne der Biozidprodukteverordnung (EU) Nr. 528/2012): nein.
+Es wurden keine Brandhemmer im Produkt eingesetzt.
+2.6 Herstellung
+1. Rohmaterial
+Tabelle 4 bietet eine Übersicht über die berechneten Transportdistanzen und die genutzten Transportmittel für die einzelnen
+Komponenten.
+Tabelle 4: Übersicht über Rohstoff-Transporte in Modul A1-A3
+Rohstoff Transportmittel Transportdistanz [km]
+Holz (Fichte) LKW 25
+Kaustisch gebrannter Magnesit LKW 16
+Magnesiumsulfat LKW 765
+Farben LKW 24
+Verpackungskarton LKW 180
+Das Fichtenholz wird in 2 Meter langen Stämmen gelagert. Die Lagerdauer beträgt, abhängig von den klimatischen Bedingungen, etwa
+6–12 Monate. Die Holzstämme werden mit einem Förderband zu einer Mehrblattsäge transportiert, in Stücke geschnitten und mittels einer
+Hobelmaschine zu Holzwolle gefertigt. Die Bindemittelkomponenten werden in Stahlsilos gelagert.
+2. Mischer
+Um eine Mischung für Holzwolleplatten zu erzeugen, benötigt man neben der Holzwolle Bindemittel und Magnesiumsulfatlösung. Diese
+Komponenten werden zu einem Mischer weitertransportiert, wo sie zur benötigten Rezeptur verarbeitet werden.
+3. Einstreuung und Formgebung
+Das Mischgut wird auf ein Stahlband gestreut und durch einen Abbindekanal gefahren, wobei der Raumabschluss durch ein zweites
+horizontales Stahlband sowie zwei Seitenbänder gegeben ist. Nach Verlassen des Doppelbandes entsteht ein "Endlosstrang". Durch Sägen
+wird die Rohware zur gewünschten Länge geschnitten.
+Abbildung 1: Verfahrensfließbild des Produktionsprozesses – Einstreuung (A), Endlosstrang (B) und Formgebung (C)
+4. Zwischenlagerung und Konfektionierung
+Die Produkte werden 3–5 Tage zwischengelagert (Trocknungs- und Reifeprozess). Anschließend wird am sogenannten Doppelendprofiler
+die gewünschte Kantenausführung angebracht. Es sind 18 verschiedene Kantenausführungen möglich.
+Seite 6 von 23
+Abbildung 2: Zwischenlagerung und Konfektionierung
+5. Einfärbung, Verpackung, Versand
+Zum Abschluss wird in einer Einfärbeanlage die gewünschte Farbe aufgebracht, anschließend werden die Platten verpackt und gelagert.
+Abbildung 3: Einfärbung, Verpackung, Versand
+Umwelt und Gesundheit während der Herstellung
+Das Herstellwerk Ferndorf legt einen hohen Wert auf die Sicherheit der Mitarbeiter und besitzt ein Sicherheitsmanagement-System nach
+BS OHSAS 18001. Neben der Einhaltung der umweltrelevanten Auflagen der Behörden betreibt das Herstellwerk ein Umweltmanagement-
+System nach ISO 14001 und ein Energiemanagement nach ISO 50001 um die Umwelteinwirkung möglichst gering zu halten. Im Herstellwerk
+gibt eine "Zero Waste Policy", sämtliche produktionsbedingten Abfälle (Schneidabfälle, Produktionsrückstände) werden im Zuge einer
+Rohstoffaufbereitung wieder dem Produktionsprozess zurückgeführt. Dies gilt auch für anfallende Waschwässer, welche ebenfalls zu 100 %
+in den Produktionsprozess zurückgeführt werden.
+2.7 Verpackung
+Die Verpackung der Heradesign-Produkte erfolgt auf einer Holzpalette mit Schutzkarton und Polypropylen (PP)-Bändern. Die Entsorgung
+kann durch einfache Trennung in die Bereiche Holz (Palette), Papier (Stülpkarton) und Kunststoff (Umreifungsband) erfolgen.
+Holzpaletten können mehrmals verwendet werden.
+2.8 Lieferzustand
+Heradesign Holzwolleprodukte sind ausschließlich als Platten erhältlich.
+Die Abmessungen sind üblicherweise:
+Längen: 1250 mm, 1200 mm bzw. auf Anfrage
+Breiten: 625 mm, 600 mm
+Dicken: 15 mm, 25 mm, 35 mm
+Die Produkte werden auf Paletten mit Stülpkarton ausgeliefert.
+Seite 7 von 23
+2.9 Transporte
+Die Transportdistanz und -mittel bei der Auslieferung sind vom Einsatzort der Heradesign-Platten abhängig. Heradesign-Akustikplatten
+werden in verschiedene europäische Länder exportiert. Im Sinne eins repräsentativen Szenarios deklariert diese EPD eine mittlere
+Transportdistanz via LKW für Bauprodukte in Europa, da der Export in mehrere europäische Länder erfolgt. Die Umweltlasten aus dem
+Transportprozesses des verpackten Produkts, d.h. vom Herstellungsort zur Baustelle, wird dem Modul A4 zugeordnet.
+2.10 Produktverarbeitung / Installation
+Die Heradesignplatten können mittels Schrauben an die jeweilige Unterkonstruktion (Holzlatten, CD-Profile) befestigt werden oder in
+T-Schienen (sichtbar oder nicht sichtbar) eingelegt werden. Bei der Installation werden Heradesign®- Schrauben für die Montage
+verwendet. Durch ein optimiertes Verlegeschema ist der Verschnitt beim Einbau der Platten minimal.
+Die Art der Montage wird ausführlich in der Broschüre "Systemlösungen" beschrieben. Darin werden die möglichen Systeme, verdeckten
+Systeme, Schraubsysteme usw. eingehend behandelt. Zur weiteren Information sind neben der Broschüre "Systemlösungen" auch einzelne
+Verarbeitungsvideos auf der Website www.knaufceilingsolutions.com downloadbar.
+2.11 Nutzungsphase
+Nutzungszustand
+In der Nutzungsphase der Heradesign Akustikplatten sind keine Emissionen zu erwarten, da die Inhaltsstoffe im Nutzungszustand fest
+gebunden sind. Darüber hinaus benötigen Heradesign Akustikplatten keine Instandhaltung, aus der wesentliche Effekte für die Umwelt zu
+erwarten sind. Die Reinigung erfolgt über gelegentliches Abkehren. Es werden keine Auswirkungen in Modul B3 deklariert, da die Reparatur
+von Heradesign Akustikplatten kaum notwendig ist. Im Falle einer Reparatur wird die gesamte Platte ausgetauscht. Dies entspricht den in
+Modul A deklarierten Umwelteffekten. Bei bestimmungsgemäßer Anwendung werden kein Ersatz und keine Erneuerung während der
+Nutzungsphase von 50 Jahren benötigt (Modul B4/B5). Die Module B6 (Energieeinsatz für das Betreiben des Gebäudes) und B7
+(Wassereinsatz für das Betreiben des Gebäudes) sind für Heradesign Akustikplatten nicht relevant.
+Umwelt und Gesundheit während der Nutzung
+Gefährdungen für Wasser, Luft und Boden können bei bestimmungsgemäßer Anwendung der beschriebenen Produkte nach heutigem
+Erkenntnisstand nicht entstehen.
+Heradesign Produkte erfüllen die Anforderungen des Blauen Engels (RAL UZ 132, Emissionsarme Wärmedämmstoffe und Unterdecken für
+die Anwendung in Gebäuden, Oktober 2010) und des Danish Indoor Climate Labels. Prüfberichte von eurofins bestätigen die Erfüllung der
+Anforderungen an bauliche Anlagen bezüglich des Gesundheitsschutzes (ABG), Entwurf 31.08.2017, sowie die die Erreichung der Klasse A+
+der französischen VOC-Verordnung (Verordnung März und April 2011 (DEVL1101903D und DECL1104875A)).
+Außergewöhnliche Einwirkungen
+Brand nach EN 13501-1
+Tabelle 5: Brandschutz
+Bezeichnung Wert
+Baustoffklasse nach EN 13501-1 B
+Brennendes Abtropfen nach EN 13501-1 d0
+Rauchgasentwicklung nach EN 13501-1 s1
+Wasser
+Die Heradesign Akustikplatten sind für die Innenanwendung vorgesehen. Sollte eine unvorhergesehene Wassereinwirkung, z. B. ein
+Hochwasser auftreten, sind die Platten nach dem Trocknen wieder voll funktionstüchtig. Es kommt zu keiner Beeinträchtigung der Umwelt.
+Mechanische Zerstörung
+Dieser Punkt ist für eine Holzwolle-Leichtbauplatte nicht relevant, da es im Falle einer unvorhergesehenen Zerstörung zu keiner
+Beeinträchtigung der Umwelt kommt. Es wäre ein reiner optischer Mangel.
+Seite 8 von 23
+2.12 Referenznutzungsdauer (RSL)
+Die Nutzungsdauer der Heradesign-Produkte beträgt 50 Jahre, sie ist jedoch hauptsächlich von der Lebensdauer des Gebäudes abhängig.
+Aufgrund des mineralischen Bindemittels sind keine Alterungsprozesse bekannt.
+2.13 Nachnutzungsphase
+Unverschmutzte Heradesign-Platten können wiederverwendet werden. Es bestehen folgende Weiterverwertungsmöglichkeiten:
+Wiederverwendung
+Die Heradesign-Platten können in einer neuen Decke verwendet werden, da bei Schraubmontage oder eingelegten T-Schienen eine Re-
+und Neumontage ohne Beschädigung des Produktes leicht möglich ist.
+Kompostierung
+Holzwolleplatten, mechanisch zerkleinert, können durch Anreicherung mit entsprechenden Bakterien zu Kompostmaterial umgewandelt
+werden. Dieses Material kann dann zur Bodenverbesserung in der Landwirtschaft eingesetzt werden.
+Thermische Verwertung
+Im Herstellerwerk können Abfallplatten in einem Drehrohrprozess wieder zu Bindemittel rezykliert werden. Dieser Weg wäre der
+bevorzugte Weg im Sinne einer funktionierenden Kreislaufwirtschaft.
+2.14 Entsorgung
+Die auf der Baustelle anfallenden Plattenreste sowie Platten aus Abbruchtätigkeiten können, sofern die oben genannten
+Recyclingmöglichkeiten nicht praktikabel sind, aufgrund ihrer überwiegend mineralischen Inhaltsstoffe ohne Vorbehandlung problemlos
+deponiert werden. Abfallschlüssel EAK-Code: 17 01 07
+2.15 Weitere Informationen
+Weitere Informationen, wie Produktdatenblätter, Sicherheitsdatenblätter, Leistungserklärungen usw. sind auf der Website
+www.knaufceilingsolutions.com zu finden.
+Seite 9 von 23
+3 LCA: Rechenregeln
+3.1 Deklarierte Einheit
+Die vorliegende Umwelt-Produktdeklaration bezieht sich auf eine deklarierte Einheit von 1 m² Heradesign Akustikplatte (Euroklasse B) mit
+einem repräsentativem Flächengewicht von 13,1 kg/m² und einem Wassergehalt von 16 %. Für andere Heradesign-Produkte der
+Euroklasse B ist die lineare Umrechnung der Ökobilanzergebnisse über das Flächengewicht möglich.
+Tabelle 6: Deklarierte Einheit
+Bezeichnung Wert Einheit
+Deklarierte Einheit 1 m2
+Dicke 15-35 mm
+Rohdichte 470-545 kg/m³
+Holzfeuchte bzw. Feuchtegehalt bei Auslieferung 16 %
+Flächengewicht 13,1 kg/m2
+Umrechnungsfaktor zu 1 kg 0,076 -
+Die Heradesign Akustikplatten werden am Standort Ferndorf in Österreich produziert. Die Berechnung des deklarierten Flächengewichtes
+der Akustikplatten erfolgte basierend auf der jährlich produzierten Quadratmetermenge in Ferndorf.
+Die deklarierte Einheit ist repräsentativ für die Heradesign-Produkte der Euroklasse B. Diese Produktgruppe unterscheidet sich bezüglich
+ihrer Rezeptur nur marginal. Die Hauptunterschiede zwischen den verschiedenen Produkten liegen in der Produktdicke, naturgemäß damit
+auch deren Flächengewicht und der Faserweite. Die verschiedenen Ausführungen bieten somit eine große Flexibilität für den Kunden, die
+Rezeptur ändert sich dabei jedoch kaum. Damit ist von einer linearen Korrelation von Flächengewicht und der produktbezogenen
+Umweltwirkung auszugehen. Die Varianz der Ergebnisse bezogen auf ein Kilogramm-Akustikplatte ist als gering einzustufen. Ein gewisser
+Schwankungsbereich kann sich aus Schwankungen in der Basisrezeptur von +/- 3% ergeben.
+Die Produktdicke liegt zwischen 15 und 35 mm und einem Flächengewicht zwischen 7,2 und 19 kg/m². Die Umrechnung der
+Ökobilanzergebnisse auf andere Produktdicken als die hiermit deklarierte Referenzstärke kann linear über das Flächengewicht erfolgen.
+Die Ergebnisse der Ökobilanz verschiedener Produkte variiert damit abhängig vom Flächengewicht der Platten.
+Unter 6% der insgesamt produzierten Platten entsprechen der Euroklasse A2 und somit besonderen Anforderungen bezüglich ihrer
+Feuerfestigkeit. Aufgrund dieses Unterschieds in der Rezeptur ist eine größere Varianz der Produktgruppe Euroklasse B und A2 zu erwarten.
+Anders als in der vorangegangenen EPD wird diese Produktgruppe in der Durchschnittsbildung im Rahmen dieses Updates nicht
+berücksichtigt.
+3.2 Systemgrenze
+Die Ökobilanz der Heradesign Akustikplatten beinhaltet eine „von der Wiege zur Bahre und Modul D (A + B + C + D)“ Betrachtung der
+auftretenden Umweltwirkungen. Die folgenden Lebenszyklusphasen werden in der Analyse berücksichtigt:
+Seite 10 von 23
+Tabelle 7: Deklarierte Lebenszyklusphasen
+HERSTEL- ERRICH-
+ENTSORGUNGS- Vorteile und
+LUNGS- TUNGS- NUTZUNGSPHASE
+PHASE Belastungen
+PHASE PHASE
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+z t a z t a
+s n s n
+g
+n u lle ts tie r e b ffo ts h o R t r o p s n a r T g n u lle ts r e H t r o p s n a r T u a b n iE / u a B g n u z tu N g n u t la h d n a ts n I r u t a r a p e R z t a s r E g n u r e u e n r E ,u a b m U
+ie
+e ig r e n E r e h c ilb e ir te b
+ie
+r e s s a W r e h c ilb e ir te b h c u r b b A t r o p s n a r T
+g
+n u t fa h c s t r iw e b lla fb A g n u g r o s tn E s g n u d n e w r e v r e d e iW
+-,
+s g n u n n iw e g k c ü R-, la iz n e t o p g n ilc y c e R
+x x x x x x x x x x x x x x x x x
+X = in Ökobilanz enthalten; ND = Nicht Deklariert
+Modul A1-A3 | Produktionsstadium
+Das Produktionsstadium beinhaltet die Aufwendungen der Rohstoffversorgung (Rundholz, Herstellung der eingesetzten Bindemittel,
+Rekalzinierungsprozess, Hilfsstoffe, etc.) sowie der damit verbundenen Transporte bezogen auf den Produktionsstandort in Ferndorf.
+Innerhalb der Werksgrenzen werden die Mischung der Komponenten, die Einstreuung und Formgebung, die Zwischenlagerung im
+Reifelager und Konfektionierung sowie die Einfärbung, Verpackung und Versand betrachtet. Darüber hinaus wird die Rekalzinierung des
+eingesetzten Knauf Sekundärkausters vollumfänglich erfasst. Somit wurden die damit verbundenen Material- und Energieflüsse in Form
+von spezifisch erhobenen Vordergrunddaten abgebildet. Die Bereitstellung elektrischer Energie erfolgt am Standort Ferndorf über Strom
+vom österreichischen Netz. Thermische Energie wird einerseits über die Rekalzinierung und ergänzend dazu durch Erdgas bereitgestellt.
+Modul A4-A5 | Errichtungs- bzw. Einbauphase
+Der Transport vom Werk zur Baustelle wird über ein konservatives Szenario von 1.000 km LKW-Transportdistanz abgeschätzt (Modul A4).
+Für den Einbau ins Gebäude wird in der vorliegenden EPD ein Szenario von 1 % Verlust deklariert. Die Verluste beim Einbau in das Gebäude
+sind stark von der Gebäudegeometrie und dem spezifischen Anwendungsfall abhängig. Somit kann der Verschnittanteil im Gebäudekontext
+stark variieren und ist auf Gebäudeebene gemäß der tatsächlichen Gegebenheiten entsprechend anzupassen.
+Neben den Verlusten beim Einbau in das Gebäude und deren Entsorgung beinhaltet Modul A5 die Umweltlasten aus der Verwertung der
+Verpackung der Produkte.
+Modul B1-B7 | Nutzungsphase
+Bei sachgemäßer Nutzung treten bei Heradesign Akustikplatten über den Zeitraum der Nutzung keine umweltrelevanten Prozesse auf.
+Modul C1 | Rückbau / Abriss
+Für die Heradesign-Platten wurde ein manueller Ausbau angenommen. Die damit verbundenen Aufwände sind vernachlässigbar, wodurch
+keine Umweltwirkungen aus dem Rückbau der Produkte deklariert werden.
+Modul C2 | Transport zur Abfallbehandlung
+Modul C2 beinhaltet den Transport zur Abfallbehandlung. Dazu wird der Transport via LKW über 50 km Transportdistanz als repräsentatives
+Szenario angesetzt.
+Modul C3 | Abfallbehandlung
+Das angesetzte Szenario deklariert die Deponierung der Heradesign-Platten, wodurch keine Umweltauswirkungen aus der
+Abfallbehandlung der Produkte in C3 zu erwarten sind.
+Modul C4 | Beseitigung
+Das Modul C4 beinhaltet die durch die Deponierung der Platten entstehenden Umweltwirkungen. Der biogene Kohlenstoff im Holzanteil
+der Produkte ist fest gebunden. Langjährige Deponiegas-Messungen sowie periodische Materialentnahmen der deponierten Produkte
+Seite 11 von 23
+bestätigen den Verbleib des biogen gebundenen Kohlenstoffs bei der Deponierung. In der Berechnung wird der verbleibende biogene
+Kohlenstoff dennoch als Emissionen von biogenem CO aus der Technosphäre in die natürliche Umwelt behandelt.
+2
+Modul D | Gutschriften und Lasten außerhalb der Systemgrenzen
+Aufgrund der Geringfügigkeit der eingesetzten Mengen werden keine Substitutionspotenziale aus dem potenziellen Recycling der
+Schrauben bzw. aus der energetischen Verwertung der Paletten ausgewiesen.
+3.3 Flussdiagramm der Prozesse im Lebenszyklus
+Abbildung 4: Flussdiagramm des Produktsystems
+3.4 Abschätzungen und Annahmen
+Bei Fehlen eines repräsentativen Hintergrunddatensatzes zur Abbildung der Umweltwirkung gewisser Rohstoffe werden Annahmen und
+Abschätzungen verwendet. Alle Annahmen sind durch eine detaillierte Dokumentation belegt und entsprechen einer, hinsichtlich der
+verfügbaren Datenbasis, bestmöglichen Abbildung der Realität. Manche der eingesetzten ecoinvent-Datensätze sind älter als zehn Jahre.
+Diese Datensätze dienen mangels verfügbarer Daten als Abschätzung für Aktivitäten mit einem geringen Einfluss auf das Gesamtergebnis.
+Dabei handelt es sich um Datensätze für Sprengen, Holzpalette, Magnesiumsulfat, Kalkstein und Inertstoffdeponie.
+Der Datensatz für die kalorische Energiebereitstellung am Standort ist ebenfalls älter als 10 Jahre. Hierbei handelt es sich um einen
+wesentlichen Beitrag im Umweltprofil der Produkte. Mangels aktuellerer verfügbarer ecoinvent-Daten und im Sinne der Vergleichbarkeit
+mit anderen auf ecoinvent basierenden Studien wird der angeführte Datensatz in der vorliegenden Studie genutzt. Aufgrund des Alters der
+Daten ist der vorliegende Datensatz jedoch mit einer entsprechenden Unsicherheit behaftet. Es ist davon auszugehen, dass es sich
+stöchiometrisch bedingt um eine repräsentative Annäherung in Hinblick auf die Kohlendioxid-Emissionen aus der Verbrennung handelt.
+Aufgrund der hohen behördlichen Anforderungen in Österreich bzw. am Produktionsstandort Ferndorf ist außerdem anzunehmen, dass
+die Emission weiterer Luftschadstoffe im Sinne eines konservativen Ansatzes tendenziell überschätzt wird.
+Die regionale Anwendbarkeit der eingesetzten Hintergrunddatensätze bezieht sich zu einem Großteil auf Durchschnittsdaten für den
+europäischen Raum. Wo keine europäischen Durchschnittsdaten vorhanden waren, wurden deutsche bzw. Schweizer Datensätze
+repräsentativ für den österreichischen Markt eingesetzt.
+3.5 Abschneideregeln
+Es sind alle Inputs und Outputs, für die Daten vorliegen und von denen ein wesentlicher Beitrag zu erwarten ist, im Ökobilanzmodell
+enthalten. Datenlücken werden bei verfügbarer Datenbasis mit konservativen Annahmen von Durchschnittsdaten bzw. generischen Daten
+gefüllt und sind entsprechend dokumentiert. Es wurden lediglich Daten mit einem Beitrag von weniger als 1 % abgeschnitten. Das
+Vernachlässigen dieser Daten ist durch die Geringfügigkeit der zu erwartenden Wirkung zu rechtfertigen. Somit wurden keine Prozesse,
+Materialien oder Emissionen vernachlässigt, von welchen ein erheblicher Beitrag zur Umweltwirkung der betrachteten Produkte zu
+erwarten ist. Die Datensammlung wurde mit verfügbaren Vergleichswerten geprüft. Es ist davon auszugehen, dass die Daten vollständig
+erfasst wurden und die Gesamtsumme der vernachlässigten Input-Flüsse nicht mehr als 5 % des Energie- und Masseeinsatzes beträgt.
+Aufwendungen für Maschinen und Infrastruktur wurden nicht berücksichtigt.
+Seite 12 von 23
+3.6 Hintergrunddaten
+Für die Abbildung des Hintergrundsystems im Ökobilanzmodell werden Sekundärdaten herangezogen. Diese entstammen einerseits der
+ecoinvent 3.7.1.-Datenbank und andererseits anerkannten Literaturquellen (bspw. BREF-Dokumente, etc.).
+3.7 Datenqualität
+Die Sammlung der Vordergrunddaten erfolgte über spezifisch an Knauf Ceiling Solutions angepasste Datenerhebungsbögen. Rückfragen
+wurden in einem iterativen Prozess schriftlich via E-Mail, telefonisch bzw. persönlich/in Web-Meetings geklärt. Durch die intensive
+Diskussion zur möglichst realitätsnahen Abbildung der Stoff- und Energieflüsse im Unternehmen zwischen Knauf Ceiling Solutions und
+Daxner & Merl ist von einer hohen Qualität der erhobenen Vordergrunddaten auszugehen. Es wurde ein konsistentes und einheitliches
+Berechnungsverfahren gemäß ISO 14044 angewandt. Bei der Auswahl der Hintergrunddaten wurde auf die technologische, geographische
+und zeitbezogene Repräsentativität der Datengrundlage geachtet. Bei Fehlen spezifischer Daten wurde auf generische Datensätze bzw.
+einen repräsentativen Durchschnitt zurückgegriffen. Bei den eingesetzten ecoinvent-Hintergrunddatensätzen handelt es sich um die aktuell
+verfügbaren Datensätze. Der Großteil der eingesetzten ecoinvent-Hintergrunddatensätze sind nicht älter als zehn Jahre.
+Dabei handelt es sich entweder gemäß Datenbankdokumentation meist um entsprechend aktualisierte oder auf aktuelle Verhältnisse
+extrapolierte Datensätze. Ältere Datensätze werden als Abschätzung für Komponenten mit einem geringen Einfluss auf das
+Gesamtergebnis herangezogen. Auf Literaturquellen basierende Abschätzungen orientieren sich an der aktuellsten, verfügbaren
+Datengrundlage und dem technologiebezogenen Stand der Technik.
+3.8 Betrachtungszeitraum
+Im Rahmen der Sammlung der Vordergrunddaten wurde die Sachbilanz für das Produktionsjahr 2018 erhoben. Die Daten beruhen auf den
+eingesetzten und produzierten Jahresmengen.
+3.9 Allokation
+Basierend auf der jährlich produzierten Quadratmetermenge im Werk Ferndorf wurden die verbrauchten Jahresmengen an Rohstoffen der
+Produktion von einem Quadratmeter zugerechnet.
+Bei der Produktion der Akustikplatten in Ferndorf entstehen neben den deklarierten Produkten Holzabfälle, die als Nebenprodukt an ein
+Pelletswerk verkauft werden. Da der Verkaufserlös der Holzabfälle bei < 1 % des Betriebseinkommens liegt, wird keine Allokation zur
+Zuordnung der Umweltwirkungen auf die Haupt- und Nebenprodukte angesetzt. Kohlenstoffgehalt und Primärenergiegehalt der Produkte
+wurden dennoch gemäß den materialinhärenten Eigenschaften bilanziert.
+3.10 Vergleichbarkeit
+Grundsätzlich ist eine Gegenüberstellung oder die Bewertung von EPD-Daten nur möglich, wenn alle zu vergleichenden Datensätze nach
+EN 15804+A2 erstellt wurden, die gleichen programmspezifischen PKR bzw. etwaige zusätzliche Regeln sowie die gleiche
+Hintergrunddatenbank verwendet wurden und darüber hinaus der Gebäudekontext bzw. produktspezifische Leistungsmerkmale
+berücksichtigt werden.
+Seite 13 von 23
+4 LCA: Szenarien und weitere technische Informationen
+4.1 A1-A3 Herstellungsphase
+In Modul A1-A3 werden die herstellerspezifischen Daten abgebildet. Somit handelt es sich hierbei nicht um Szenarien im engeren Sinn,
+sondern um die Abbildung durch Primärdaten.
+Ein wesentlicher Unterschied zu der vorangegangenen EPD ergibt sich aus der Inbetriebnahme der eigens entwickelten Bindemittel-
+Rückgewinnung – Rekalzinierung – am Standort. Durch die Umsetzung des neuartigen Konzepts kann Knauf Ceiling Solutions Bruchplatten
+und Sägestaub im Kreislauf führen und als Bindemittel wiedereinsetzen. Die Reststoffe werden dabei in einem Drehrohrofen mit
+Wärmerückgewinnung rekalziniert. Ergebnis aus dem Rekalzinierungsprozess ist der sogenannte Knauf Sekundärkauster, welcher als
+direktes Substitut für den kaustisch gebrannten Magnesit (Primärmaterial) in der Produktion der Heradesign Akustikplatten dient. Dies
+resultiert in einem Sekundärmaterialanteil der Heradesign Akustikplatten von 15%.
+4.2 A4-A5 Errichtungsphase
+Tabelle 8 und deren gelistete Einheiten sind zur Berechnung der Umweltwirkungen der Transportphase heranzuziehen.
+Tabelle 8: Beschreibung des Szenarios „Transport zur Baustelle (A4)“
+Parameter zur Beschreibung des Transportes zur Baustelle (A4) Wert Messgröße
+Mittlere Transportentfernung 1.000 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) EURO 5 -
+Mittlerer Treibstoffverbrauch, Treibstofftyp: 37 l/100 km
+Mittlere Transportmenge 16 t
+Mittlere Auslastung (einschließlich Leerfahrten) 60 %
+Mittlere Rohdichte der transportierten Produkte 470-545 kg/m³
+Volumen-Auslastungsfaktor (Faktor: = 1 oder < 1 oder ≥ 1 für in Schachteln verpackte oder
+1 -
+komprimierte Produkte
+Es sind keine Materialverluste aus dem Transport in Modul A4 berücksichtigt.
+Tabelle 9 und deren gelistete Einheiten sind zur Berechnung der Umweltwirkungen der Errichtungsphase heranzuziehen.
+Tabelle 9: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“
+Parameter zur Beschreibung des Einbaus ins Gebäude (A5) Wert
+Hilfsstoffe für den Einbau
+Heradesign®-Schrauben 1)
+Metall (Schrauben)
+Hilfsmittel für den Einbau (spezifiziert nach Type) -
+Wasserbedarf -
+Sonstiger Ressourceneinsatz -
+Stromverbrauch -
+Weiterer Energieträger: -
+Materialverlust auf der Baustelle vor der Abfallbehandlung, verursacht durch den
+1% Verschnitt 2)
+Einbau des Produktes (spezifiziert nach Stoffen)
+Holz-Palette zur energetischen Verwertung 0,08 kg
+Karton-Verpackung zum Recycling 0,21 kg
+Direkte Emissionen in die Umgebungsluft (z.B. Staub, VOC), Boden und Wasser -
+1) Die Anzahl der benötigten Heradesign® Schrauben pro m² hängt von vielen Faktoren ab und kann daher sehr unterschiedlich
+sein. Bei einer Plattendicke von 25 mm und einem Standard-Schraubenschema werden – je nach Dimension der installierten
+Platten – 8 bis 12 Schrauben pro m² gebraucht. Es gibt allerdings auch Verlegesysteme (z.B. Abhängedecke mit T-Profilen), bei
+denen keine Schrauben gebraucht werden
+Seite 14 von 23
+2) Der Verschnittanteil variiert im Gebäudekontext und ist auf Gebäudeebene gemäß der tatsächlichen Gegebenheiten
+entsprechend anzupassen.
+Der biogene Kohlenstoffgehalt des Verschleißes der Holzpalette wie auch des Verpackungskartons wurde in A5 ausgeglichen. Aufgrund der
+geringen Mengen der Holzpaletten in die Verwertung, wurde die energetische Verwertung dieser vernachlässigt.
+Die Verpackung aus nachwachsenden Rohstoffen beläuft sich auf unter 5 % des Gesamtproduktes. Der Kohlenstoffgehalt der Verpackung
+muss daher in der EPD nicht deklariert werden.
+4.3 B1-B7 Nutzungsphase
+Die Nutzungsdauer der Heradesign-Produkte beträgt 50 Jahre, sie ist jedoch hauptsächlich von der Lebensdauer des Gebäudes abhängig.
+Aufgrund des mineralischen Bindemittels sind keine Alterungsprozesse bekannt.
+Bei sachgemäßer Nutzung treten bei Heradesign Akustikplatten über den Zeitraum der Nutzung keine umweltrelevanten Prozesse auf.
+In den Modulen B1-B7 gibt es damit keine relevanten Stoff- bzw. Massenströme (siehe auch Kapitel 2.11).
+Während der Nutzungsphase der Heradesign Akustikplatten ist CO in Form von Kohlenstoff im Produkt gebunden. Die folgende Tabelle
+2
+enthält eine Übersicht des Kohlenstoffgehalts der Heradesign Akustikplatten und damit des gebundenen Kohlendioxids.
+Tabelle 10: Kohlenstoffgehalt und damit eingebundenes Kohlendioxid der Heradesign Akustikplatten
+Biogener Kohlenstoffgehalt Wert Einheit
+Biogener Kohlenstoff im Produkt 1,86 kg C/m²
+Biogener Kohlenstoffgehalt im Produkt, der über 100 Jahre seit der Lagerung auf
+Deponien verbleibt 1,86 kg C/m²
+[Emission in die Atmosphäre in C4 deklariert]
+Gebundenes Kohlendioxid 6,8 kg CO /m²
+2
+Die Verpackung aus nachwachsenden Rohstoffen beläuft sich auf unter 5 % des Gesamtproduktes.
+4.4 C1-C4 Entsorgungsphase
+Modul C1
+Die Heradesign Akustikplatten werden manuell oder mit geringem Maschineneinsatz rückgebaut. Somit ist davon auszugehen, dass der
+Energiebedarf für den Rückbau der Produkte einen vernachlässigbaren Faktor darstellt.
+Modul C2
+Das Modul C2 beinhaltet den Transport zur Abfallbeseitigung des Produktes. Dabei ist ein repräsentatives Szenario von 50 km LKW-
+Transportdistanz angesetzt.
+Modul C3
+Da als Abfallbeseitigungsszenario eine Deponierung auf einer Inertstoffdeponie angenommen wird, sind keine Umweltwirkungen in Modul
+C3 zu deklarieren.
+Modul C4
+Für die Heradesign Akustikplatten wird eine Deponierung angenommen. Modul C4 berücksichtigt somit die Umweltauswirkungen aus der
+Deponierung in einer Inertstoffdeponie.
+Heradesign Akustikplatten können durch die bindenden Eigenschaften des Magnesits als Inertmaterial deponiert werden. Dies entspricht
+einem derzeit repräsentativem Verwertungsszenario. Langjährige Deponiegas-Messungen sowie periodische Materialentnahmen der
+deponierten Produkte bestätigen den Verbleib des biogen gebundenen Kohlenstoffs bei der Deponierung. Bei der Deponierung verbleiben
+damit in der Realität 6,82 kg biogenes CO im Produkt. In der Berechnung wird der verbleibende biogene Kohlenstoff dennoch als
+2
+Emissionen von biogenem CO aus der Technosphäre in die natürliche Umwelt behandelt.
+2
+Seite 15 von 23
+Tabelle 11: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“
+Parameter für die Entsorgungsphase (C1-C4) Wert Messgröße
+kg
+getrennt
+Sammelverfahren, spezifiziert nach Art -
+kg
+gemischt
+kg
+Wiederverwendung
+Rückholverfahren, spezifiziert nach Art - kg
+Recycling
+kg
+Energierückgewinnung
+Beseitigung, Deponierung 13,1 kg
+Produkt zurDeponierung
+Annahmen für die Szenarienentwicklung, Transport 50 km
+Der Heizwert der Heradesign Akustikplatten ist für eine rentable thermische Verwertung zu gering.
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial
+Da für die Heradesign Akustikplatten eine Deponierung angenommen wird, entstehen nach Rückbau weder Nutzen noch Lasten außerhalb
+der Systemgrenze. Sonstige etwaige Substitutionspotenziale wurden aufgrund geringer Menge vernachlässigt. Dies betrifft insbesondere
+die Schrauben und die Potenziale aus der Energierückgewinnung der Paletten.
+Tabelle 12: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“
+Parameter für das Modul (D) Wert Messgröße
+Materialien für Wiederverwendung oder Recycling aus A4-A5 - %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus A4-A5 - MJ/t bzw. kg/t
+Materialien für Wiederverwendung oder Recycling aus B2-B5 - %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus B2-B5 - MJ/t bzw. kg/t
+Materialien für Wiederverwendung oder Recycling aus C1-C4 - %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus C1-C4 - MJ/t bzw. kg/t
+Seite 16 von 23
+5 LCA: Ergebnisse
+Die folgenden Tabellen enthalten die Ökobilanzergebnisse für eine deklarierte Einheit von 1 m² Heradesign Akustikplatte mit einem
+Flächengewicht von 13,1 kg/m². Dies entspricht 0,0131 t/m² (Umrechnungsfaktor zu 1 Tonne: 0,0763).
+Wichtiger Hinweis:
+EP-freshwater: Dieser Indikator wurde in Übereinstimmung mit dem Charakterisierungsmodell (EUTREND-Modell, Struijs et al., 2009b, wie
+in ReCiPe umgesetzt; http://eplca.jrc.ec.europa.eu/LCDN/developerEF.xhtml) als „kg P-Äq.“ berechnet.
+Tabelle 13: Ergebnisse der Ökobilanz Umweltauswirkungen
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D
+kg CO2
+GWP total 3,22E+00 1,19E+00 3,20E-01 0,00E+00 0,00E+00 5,94E-02 0,00E+00 6,88E+00 0,00E+00
+äquiv
+GWP fossil kg CO2
+8,40E+00 1,19E+00 1,32E-01 0,00E+00 0,00E+00 5,93E-02 0,00E+00 5,54E-02 0,00E+00
+fuels äquiv
+GWP kg CO2
+-5,33E+00 2,49E-03 1,87E-01 0,00E+00 0,00E+00 1,24E-04 0,00E+00 6,82E+00 0,00E+00
+biogenic äquiv
+kg CO2
+GWP luluc 1,51E-01 3,29E-04 1,55E-03 0,00E+00 0,00E+00 1,64E-05 0,00E+00 1,13E-05 0,00E+00
+äquiv
+kg CFC-
+ODP 5,33E-07 2,79E-07 1,06E-08 0,00E+00 0,00E+00 1,39E-08 0,00E+00 2,71E-08 0,00E+00
+11 äquiv
+mol H+
+AP 2,43E-02 4,91E-03 4,63E-04 0,00E+00 0,00E+00 2,46E-04 0,00E+00 5,42E-04 0,00E+00
+äquiv
+EP fresh- kg P-
+2,10E-03 7,72E-05 3,97E-05 0,00E+00 0,00E+00 3,86E-06 0,00E+00 3,46E-06 0,00E+00
+water äquiv
+kg N
+EP marine 6,17E-03 1,52E-03 1,23E-04 0,00E+00 0,00E+00 7,58E-05 0,00E+00 2,06E-04 0,00E+00
+äquiv
+EP mol N
+5,68E-02 1,66E-02 1,13E-03 0,00E+00 0,00E+00 8,28E-04 0,00E+00 2,26E-03 0,00E+00
+terrestrial äquiv
+kg
+POCP NMVOC 1,72E-02 5,32E-03 3,83E-04 0,00E+00 0,00E+00 2,66E-04 0,00E+00 6,46E-04 0,00E+00
+äquiv
+kg Sb
+ADPE 1,88E-05 2,78E-06 5,05E-07 0,00E+00 0,00E+00 1,39E-07 0,00E+00 1,05E-07 0,00E+00
+äquiv
+ADPF MJ Hu 7,36E+01 1,85E+01 1,36E+00 0,00E+00 0,00E+00 9,24E-01 0,00E+00 1,80E+00 0,00E+00
+m3 Welt
+WDP äquiv 2,64E+00 8,75E-02 5,17E-02 0,00E+00 0,00E+00 4,37E-03 0,00E+00 9,22E-02 0,00E+00
+entz.
+GWP = Globales Erwärmungspotenzial; luluc = land use and land use change; ODP = Abbaupotenzial der stratosphärischen
+Ozonschicht; AP = Versauerungspotenzial, kumulierte Überschreitung; EP = Eutrophierungspotenzial; POCP =
+Legende
+Bildungspotenzial für troposphärisches Ozon; ADPE = Potenzial für den abiotischen Abbau nicht fossiler Ressourcen; ADPF
+= Potenzial für den abiotischen Abbau fossiler Brennstoffe; WDP = Wasser-Entzugspotenzial (Benutzer)
+Seite 17 von 23
+Tabelle 14: Ergebnisse der Ökobilanz Ressourceneinsatz
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D
+PERE MJ H 1,28E+01 2,26E-01 1,63E-01 0,00E+00 0,00E+00 1,13E-02 0,00E+00 3,55E-02 0,00E+00
+u
+PERM MJ H 7,23E+01 0,00E+00 7,23E-01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+u
+PERT MJ H 8,51E+01 2,26E-01 8,86E-01 0,00E+00 0,00E+00 1,13E-02 0,00E+00 3,55E-02 0,00E+00
+u
+PENRE MJ H 7,38E+01 1,85E+01 1,36E+00 0,00E+00 0,00E+00 9,24E-01 0,00E+00 1,80E+00 0,00E+00
+u
+PENRM MJ H 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+u
+PENRT MJ H 7,38E+01 1,85E+01 1,36E+00 0,00E+00 0,00E+00 9,24E-01 0,00E+00 1,80E+00 0,00E+00
+u
+SM kg 1,99E+00 0,00E+00 2,32E-02 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+RSF MJ H 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+u
+NRSF MJ H 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+u
+FW m3 6,14E-02 2,04E-03 1,20E-03 0,00E+00 0,00E+00 1,02E-04 0,00E+00 2,15E-03 0,00E+00
+PERE = Erneuerbare Primärenergie als Energieträger; PERM = Erneuerbare Primärenergie zur stofflichen Nutzung; PERT =
+Total erneuerbare Primärenergie; PENRE = Nicht-erneuerbare Primärenergie als Energieträger; PENRM = Nicht-
+Legende erneuerbare Primärenergie zur stofflichen Nutzung; PENRT = Total nicht erneuerbare Primärenergie; SM = Einsatz von
+Sekundärstoffen; RSF = Erneuerbare Sekundärbrennstoffe; NRSF = Nicht erneuerbare Sekundärbrennstoffe;
+FW = Einsatz von Süßwasserressourcen
+Tabelle 15: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D
+HWD kg 9,21E-05 4,46E-05 2,72E-06 0,00E+00 0,00E+00 2,23E-06 0,00E+00 1,97E-06 0,00E+00
+NHWD kg 5,69E-01 1,61E+00 1,70E-01 0,00E+00 0,00E+00 8,06E-02 0,00E+00 1,31E+01 0,00E+00
+RWD kg 2,25E-04 1,27E-04 4,85E-06 0,00E+00 0,00E+00 6,33E-06 0,00E+00 1,23E-05 0,00E+00
+CRU kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MFR kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MER kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+EEE MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+EET MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+HWD = Gefährlicher Abfall zur Deponie; NHWD = Entsorgter nicht gefährlicher Abfall; RWD = Entsorgter radioaktiver
+Legende Abfall; CRU =Komponenten für die Wiederverwendung; MFR = Stoffe zum Recycling; MER = Stoffe für die
+Energierückgewinnung; EEE = Exportierte Energie elektrisch; EET = Exportierte Energie thermisch
+Tabelle 16: Zusätzliche Umweltindikatoren
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D
+Auftreten von
+PM ND ND ND ND ND ND ND ND ND
+Krankheiten
+IRP kBq U235 äquiv ND ND ND ND ND ND ND ND ND
+ETP-fw CTUe ND ND ND ND ND ND ND ND ND
+HTP-c CTUh ND ND ND ND ND ND ND ND ND
+HTP-nc CTUh ND ND ND ND ND ND ND ND ND
+SQP dimensionslos ND ND ND ND ND ND ND ND ND
+PM = Potenzielles Auftreten von Krankheiten aufgrund von Feinstaubemissionen; IRP = Potenzielle Wirkung
+durch Exposition des Menschen mit U235; ETP-fw = Potenzielle Toxizitätsvergleichseinheit für Ökosysteme;
+Legende HTP-c = Potenzielle Toxizitätsvergleichseinheit für den Menschen - kanzerogene Wirkung; HTP-nc = Potenzielle
+Toxizitätsvergleichseinheit für den Menschen - nicht kanzerogene Wirkung; SQP = Potenzieller
+Bodenqualitätsindex
+Einschränkungshinweis 1 – gilt für den Indikator Potenzielle Wirkung durch Exposition des Menschen mit U235:
+Diese Wirkungskategorie behandelt hauptsächlich die mögliche Wirkung einer ionisierenden Strahlung geringer Dosis auf die menschliche Gesundheit im
+Kernbrennstoffkreislauf. Sie berücksichtigt weder Auswirkungen, die auf mögliche nukleare Unfälle und berufsbedingte Exposition zurückzuführen sind,
+noch auf die Entsorgung radioaktiver Abfälle in unterirdischen Anlagen. Die potenzielle vom Boden, von Radon und von einigen Baustoffen ausgehende
+ionisierende Strahlung wird ebenfalls nicht von diesem Indikator gemessen.
+Einschränkungshinweis 2 – gilt für die Indikatoren Potenzial für die Verknappung abiotischer Ressourcen nicht fossile Ressourcen, Potenzial für die
+Verknappung abiotischer Ressourcen fossile Brennstoffe, Wasser-Entzugspotenzial (Benutzer), Potentielle Toxizitätsvergleichseinheit für Ökosysteme,
+Potentielle Toxizitätsvergleichseinheit für den Menschen kanzerogene Wirkung, Potentielle Toxizitätsvergleichseinheit für den Menschen nicht
+kanzerogene Wirkung, Potentieller Bodenqualitätsindex:
+Seite 18 von 23
+Die Ergebnisse dieses Umweltwirkungsindikators müssen mit Bedacht angewendet werden, da die Unsicherheiten bei diesen Ergebnissen hoch sind oder da
+es mit dem Indikator nur begrenzte Erfahrungen gibt.
+6 LCA: Interpretation
+Die folgende Interpretation enthält eine Zusammenfassung der Ökobilanzergebnisse bezogen auf eine deklarierte Einheit von 1 m²
+Heradesign Akustikplatte.
+Abbildung 5: Relative Beiträge der verschiedenen Lebenszyklusphasen der Heradesign Akustikplatten
+100%
+80%
+60%
+40%
+20%
+0%
+-20%
+-40%
+-60%
+A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D
+Stellt man die deklarierten Lebenszyklusphasen gegenüber, so zeigt sich, dass die Produktionsphase (Modul A1–A3) den dominierenden
+Faktor im Umweltprofil der Akustikplatten darstellt.
+Beim potenziellen Beitrag zum Klimawandel (GWP) stellt außerdem das Lebensende der Produkte einen wesentlichen Beitrag dar. Das
+dargestellte End-of-Life-Szenario berücksichtigt die Deponierung der Platten in einer Inertstoffdeponie. Heradesign Akustikplatten können
+durch die bindenden Eigenschaften des Magnesits als Inertmaterial deponiert werden. Dies entspricht einem derzeit repräsentativem
+Verwertungsszenario. Langjährige Deponiegas-Messungen sowie periodische Materialentnahmen der deponierten Produkte bestätigen
+den Verbleib des biogen gebundenen Kohlenstoffs bei der Deponierung. Im Sinne der Vorgaben der EN 15804+A2 wird die Emission des in
+den Platten gespeicherten Kohlenstoffs in die Atmosphäre in Modul C4 deklariert. Dies ist als Beitrag zum Treibhauseffekt aus biogenen
+Emissionen erkennbar.
+Darüber hinaus stellt der Transport vom Werk zur Baustelle einen sichtbaren Beitrag in den deklarierten Umweltkategorien dar. Die
+Transportdistanz variiert in der Realität fallbezogen sehr stark. Damit ist die deklarierte Transportdistanz über 1.000 km als grobe Annahme
+mit hoher Unsicherheit einzustufen.
+Seite 19 von 23
+Die negativen Werte der potenziellen Klimaerwärmung (GWP) sind auf das eingesetzte Rundholz zurückzuführen. Während des
+Baumwachstumes speichert das Holz Kohlendioxid in Form von biogenem Kohlenstoff ein (negatives Treibhauspotenzial). Dieser ist somit
+nicht treibhauswirksam, solange er im Produkt gespeichert ist.
+In allen Umweltwirkungskategorien ist die Vorkette zur Produktion des kaustisch gebrannten Magnesits (MgO) als dominanter
+Einflussfaktor zu identifizieren. Der Großteil der Umwelteinflüsse resultiert dabei aus den direkten Emissionen aus dem
+Kalzinierungsprozess und der Energiebereitstellung dafür. Der genutzte Datensatz stellt eine möglichst realistische Abbildung der
+Produktion des bezogenen Vormaterials dar.
+Neben den vorgelagerten Umwelteffekten des kaustisch gebrannten Magnesits, stellt auch die Energiebereitstellung für die Produktion
+einen wesentlichen Faktor im Umweltprofil der Heradesign Akustikplatten dar. Der spezifische Energieeinsatz hat sich im Vergleich zu der
+vergangenen Datensammlung für die vorangegangene EPD nahezu halbiert. Dies ist auf die Wärmerückgewinnung aus der Rekalzinierung
+zurückzuführen.
+Die Varianz der Ergebnisse der Heradesign Produktgruppe Euroklasse B ist aufgrund der homogenen Basisrezeptur als gering einzustufen.
+Hauptunterschiede zwischen den verschiedenen Produkten liegen in der Produktdicke, naturgemäß damit auch deren Flächengewicht und
+der Faserweite. Die verschiedenen Ausführungen bieten somit eine große Flexibilität für den Kunden, die Rezeptur ändert sich dabei jedoch
+kaum. Damit ist von einer direkten Korrelation der Umweltwirkung zum Flächengewicht der Produkte auszugehen. Die Varianz der
+Ergebnisse bezogen auf ein Kilogramm-Akustikplatte ist als gering einzustufen. Ein gewisser Unsicherheitsbereich kann sich aus
+Schwankungen in der Basisrezeptur von +/- 3 % ergeben. Darüber hinaus ergibt sich eine Unschärfe, da der Farbauftrag nicht linear, sondern
+flächenbezogen skalierbar ist.
+Die Ergebnisse der vorangegangenen EPD sind mit der vorliegenden, aktualisierten Version aufgrund der Aktualisierung der zugrunde
+gelegten Methodik gemäß EN 15804+A2 nicht direkt vergleichbar. Ein Vergleich der Ergebnisse gemäß EN 15804+A1 bestätigt eine
+Reduktion der Umweltwirkungen, die Knauf Ceiling Solutions im Vergleich zur letzten Erhebung realisieren konnte. Hierbei ergibt sich eine
+Netto-Reduktion von rund der Hälfte der produktbezogenen Treibhausgasemissionen aus dem Ersatz des kaustisch gebrannten Magnesits
+durch Knauf Sekundärkauster, die damit verbundene Reduktion des spezifischen Primärmagnesit-Einsatzes in der Rezeptur sowie die
+Verringerung des Erdgasbedarfs um etwa ein Drittel. Darüber hinaus hat auch das Update der Hintergrunddaten einen Einfluss auf die
+Ergebnisse.
+Seite 20 von 23
+7 Literaturhinweise
+Bau-EPD MS Bau EPD GmbH – EPD Management System Handbuch. Qualitätssicherung und Verifizierung – Allgemeine
+HB Produktkategorieregeln für EPDs – Allgemeine Ökobilanzrechenregeln für EPDs. Version: 1.
+Bau-EPD PKR B Bau EPD GmbH – PKR Teil B – Holzzement – Mineralisch gebundene Holzwerkstoffe EN 15804+A2. PKR-
+Code: 2.11.4
+Blauer Engel Umweltzeichen „Blauer Engel“; www.blauer-engel.de.
+BS OHSAS BS OHSAS 18001:2007, Arbeits- und Gesundheitsschutz - Managementsysteme – Anforderungen.
+18001
+Danish Indoor Danish Technological Institute. https://www.dti.dk/
+Climate Label
+DIN 4108-4 DIN 4108-4:2017-03, Wärmeschutz und Energie-Einsparung in Gebäuden - Teil 4: Wärme- und
+feuchteschutztechnische Bemessungswerte.
+EAK-Code EAK-Code 17 01 07: Europäischer Abfallkatalog: Gemische aus Beton, Ziegeln, Fliesen und Keramik mit
+Ausnahme derjenigen, die unter 17 01 06 fallen.
+ECHA- Liste der für eine Zulassung in Frage kommenden besonders besorgniserregenden Stoffe (ECHA-
+Kandidatenliste Kandidatenliste), vom 15.01.2019, veröffentlicht gemäß Artikel 59 Absatz 10 der REACH-Verordnung.
+Helsinki: European Chemicals Agency.
+ecoinvent ecoinvent Version 3.7.1., life cycle inventory database. ecoinvent version 3.7.1. Zürich: ecoinvent, 1992-
+2021. Verfügbar in: https://www.ecoinvent.org.
+EN 322 ÖNORM EN 322:2005, Holzwerkstoffe - Bestimmung des Feuchtegehaltes.
+EN 1602 DIN EN 1602:2013-05, Wärmedämmstoffe für das Bauwesen - Bestimmung der Rohdichte.
+EN 12667 DIN EN 12667:2001-05, Wärmedämmstoffe für das Bauwesen - Bestimmung der
+Wärmedurchlasswiderstandes nach dem Verfahren mit dem Plattengerät und dem
+Wärmestrommessplatten-Gerät.
+EN 13168 EN 13168:2012+A1 2015, Wärmedämmstoffe für Gebäude - Werkmäßig hergestellte Produkte aus
+Holzwolle (WW)-Spezifikation.
+EN 13501 EN 13501-1:2007+A1:2009, Klassifizierung von Bauprodukten und Bauarten zu ihrem Brandverhalten.
+EN 13964 EN 13964:2014-04-15, Unterdecken - Anforderungen und Prüfverfahren.
+EN 15804 DIN EN 15804:2012+A2:2019, Nachhaltigkeit von Bauwerken - Umweltproduktdeklarationen - Grundregeln
+für die Produktkategorie Bauprodukte.
+EN 16449 ÖNORM EN 16449, Holz- und Holzprodukte - Berechnung der Speicherung atmosphärischen Kohlenstoff-
+Dioxids.
+EN 16485 DIN EN ISO 16485:2015, Rund- und Schnittholz – Umweltproduktdeklarationen – Produktkategorieregeln
+für Holz und Holzwerkstoffe im Bauwesen.
+Heradesign- Umweltproduktdeklaration für Heradesign Akustikplatten der Knauf AMF Deckensysteme Ges.m.b.H.,
+EPD, 2016 2016. EPD-Nr. ECO EPD Ref. No. 00000282
+ISO 14025 DIN EN ISO 14025:2011-10, Umweltkennzeichnung und -deklarationen – Typ III Umweltdeklarationen –
+Grundsätze und Verfahren.
+ISO 14040 ÖNORM EN ISO 14040, Umweltmanagement – Ökobilanz – Grundsätze und Rahmenbedingungen.
+ISO 14044 ÖNORM EN ISO 14044:2006-07, Umweltmanagement – Ökobilanz – Anforderungen und Anleitungen.
+ISO 50001 EN ISO 50001:2011, Energiemanagementsysteme - Anforderungen mit Anleitung zur Anwendung.
+openLCA openLCA version 1.10.3. Software for Sustainability and Life Cycle Assessment, Version 1.10.3. Berlin:
+GreenDelta GmbH.
+Seite 21 von 23
+8 Verzeichnisse und Glossar
+8.1 Abbildungsverzeichnis
+Abbildung 1: Verfahrensfließbild des Produktionsprozesses – Einstreuung (A), Endlosstrang (B) und Formgebung (C) ................................. 6
+Abbildung 2: Zwischenlagerung und Konfektionierung .................................................................................................................................... 7
+Abbildung 3: Einfärbung, Verpackung, Versand ............................................................................................................................................... 7
+Abbildung 4: Flussdiagramm des Produktsystems ......................................................................................................................................... 12
+Abbildung 5: Relative Beiträge der verschiedenen Lebenszyklusphasen der Heradesign Akustikplatten ...................................................... 19
+8.2 Tabellenverzeichnis
+Tabelle 1: Die einzelnen Produkte im Vergleich ............................................................................................................................................... 4
+Tabelle 2: Technische Daten mineralisch gebundene Holzwerkstoffe ............................................................................................................. 5
+Tabelle 3: Grundstoffe in Masse-% ................................................................................................................................................................... 5
+Tabelle 4: Übersicht über Rohstoff-Transporte in Modul A1-A3 ...................................................................................................................... 6
+Tabelle 5: Brandschutz ..................................................................................................................................................................................... 8
+Tabelle 6: Deklarierte Einheit ......................................................................................................................................................................... 10
+Tabelle 7: Deklarierte Lebenszyklusphasen .................................................................................................................................................... 11
+Tabelle 8: Beschreibung des Szenarios „Transport zur Baustelle (A4)“ .......................................................................................................... 14
+Tabelle 9: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“........................................................................................................... 14
+Tabelle 10: Kohlenstoffgehalt und damit eingebundenes Kohlendioxid der Heradesign Akustikplatten ....................................................... 15
+Tabelle 11: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“ ........................................................................................... 16
+Tabelle 12: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“ ............................. 16
+Tabelle 13: Ergebnisse der Ökobilanz Umweltauswirkungen ......................................................................................................................... 17
+Tabelle 14: Ergebnisse der Ökobilanz Ressourceneinsatz .............................................................................................................................. 18
+Tabelle 15: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien ................................................................................................... 18
+Tabelle 16: Zusätzliche Umweltindikatoren ................................................................................................................................................... 18
+8.3 Abkürzungen
+8.3.1 Abkürzungen gemäß ÖNORM EN 15804
+EPD Umweltproduktdeklaration (en: environmental product declaration)
+PKR Produktkategorieregeln, (en: product category rules)
+LCA Ökobilanz, (en: life cycle assessment)
+LCI Sachbilanz, (en: life cycle inventory analysis)
+LCIA Wirkungsabschätzung, (en: life cycle impact assessment)
+RSL Referenz-Nutzungsdauer, (en: reference service life)
+ESL Voraussichtliche Nutzungsdauer, (en: estimated service life)
+EPBD Richtlinie zur Energieeffizienz von Gebäuden, (en: Energy Performance of Buildings Directive)
+GWP Treibhauspotenzial (en: global warming potential)
+ODP Abbaupotenzial der stratosphärischen Ozonschicht (en: depletion potential of the stratospheric ozone layer)
+AP Versauerungspotenzial von Boden und Wasser (en: acidification potential of soil and water)
+EP Eutrophierungspotenzial (en: eutrophication potential)
+POCP Potenzial für die Bildung von troposphärischem Ozon (en: formation potential of tropospheric ozone)
+ADP Potenzial für die Verknappung von abiotischen Ressourcen (en: abiotic depletion potential)"
+Sonstige Abkürzungen
+CE-Kennz. franz. Communauté Européenne = „Europäische Gemeinschaft“ oder Conformité Européenne, soviel wie
+„Übereinstimmung mit EU-Richtlinien“
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (de: Verordnung über die Registrierung,
+Bewertung, Zulassung und Beschränkung chemischer Stoffe
+Seite 22 von 23
+Herausgeber
+Bau EPD GmbH Tel +43 699 15 900 500
+Seidengasse 13/3 Mail office@bau-epd.at
+1070 Wien Web www.bau-epd.at
+Österreich
+Programmbetreiber
+Bau EPD GmbH
+Seidengasse 13/3 Tel +43 699 15 900 500
+1070 Wien Mail office@bau-epd.at
+Österreich Web www.bau-epd.at
+Ersteller der Ökobilanz
+Daxner & Merl GmbH Tel +43 676 849477826
+Lindengasse 39/8 Fax +43 42652904
+1070 Wien Mail office@daxner-merl.com
+Österreich Web www.daxner-merl.com
+Inhaber der Deklaration
+Knauf Ceiling Solutions GmbH & Co. KG Tel +49 8552 422 0
+Elsenthal 15 Fax +49 8552 422 30
+94481 Grafenau Mail info@knaufamf.com
+Deutschland Web www.knaufceilingsolutions.com
+Seite 23 von 23

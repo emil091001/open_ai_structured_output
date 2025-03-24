@@ -1,0 +1,32 @@
+{
+    "$id": "schema.json",
+    "title": "EPD data",
+    "description": "All relevent data from an EPD analysis",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Name of the EPD analysis"
+        },
+        "EPDID": {
+            "type": "string",
+            "description": "Unique identifier for the EPD analysis like 2508-1250-NO"
+        },
+        "ProducerName": {
+            "type": "string",
+            "description": "Name of the producer of the EPD"
+        },
+        "ValidTo": {
+            "type": "number",
+            "description": "Year when the EPD is valid to"
+        },
+        "RefYear": {
+            "type": "number",
+            "description": "Year of EPD was published"
+        },
+        "environmental_impact": {
+            "$ref": "tabgge.json",
+            "description": "Environmental impact table"
+        }
+    }
+}

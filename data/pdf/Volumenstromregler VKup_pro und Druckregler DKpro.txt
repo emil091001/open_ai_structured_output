@@ -1,0 +1,615 @@
+UMWELT-PRODUKTDEKLARATION
+nach ISO 14025 und EN 15804+A2
+Deklarationsinhaber Wildeboer Bauteile GmbH
+Herausgeber Institut Bauen und Umwelt e.V. (IBU)
+Programmhalter Institut Bauen und Umwelt e.V. (IBU)
+Deklarationsnummer EPD-WIL-20230373-ICA1-DE
+Ausstellungsdatum 02.01.2024
+Gültig bis 01.01.2029
+Volumenstromregler VKup/pro und Druckregler DKpro
+Wildeboer Bauteile GmbH
+www.ibu-epd.com | https://epd-online.com
+1. Allgemeine Angaben
+Wildeboer Bauteile GmbH Volumenstromregler VKup/pro und Druckregler
+DKpro
+Programmhalter Inhaber der Deklaration
+IBU – Institut Bauen und Umwelt e.V. Wildeboer Bauteile GmbH
+Hegelplatz 1 Marker Weg 11
+10117 Berlin 26826 Weener
+Deutschland Deutschland
+Deklarationsnummer Deklariertes Produkt/deklarierte Einheit
+EPD-WIL-20230373-ICA1-DE 1 Stück Volumenstromregler mit optionalem Zubehör
+Diese Deklaration basiert auf den Produktkategorien-Regeln: Gültigkeitsbereich:
+Volumenstromregler, Volumenstrombegrenzer und Druckregler für Dieses Dokument bezieht sich auf die Herstellung, den Transport, den
+Lüftungsanlagen, 01.08.2021 Einbau, den Betrieb und die Entsorgung der deklarierten
+(PCR geprüft und zugelassen durch den unabhängigen Volumenstromregler (VKpro, 200 x 100 mm, bestehend aus den
+Sachverständigenrat (SVR)) Komponenten Gehäuse, Klappenblatt elektrisch, Messkreuz und Antrieb
+sowie Regelkomponenten) für raumlufttechnische Anlagen.
+Es besitzt ebenso eine Gültigkeit für die Volumenstromregler VKup und die
+Ausstellungsdatum Druckregler DKpro. Die Produkte werden ausschließlich in Deutschland im
+Werk Weener produziert, in dem die Produktionsdaten im Zeitraum der
+02.01.2024
+Jahre 2021/2022 erhoben wurden.
+Der Inhaber der Deklaration haftet für die zugrundeliegenden Angaben und
+Nachweise; eine Haftung des IBU in Bezug auf Herstellerinformationen,
+Gültig bis
+Ökobilanzdaten und Nachweise ist ausgeschlossen.
+01.01.2029
+Die EPD wurde nach den Vorgaben der EN 15804+A2 erstellt. Im
+Folgenden wird die Norm vereinfacht als EN 15804 bezeichnet.
+Verifizierung
+Die Europäische Norm EN 15804 dient als Kern-PCR
+Unabhängige Verifizierung der Deklaration und Angaben gemäß ISO
+14025:2011
+intern X extern
+Dipl.-Ing. Hans Peters
+(Vorstandsvorsitzende/r des Instituts Bauen und Umwelt e.V.)
+Florian Pronold Matthias Klingler,
+(Geschäftsführer/in des Instituts Bauen und Umwelt e.V.) (Unabhängige/-r Verifizierer/-in)
+1 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+2. Produkt
+Einbaulage in Lüftungsleitungen für Zuluft und Abluft eingebaut
+2.1 Produktbeschreibung/Produktdefinition und betrieben werden. Gehäuse und Regelmechanik sind aus
+VKpro Volumenstromregler sind wartungsfreie, elektronische verzinktem Stahlblech. Die Lamellen zur
+Regler für konstante und variable Volumenströme in Volumenstromregulierung sind zentrisch gelagert und mit einer
+raumlufttechnischen Anlagen. Sie können in beliebiger Dichtung versehen. Die Lagerachsenbestehen aus Edelstahl
+Einbaulage in Lüftungsleitungen für Zuluft und Abluft eingebaut und werden in speziellen Lagerbuchsen aus Kunststoff geführt.
+und betrieben werden. Gehäuse und Regelmechanik sind aus Das Messkreuz ist aus Aluminium. Das Messkreuz wird für die
+verzinktem Stahlblech. Die Lamellen zur optional zurüstbare Volumenstrommesseinrichtung benötigt.
+Volumenstromregulierung sind zentrisch gelagert und mit einer Ansonsten sind die Anschlüsse verschlossen. Die
+Dichtung versehen. Die Lagerachsen bestehen aus Edelstahl Regelkomponenten bestehen aus einem Regler mit
+und werden in speziellen Lagerbuchsen aus Kunststoff geführt. integriertem statischen oder dynamischen Sensor und aus
+Das Messkreuz ist aus Aluminium. Die Regelkomponenten einem Stellantrieb mit Standard-, Schnell-oder Federrücklauf.
+bestehen aus einem Regler mit integriertem statischen oder Der Regler mit integriertem Sensor ist auf einer Anbaukonsole
+dynamischen Sensor und aus einem Stellantrieb mit Standard-, montiert, die bei beengten Platzverhältnissen manuell gekantet
+Schnell-oder Federrücklauf. Der Regler mit integriertem Sensor oder versetzt werden kann. Die Ansteuerung und der
+ist auf einer Anbaukonsole montiert, die bei beengten elektrische Anschluss des DKpro Druckreglers erfolgen analog,
+Platzverhältnissen manuell gekantet oder versetzt werden über MP-Bus, BACnet oder Modbus. Alle Regelkomponenten
+kann. Die Ansteuerung und der elektrische Anschluss des ermöglichen die Betriebsmodi 'Konstant' und 'Variabel 0–10V,
+VKpro Volumenstromreglers erfolgen analog, über MPBus, 2–10V, einstellbar'. Zwangssteuerungen, Parallelbetrieb und
+BACnet oder Modbus. Alle Regelkomponenten ermöglichen die Folgeschaltungen sind möglich. Vorgegeben werden konstante
+Betriebsmodi 'Konstant' und 'Variabel, 0–10V, 2–10V, oder variable Sollwerte, die als Über-oder Unterdruck
+einstellbar'. Zwangssteuerungen, Parallelbetrieb und referenziert werden können. Gemessen wird der
+Folgeschaltungen sind möglich. Werkseitige Einstellungen Differenzdruck. Daraufhin erfolgt eine Druckregelung über den
+können bestellt werden. Bauseitige Änderungen sind mit Hilfe Stellwinkel der Lamellen. Werkseitige Einstellungen können
+eines Einstellgerätes, auch in Kombination mit einem PC oder bestellt werden. Bauseitige Änderungen sind mithilfe eines
+über die integrierte NFC-Schnittstelle mit einem Smartphone Einstellgerätes, auch in Kombination mit einem PC oder über
+möglich. Die Volumenstromregler ermöglichen eine hohe die integrierte NFC-Schnittstelle mit einem Smartphone
+Genauigkeit mit nur etwa ± 5 % bis ± 20 % Abweichung vom möglich. DKpro Druckregler ermöglichen hohe Genauigkeiten
+IST-Volumenstrom; entsprechend werden die Volumenströme mit nur etwa ±5 % bis ±10 %Abweichung vom Ist-Druck. Die
+im gesamten Druckbereich von 5 Pa bis 1000 Pa konstant sensorabhängigen Druckbereiche P bis P und die für
+start nom
+gehalten.
+Lüftungsleitungen bzw. für Räume vor eingestellten Drücke
+werden innerhalb einer Hysterese konstant gehalten.
+VKup Volumenstromregler sind wartungsfreie, elektronische
+Regler für konstante und variable Volumenströme in
+Für die Verwendung des Produkts gelten die jeweiligen
+raumlufttechnischen Anlagen. Sie können in beliebiger
+nationalen Bestimmungen am Ort der Verwendung, in
+Einbaulage in Lüftungsleitungen für Zuluft und Abluft eingebaut
+Deutschland zum Beispiel die Bauordnungen der Länder, und
+und betrieben werden. Gehäuse und Regelmechanik sind aus
+die technischen Bestimmungen aufgrund dieser Vorschriften.
+verzinktem Stahlblech. Die Lamellen zur
+Volumenstromregulierung sind zentrisch gelagert und mit einer 2.2 Anwendung
+Dichtung versehen. Die Lagerachsen bestehen aus Edelstahl Volumenstromregler für die Regelung von konstanten und
+und werden in speziellen Lagerbuchsen aus Kunststoff geführt. variablen Volumenströmen in raumlufttechnischen Anlagen und
+Das Messkreuz ist aus Aluminium. zum Absperren von Lüftungsleitungen. Druckregler für die
+Es stehen vier 24VAC/DC Stellantriebe zur Auswahl. Regelung von konstanten und variablen Drücken in
+- Der Stellantrieb AN arbeitet ausschließlich mit analoger raumlufttechnischen Anlagen und zum Absperren von
+Ansteuerung. Lüftungsleitungen.
+- Der Stellantrieb MP kann mittels MP-Bus oder analog Die Regelung kann als Raum- und Kanaldruckregelung
+angesteuert werden und bietet eine Einstellmöglichkeit mittels erfolgen.
+Smartphone über NFC-Schnittstelle.
+- Der Stellantrieb KNX arbeitet ausschließlich im KNX 2.3 Technische Daten
+Busbetrieb. Erfüllt sind die Anforderungen nach harmonisierten Vorschriften
+- Der Stellantrieb MOD kann mittels BACnet, Modbus, MP-Bus zur CE-Kennzeichnung, zur elektromagnetischen
+oder analog angesteuert werden. Analog ansteuerbare Verträglichkeit (EMV) gemäß EU-Richtlinie 2014/30/EU sowie
+Stellantriebe ermöglichen die Betriebsmodi 'Konstant', 'Variabel die Anforderungen an die Leistungsbewertung nach DIN EN
+0–10 V ,2–10 V und einstellbar'. Auch '3-Stufen', 12589:2002-01, Lüftung von Gebäude - Luftdurchlasseinheiten
+Zwangssteuerungen, Parallelbetrieb und Folgeschaltungen mit konstantem und variablem Luftvolumenstrom und die damit
+sind möglich. Werkseitige Einstellungen können bestellt verbundenen Anforderungen nach ISO 5135, ISO 3741, ISO
+werden. Bauseitige Änderungen sind mit Hilfe eines 5167-1 und EN 1751.
+Einstellgerätes, auch in Kombination mit einem PC, möglich.
+Bautechnische Daten
+Die Volumenstromregler ermöglichen eine hohe Genauigkeit
+Die nachfolgenden Daten beziehen sich auf den elektronischen
+mit nur etwa ± 5 % bis ±20 % Abweichung vom IST-
+Volumenstromregler VKpro aufgrund der "worst case"-
+Volumenstrom; entsprechend werden die Volumenströme im
+Betrachtung. Weitere Daten, auch zum Volumenstromregler
+gesamten Druckbereich von 5 Pa bis 1000 Pa konstant
+VKup sowie Druckregler DKpro, können den
+gehalten.
+Herstellerunterlagen entnommen werden.
+DKpro Druckregler sind wartungsfreie, elektronische Regler
+für konstante und variable Drücke in raumlufttechnischen
+Anlagen oder zugehörigen Räumen. Sie können in beliebiger
+2 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+Bezeichnung Wert Einheit Stahl, verzinkt: 93 %
+Stahl, schwarz: < 1 %
+Anschlussspannung 24 V
+Kunststoff: 2 %
+Maximaler statischer Druckabfall 5 - 1000 Pa
+Edelstahl: 4 %
+Zulässige Strömungsgeschwindigkeit 12 m/s
+Messing: < 1 %
+144 -
+Volumenstrombereich m3/h
+36000 DKpro - Antrieb
+Regelspannung 0 - 10 V Stahl: 49 %
+Regelspannung 2-10 V Kunststoff: 40 %
+Elektronische Komponenten (Platinen, etc.): 3 %
+Laufzeit für 90° Drehung des
+90 s Kupfer: 7 %
+Klappenblattes ca.
+Messing: 2 %
+Anschlussleistung ruhend 0,5 W
+Verbrauchsleistung regelnd 1,5 W DKpro - Regler
+Dichtheitsklasse des Gehäuses nach EN Stahl: 49 %
+C -
+1751 Kunststoff: 40 %
+Laufzeit für Drehung (AUF/ZU) - s Elektronische Komponenten (Platinen, etc.): 3 %
+Kupfer: 7 %
+Dichtheitsklasse des Klappenblatts nach
+4 - Messing: 2 %
+EN 1751
+Schutzart IP 42 - 54 -
+Das Produkt enthält Stoffe der ECHA-Liste der für eine
+Gehäuseform (rund / eckig) eckig - Zulassung in Frage kommenden besonders
+besorgniserregenden Stoffe (en: Substances of Very High
+2.4 Lieferzustand Concern – SVHC) (Datum 08.07.2021) oberhalb von 0,1
+Es gibt folgende Größenvarianten: VKup/VKpro/DKpro von (B x Massen-%: nein.
+H) 200 mm x 100 mm bis 1000 mm x 1000 mm. Je nach
+Produkt sind unterschiedliche Antriebe wählbar, Dämmschalen Das Produkt enthält weitere CMR-Stoffe der Kategorie 1A oder
+sind optionales Zubehör. Für eine hohe und durchgängige 1B, die nicht auf der Kandidatenliste stehen, oberhalb von 0,1
+Regelgenauigkeit wird jeder Volumenstromregler und Massen-% in mindestens einem Teilerzeugnis: nein.
+Druckregler werksseitig justiert.
+Dem vorliegenden Bauprodukt wurden Biozidprodukte
+2.5 Grundstoffe/Hilfsstoffe zugesetzt oder es wurde mit Biozidprodukten behandelt (es
+Gewichtsprozent, alle Angaben sind ca.-Angaben handelt sich damit um eine behandelte Ware im Sinne der
+Biozidprodukteverordnung (EU) Nr. 528/2012): nein.
+VKpro - Gehäuse, Klappenblatt, Messkreuz (ohne Antrieb)
+Stahl, verzinkt: 93 % 2.6 Herstellung
+Stahl, schwarz: < 1 % Die Produktion erfolgt an einem Standort im Werk Weener.
+Kunststoff: 2 % Notwendige Roh- und Halbteile, Hilfs- und Betriebsstoffe
+Edelstahl: 4 % werden von Lieferanten angeliefert und fließen in die
+Messing: < 1 % Produktion mit ein. Die Fertigung der Halbteile erfolgt in einer
+Vorfertigung mit üblichen Fertigungsverfahren. Metallteile
+VKpro - Antrieb werden gestanzt und in Form gekantet. Zur Vermeidung von
+Stahl: 49 % Abfällen werden Zuschnitte entsprechend optimiert. Abfälle, die
+Kunststoff: 40 % dann noch entstehen, werden gesammelt und möglichst von
+Elektronische Komponenten (Platinen, etc.): 3 % entsprechenden Firmen recycelt oder als Hausmüll entsorgt
+Kupfer: 7 % und verbrannt. Schmierstoffe werden weitestgehend
+Messing: 2 % gesammelt, aufbereitet und in der Produktion wiederverwendet.
+Stäube und Dünste werden vor Ort abgesaugt und gesammelt.
+VKpro - Regler Die Teile der Vorfertigung werden zusammen mit eingekauften
+Stahl: 49 % Teilen zu Volumenstromreglern endmontiert, im Rahmen der
+Kunststoff: 40 % Qualitätssicherung nach ISO 9001 geprüft, verpackt und
+Elektronische Komponenten (Platinen, etc.): 3 % ausgeliefert. Für eine hohe und durchgängige Regelgenauigkeit
+Kupfer: 7 % wird jeder Volumenstromregler werksseitig justiert. Der Betrieb
+Messing: 2 % unterliegt einem Energiemanagementsystem.
+VKup - Gehäuse, Klappenblatt, Messkreuz (ohne Antrieb)
+Stahl, verzinkt: 94 %
+Stahl, schwarz: < 1 %
+Kunststoff: 1 %
+Edelstahl: 5 %
+Messing: < 1 %
+VKup - Antrieb
+Stahl: 49 %
+Kunststoff: 40 %
+Elektronische Komponenten (Platinen, etc.): 3 %
+Kupfer: 7 %
+Messing: 2 %
+DKpro - Gehäuse, Klappenblatt, Messkreuz (ohne Antrieb)
+3 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+Einwirkungen wie beispielsweise extrem salz- haltige Luft oder
+chemische Einwirkungen, durch welche es zu Änderungen
+kommen kann.
+2.11 Umwelt und Gesundheit während der Nutzung
+Während der Nutzung sind keine negativen Aus- wirkungen auf
+die Umwelt und die Gesundheit zu erwarten. Aufgrund der
+Wartungsfreiheit muss während der Nutzung nicht geschmiert
+werden. Ablagerungen von Verschmutzungen fallen aufgrund
+der Konstruktion nicht an. Ein Hygienezertifikat liegt vor (siehe
+Kapitel 7).
+2.12 Referenz-Nutzungsdauer
+Die Dauer der Funktionsfähigkeit von Volumenstromreglern ist
+von der jeweiligen Konstruktion, den verwendeten Materialien
+und von den Umgebungsbedingungen abhängig. Bei
+bestimmungsgemäßer Nutzung beträgt die Referenz-
+Nutzungsdauer 20 Jahre im Mittel.
+Beschreibung der Einflüsse auf die Alterung bei Anwendung
+2.7 Umwelt und Gesundheit während der Herstellung nach den Regeln der Technik.
+Während des gesamten Herstellprozesses sind keine
+Maßnahmen über den gesetzlich vorgeschriebenen
+Arbeitsschutz hinaus erforderlich. Abfälle werden durch 2.13 Außergewöhnliche Einwirkungen
+optimierte Zuschnitte weitestgehend vermieden, Brand
+Schmiermittel durch Recyclingmaßnahmen wiederverwendet. Nicht relevant.
+2.8 Produktverarbeitung/Installation Wasser
+Die Herstellerunterlagen wie Handbücher, Einbau- vorschriften Nicht relevant.
+und Betriebsanleitungen der Wildeboer Bauteile GmbH sind
+zu beachten. Darüber hinaus sind die Sicherheits- und Mechanische Zerstörung
+Verarbeitungsvorschriften beispielsweise für den Nicht relevant.
+Lüftungsanlagenbau oder für Elektroarbeiten sowie die
+gesetzlichen Arbeitsschutzvorschriften zu befolgen. 2.14 Nachnutzungsphase
+Nach der Nutzung der Volumenstromregler können diese
+2.9 Verpackung ausgebaut und theoretisch wiederverwendet werden.
+Die Produkte werden auf Mehrwegpaletten transportiert und in Entsprechend der Zusammensetzung der Volumenstromregler
+Polyethylen (PE) - Folien verpackt. Alternativ erfolgt ein ist ein Recycling für die Metall- und Elektronikkomponenten
+Transport in Kartons aus Altpapier. Die Entsorgung, mit möglich. Die übrigen Bestandteile (z. B. Kunststoffe) können
+Ausnahme der Paletten, erfolgt über die lokalen einer thermischen Verwertung zugeführt werden.
+Recyclingfirmen. Paletten werden im Tauschverfahren
+wiederverwendet. 2.15 Entsorgung
+Es wird nur so viel Verpackungsmaterial verwendet wie Die Entsorgung kann entsprechend den Kennzahlen der
+erforderlich und entsprechend optimiert verpackt. Eine Verordnung über das Europäische Abfallverzeichnis gemäß
+tabellarische Auflistung der Mengen an Verpackungsmaterial Abfall-Verzeichnis-Verordnung AVV eingeordnet werden: Stahl
+befindet sich in Kapitel 4. (17 04 05), Dämmmaterial (17 06 04), Kunststoff (17 02 03),
+Elektro (20 01 36).
+2.10 Nutzungszustand
+Die stoffliche Zusammensetzung während der Nutzung ändert 2.16 Weitere Informationen
+sich nicht. Ausgenommen sind außergewöhnliche www.wildeboer.de
+3. LCA: Rechenregeln
+3.1 Deklarierte Einheit 3.2 Systemgrenze
+Die Deklaration bezieht sich auf die Herstellung von einem Die Systemgrenze der EPD vom Typ "Wiege bis Bahre" folgt
+Stück Volumenstromregler VKpro (Abmessungen 200 x 100 dem modularen Aufbau gemäß EN 15804. Die Ökobilanz der
+mm (B x H)) inklusive Antrieb und elektrischer Steuereinheit. betrachteten Produkte berücksichtigt die Module A, B, C und D:
+Die Deklaration gilt ebenfalls für den Druckregler DKpro mit
+denselben Abmessungen. Produktstadium (A1–A3):
+LCA-Szenarien und Ergebnistabellen des Volumenstromreglers Rohstoffbereitstellung sowie LKW-Transport der Rohstoffe zum
+VKup sind im öffentlichen Anhang der EPD aufgeführt. Werk. Produktionsaufwendungen inkl. Verpackungsmaterial.
+Behandlung von nicht metallischen Produktionsabfällen.
+Deklarierte Einheit VKpro
+Metallische Produktionsabfälle erreichen das Ende der
+Bezeichnung Wert Einheit
+Abfalleigenschaft direkt nach dem Entstehen und werden nach
+Deklarierte Einheit 1 Stk. Modul D exportiert.
+Massenbezug 5,85 kg/Stk
+Stadium der Errichtung des Bauwerks (A4–A5):
+Andere deklarierte Einheiten sind zulässig, wenn die
+Modul A4: LKW-Transport zur Baustelle (100 km).
+Umrechnung transparent dargestellt wird.
+Transportentfernung kann ggfs. auf Gebäudeebene angepasst
+werden (z.B. bei 200 km tatsächlicher Transportentfernung:
+Multiplikation der Ökobilanzwerte mit dem Faktor 2).
+4 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+nach Rezeptur eingesetzten Ausgangsstoffe, sowie der Strom-
+Modul A5: Verpackungsbehandlung. Ggfs. resultierende und Wasserbedarf in der Bilanzierung berücksichtigt. Für alle
+Gutschriften in Modul D. Stromverbrauch für die Installation berücksichtigten Inputs mit Ausnahme von
+(ggfs. Einsatz von Handmaschinen) wurde nicht betrachtet. Verpackungsmaterialien wurden die Transportaufwen- dungen
+betrachtet. Der End-of-waste-Status der Motoren wird nach
+Nutzungsstadium (B1–B5): einer Aufbereitung respektive Trennung der darin enthaltenen
+Während der Nutzung des Produktes (B1) werden keine Materialfraktionen erreicht. Die Aufwände für die Aufbereitung
+Emissionen freigesetzt. Eine Instandhaltung (B2) und wurden im Produktlebenszyklus vernachlässigt. Damit wurden
+Reparatur (B3) bzw. ein Austausch einzelner Komponenten gemäß PCR Teil A auch Stoff- und Energieströme mit einem
+(B4) ist während der betrachteten Nutzungsdauer nicht relevant Anteil < 1 % berücksichtigt.
+(Wartungsfreiheit). Während der Nutzungsdauer ist laut
+Herstellerangaben keine Erneuerung des Produktes notwendig 3.5 Hintergrunddaten
+(B5). Die Module B1 bis B5 werden deshalb mit '0' deklariert. Für die Berechnung der Ökobilanz wurden Sphera MLC-
+Datenbanken (ehemals "GaBi") der Version CUP 2022.2
+Nutzungsstadium – Betrieb des Gebäudes (B6–B7): verwendet.
+Die für den Betrieb des Produktes mit elektrischem
+3.6 Datenqualität
+Antriebsmotor erforderliche elektrische Energie sowie die
+elektrische Energie für Sollwertverstellungen. Die Datenqualität kann als hoch angesehen werden. Die
+Herstellung der Produkte wurde mit Primärdaten der Wildeboer
+Entsorgungsstadium (C1–C4): Bauteile GmbH modelliert.
+C1: Manueller Rückbau (lastenfrei). Für alle relevanten eingesetzten Vorprodukte lagen
+C2: LKW-Transport zur Abfallaufbereitung (50km). Die entsprechende Hintergrund-Datensätze in der Sphera MLC -
+Transportentfernung kann ggfs. auf Gebäudeebene angepasst Datenbank (ehemals "GaBi") vor. Die letzte Revision der
+werden (z.B. bei 100km tatsächlicher Transportentfernung: verwendeten Daten liegt maximal 5 Jahre zurück.
+Multiplikation der Ökobilanzwerte mit dem Faktor 2). Der End-
+3.7 Betrachtungszeitraum
+of-waste-Status der Motoren wird nach einer Aufbereitung
+Die Datenerhebung für die Volumenstromregler erfolgte in der
+respektive Trennung der darin enthaltenen Materialfraktionen
+Wildeboer Bauteile GmbH am Standort Weener (Deutschland)
+erreicht. Die Aufwände für die Aufbereitung wurden im
+für den Zeitraum der Jahre 2021/2022.
+Produktlebenszyklus vernachlässigt.
+3.8 Geographische Repräsentativität
+Modul C3: thermische Behandlung von Rohstoffen mit
+Land oder Region, in dem/r das deklarierte Produktsystem
+Heizwert.
+hergestellt und ggf. genutzt sowie am Lebensende behandelt
+wird: Deutschland
+Modul C4: Deponierung von Rohstoffen ohne Heizwert.
+Gutschriften und Lasten außerhalb der Systemgrenzen (D): 3.9 Allokation
+Lasten und Gutschriften aus stofflichem Recycling von Metallen Bei der Produktion entstehen keine Koppel- oder
+(inkl. Aufbereitung) und Gutschriften für substituierte thermische Nebenprodukte. Eine Allokation wurde daher nicht verwendet.
+Energie und Strom, welche aus den Modulen A1–A3, A5 und
+C3 exportiert wurden. 3.10 Vergleichbarkeit
+Grundsätzlich ist eine Gegenüberstellung oder die Bewertung
+3.3 Abschätzungen und Annahmen
+von EPD-Daten nur möglich, wenn alle zu vergleichenden
+Ein Lieferant einer Einzelkomponente deklarierte in einem Datensätze nach EN 15804 erstellt wurden und der
+Hersteller-Datenblatt "sonstige Kunststoffe". Diese Mengen Gebäudekontext bzw. die produktspezifischen
+wurden als PBT modelliert. Leistungsmerkmale berücksichtigt werden.
+3.4 Abschneideregeln
+Es wurden alle Daten aus der Betriebsdatenerhebung, d.h. alle
+4. LCA: Szenarien und weitere technische Informationen
+Charakteristische Produkteigenschaften biogener Die folgenden technischen Informationen sind Grundlage für
+Kohlenstoff die deklarierten Module oder können für die Entwicklung von
+spezifischen Szenarien im Kontext einer Gebäudebewertung
+genutzt werden, wenn Module nicht deklariert werden (MND).
+Informationen zur Beschreibung des biogenen
+Kohlenstoffgehalts am Werkstor Die Ökobilanzergebnisse von Varianten oder variierenden
+Abmessungen des deklarierten Produkts können von Wildeboer
+Das Produkt enthält keine biobasierten Rohstoffe, daher
+Bauteile GmbH auf Anfrage bereitgestellt werden.
+beziffert sich der biogene Kohlenstoffgehalt auf 0 kg.
+Die deklarierten Produkte sind wartungsfrei. Daher erfolgen
+Bezeichnung WertEinheit
+keine Szenario-Angaben für die Module B1–B5.
+Biogener Kohlenstoff im Produkt - kg C
+Transport zu Baustelle (A4)
+Biogener Kohlenstoff in der zugehörigen
+0,23 kg C Bezeichnung Wert Einheit
+Verpackung
+Transport Distanz 100 km
+Notiz: 1 kg biogener Kohlenstoff ist äquivalent zu 44/12 kg
+Auslastung (einschließlich Leerfahrten) 61 %
+CO .
+2
+Einbau ins Gebäude (A5)
+5 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+Die in der nachstehenden Tabelle aufgeführten Mengen Die Angabe zu den Umweltwirkungen aufgrund des
+repräsentieren die eingesetzten Verpackungsmaterialien. Energieeinsatzes in der Nutzungsphase (Modul B6) erfolgt
+Bezeichnung WertEinheit bezogen auf ein Jahr, und ist ggfs. mit der geplanten
+Nutzungsdauer (in Jahren) auf Gebäudeebene zu
+Output-Stoffe als Folge der Abfallbehandlung auf
+0,57 kg multiplizieren.
+der Baustelle (Summe Verpackungsmaterialien)
+Kartonage 0,04 kg
+Ende des Lebenswegs (C1–C4) VKpro
+PE-Folie 0,01 kg
+Bezeichnung Wert Einheit
+Holzpalette 0,52 kg
+Getrennt gesammelt Abfalltyp 5,85 kg
+Zum Recycling 5,37 kg
+Zur Energierückgewinnung 0,48 kg
+Referenz–Nutzungsdauer
+Zur Deponierung - kg
+Bezeichnung Wert Einheit
+Lebensdauer nach Angabe Hersteller 20 a
+Betriebliche Energie (B6) VKpro
+Bezeichnung Wert Einheit
+Leistungsaufnahme Antrieb ruhend 0,5 W
+Betriebszeit, ruhend 8723,5 h / Jahr
+Leistungsaufnahme, Antrieb regelnd 2,0 W
+Betriebszeit, regelnd 36,5 h / Jahr
+Stromverbr. Regler (Dauerleistung 0,3 W) 2,64 kWh / Jahr
+Stromverbrauch gesamt 7,08 kWh / Jahr
+6 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+5. LCA: Ergebnisse
+Im Folgenden werden die Ergebnisse der Indikatoren der Wirkungsabschätzung, des Ressourceneinsatzes sowie zu Abfällen und
+sonstigen Output-Strömen bezogen auf ein Stück Volumenstromregler Typ VKpro [5,85 kg/Stück] dargestellt. Die Ergebnistabellen
+gelten ebenfalls für den Druckregler Typ DKpro mit denselben Abmessungen. Ergebnistabellen des Volumenstomreglers VKup sind im
+öffentlichen Anhang der EPD einzusehen.
+ANGABE DER SYSTEMGRENZEN (X = IN ÖKOBILANZ ENTHALTEN; MND = MODUL ODER INDIKATOR NICHT DEKLARIERT;
+MNR = MODUL NICHT RELEVANT)
+Gutschriften
+Stadium der
+und Lasten
+Produktionsstadium Errichtung Nutzungsstadium Entsorgungsstadium
+außerhalb der
+des Bauwerks
+Systemgrenze
+g n u g ro s re v ffo ts h o R tro p s n a rT g n u lle ts re H m o v tro p s n a rT m u z re lle ts re Htro s g n u d n e w re V e g a tn o M g n u d n e w n A /g n u z tu N g n u tla h d n a ts n I ru ta ra p e R z ta s rE g n u re u e n rE rü f z ta s n ie e ig re n E n e b ie rte B s a ds e d u ä b e G s e d rü f z ta s n ie re s s a W n e b ie rte B s a ds e d u ä b e G s e d s s irb A /u a b k c ü R tro p s n a rT g n u ld n a h e b lla fb A g n u g itie s e B ,-s g n u d n e w re v re d e iW -s g n u n n iw e g k c ü R re d ola iz n e to p g n ilc y c e R
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+X X X X X X X X X X X X X X X X X
+ERGEBNISSE DER ÖKOBILANZ – UMWELTAUSWIRKUNGEN nach EN 15804+A2: 1 Stück Volumenstromregler VKpro (100mm
+x 200mm) mit 5,85 kg/Stück
+Indikator Einheit A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+GWP-total kg CO 2-Äq. 2,39E+01 3,53E-02 8,98E-01 0 0 0 0 0 2,92E+00 0 0 1,78E-02 9,68E-01 0 -1,24E+01
+GWP-fossil kg CO 2-Äq. 2,46E+01 3,48E-02 5,66E-02 0 0 0 0 0 2,92E+00 0 0 1,75E-02 9,68E-01 0 -1,24E+01
+GWP-
+biogenic
+kg CO 2-Äq. -7,88E-01 3,9E-04 8,41E-01 0 0 0 0 0 1,72E-03 0 0 1,63E-04 8,48E-05 0 1,5E-02
+GWP-luluc kg CO 2-Äq. 8,78E-03 1,31E-04 1,66E-06 0 0 0 0 0 1,9E-04 0 0 9,82E-05 3,16E-06 0 -4,2E-03
+kg CFC11-
+ODP 2,41E-10 5,01E-15 6,56E-14 0 0 0 0 0 2,89E-11 0 0 1,05E-15 9,82E-14 0 2,17E-11
+Äq.
+AP mol H+-Äq. 9,16E-02 3,02E-05 1,25E-04 0 0 0 0 0 4,29E-03 0 0 1,68E-05 8,47E-04 0 -4,04E-02
+EP-
+kg P-Äq. 3,18E-05 7,25E-08 1,57E-08 0 0 0 0 0 1,31E-06 0 0 5,26E-08 3,03E-08 0 -3,77E-06
+freshwater
+EP-marine kg N-Äq. 1,69E-02 9,62E-06 4,02E-05 0 0 0 0 0 1,17E-03 0 0 5,22E-06 4,23E-04 0 -7,09E-03
+EP-
+mol N-Äq. 1,81E-01 1,16E-04 5,92E-04 0 0 0 0 0 1,25E-02 0 0 6,27E-05 4,76E-03 0 -7,68E-02
+terrestrial
+kg
+POCP NMVOC- 5,34E-02 2,61E-05 1,09E-04 0 0 0 0 0 3,31E-03 0 0 1,46E-05 1,08E-03 0 -2,35E-02
+Äq.
+ADPE kg Sb-Äq. 1,01E-03 3,62E-09 1,6E-09 0 0 0 0 0 3,48E-07 0 0 1,47E-09 2,69E-09 0 -1,99E-04
+ADPF MJ 2,86E+02 4,66E-01 1,81E-01 0 0 0 0 0 6,2E+01 0 0 2,35E-01 3,42E-01 0 -1,05E+02
+m3 Welt-
+WDP Äq. 4,02E+00 1,38E-04 9,21E-02 0 0 0 0 0 2,18E-01 0 0 1,58E-04 1,05E-01 0 -3,5E-01
+entzogen
+GWP = Globales Erwärmungspotenzial; ODP = Abbaupotenzial der stratosphärischen Ozonschicht; AP = Versauerungspotenzial von Boden und
+Wasser; EP = Eutrophierungspotenzial; POCP = Bildungspotenzial für troposphärisches Ozon; ADPE = Potenzial für die Verknappung von abiotischen
+Ressourcen – nicht fossile Ressourcen (ADP – Stoffe); ADPF = Potenzial für die Verknappung abiotischer Ressourcen – fossile Brennstoffe (ADP –
+fossile Energieträger); WDP = Wasser-Entzugspotenzial (Benutzer)
+ERGEBNISSE DER ÖKOBILANZ – INDIKATOREN ZUR BESCHREIBUNG DES RESSOURCENEINSATZES nach EN 15804+A2: 1
+Stück Volumenstromregler VKpro (100mm x 200mm) mit 5,85 kg/Stück
+Indikator Einheit A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+PERE MJ 4,41E+01 2,77E-02 8,49E+00 0 0 0 0 0 8,95E+00 0 0 1,34E-02 5,82E-02 0 1,9E+00
+PERM MJ 8,45E+00 0 -8,45E+00 0 0 0 0 0 0 0 0 0 0 0 0
+PERT MJ 5,25E+01 2,77E-02 4,2E-02 0 0 0 0 0 8,95E+00 0 0 1,34E-02 5,82E-02 0 1,9E+00
+PENRE MJ 2,73E+02 4,67E-01 8,34E-01 0 0 0 0 0 6,2E+01 0 0 2,36E-01 1,37E+01 0 -1,06E+02
+-1,34E
+PENRM MJ 1,4E+01 0 -6,53E-01 0 0 0 0 0 0 0 0 0 0 0
++01
+PENRT MJ 2,87E+02 4,67E-01 1,81E-01 0 0 0 0 0 6,2E+01 0 0 2,36E-01 3,43E-01 0 -1,06E+02
+SM kg 1,35E+00 0 0 0 0 0 0 0 0 0 0 0 0 0 5,41E+00
+RSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NRSF MJ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+FW m3 1,17E-01 2,42E-05 2,17E-03 0 0 0 0 0 1,36E-02 0 0 1,51E-05 2,48E-03 0 -3,03E-02
+PERE = Erneuerbare Primärenergie als Energieträger; PERM = Erneuerbare Primärenergie zur stofflichen Nutzung; PERT = Total erneuerbare
+Primärenergie; PENRE = Nicht-erneuerbare Primärenergie als Energieträger; PENRM = Nicht-erneuerbare Primärenergie zur stofflichen Nutzung;
+PENRT = Total nicht erneuerbare Primärenergie; SM = Einsatz von Sekundärstoffen; RSF = Erneuerbare Sekundärbrennstoffe; NRSF = Nicht-
+erneuerbare Sekundärbrennstoffe; FW = Nettoeinsatz von Süßwasserressourcen
+7 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+ERGEBNISSE DER ÖKOBILANZ –ABFALLKATEGORIEN UND OUTPUTFLÜSSE nach EN 15804+A2:
+1 Stück Volumenstromregler VKpro (100mm x 200mm) mit 5,85 kg/Stück
+Indikator Einheit A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+HWD kg 1,56E-06 2,16E-12 1,75E-11 0 0 0 0 0 4,43E-09 0 0 1,13E-12 4,9E-11 0 3,4E-09
+NHWD kg 8,59E-01 7,39E-05 6,28E-03 0 0 0 0 0 1,32E-02 0 0 3,38E-05 2,11E-02 0 -4,9E-01
+RWD kg 5,81E-03 4,7E-07 1,07E-05 0 0 0 0 0 1,03E-02 0 0 2,91E-07 1,28E-05 0 -1,84E-04
+CRU kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+MFR kg 1,39E+00 0 0 0 0 0 0 0 0 0 0 0 5,37E+00 0 0
+MER kg 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+EEE MJ 0 0 1,32E+00 0 0 0 0 0 0 0 0 0 1,72E+00 0 0
+EET MJ 0 0 2,37E+00 0 0 0 0 0 0 0 0 0 3,09E+00 0 0
+HWD = Gefährlicher Abfall zur Deponie; NHWD = Entsorgter nicht gefährlicher Abfall; RWD = Entsorgter radioaktiver Abfall; CRU = Komponenten für
+die Wiederverwendung; MFR = Stoffe zum Recycling; MER = Stoffe für die Energierückgewinnung; EEE = Exportierte Energie – elektrisch; EET =
+Exportierte Energie – thermisch
+ERGEBNISSE DER ÖKOBILANZ – zusätzliche Wirkungskategorien nach EN 15804+A2-optional:
+1 Stück Volumenstromregler VKpro (100mm x 200mm) mit 5,85 kg/Stück
+Indikator Einheit A1-A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+PM Krankheitsfälle 1,15E-06 1,88E-10 6,16E-10 0 0 0 0 0 3,83E-08 0 0 1,01E-10 2,57E-09 0 -5,06E-07
+IR kBq U235-Äq. 7,19E-01 4,57E-05 1,76E-03 0 0 0 0 0 1,51E+00 0 0 4,26E-05 2,01E-03 0 -1,37E-01
+-2,58E
+ETP-fw CTUe 9,81E+01 3,7E-01 8E-02 0 0 0 0 0 1,9E+01 0 0 1,63E-01 1,28E-01 0
++01
+HTP-c CTUh 4,29E-07 7,34E-12 5,57E-12 0 0 0 0 0 3,49E-10 0 0 3,29E-12 8,21E-12 0 -1,79E-08
+HTP-nc CTUh 4,99E-07 3,65E-10 1,94E-10 0 0 0 0 0 1,78E-08 0 0 1,7E-10 4,34E-10 0 -8,92E-08
+SQP SQP 1,48E+02 1,47E-01 5,37E-02 0 0 0 0 0 5,69E+00 0 0 8,1E-02 6,71E-02 0 -8,32E-03
+PM = Potenzielles Auftreten von Krankheiten aufgrund von Feinstaubemissionen; IR = Potenzielle Wirkung durch Exposition des Menschen mit U235;
+ETP-fw = Potenzielle Toxizitätsvergleichseinheit für Ökosysteme; HTP-c = Potenzielle Toxizitätsvergleichseinheit für den Menschen (kanzerogene
+Wirkung); HTP-nc = Potenzielle Toxizitätsvergleichseinheit für den Menschen (nicht kanzerogene Wirkung); SQP = Potenzieller Bodenqualitätsindex
+Einschränkungshinweis 1 – gilt für den Indikator „Potenzielle Wirkung durch Exposition des Menschen mit U235“.
+Diese Wirkungskategorie behandelt hauptsächlich die mögliche Wirkung einer ionisierenden Strahlung geringer Dosis auf die
+menschliche Gesundheit im Kernbrennstoffkreislauf. Sie berücksichtigt weder Auswirkungen, die auf mögliche nukleare Unfälle und
+berufsbedingte Exposition zurückzuführen sind, noch auf die Entsorgung radioaktiver Abfälle in unterirdischen Anlagen. Die potenzielle
+vom Boden, von Radon und von einigen Baustoffen ausgehende ionisierende Strahlung wird ebenfalls nicht von diesem Indikator
+gemessen.
+Einschränkungshinweis 2 – gilt für die Indikatoren: „Potenzial für die Verknappung abiotischer Ressourcen - nicht fossile Ressourcen“,
+„Potenzial für die Verknappung abiotischer Ressourcen - fossile Brennstoffe“, „Wasser-Entzugspotenzial (Benutzer)“, „Potenzielle
+Toxizitätsvergleichseinheit für Ökosysteme“, „Potenzielle Toxizitätsvergleichseinheit für den Menschen - kanzerogene Wirkung“,
+„Potenzielle Toxizitätsvergleichseinheit für den Menschen - nicht kanzerogene Wirkung“, „Potenzieller Bodenqualitätsindex".
+Die Ergebnisse dieses Umweltwirkungsindikators müssen mit Bedacht angewendet werden, da die Unsicherheiten bei diesen
+Ergebnissen hoch sind oder da es mit dem Indikator nur begrenzte Erfahrungen gibt.
+6. LCA: Interpretation
+Die umweltseitig wichtigsten Lebenszyklusphasen sind die haben auf die meisten Indikatoren einen geringen bis gewissen
+Herstellungs- und die Nutzungsphase. Einfluss. Alle anderen Prozesse und Materialien zeigen eine
+geringe bis vernachlässigbare Relevanz für das Produktsystem.
+In Bezug auf die Herstellungsphase dominieren die beiden
+Vorkettenprozesse der Steuerelektronik (Platine) sowie des Bei Betrachtung einer üblichen Nutzungsdauer von 20 Jahren
+verzinkten Stahlblechs über alle Umweltindikatoren. Diese zwei summieren sich die in Bezug auf ein Stück und Jahr
+Materialien haben einen Einfluss von zusammen mindestens ausgewiesenen Umweltwirkungen für den Betrieb
+70 % auf die einzelnen Indikatorergebnisse. Der Einfluss dieser (Energieverbrauch) der Produkte entsprechend auf.
+zwei Materialien ist in den meisten Indikatoren als relevant bis Entsprechend signifikant sind die verbundenen
+signifikant einzustufen. Umweltwirkungen durch diesen Energieverbrauch für eine
+Reihe an Indikatoren, wie beispielsweise das
+Der eingesetzte Edelstahl sowie die Kunststoffe PA6 und PBT Treibhauspotential (GWP gesamt).
+7. Nachweise
+7.1 Hygiene EN 16798-3, SWKI VA105-01, SWKI VA104-0,
+Gemäß Gutachten-Nr. W-329810k-20-AB, Gutachten-Nr. W-
+329809k-20-AB und Gutachten-Nr. W-329811k-20-AB ÖNORM H 6020 und ÖNORM H 6021 erfüllt.
+liegen sowohl ein Zertifikat der Hygiene-Konformitätsprüfung für
+VKup, ein Zertifikat Dies schließt Nachweise zur Verstoffwechselbarkeit, also der
+der Hygiene-Konformitätsprüfung für VKpro als auch ein Schädigung von Baustoffen durch Mikroorganismen, und der
+Zertifikat der Hygiene-Konformitätsprüfung für DKpro vor. Es Beständigkeit gegen Reinigungs- und Desinfektionsmittel bei
+werden die hygienischen einer üblichen Anwendung mit ein.
+Anforderungen nach VDI 6022-1, VDI 3803-1, DIN 1946-4, DIN
+8 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+8. Literaturhinweise
+Normen EN 16798-3
+DIN EN 16798-3: 2017-11 Lüftung von Nichtwohngebäuden -
+EN 15804 Leistungsanforderungen an Lüftungs- und Klimaanlagen und
+EN 15804:2012+A2:2019+AC:2021, Nachhaltigkeit von Raumkühlsysteme.
+Bauwerken – Umweltproduktdeklarationen – Grundregeln für
+die Produktkategorie Bauprodukte. Weitere Quellen
+ISO 14025 AVV
+EN ISO 14025:2011, Umweltkennzeichnungen und - Abfallverzeichnis-Verordnung (AVV) vom 10. Dezember 2001
+deklarationen – Typ III Umweltdeklarationen – Grundsätze und (BGBl. I S. 3379), die zuletzt durch Artikel 1 der Verordnung
+Verfahren. vom 30. Juni 2020 (BGBl. I S. 1533) geändert worden ist.
+Weitere Literatur SWKI VA105-01
+SWKI VA105-01: 2015-08, Raumlufttechnische Anlagen in
+IBU 2021 medizinisch genutzten Räumen (Planung, Realisierung,
+Institut Bauen und Umwelt e.V.: Allgemeine Anleitung für das Qualifizierung, Betrieb).
+EPD-Programm des Institut Bauen und Umwelt e.V., Version
+2.0, Berlin: Institut Bauen und Umwelt e.V., 2021 SWKI VA104-01
+http://www.ibu-epd.com SWKI VA104-1: 2019-01, Hygiene-Anforderungen an
+Raumlufttechnische Anlagen und Geräte.
+Weitere Normen
+VDI 3803-1
+EN 1751 VDI 3803-1: 2020-05, Raumlufttechnik - Zentrale
+DIN EN 1751: 2014-06, Lüftung von Gebäuden - Geräte des raumlufttechnische Anlagen - Bauliche und technische
+Luftverteilungssystems - Aerodynamische Prüfungen von Anforderungen (VDI-Lüftungsregeln).
+Drossel- und Absperrelementen.
+VDI 6022-1
+DIN 1946 VDI 6022-1: 2018-01, Hygieneanforderungen an
+DIN 1946-4: 2018-09, Raumlufttechnik - Raumlufttechnische raumlufttechnische Anlagen und Geräte.
+Anlagen in Krankenhäusern.
+Spheras
+ISO 3741 LCA-Software (LCA FE) und LCA-Datenbank (MLC) (ehemals
+DIN EN ISO 3741: 2011-01, Akustik - Bestimmung der "GaBi")
+Schallleistungs- und Schallenergiepegel von Geräuschquellen MLC-Datenbank Version CUP 2022.2; Sphera Solutions GmbH:
+aus Schalldruckmessungen - Hallraumverfahren der Software System und Datenbank zur Ganzheitlichen
+Genauigkeitsklasse 1. Bilanzierung. Copyright, TM, Stuttgart, Leinfelden-
+Echterdingen,
+ISO 5135 1992-2022.
+DIN EN ISO 5135: 2020-12, Akustik - Bestimmung des
+Schalleistungspegels von Geräuschen von Luftdurchlässen, Herstellerunterlagen
+Volumenstromreglern, Drossel- und Absperrelementen durch Herstellerunterlagen zum Volumenstromregler VRup/pro und
+Messungen im Hallraum. zum Druckregler DKpro in dem jeweiligen aktuellen Stand, hier:
+VKup/VKpro Anwenderhandbuch 3.8 (2023-01)
+ISO 5167-1 Betriebsanleitung - Volumenstromregler VKup (2021-05)
+DIN EN ISO 5167-1: 2022-06, Durchflussmessung von Fluiden Betriebsanleitung - Volumenstromregler VKpro (2021-05)
+mit Drosselgeräten in voll durchströmten Leitungen mit DKpro Anwenderhandbuch 3.7 (2023-04)
+Kreisquerschnitt - Teil 1: Allgemeine Grundlagen und Betriebsanleitung - Druckregler DKpro (2021-05)
+Anforderungen.
+Hygiene-Konformitätsprüfung
+ÖNORM H 6020 Zertifikat der Hygiene-Konformitätsprüfung für VKup,
+ÖNORM H 6020: 2019-06-01, Lüftungstechnische Anlagen für Gutachten-Nr. W-329810k-20-AB, Hygieneinstitut des
+medizinisch genutzte Räume - Projektierung, Errichtung, Ruhrgebietes Gelsenkirchen
+Betrieb, Instandhaltung, technische und hygienische Kontrollen. Zertifikat der Hygiene-Konformitätsprüfung für VKpro,
+Gutachten-Nr. W-329809k-20-AB, Hygieneinstitut des
+ÖNORM H 6021 Ruhrgebietes Gelsenkirchen
+ÖNORM H 6021: 2016-08-15, Lüftungstechnische Anlagen - Zertifikat der Hygiene-Konformitätsprüfung für DKpro,
+Reinhaltung und Reinigung. Gutachten-Nr. W-329811k-20-AB, Hygieneinstitut des
+Ruhrgebietes Gelsenkirchen
+ISO 9001
+DIN EN ISO 9001: 2015-11, Qualitätsmanagementsysteme. ECHA
+ECHA-Liste der für eine Zulassung in Frage kommenden
+EN 12589 besonders besorgniserregenden Stoffe (veröffentlicht gemäß
+DIN EN 12589: 2002-01, Lüftung von Gebäuden - Artikel 59 Absatz 10 der REACH-Verordnung): 2021-07
+Luftdurchlasseinheiten - Aerodynamische Prüfung und (erweitert 2022-06). European Chemicals Agency (ECHA),
+Bewertung von Luftdurchlasseinheiten mit konstantem und Helsinki.
+variablem Luftvolumenstrom.
+9 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+2014/30/EU Hintergrundbericht, Version 1.3, Institut Bauen und Umwelt
+RICHTLINIE 2014/30/EU DES EUROPÄISCHEN e.V., www.ibu-epd.com, 2022.
+PARLAMENTS UND DES RATES, vom 26. Februar 2014 zur
+Harmonisierung der Rechtsvorschriften der Mitgliedstaaten PCR B: Volumenstromregler, Volumenstrombegrenzer und
+über die elektromagnetische Verträglichkeit (Neufassung). Druckregler für Lüftungsanlagen
+Produktkategorie-Regeln für gebäudebezogene Produkte und
+PCR Teil A Dienstleistungen. Teil B:Anforderungen an die EPD für
+Produktkategorie-Regeln für gebäudebezogene Produkte und Volumenstromregler,
+Dienstleistungen Teil A: Rechenregeln für die Ökobilanz und Volumenstrombegrenzer und für Lüftungsanlagen, Version 1.0,
+Anforderungen an den Institut Bauen und Umwelt e.V., www.ibu-epd.com, 2023.
+10 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro
+Herausgeber
+Institut Bauen und Umwelt e.V. +49 (0)30 3087748- 0
+Hegelplatz 1 info@ibu-epd.com
+10117 Berlin www.ibu-epd.com
+Deutschland
+Programmhalter
+Institut Bauen und Umwelt e.V. +49 (0)30 3087748- 0
+Hegelplatz 1 info@ibu-epd.com
+10117 Berlin www.ibu-epd.com
+Deutschland
+Ersteller der Ökobilanz
+Sphera Solutions GmbH +49 711 341817-0
+Hauptstraße 111- 113 info@sphera.com
+70771 Leinfelden-Echterdingen www.sphera.com
+Deutschland
+Inhaber der Deklaration
+Wildeboer Bauteile GmbH 04951 950 0
+Marker Weg 11 info@wildeboer.de
+26826 Weener www.wildeboer.de
+Deutschland
+11 Umwelt-Produktdeklaration - Wildeboer Bauteile GmbH - Volumenstromregler VKup/pro und Druckregler DKpro

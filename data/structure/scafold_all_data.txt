@@ -1,0 +1,16 @@
+root: {
+    "Name": "$ANALYSIS_HEADER$",
+    "EPDID": "$EPDID$",
+    "ValidTo": $YEAR$,
+    "RefYear": $YEAR$,
+    "Complience": [$COMPLIENCE$*],
+    "ProducerName": $PRODUCER_NAME$, 
+    "environmental_impact": [parameter*], 
+    "additional_environmental_impact": [parameter*], 
+    "resource_use": [parameter*], 
+    "end_of_life_waste": [parameter*], 
+    "end_of_life_flow": [parameter*]
+};
+
+parameter: {"Parameter": "$PARM_NAME$", "Unit": "$PARAM_UNIT$", "Values": [value*]};
+value: {"Value": "$VALUE$", "Module": "$MODULE$"};

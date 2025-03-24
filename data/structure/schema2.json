@@ -1,0 +1,12 @@
+{
+    "$id": "schema2.json",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "age": {
+            "type": "integer"
+        }
+    }
+}

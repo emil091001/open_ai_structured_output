@@ -1,0 +1,653 @@
+Deklarationsnummer der EPD
+EPD - ENVIRONMENTAL PRODUCT DECLARATION
+UMWELT-PRODUKTDEKLARATION
+nach ISO 14025 und EN 15804+A2
+EIGENTÜMER UND HERAUSGEBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+PROGRAMMBETREIBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+DEKLARATIONSINHABER Knauf Gesellschaft m.b.H.
+DEKLARATIONSNUMMER BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar 15
+AUSSTELLUNGSDATUM 18.02.2025
+GÜLTIG BIS 18.02.2030
+ANZAHL DATENSÄTZE 1
+ENERGIE MIX ANSATZ MARKTORIENTIERTER ANSATZ (MARKET BASED APPROACH)
+Drystar-Board 15
+Knauf GmbH
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar- 15
+Inhaltsverzeichnis der EPD
+1 Allgemeine Angaben ................................................................................................................................................................................. 4
+2 Produkt ..................................................................................................................................................................................................... 5
+2.1 Allgemeine Produktbeschreibung ..................................................................................................................................................... 5
+2.2 Anwendung ....................................................................................................................................................................................... 5
+2.3 Produktrelevante Normen, Regelwerke und Vorschriften ............................................................................................................... 5
+2.4 Technische Daten.............................................................................................................................................................................. 5
+2.5 Grundstoffe / Hilfsstoffe ................................................................................................................................................................... 6
+2.6 Herstellung ....................................................................................................................................................................................... 6
+2.7 Verpackung ....................................................................................................................................................................................... 7
+2.8 Lieferzustand .................................................................................................................................................................................... 7
+2.9 Transporte ........................................................................................................................................................................................ 7
+2.10 Produktverarbeitung / Installation .............................................................................................................................................. 7
+2.11 Nutzungsphase ............................................................................................................................................................................ 7
+2.12 Referenznutzungsdauer (RSL) ...................................................................................................................................................... 7
+2.13 Nachnutzungsphase .................................................................................................................................................................... 8
+2.14 Entsorgung .................................................................................................................................................................................. 8
+2.15 Weitere Informationen ................................................................................................................................................................ 8
+3 LCA: Rechenregeln .................................................................................................................................................................................... 8
+3.1 Deklarierte Einheit/ Funktionale Einheit ........................................................................................................................................... 8
+3.2 Systemgrenze .................................................................................................................................................................................... 8
+3.3 Flussdiagramm der Prozesse im Lebenszyklus .................................................................................................................................. 9
+3.4 Abschätzungen und Annahmen ...................................................................................................................................................... 10
+3.5 Abschneideregeln ........................................................................................................................................................................... 10
+3.6 Hintergrunddaten ........................................................................................................................................................................... 10
+3.7 Datenqualität .................................................................................................................................................................................. 10
+3.8 Betrachtungszeitraum .................................................................................................................................................................... 10
+3.9 Allokation ........................................................................................................................................................................................ 10
+3.10 Vergleichbarkeit ........................................................................................................................................................................ 10
+4 LCA: Szenarien und weitere technische Informationen .......................................................................................................................... 11
+4.1 A1-A3 Herstellungsphase ................................................................................................................................................................ 11
+4.2 A4-A5 Errichtungsphase.................................................................................................................................................................. 11
+4.3 B1-B7 Nutzungsphase ..................................................................................................................................................................... 11
+4.4 C1-C4 Entsorgungsphase ................................................................................................................................................................ 12
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial ............................................................................................. 12
+5 LCA: Ergebnisse ....................................................................................................................................................................................... 13
+6 LCA: Interpretation ................................................................................................................................................................................. 16
+7 Literaturhinweise .................................................................................................................................................................................... 17
+8 Verzeichnisse und Glossar ...................................................................................................................................................................... 18
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+8.1 Abbildungsverzeichnis .................................................................................................................................................................... 18
+8.2 Tabellenverzeichnis ........................................................................................................................................................................ 18
+8.3 Abkürzungen ................................................................................................................................................................................... 18
+Seite 3 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar- 15
+1 Allgemeine Angaben
+Produktbezeichnung Deklariertes Bauprodukt / Deklarierte Einheit
+Drystar-Board 15 1 m² Drystar-Board 15
+Deklarationsnummer
+Anzahl Datensätze in diesem EPD-Dokument: 1
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar 15
+Deklarationsdaten Gültigkeitsbereich
+Spezifische Daten Die hier verwendeten Daten für die Umweltproduktdeklaration
+Durchschnittsdaten repräsentieren die Produktion von Drystar Board 15 der Knauf
+Deklarationsbasis GmbH aus dem Jahr 2022 aus dem Werk Weißenbach in Österreich.
+MS-HB Version 5.0.0 vom 20.09.2023
+PKR-Code 2.10.1
+Version 17.0 vom 20.09.2023
+(PKR geprüft u. zugelassen durch das unabhängige PKR-
+Gremium)
+Der Inhaber der Deklaration haftet für die
+zugrundeliegenden Angaben und Nachweise; eine Haftung
+der Bau EPD GmbH in Bezug auf Herstellerinformationen,
+Ökobilanzdaten und Nachweise ist ausgeschlossen.
+Deklarationsart lt. EN 15804 Datenbank, Software, Version
+Von der Wiege bis zur Bahre und Modul D Ecoinvent 3.9.1, SimaPro 9.5.0.1
+LCA-Methode: Cut-off by classification Version Charakterisierungsfaktoren: Joint Research Center, EF 3.1
+Die Europäische Norm EN 15804:2012+A2:2019+AC:2021 dient als
+Ersteller der Ökobilanz Kern-PKR.
+IBO GmbH
+Alserbachstraße 5/8 Unabhängige Verifizierung der Deklaration nach EN ISO 14025:2010
+1090 Wien intern extern
+Österreich
+Verifiziererin 1: DI (FH) Angela Schindler
+Verifizierer 2: Dr. Florian Gschösser
+Deklarationsinhaber Herausgeber und Programmbetreiber
+Knauf GmbH Bau EPD GmbH
+Knaufstraße 1 Seidengasse 13/3
+8940 Weißenbach/ Liezen 1070 Wien
+Österreich Österreich
+DI (FH) DI DI Sarah Richter
+Leitung Konformitätsbewertungsstelle
+DI (FH) Angela Schindler Dr. Florian Gschösser
+Verifiziererin Verifizierer
+Information: EPD der gleichen Produktgruppe aus verschiedenen Programmbetrieben müssen nicht zwingend vergleichbar sein.
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+2 Produkt
+2.1 Allgemeine Produktbeschreibung
+Die Gipsvliesplatten der Knauf GmbH werden zur Errichtung von Wand- und Wandverkleidungen auf Unterkonstruktionen, als
+Vorsatzschalen, Trennwänden, Trockenestrich und Unterdecken eingesetzt. Das Produkt wird aus Gips, Kernleim und Zusatzstoffen
+hergestellt. Die Produkte fallen in die Produktgruppe „Gipsvliesplatten“. Die Sachbilanzdaten beziehen sich auf die Produktion der
+folgenden Platte.
+• Drystar-Board 15
+Die Daten wurden in der Knauf Produktionsstätte Weißenbach (Österreich) für die produzierten Gipsvliesplatten erhoben.
+2.2 Anwendung
+Drystar-Boards 15 werden für die Ausführung von nichttragenden Systemen aus Gipsvliesplatten gemäß ÖNORM B 3415 (wie z. B.
+Gipskartonständerwände, abgehängte Decken, nachträglicher Dachgeschoß-Ausbau, Schachtwände und Bauteilverkleidungen)
+hauptsächlich in Feuchträumen verwendet. Sie sind Bestandteil von Knauf Metallständerwänden und finden darüber hinaus in
+vorgefertigten Bauteilen aus Holz- und Fertighausbauten (gemäß ÖNORM B 2310 und ÖNORM B 2320) sowie deren Fertigstellung im
+Zuge der Errichtung des Gebäudes Anwendung.
+2.3 Produktrelevante Normen, Regelwerke und Vorschriften
+Folgende Normen sind für die Gipsvliesplatten gültig:
+Tabelle 1: Produktrelevante Normen
+Norm Titel
+Faserverstärkte Gipsplatten - Begriffe, Anforderungen und Prüfverfahren - Teil 1: Gipsplatten mit
+ÖNORM EN 15283-1
+Vliesarmierung
+Der Hersteller weist die Konformität mittels Leistungserklärung gemäß Anhang III der Verordnung (EU) Nr. 305/2011 für alle für die EPD
+verwendeten Produkte nach.
+2.4 Technische Daten
+Der Bezeichnungsschlüssel der technischen Daten stammt aus der ÖNORM EN 520:2004+A1:2009-08.
+Tabelle 2: Technische Daten für Knauf Drystar Board 15
+Bezeichnung Wert Einheit
+Scherfestigkeit NPD1 N
+Schubfestigkeit NPD N
+Biegefestigkeit- Schwellenwert NPD N/mm²
+Biegebruchlast Längs-Schwellenwert (ÖNORM EN 520) NPD N
+Biegebruchlast Quer- Schwellenwert (ÖNORM EN 520) NPD N
+Biegebruchlast Längs (ÖNORM EN 15283-1) > 870 N
+Biegebruchlast Quer (ÖNORM EN 15283-1) > 360 N
+Biege-Elastizitätsmodul Längs (ÖNORM B 3410) NPD N/mm²
+Biege-Elastizitätsmodul Quer (ÖNORM B 3410) NPD N/mm²
+Wärmeleitfähigkeit 0,25 W/mK
+Wasserdampf-Diffusionswiderstandszahl (für Typ E schwellenwert) 10/4 -
+Brandverhalten A2-s1, d0 (B) -
+Rohdichte > 880 kg/m³
+Plattenstärke 15 mm
+1 NPD = No Performance determined
+Seite 5 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+Aufgrund ihrer Zusammensetzung sind Knauf Platten geeignet, im Brandfall Sicherheit zu gewährleisten. Knauf Platten sind nach ÖNORM
+EN 13501-1 (EN 520) als A2- s1, d0 klassifiziert. Beim Brand wird kein Rauch (s1) frei und es entsteht kein brennendes Abfallen/Abtropfen
+(d0). Trockenbausysteme aus Knauf Platten bieten einen definierten Feuerwiderstand (EI30, EI 60, EI 90). Diese Leistungsfähigkeit der
+klassifizierten Knauf Systeme wird auch durch die Knauf Systemgarantie bestätigt.
+2.5 Grundstoffe / Hilfsstoffe
+Tabelle 3: Grundstoffe in Masse-%
+Bestandteil Funktion Massen %
+Gips Hauptkomponente < 93
+Vlies Stabilität < 6
+Bindemittel < 1
+Schaumittel < 1
+Verflüssiger < 1
+Verzögerer < 1
+Zusätze
+Beschleuniger < 1
+Feuerbeständigkeit < 1
+Biozid < 1
+Imprägniermittel < 1
+2.6 Herstellung
+Für die Herstellung von Knauf Platten werden die wesentlichen Bestandteile Stuckgips (aus natürlichem Natur- und technischem Gips),
+Wasser, Karton (aus Recyclingpapier) und Additive verwendet. Vom Lagerplatz aus wird der Rohstein in einem Prallbrecher auf Korngröße
+0 – 35 mm zerkleinert. Über ein Förderband wird der gebrochene Stein in das Rohsteinlager befördert. Mittels eines Rechens wird der
+Rohstein mit gleichmäßiger Körnung und Qualität in die Mahltrocknungsanlage eingebracht, wo er bei ca. 60 °C auf eine Körnung von max.
+0,3 mm gemahlen wird. Der Rohstein gelangt anschließend in den Kocher, wo er bei ca. 155 °C zum Halbhydrat des Kalziumsulfates
+(CaSO ·1/2H O), dem Stuckgips gebrannt wird. Der Stuckgips wird vor der Einleitung in den Mischer im trockenen Zustand mit den
+4 2
+jeweiligen Zusatzstoffen vermengt. Erst dann wird Wasser zugegeben und die Einsatzstoffe in einem Durchlaufmischer homogenisiert. Der
+Gipsbrei wird anschließend auf den Sichtseitenkarton aufgebracht, die Kanten vorgeformt und der Rückseitenkarton abschließend darüber
+abgewickelt. Auf der Abbindestrecke wird als nächster Schritt mittels Laser die Breite und Dicke der Platten kontrolliert und gegebenenfalls
+nachjustiert. Die Platte erhärtet auf dem Abbindeband, wird beschriftet, auf Rohlänge geschnitten und gewendet bevor in einem
+Mehretagentrockner das Restwasser ausdampft. In den letzten Arbeitsschritten werden die Platten auf die endgültige Länge gesägt,
+gestapelt und auf Mehrwegpaletten ins Lager transportiert. Nur auf Wunsch, bzw. wenn die Verhältnisse auf der Baustelle des Kunden es
+erfordern, werden die Platten folienverschweißt ausgeliefert.
+Über die betrieblichen Recyclinganlagen kann Produktionsausschuss verwertet werden. Die Firma Knauf betreibt im Werk Weißenbach
+eine Recyclinganlage, in der werkseigene Produktionsabfälle aufbereitet und dem Produktionsprozess wieder zugeführt werden. Ein
+geringer Anteil muss dennoch entsorgt werden. Die Anlage hat eine Kapazität von ca. 3 t/h. Ausschuss von Fremdherstellern bzw.
+Baustellenabfall und Abbruchmaterial wird derzeit aufgrund zu befürchtender Verunreinigungen durch Folie, Metall etc. nicht recycelt.
+Es werden Qualitätsmanagementsysteme der Normen ISO 9001, ISO 14001, ISO 45001, ISO 50001 angewandt.
+In Fehler! Ungültiger Eigenverweis auf Textmarke. ist der Produktionsprozess der Gipsplatten der Fa. Knauf GmbH schematisch dargestellt.
+Seite 6 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+Abbildung 1: Beispiel eines Flussdiagramms Herstellungsprozesse
+2.7 Verpackung
+Die Knauf Platten werden auf Mehrwegpaletten ausgeliefert, während des LKW-Transportes werden diese mit Spanngurten mehrfach
+gesichert. Eine weitere Verpackung in Form einer Folierung ist nicht notwendig, wird jedoch auf Wunsch bzw. im Bedarfsfall
+vorgenommen. Der überwiegende Teil wird ohne Folie ausgeliefert.
+2.8 Lieferzustand
+Die Liefereinheiten und Abmessungen sind in der Knauf Preisliste unter www.knauf.at zu finden.
+2.9 Transporte
+Die Gipsvliesplatten werden laut Hersteller per LKW zum Kunden geliefert. Die durchschnittliche Distanz für die Auslieferung der Produkte
+beträgt im Inland 198 km und fürs Ausland 284 km. Es werden 76,8 % im Inland vertrieben und 22,8 % ins Ausland geliefert. Es finden keine
+leeren Rückfahrten zum Werk statt, da die Lastkraftwagen von anderen Kunden genutzt werden.
+2.10 Produktverarbeitung / Installation
+Zur Installation von Trockenbauwänden werden die Platten zunächst mit Schrauben an der Unterkonstruktion fixiert. Dafür wird ein
+Akkuschrauber verwendet. Die Fugen zwischen den Platten werden anschließend mit Spachtelmasse und Fugenbändern versehen, um eine
+glatte Oberfläche zu erzielen. Dazu wird ein geringer Wasseranteil benötigt. Außerdem fällt etwas Bruchmaterial an, welches deponiert
+wird. Die Daten zum Einbau sind im Kapitel Fehler! Verweisquelle konnte nicht gefunden werden. detailliert dargestellt. Die Verarbeitung
+erfolgt gemäß ÖNORM B 3415.
+2.11 Nutzungsphase
+Bei Gipsvliesplatten treten bei ordnungsgemäßer Planung, sach- und fachgerechtem Einbau und störungsfreier Nutzung keine Änderungen
+der stofflichen Zusammensetzung über den Zeitraum der Nutzung auf.
+2.12 Referenznutzungsdauer (RSL)
+Tabelle 4: Referenz-Nutzungsdauer (RSL)
+Bezeichnung Wert Einheit
+Seite 7 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+Gipskartonplatten (eingeschlossen imprägniert und Flammschutz) > 60 Jahre
+2.13 Nachnutzungsphase
+Die Wiederverwendung von Gipsvliesplatten ist theoretisch möglich. Ein Recycling von Gips- und Plattenabfällen (Abbruch) ist möglich,
+wenn durch Aufbereitung reine Gipsfraktionen erzeugt werden. Derzeit ist dies (noch) nicht wirtschaftlich möglich.
+2.14 Entsorgung
+Die Produkte werden derzeit auf Baurestmassendeponien entsorgt, dies wurde in der Bilanzierung mit einer Inertstoffdeponie angenähert.
+Die physikalische Vorbehandlung und der Deponiebetrieb sind in dem eingesetzten ecoinvent-Datensatz inkludiert. Die
+Abfallschlüsselnummer (EAK) lautet: 170802.
+2.15 Weitere Informationen
+Weiterführende Informationen sind unter https://www.knauf.at/ abrufbar.
+3 LCA: Rechenregeln
+3.1 Deklarierte Einheit/ Funktionale Einheit
+Die deklarierte Einheit für Gipsvliesplatten ist 1 m² installierte Platte.
+Tabelle 5: Deklarierte Einheit
+Bezeichnung Wert Einheit
+Deklarierte Einheit 1 m²
+Dicke 15 mm
+Flächengewicht 13,5 kg/m²
+Rohdichte > 880 kg m³
+3.2 Systemgrenze
+In der vorliegenden EPD werden sämtliche Phasen des Lebenszyklus von der Wiege bis zur Bahre und Modul D betrachtet.
+Tabelle 6: Deklarierte Lebenszyklusphasen
+HERSTEL- ERRICH-
+ENTSORGUNGS- Vorteile und
+LUNGS- TUNGS- NUTZUNGSPHASE
+PHASE Belastungen
+PHASE PHASE
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+z t a z t a
+s n s n
+g
+n u lle ts tie r e b ffo ts h o R t r o p s n a r T g n u lle ts r e H t r o p s n a r T u a b n iE / u a B g n u z tu N g n u t la h d n a ts n I r u t a r a p e R z t a s r E g n u r e u e n r E ,u a b m U
+ie
+e ig r e n E r e h c ilb e ir te b
+ie
+r e s s a W r e h c ilb e ir te b h c u r b b A t r o p s n a r T
+g
+n u t fa h c s t r iw e b lla fb A g n u g r o s tn E s g n u d n e w r e v r e d e iW
+-,
+s g n u n n iw e g k c ü R-, la iz n e t o p g n ilc y c e R
+X X X X X X X X X X X X X X X X X
+Seite 8 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+X = in Ökobilanz enthalten; ND = Nicht deklariert
+A1-A3 Herstellungsphase
+In der Herstellungsphase werden sämtliche Einsatzstoffe für die Gipsvliesplatten bilanziert. Der technische Gips setzt sich aus REA-, Citro-
+und Titanogips zusammen. Gemäß PKR werden dem REA-Gips lediglich die Aufbereitung und der Transport angelastet. Für Citrogips und
+Titanogips wurde ebenfalls nur die Aufbereitung und der Transport angelastet.
+A4-A5 Errichtungsphase
+Die Bilanzierung der Phase A4 erfolgt über durchschnittliche Auslieferungsdistanzen fürs In- und Ausland nach der prozentualen
+Liefermenge in die jeweilige Region. Beim Einbau A5 wurde die Energie aufgrund geringer Auswirkungen vernachlässigt. Es wurde von 5 %
+Bruch/Verlust ausgegangen. Die Herstellung des Bruchs/Verlusts sowie der Transport zur Baustelle und die Entsorgung auf der Deponie
+werden in der Phase A5 bilanziert.
+B1- B7 – Nutzungsphase
+Während der Referenznutzungsdauer fallen in den Lebenszyklusphasen B1-B7 keine Stoff- und Energieflüsse an.
+C1-C4 – Entsorgungsphase
+Für das Modul C1 (Abbruch) sind keine Daten zur Bilanzierung bekannt. Daher wurden die Belastungen für den Abbruch aus einem
+ecoinvent-Datensatz übernommen. Die Platten werden in C4 deponiert. Es findet keine Abfallbewirtschaftung (C3) statt, weshalb auch in
+Modul D lediglich Vorteile und Lasten aus A5 zum Tragen kommen.
+3.3 Flussdiagramm der Prozesse im Lebenszyklus
+Abbildung 2: Flussdiagramm der Produktlebensphasen der Knauf Gipsplatte
+Seite 9 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+3.4 Abschätzungen und Annahmen
+Die folgenden Abschätzungen und Annahmen wurden getroffen:
+- Für die Entsorgung der Paletten und Fugenbänder wurden als Transportdistanz 250 km angenommen.
+- Für die thermische Verwertung und der daraus resultierenden Energierückgewinnung in Modul D wurde folgendes Szenario
+angenommen: Für die Energierückgewinnung wurde für Strom mit einem Wirkungsgrad von 11,61 % und Wärme von 29,34 %
+nach CEWEP (2013) gerechnet.
+- Die Energiemenge für die benötigten Maschinen des Abbruchs wurde dem Datensatz «Waste gypsum plasterboard {CH}|
+treatment of waste gypsum plasterboard, collection for final disposal | Cut-off, U» entnommen und mit dem Datensatz „Diesel,
+burned in building machine {GLO}| processing | Cut-off, U“ angenähert. Für C4 wurde diese Energiemenge aus dem Datensatz
+«Waste gypsum plasterboard {CH}| treatment of waste gypsum plasterboard, collection for final disposal | Cut-off, U»
+genommen, da sie bereits in C1 enthalten ist.
+- Für die Berechnung von D aus A5 wurde für den Heizwert der Palette ein Wert von 15,7 MJ/kg angenommen.
+- Für den Heizwert des Kunstharzes in der Glasfaserbewehrung wurde ein Wert von 14,61 MJ/kg angenommen.
+3.5 Abschneideregeln
+Es wurden alle eingesetzten Rohstoffe berücksichtigt. Im Normalfall werden die Produkte auf Paletten gelagert. Nur auf ausdrücklichen
+Kundenwunsch werden die Platten mit Zurrgurten und Metallkantenschutzwinkel gesichert. Diese sind Lademittel und werden vom
+Transporteur gestellt, täglich wiederverwendet und daher nicht berücksichtigt.
+Infrastrukturdaten wie der Maschinenpark, sowie Abfälle der Hilfsstoffe und Energie für den Einbau (siehe auch Fehler! Verweisquelle
+konnte nicht gefunden werden.) wurden vom Hersteller nicht deklariert. Für die Infrastruktur der Gipsplatten-Produktion, wie die
+Produktionshalle, Maschinen und Hilfsstoffe, wurde eine Sensitivitätsanalyse mit vergleichbaren generischen Datensätzen, durchgeführt.
+Diese kam zu dem Ergebnis, dass die Auswirkungen sehr gering und daher vernachlässigbar sind.
+3.6 Hintergrunddaten
+Sämtliche Hintergrunddaten wurden der Datenbank ecoinvent v3.9.1 – allocation, cut-off by classification entnommen.
+3.7 Datenqualität
+Die Sammlung der Vordergrunddaten erfolgte über einen an die Firma Knauf GmbH übermittelten Datenerhebungsbogen. Rückfragen
+wurden in einem iterativen Prozess schriftlich via E-Mail oder telefonisch mit dem Werksleiter geklärt. Im Rahmen der IBO-Produktprüfung
+wurde bei einem Fertigungsstättenbesuch die Herstellerangaben auf Vollständigkeit und Plausibilität vor Ort geprüft.
+Es wurde ein konsistentes und einheitliches Berechnungsverfahren gemäß ISO 14044 angewandt. Beim Fehlen spezifischer Daten wurde
+auf generische Datensätze zurückgegriffen. Bei der Auswahl der Hintergrunddaten wurde auf die technologische, geographische und
+zeitbezogene Repräsentativität der Datengrundlage geachtet. Die Ursprünge einzelner Datensätze sind älter als 10 Jahre. Dabei handelt es
+sich gemäß Datenbankdokumentation meist um entsprechend aktualisierte oder auf aktuelle Verhältnisse extrapolierte Datensätze. Die
+Zeitperiode jedes Datensatzes repräsentiert kein Ablaufdatum, sondern die Periode der ursprünglichen Datenerhebung oder die Periode,
+auf die der Datensatz extrapoliert wurde.
+3.8 Betrachtungszeitraum
+Die Vordergrunddaten beziehen sich auf das Betriebsjahr 2022.
+3.9 Allokation
+Bei der Produktion der Gipsvliesplatten fallen keine Nebenprodukte an. Für die generischen Daten kommen die Allokationsregeln gemäß
+der eingesetzten Datenbank bzw. Datensätze zum Zug.
+3.10 Vergleichbarkeit
+Seite 10 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+Grundsätzlich ist eine Gegenüberstellung oder die Bewertung von EPD-Daten nur möglich, wenn alle zu vergleichenden Datensätze nach
+EN 15804 in der gleichen Version erstellt wurden, die gleichen programmspezifischen PKR bzw. etwaige zusätzliche Regeln sowie die gleiche
+Hintergrunddatenbank verwendet wurden und darüber hinaus der Gebäudekontext bzw. produktspezifische Leistungsmerkmale
+berücksichtigt werden.
+4 LCA: Szenarien und weitere technische Informationen
+4.1 A1-A3 Herstellungsphase
+Laut ÖNORM EN 15804 sind für die Module A1-A3 keine technischen Szenarioangaben gefordert, weil die Bilanzierung dieser Module in
+der Verantwortung des Herstellers liegt und vom Verwender der Ökobilanz nicht verändert werden darf.
+4.2 A4-A5 Errichtungsphase
+In Tabelle 7 sind die Parameter für den Transport zur Baustelle dargestellt.
+Tabelle 7: Beschreibung des Szenarios „Transport zur Baustelle (A4)“
+Parameter zur Beschreibung des Transportes zur Baustelle (A4) Wert Messgröße
+Mittlere Transportentfernung 217,94 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) EURO6 -
+Mittlerer Treibstoffverbrauch, Treibstofftyp: Diesel 0,014 l/100 km
+Mittlere Transportmenge 24 t
+Mittlere Auslastung (einschließlich Leerfahrten) 65 %
+Mittlere Rohdichte der transportierten Produkte 0,880 t /m3
+Volumen-Auslastungsfaktor (Faktor: =1 oder <1 oder ≥ 1 für in Schachteln verpackte oder
+1 -
+komprimierte Produkte
+Die Energie für den Einbau wurde vernachlässigt, da eine Sensitivitätsanalyse gezeigt hat, dass die Auswirkungen der elektrischen Energie
+beim Einbau sehr gering sind.
+Tabelle 8: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“
+Parameter zur Beschreibung des Einbaus ins Gebäude (A5) Wert Messgröße
+Hilfsstoffe für den Einbau (spezifiziert nach Stoffen)
+Schrauben 0,49 p/kg
+Spachtelmasse 0,3 kg/m²
+Fugenband 6,00 E-01 kg/m²
+Hilfsmittel für den Einbau (spezifiziert nach Type) - -
+Wasserbedarf 1,85E-05 m3/kg
+Sonstiger Ressourceneinsatz - kg/t
+Stromverbrauch - kWh oder MJ/t
+Weiterer Energieträger: ……………. - kWh oder MJ/t
+Materialverlust auf der Baustelle vor der Abfallbehandlung, verursacht durch den Einbau des
+Produktes:
+Bruchmaterial 5 %
+Spachtelmasse 0,02 kg/m²
+Fugenband 5,00E-05 kg/m²
+Output-Stoffe infolge der Abfallbehandlung auf der Baustelle:
+Spachtelmasse zur Deponie 0,02 kg/m²
+Fugenband zur Deponie 5,00E-05 kg/m²
+Bruch zur Deponie 5 %
+Palette zur thermischen Verwertung 1,99E-04 kg/kg
+Direkte Emissionen in die Umgebungsluft (z.B. Staub, VOC), Boden und Wasser
+- kg/t
+4.3 B1-B7 Nutzungsphase
+Seite 11 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+Angabe Referenznutzungsdauer: 60 Jahre
+In den Modulen B1-B7 gibt es keine Stoff- bzw. Massenströme, Input +/- Output =0.
+4.4 C1-C4 Entsorgungsphase
+Die Produkte werden derzeit auf Baurestmassendeponien entsorgt, dies wurde in der Bilanzierung mit einer Inertstoffdeponie angenähert.
+Es wurde eine durchschnittliche Transportdistanz von 50 km zu umliegenden Deponien angenommen.
+Tabelle 9: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“
+Parameter für die Entsorgungsphase (C1-C4) Wert Messgröße
+kg
+getrennt
+Sammelverfahren, spezifiziert nach Art
+kg
+gemischt
+kg
+Wiederverwendung
+Rückholverfahren, spezifiziert nach Art kg
+Recycling
+kg
+Energierückgewinnung
+Deponierung, spezifiziert nach Art 13,52 kg
+Deponierung
+Annahmen für die Szenarienentwicklung, z. B. für den Transport Sinnvolle Einheiten
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial
+Die Energierückgewinnung stammt aus der Verpackung der Palette, die für die Auslieferung der Produkte verwendet wird.
+Tabelle 10: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“
+Parameter für das Modul (D) Wert Messgröße
+Materialien für Wiederverwendung oder Recycling aus A4-A5 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus A4-A5 1,73E-02 MJ/m²
+Materialien für Wiederverwendung oder Recycling aus B2-B5 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus B2-B5 MJ/t bzw. kg/t
+Materialien für Wiederverwendung oder Recycling aus C1-C4 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus C1-C4 MJ/t bzw. kg/t
+Seite 12 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar- 15
+5 LCA: Ergebnisse
+Tabelle 11: Ergebnisse der Ökobilanz Umweltauswirkungen für das Produkt Drystar 15 mm
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5
+GWP total kg CO2 äquiv 4,05E+00 5,44E-01 4,97E-01 0,00E+00 4,81E-02 2,20E-01 0,00E+00 8,22E-02 -6,92E-04
+GWP fossil fuels kg CO2 äquiv 4,14E+00 5,44E-01 4,08E-01 0,00E+00 4,81E-02 2,20E-01 0,00E+00 8,22E-02 -6,91E-04
+GWP biogenic2 kg CO2 äquiv -8,89E-02 0,00E+00 8,89E-02 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+GWP luluc kg CO2 äquiv 2,38E-03 2,68E-04 2,97E-04 0,00E+00 5,41E-06 1,01E-04 0,00E+00 4,96E-05 -4,00E-07
+kg CFC-11
+ODP 2,85E-07 1,18E-08 2,09E-08 0,00E+00 7,65E-10 4,83E-09 0,00E+00 2,38E-09 -2,95E-11
+äquiv
+AP mol H+ äquiv 2,11E-02 1,19E-03 1,94E-03 0,00E+00 4,46E-04 8,64E-04 0,00E+00 6,19E-04 -1,22E-06
+EP freshwater kg P äquiv 7,78E-04 3,86E-05 1,17E-04 0,00E+00 1,48E-06 1,53E-05 0,00E+00 6,84E-06 -3,53E-07
+EP marine kg N äquiv 4,24E-03 3,00E-04 4,58E-04 0,00E+00 2,07E-04 3,28E-04 0,00E+00 2,38E-04 -3,52E-07
+EP terrestrial mol N äquiv 4,56E-02 3,05E-03 4,72E-03 0,00E+00 2,25E-03 3,50E-03 0,00E+00 2,55E-03 -3,26E-06
+kg NMVOC
+POCP 1,66E-02 1,84E-03 1,75E-03 0,00E+00 6,65E-04 1,27E-03 0,00E+00 8,87E-04 -1,51E-06
+äquiv
+ADPE kg Sb äquiv 1,79E-04 1,78E-06 1,69E-05 0,00E+00 1,68E-08 7,07E-07 0,00E+00 1,14E-07 -9,74E-10
+ADPF MJ Hu 6,50E+01 7,72E+00 5,96E+00 0,00E+00 6,30E-01 3,12E+00 0,00E+00 2,05E+00 -1,05E-02
+m3 Welt äquiv
+WDP 1,69E+00 3,18E-02 1,34E-01 0,00E+00 1,36E-03 1,18E-02 0,00E+00 9,04E-02 -8,96E-05
+entz.
+GWP = Globales Erwärmungspotenzial; luluc = land use and land use change;
+ODP = Abbaupotenzial der stratosphärischen Ozonschicht;
+AP = Versauerungspotenzial, kumulierte Überschreitung; EP = Eutrophierungspotenzial;
+Legende
+POCP = Bildungspotenzial für troposphärisches Ozon; ADPE = Potenzial für den abiotischen Abbau nicht fossiler
+Ressourcen; ADPF = Potenzial für den abiotischen Abbau fossiler Brennstoffe; WDP = Wasser-Entzugspotenzial
+(Benutzer)
+Tabelle 12: Zusätzliche Umweltindikatoren für das Produkt Drystar 15 mm
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5
+Auftreten von
+PM 1,89E-07 4,05E-08 2,31E-08 0,00E+00 1,24E-08 1,55E-08 0,00E+00 1,14E-07 -5,72E-12
+Krankheiten
+IRP kBq U235 äquiv 3,44E-01 1,05E-02 3,30E-02 0,00E+00 2,99E-04 5,04E-03 0,00E+00 1,30E-03 -7,90E-05
+ETP-fw CTUe 1,79E+01 3,82E+00 3,93E+00 0,00E+00 3,01E-01 1,58E+00 0,00E+00 9,61E-01 -1,17E-03
+HTP-c CTUh 5,36E-09 2,48E-10 1,00E-09 0,00E+00 1,47E-11 9,28E-11 0,00E+00 3,50E-11 -1,58E-13
+HTP-nc CTUh 9,63E-08 5,48E-09 1,16E-08 0,00E+00 1,02E-10 2,07E-09 0,00E+00 4,38E-10 -2,88E-12
+-
+SQP Dimensions-los 4,67E+00 1,91E+00 0,00E+00 4,24E-02 1,60E+00 0,00E+00 4,06E+00 -1,63E-03
+4,29E+00
+PM = Potenzielles Auftreten von Krankheiten aufgrund von Feinstaubemissionen; IRP = Potenzielle Wirkung durch
+Exposition des Menschen mit U235; ETP-fw = Potenzielle Toxizitätsvergleichseinheit für Ökosysteme; HTP-c =
+Legende
+Potenzielle Toxizitätsvergleichseinheit für den Menschen - kanzerogene Wirkung; HTP-nc = Potenzielle
+Toxizitätsvergleichseinheit für den Menschen - nicht kanzerogene Wirkung; SQP = Potenzieller Bodenqualitätsindex
+2 Das GWP biogen repräsentiert nur den theoretisch gespeicherten Wert des Produkts, die Emissionen aus der Vorkette werden nicht
+berücksichtigt. Damit ist der Indikator über den Gesamtlebenszyklus in Summe mit Wert = 0 ausgewiesen.
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+Tabelle 13: Ergebnisse der Ökobilanz Ressourceneinsatz für das Produkt Drystar 15 mm
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5
+PERE MJ H
+u
+3,56E+00 1,17E-01 1,30E+00 0,00E+00 3,47E-03 5,23E-02 0,00E+00 1,66E-02 -3,66E-03
+PERM MJ H
+u
+7,79E-01 0,00E+00 -7,79E-01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+PERT MJ H
+u
+4,34E+00 1,17E-01 5,20E-01 0,00E+00 3,47E-03 5,23E-02 0,00E+00 1,66E-02 -3,66E-03
+PENRE MJ H
+u
+6,24E+01 7,72E+00 5,89E+00 0,00E+00 6,30E-01 3,12E+00 0,00E+00 4,51E+00 -1,05E-02
+-
+PENRM MJ H
+u
+2,52E+00 0,00E+00 -4,80E-02 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+2,47E+00
+0,00E+00
+PENRT MJ H
+u
+6,49E+01 7,72E+00 5,84E+00 0,00E+00 6,30E-01 3,12E+00 0,00E+00 2,05E+00 -1,05E-02
+SM kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+RSF MJ H
+u
+0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+NRSF MJ H
+u
+0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+FW m3 ND ND ND ND ND ND ND ND ND
+PERE = Erneuerbare Primärenergie als Energieträger; PERM = Erneuerbare Primärenergie zur stofflichen
+Nutzung; PERT = Total erneuerbare Primärenergie; PENRE = Nicht-erneuerbare Primärenergie als
+Energieträger; PENRM = Nicht-erneuerbare Primärenergie zur stofflichen Nutzung; PENRT = Total nicht
+Legende erneuerbare Primärenergie; SM = Einsatz von Sekundärstoffen; RSF = Erneuerbare Sekundärbrennstoffe;
+NRSF = Nicht erneuerbare Sekundärbrennstoffe;
+FW = Einsatz von Süßwasserressourcen (die ecoinvent-Datensätze lassen keine vollständige Erfassung des
+Einsatzes von Süßwasserressourcen zu)
+Tabelle 14: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien für das Produkt Drystar 15 mm
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5
+HWD kg 2,46E-04 4,91E-05 6,73E-05 0,00E+00 4,24E-06 1,98E-05 0,00E+00 1,08E-05 -3,35E-08
+NHWD kg 9,23E-01 3,84E-01 8,06E-01 0,00E+00 9,02E-04 1,29E-01 0,00E+00 1,35E+01 -4,43E-05
+RWD kg 1,61E-04 4,62E-06 1,56E-05 0,00E+00 1,24E-07 2,26E-06 0,00E+00 5,42E-07 -3,78E-08
+CRU kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MFR kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MER kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+EEE MJ 0,00E+00 0,00E+00 4,89E-03 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+EET MJ 0,00E+00 0,00E+00 1,24E-02 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+HWD = Gefährlicher Abfall zur Deponie; NHWD = Entsorgter nicht gefährlicher Abfall; RWD = Entsorgter
+radioaktiver Abfall; CRU =Komponenten für die Wiederverwendung; MFR = Stoffe zum Recycling; MER =
+Legende
+Stoffe für die Energierückgewinnung; EEE = Exportierte Energie elektrisch; EET = Exportierte Energie
+thermisch
+Seite 14 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar- 15
+Tabelle 15: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren
+ILCD-Klassifizierung Indikator Einschränkungshinweis
+Treibhauspotenzial (GWP, en: Global Warming Potential) keine
+Potenzial des Abbaus der stratosphärischen Ozonschicht,
+keine
+ILCD-Typ 1 (ODP, en: Ozone Depletion Potential)
+potenzielles Auftreten von Krankheiten aufgrund von
+keine
+Feinstaubemissionen (PM, en: particulate Matter)
+Versauerungspotenzial, kumulierte Überschreitung
+keine
+(AP, en: Acidification Potential)
+Eutrophierungspotenzial, in das Süßwasser gelangende
+keine
+Nährstoffanteile (EP-Süßwasser)
+Eutrophierungspotenzial, in das Salzwasser gelangende
+keine
+ILCD-Typ 2 Nährstoffanteile (EP-Salzwasser)
+Eutrophierungsspotenzial, kumulierte Überschreitung (EP-Land) keine
+troposphärisches Ozonbildungspotential
+keine
+(POCP, en: Photochemical Ozone Creation Potential)
+potenzielle Wirkung durch Exposition des Menschen mit U235
+1
+(IRP, en: potential ionizing radiation)
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+nicht fossile Ressourcen (ADP-Mineralien und Metalle)
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+fossile Ressourcen (ADP-fossil)
+Wasser-Entzugspotenzial (Benutzer), entzugsgewichteter
+ILCD-Typ 3 2
+Wasserverbrauch (WDP, en: Water Deprivation Potential)
+potenzielle Toxizitätsvergleichseinheit für Ökosysteme (ETP-fw) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-c) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-nc) 2
+potenzieller Bodenqualitätsindex (SQP, en: Soil Quality Index) 2
+Einschränkungshinweis 1 — Diese Wirkungskategorie behandelt hauptsächlich die mögliche Wirkung einer
+ionisierenden Strahlung geringer Dosis auf die menschliche Gesundheit im Kernbrennstoffkreislauf. Sie berücksichtigt
+weder Auswirkungen, die auf mögliche nukleare Unfälle und berufsbedingte Exposition zurückzuführen sind, noch auf
+die Entsorgung radioaktiver Abfälle in unterirdischen Anlagen. Die potenzielle vom Boden, von Radon und von einigen
+Baustoffen ausgehende ionisierende Strahlung wird eben-falls nicht von diesem Indikator gemessen.
+Einschränkungshinweis 2 — Die Ergebnisse dieses Umweltwirkungsindikators müssen mit Bedacht angewendet
+werden, da die Unsicherheiten bei diesen Ergebnissen hoch sind oder da es mit dem Indikator nur
+begrenzte Erfahrungen gibt.
+Tabelle 16: Informationen zur Beschreibung des biogenen Kohlenstoffgehalts am Werkstor für das Produkt Drystar 15 mm
+Norm Wert Einheit
+Biogener Kohlenstoff im Produkt 0,000 kg C
+Biogener Kohlenstoff in der zugehörigen Verpackung 0,024 kg C
+Anmerkung: 1 kg biogener Kohlenstoff entspricht 44/12 kg CO2
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+6 LCA: Interpretation
+Die Lebenszyklusphase A1-A3 ist bei den meisten Indikatoren mit 74-87 % dominierend. An der Herstellungsphase ist die thermische
+Energie beim GWP besonders ausschlaggebend und für über die Hälfte der Auswirkungen verantwortlich. Weitere relevante Treiber in der
+Herstellungsphase sind der Transport der Einsatzstoffe sowie der Einsatz elektrischer Energie im Werk.
+Hauptverantwortlich für den hohen Anteil der Einbauphase ist der Herstellung der benötigten Metallschrauben. Der Transport zur Baustelle
+spielt in den meisten Kategorien eine untergeordnete Rolle. Lediglich beim GWP sowie beim ADPF und POCP ist der Anteil über 8 %. Unter
+den Entsorgungsphasen hat der Transport zur Deponie die größte Bedeutung.
+Seite 16 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+7 Literaturhinweise
+Bau-EPD GmbH (2015)
+Nutzungsdauerkatalog der Bau-EPD GmbH für die Erstellung von EPDs. Bau EPD GmbH. Stand 10.08.2015
+Bau EPD GmbH (2023)
+Management-System Handbuch. Qualitätssicherung und Verifizierung. Allgemeine Produktkategorieregeln für EPDs. Allgemeine
+Ökobilanzrechenregeln für EPDs zur Erstellung von Typ III Umweltproduktdeklarationen. Version 5.0.0. Stand 20.09.2023
+PKR-B für Gipsplatten (2023) der Bau EPD GmbH. Version 17.0 Stand 20.09.2023.
+CEWEP (2013)
+O.Reimann: CEWEP Energy Report III (Status 2007-2010). Results of Specific Data for Energy, R1 Plant Efficiency Factor and NCV of 314
+European Waste-to-Energy (WtE) Plants. Würzburg/Brussels 2013
+EN 15283-1:2009
+Faserverstärkte Gipsplatten- Begriffe, Anforderungen und Prüfverfahren- Teil 1: Gipsplatten mit Vliesarmierung. Ausgabedatum
+01.10.2009
+Janssen (1994)
+Janssen, I., Fellinger, R. 1994: Ökobilanz Zitronensäuregips, in Ecoinforma Band 7, Springer-Verlag, 1994.
+ÖNORM EN ISO 14025
+ÖNORM EN ISO 14025:2010-07-01: Umweltkennzeichnung und -deklarationen – Typ III Umweltdeklarationen – Grundsätze und
+Verfahren
+ÖNORM EN ISO 14040
+ÖNORM EN ISO 14040:2021-03-01: Umweltmanagement – Ökobilanz – Grundsätze und Rahmenbedingungen (ISO 14040:2006 + Amd
+1:2020)
+ÖNORM EN ISO 14044: Umweltmanagement – Ökobilanz – Anforderungen und Anleitungen
+ÖENORM EN ISO 14044:2021-03-01 Umweltmanagement - Ökobilanz - Anforderungen und Anleitungen (ISO 14044:2006 + Amd 1:2017 +
+Amd 2:2020)
+ÖNORM EN 15804
+ÖNORM EN 15804:2022-02-15: Nachhaltigkeit von Bauwerken – Umweltdeklarationen für Produkte – Grundregeln für die
+Produktkategorie Bauprodukte
+WRAP (2008)
+Life Cycle Assessment of Plasterboard, WRAP (Waste & Resources Action Programme), Written by Karen Fisher, Environmental Resources
+Management Ltd (ERM), April 2008.
+Seite 17 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar-15
+8 Verzeichnisse und Glossar
+8.1 Abbildungsverzeichnis
+Abbildung 1: Beispiel eines Flussdiagramms Herstellungsprozesse ................................................................................................................. 7
+Abbildung 2: Flussdiagramm der Produktlebensphasen der Knauf Gipsplatte ................................................................................................ 9
+8.2 Tabellenverzeichnis
+Tabelle 1: Produktrelevante Normen ............................................................................................................................................................... 5
+Tabelle 2: Technische Daten für Knauf Drystar Board 15 ................................................................................................................................. 5
+Tabelle 3: Grundstoffe in Masse-% ................................................................................................................................................................... 6
+Tabelle 4: Referenz-Nutzungsdauer (RSL) ........................................................................................................................................................ 7
+Tabelle 5: Deklarierte Einheit ........................................................................................................................................................................... 8
+Tabelle 6: Deklarierte Lebenszyklusphasen ...................................................................................................................................................... 8
+Tabelle 7: Beschreibung des Szenarios „Transport zur Baustelle (A4)“ .......................................................................................................... 11
+Tabelle 8: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“........................................................................................................... 11
+Tabelle 9: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“ ............................................................................................. 12
+Tabelle 10: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“ ............................. 12
+Tabelle 11: Ergebnisse der Ökobilanz Umweltauswirkungen für das Produkt Drystar 15 mm ....................................................................... 13
+Tabelle 12: Zusätzliche Umweltindikatoren für das Produkt Drystar 15 mm ................................................................................................. 13
+Tabelle 13: Ergebnisse der Ökobilanz Ressourceneinsatz für das Produkt Drystar 15 mm ............................................................................ 14
+Tabelle 14: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien für das Produkt Drystar 15 mm ................................................. 14
+Tabelle 15: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren ........................ 15
+Tabelle 16: Informationen zur Beschreibung des biogenen Kohlenstoffgehalts am Werkstor für das Produkt Drystar 15 mm .................... 15
+8.3 Abkürzungen
+EPD Umweltproduktdeklaration (en: environmental product declaration)
+PKR Produktkategorieregeln, (en: product category rules)
+LCA Ökobilanz, (en: life cycle assessment)
+LCI Sachbilanz, (en: life cycle inventory analysis)
+LCIA Wirkungsabschätzung, (en: life cycle impact assessment)
+ND Nicht deklariert
+RSL Referenz-Nutzungsdauer, (en: reference service life)
+ESL Voraussichtliche Nutzungsdauer, (en: estimated service life)
+EPBD Richtlinie zur Energieeffizienz von Gebäuden, (en: Energy Performance of Buildings Directive)
+GWP Treibhauspotenzial (en: global warming potential)
+ODP Abbaupotenzial der stratosphärischen Ozonschicht (en: depletion potential of the stratospheric ozone layer)
+AP Versauerungspotenzial von Boden und Wasser (en: acidification potential of soil and water)
+EP Eutrophierungspotenzial (en: eutrophication potential)
+POCP Potenzial für die Bildung von troposphärischem Ozon (en: formation potential of tropospheric ozone)
+ADP Potenzial für die Verknappung von abiotischen Ressourcen (en: abiotic depletion potential)"
+Seite 18 von 19
+BAU-EPD-KNAUF-2025-20-ecoinvent-Drystar- 15
+Herausgeber
+Bau EPD GmbH
+Seidengasse 13/3 Tel +43 664 2 427 429
+1070 Wien Mail office@bau-epd.at
+Österreich Web www.bau-epd.at
+Programmbetreiber
+Bau EPD GmbH
+Seidengasse 13/3 Tel +43 664 2 427 429
+1070 Wien Mail office@bau-epd.at
+Österreich Web www.bau-epd.at
+Ersteller der Ökobilanz
+IBO GmbH Tel +43 1 3192005
+Alserbachstraße 5/8 Fax +43 1 3192005 50
+1090 Wien Mail ibo@ibo.at
+Österreich Web www.ibo.at
+Inhaber der Deklaration
+Knauf Gesellschaft m.b.H. Tel +43 50 567 567
+Knaufstraße 1 Fax +43 50 567 50 567
+8940 Weißenbach/Liezen Mail kundenservice@knauf.com
+Österreich Web www.knauf.at

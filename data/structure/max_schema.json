@@ -1,0 +1,95 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "title": "Structure",
+    "type": "object",
+    "properties": {
+        "Name": {
+            "type": "string"
+        },
+        "ProducerName": {
+            "type": "string"
+        },
+        "Compliance": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "ValidTo": {
+            "type": "number"
+        },
+        "RefYear": {
+            "type": "number"
+        },
+        "EPDID": {
+            "type": "string"
+        },
+        "environmental_impact": {
+            "$ref": "#/definitions/Table"
+        },
+        "additional_environmental_impact": {
+            "$ref": "#/definitions/Table"
+        },
+        "resource_use": {
+            "$ref": "#/definitions/Table"
+        },
+        "end_of_life_waste": {
+            "$ref": "#/definitions/Table"
+        },
+        "end_of_life_flow": {
+            "$ref": "#/definitions/Table"
+        }
+    },
+    "required": [
+        "Name",
+        "ProducerName",
+        "Compliance",
+        "ValidTo",
+        "RefYear",
+        "EPDID",
+        "environmental_impact",
+        "additional_environmental_impact",
+        "resource_use",
+        "end_of_life_waste",
+        "end_of_life_flow"
+    ],
+    "definitions": {
+        "Table": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "Parameter": {
+                        "type": "string"
+                    },
+                    "Unit": {
+                        "type": "string"
+                    },
+                    "Values": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "Value": {
+                                    "type": "string"
+                                },
+                                "Module": {
+                                    "type": "string"
+                                }
+                            },
+                            "required": [
+                                "Value",
+                                "Module"
+                            ]
+                        }
+                    }
+                },
+                "required": [
+                    "Parameter",
+                    "Unit",
+                    "Values"
+                ]
+            }
+        }
+    }
+}

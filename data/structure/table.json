@@ -1,0 +1,34 @@
+{
+    "$id": "table.json",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "Parameter": {
+                "type": "string",
+                "description": "Parameter name like GWP-Total"
+            },
+            "Unit": {
+                "type": "string",
+                "description": "Unit of the impact like CO2. eq"
+            },
+            "Values": {
+                "type": "array",
+                "description": "Values for each life cycle stage",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "Value": {
+                            "type": "string",
+                            "description": "Value of the given parameter and module in the table"
+                        },
+                        "Module": {
+                            "type": "string",
+                            "description": "Module name like A1 or A2"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

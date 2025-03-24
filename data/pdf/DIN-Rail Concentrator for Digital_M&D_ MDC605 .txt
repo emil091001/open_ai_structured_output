@@ -1,0 +1,673 @@
+—
+EPD
+Environmental Product Declaration
+DIN-Rail Concentrator for Digital/M&D: MDC605
+Production site: Dalmine, Italy
+DOCUMENT KIND IN COMPLIANCE WITH
+Environmental Product Declaration ISO 14025 and EN50693
+PROGRAM OPERATOR PUBLISHER
+The Norwegian EPD Foundation The Norwegian EPD Foundation
+REGISTRATION NUMBER OF THE PROGRAM OPERATOR ISSUE DATE
+NEPD-4065-3092-EN 2022-12-22
+VALID TO STATUS SECURITY LEVEL
+2027-12-22 In Review Internal
+OWNING ORGANIZATION DECLARATION NUMBER REV. LANG. PAGE
+ABB Switzerland Ltd, Group Technology Management 2RDA045143 A EN 1/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+EPD Owner ABB Switzerland Ltd, Group Technology Management
+Manufacturer
+ABB S.p.A.
+name and
+Via Friuli, 4, 24044 Dalmine (BG)
+address
+Company
+Massimo Bresciani - massimo.bresciani@it.abb.com
+contact
+The Norwegian EPD Foundation
+Program Post Box 5250 Majorstuen, 0303 Oslo, Norway
+operator Ph.:+47 23 08 80 00
+email: post@epd-norge.no
+Declared
+DIN-Rail Concentrator for Digital/M&D: MDC605.
+product &
+Functional unit
+DU: The declared unit is a single product (MDC605) with a service life of 20
+or declared
+years.
+unit
+DIN-Rail Concentrator for Digital/M&D: MDC605 is an electronic device which
+Product
+is used for the digitization of medium voltage switchboards and it is installed
+description
+directly in the lower compartment of the electrical switchboard.
+CPC code 46 “Electrical machinery and apparatus”
+Independent verification of the declaration and data,
+according to ISO14025:2010
+Independent
+☐INTERNAL ☒ EXTERNAL
+verification
+Independent verifier approved by EPD Norway:
+Vito D’Incognito
+Reference PCR PCR EPDItaly007 REV 2. Electronic and electrical products and systems.
+and version Review carried out by: Ing. Massimo De Pieri, Arch. Michele Paleari, Ing. Sara
+number Toniolo.
+Other EN 50693:2019 - Product category rules for life cycle assessments of
+reference electronic and electrical products and systems.
+documents Regulations of the EPDItaly Programme rev. 5.2 (16th February 2022).
+Product RSL
+20 years
+description
+World (raw materials)
+Markets of
+Malaysia (production)
+applicability
+Europe (use and end-of-life)
+This EPD is based on the LCA study described in the LCA report “ABB
+LCA study
+Dalmine_LCA Report_MDC605”.
+EPD type Product specific
+EPD scope “Cradle to grave”
+Year of
+reported 2021
+primary data
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 2/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Technical 2B Srl (Italy)
+support Via della Chiesa Campocroce 4, Mogliano Veneto (TV)
+LCA software SimaPro 9.3.0.3 (2022)
+LCI database ecoinvent v3.8 (2021)
+LCIA
+Reference Standards EN 50693:2019
+methodology
+EPDs published within the same product category, though originating from
+different programs, may not be comparable. Full conformance with a PCR
+Comparability
+allows EPD comparability only when all stages of a life cycle have been
+considered. However, variations and deviations are possible.
+EPDItaly declines any responsibility regarding the manufacturer's
+Liability
+information, data and results of the life cycle assessment.
+Håkon Hauan, Manager director of EPD-Norway.
+Approved by
+Signature:
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 3/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Contents
+ABB Purpose & Embedding Sustainability .....................................................................................5
+General Information ........................................................................................................................ 6
+Constituent materials ...................................................................................................................... 7
+LCA background information ......................................................................................................... 8
+Inventory analysis .......................................................................................................................... 11
+Environmental indicators .............................................................................................................. 13
+Additional environmental information ........................................................................................ 16
+Additional Norwegian requirements ............................................................................................ 17
+References....................................................................................................................................... 18
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 4/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+ABB Purpose & Embedding Sustainability
+ABB is a leading global technology company that energizes the transformation of society
+and industry to achieve a more productive, sustainable future. By connecting software to
+its electrification, robotics, automation and motion portfolio, ABB pushes the boundaries
+of technology to drive performance to new levels. With a history of excellence stretching
+back more than 130 years, ABB’s success is driven by about 110 thousand talented
+employees in over 100 countries.
+ABB's Electrification business offers a wide-ranging portfolio of products, digital
+solutions and services, from substation to socket, enabling safe, smart and sustainable
+electrification. Offerings encompass digital and connected innovations for low and
+medium voltage, including EV infrastructure, solar inverters, modular substations,
+distribution automation, power protection, wiring accessories, switchgear, enclosures,
+cabling, sensing and control.
+ABB is committed to continually promoting and embedding sustainability across its
+operations and value chain, aspiring to become a role model for others to follow. With its
+ABB Purpose, ABB is focusing on reducing harmful emissions, preserving natural
+resources and championing ethical and humane behavior.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 5/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+General Information
+ABB S.p.A. Electrification Distribution Solutions facility in Dalmine (ELDS division)
+produces medium voltage circuit breakers, disconnectors, contactors, medium voltage
+switchboards for primary and secondary distribution, low voltage switchboards,
+complete packages and services for substations. Smart systems and technologies for
+electrical distribution are supplied to utilities, industrial, and tertiary sector customers.
+Dalmine exports 85% of the volumes produced.
+ABB ELDS division, Italy adopts and implements for its own activities an integrated
+Quality/Environmental/Health Management System in compliance with the following
+standards:
+• UNI EN ISO 9001/2015 - Quality Management Systems- Requirements
+• UNI EN ISO 14001/2015 - Sistemi di Gestione Ambientale Requisiti e Guida per l’Uso
+• UNI EN ISO 45001:2018 - Occupational Health and Safety Assessment Series
+The manufacturing site of MDC605 is located in Malaysia and made by the ABB supplier
+“Celestica Electronics”. The storage of MDC605 series takes place in ABB Dalmine site.
+Digital devices embedded in medium voltage apparatus for monitor and diagnostic, such
+as MDC605, enable and support new operation processes and business models and drives
+smart and sustainable revolution in switchgears/apparatus.
+MDC605 DIN-Rail Concentrator is an electronic device directly installed on a metal rail, DIN
+type, in the low voltage compartment of the electrical switchboard. It allows the
+connection of sensors and smart devices, the collection of the related data and their
+analysis. MDC605 it is composed by 3 electronic boards enclosed in a plastic container
+and among the main functions there are data recording, monitoring, diagnostics and
+upstream communication to electrical control systems.
+Technical specifications of MDC605 are as follow:
+MDC605 Value
+Rated voltage [VAC] 85-305
+Frequency [Hz] 47-440
+Rated voltage [VDC] 120-430
+The accessories associated with this product are also included in the study.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 6/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Constituent materials
+The MDC605 weights about 0,35 kg. Due to the complex nature of the electronics, these
+are presented as a separate category, which includes printed circuit boards and their
+components. Electronics are typically composed of various plastics, copper, and precious
+metals. The packaging is composed of LDPE and cardboard, resulting in a total weight of
+0,27 kg (referred to 1 declared unit).
+MDC605
+Materials Name Weight [kg] %
+Polycarbonate 0,1410 22,6%
+Plastics
+PET 0,0002 < 0,1%
+Steel, low-alloyed 0,0006 0,1%
+Metals Steel, stainless steel 0,0001 < 0,1%
+Copper 0,0015 0,2%
+Others Electronics (PCA) 0,2075 33,3%
+Total MDC605 0,3509 56,3%
+Packaging
+Plastics LDPE sponge 0,0500 8,0%
+Others Carton box 0,2228 35,7%
+Sub-total packaging 0,2728 43,7%
+Total 0,6237 100,0%
+MDC605 & packaging
+Electronics
+Carton box
+33%
+36%
+Sponge
+8% PC + GF (10%)
+23%
+Electronics PC + GF (10%) Copper Steel
+Stainless Steel PET Sponge Carton box
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 7/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+LCA background information
+This Environmental Product Declaration (EPD) has been performed in line with Product
+Category Rules PCR EPDItaly007, standard EN 50693, and ISO 14040/14044. For the realization
+of this LCA study, Sub-PCR 015 - Electronic and electrical products and systems Switchboards
+is also consider for the use phase formula.
+Declared Unit
+The declared unit is a single product (MDC605) and its packaging with a service life of 20
+years, as required by PCR 007 Electronic and electrical products and systems. MDC605 is
+applied to connect sensors and smart devices with the function of data recording,
+monitoring and diagnostics.
+Note that the reference service life (RSL) of 20 years is a theoretical period selected for
+calculation purposes only. This is not representative for the minimum, average, nor actual
+service life of the product.
+System Boundaries
+The life cycle of the MDC605, an EEPS (Electronic and Electrical Products and Systems), is
+a “from cradle to grave” analysis and covers the following main life cycle stages according
+to EN 50693: manufacturing, including the relevant upstream process (e.g. acquisition of
+raw material, preparation of semi-finished goods, etc.) and the main manufacturing and
+processing steps; distribution; installation, including the relevant steps for the
+preparation of the product for use; use including the required maintenance steps within
+the RSL (reference service life of the product) associated to the reference product; end-
+of-life stage, including the necessary steps until final disposal or recovery of the product
+system.
+The following table shows the stages of the product life cycle and the information stages
+according to PCR EPDItaly007 for the evaluation of electronic and electrical products and
+systems.
+UPSTREAM CORE DOWNSTREAM
+End-of-
+Manufacturing Distribution Installation Use Life
+(EoL)
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 8/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Acquisition of
+raw materials De-
+Usage Installation
+Transport to Transport to Installation
+manufacturing site distributor/ Maintenance Collection
+ABB storage logistic center EoL treatment of and
+Components/parts consumption generated waste EoL treatment transport
+manufacturing Transport to (packaging) of generated
+place of use waste EoL
+Assembly
+treatment
+Packaging
+The stages of the product life cycle and the information considered for the evaluation of
+MDC605 are presented below:
+• The manufacturing upstream stage includes the extraction of raw materials, the
+transport and production of components, parts and sub-assemblies of the
+MDC605 by ABB suppliers, the production of packaging, the consumption of the
+MDC605 assembly and the transport from Celestica to ABB Dalmine.
+• The core part of the manufacturing stage includes and the storage consumptions
+of ABB Dalmine.
+• The distribution stage includes the impacts related to the distribution of the
+product to the installation site.
+• The installation stage includes the end of life of the packaging.
+• The use and maintenance stages include the impact related to energy
+consumption during the service life of the product.
+• End of life includes the operations for the disposal of the product at the end of its
+service life.
+Temporal and geographical boundaries
+All primary data collected from ABB are from 2021, which is a representative production
+year. Secondary data refers to the ecoinvent database v3.8 published in 2021.
+When the origin of the components is unknown, the selected ecoinvent processes in the
+LCA model have global representativeness. In this way, a conservative approach has been
+adopted.
+The ABB component suppliers are sourced all over the world. ABB's supplier, Celestica
+Electronics, manufactures the product in Malaysia. The product is then shipped
+assembled to ABB Dalmine. For the use stage of MDC605, the geographical boundaries of
+Europe have been considered.
+Boundaries in the life cycle
+In terms of boundaries, the PCR EPDitaly007 requires to refer to chapter 4.2.3.1 in the
+standard EN 50693 for products that can be easily replaced or recovered. As indicated in
+the EN 50693:2019, capital goods, such as buildings, machinery, tools and infrastructure,
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 9/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+the packaging for internal transport which cannot be allocated directly to the production
+of the reference product, may be excluded from the system boundary.
+Infrastructures, when present, such as processes deriving from the ecoinvent database
+have not been excluded.
+Data quality
+In this EPD, both primary and secondary data are used. Site specific foreground data have
+been provided by ABB. Main data sources are the bill of materials available on the
+enterprise resource planning. For all processes for which primary are not available, generic
+data originating from the ecoinvent v3.8 database, allocation cut-off by classification, are
+used. The ecoinvent database is available in the SimaPro 9.3 software used for the
+calculations.
+Environmental impact indicators
+The information obtained from the inventory analysis is aggregated according to the
+effects related to the various environmental issues. In accordance with the PCR
+EPDItaly007, the environmental impact indicators are determined by using the
+characterization factors and impact assessment methods specified in EN
+15804:2012+A2:2019.
+Note, the PCR EPDItaly007 uses four different indicators for climate change (GWP-GHG):
+GWP (total), which includes all greenhouse gases; GWP (fossil fuels); GWP (biogenic
+carbon), which includes the emissions and absorption of biogenic carbon dioxide and
+biogenic carbon stored in the product; GWP (land use).
+Allocation rules
+There are no co-products in this product system, so no allocation of inputs and outputs is
+necessary.
+No allocation is made for materials subject to recycling. For the input of recycled
+resources, the recycling process is included. Outputs subject to recycling are considered
+as inputs for the next life cycle.
+Concerning the end-of-life allocation, the “polluter pay” principle is adopted as required
+by the PCR EPDItaly007. This means that waste treatment processes are allocated to the
+product system that generates the waste until the end-of-waste state is reached.
+However, the potential benefits and avoided loads from recovery and recycling processes
+beyond the end-of-waste state are not considered because it is not required by
+EPDItaly007.
+Limitations and simplifications
+No cut-off criteria were applied to exclude materials from the calculation.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 10/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Inventory analysis
+In this study, both primary and secondary data are used. The main sources for primary
+data are the Bill of Materials as well as technical drawings and documents. Site specific
+foreground data have been provided by ABB. The ecoinvent v3.8 cut-off by classification
+system processes are used to model the background system of the processes.
+Due to the large amounts of components in the MDC605, raw material inputs are modelled
+with data from ecoinvent representing a global market coverage. These datasets are
+assumed to be representative.
+Manufacturing stage
+For the data of MDC605, information from the Bill of Materials (BoM) was used.
+Electronics is the most frequently components’ group used, followed by polycarbonate
+glass filled. The printed wiring boards (PWB) are modelled on a component level. Thus,
+every single component that is mounted on the PWBs is categorized and grouped into the
+most corresponding component found in ecoinvent.
+For the modelling of raw materials, the processes from the market in the ecoinvent v3.8
+database were used, adding an assumed transport distance of 100 km for the direct
+supply of materials. Distances were calculated using Google Maps and Sea Rates.
+The manufacturing site of MDC605 is located in Malaysia (Celestica Electronics).
+The storage of MDC605 series takes place in ABB Dalmine site. The utility consumption of
+ABB’s plant is allocated to the production of one MDC according to the provided allocation
+rules.
+The energy mix used for the storage phase is representative for ABB Dalmine site and
+includes green energy only.
+Packaging materials and manuals are also included in the analysis. For the data of the
+packaging, information from the Bill of Materials (BoM) was used. The distances between
+the suppliers of the packaging components and ABB Dalmine were calculated using
+Google Maps and Sea Rates.
+Distribution
+The transport from Celestica Electronics (Malaysia) to ABB Dalmine was taken into
+account. For the distribution of the MDC605 from ABB Dalmine to the final customer, the
+intracontinental transport scenario provided by EN 50693 standard was adopted,
+considering the European macro-area for the use phase. The transport distances from
+ABB plant to the place of use are assumed to be 3500 km, as required by EN 50693.
+Installation
+The installation phase only implies manual activities and no energy is consumed due to
+the fact that there is no direct consumption during installation of the product. The device
+is installed on din rail by the operator and connected by wiring. This phase also includes
+the disposal of the packaging of the MDC605. Average data from Eurostat databases were
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 11/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+considered, relating to the percentages of landfill, incineration and recycling treatment,
+per type of waste treated.
+Use
+The European general electric mix from ecoinvent v3.8 is used for the use phase. The
+formula for calculating the electrical energy consumed is given in Sub-PCR EPDItaly015
+and is described as follows:
+𝑃 ∗8760∗𝑅𝑆𝐿
+𝐸 [𝑘𝑊ℎ]= 𝑢𝑠𝑒
+𝑢𝑠𝑒 1000
+Where:
+• P [W] is the power consumed by the product;
+use
+• RSL is the service life of the product, assumed to be 20 years;
+• 8760 is the number of hours in a year;
+• 1000 is the conversion factor that allows the energy consumed in kWh over the
+product’s service life to be expressed.
+MDC605
+P [W] 4,5*
+use
+E [kWh] 788,4
+use
+*The tests have been performed considering the device operating in “stand-alone”
+conditions.
+There is no ordinary or extraordinary scheduled maintenance during the use phase.
+End of life
+For MDC605, neither energy nor materials are required for its removal and dismantling. As
+far as the DIN-Rail Concentrator is concerned, the end-of-life scenarios in document
+IEC/TR 62635 were adopted.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 12/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Environmental indicators
+The following tables show the environmental impact indicators of the life cycle of a
+MDC605, as indicated by PCR EPDItaly007.
+The indicators are divided into the contribution of the processes to the different modules
+(upstream, core and downstream) and stages (manufacturing, distribution, installation,
+use and end-of-life).
+MDC605
+UPSTREAM CORE DOWNSTREAM
+Impact
+Unit Total
+category End of
+Manufacturing Distribution Installation Use
+life
+Climate change kg CO eq 3,46E+02 3,01E+01 3,89E-02 2,79E-01 2,95E-01 3,15E+02 2,30E-01
+2
+Climate change
+kg CO eq 3,35E+02 2,99E+01 3,88E-02 2,79E-01 4,86E-02 3,04E+02 2,15E-01
+- Fossil 2
+Climate change
+kg CO eq 1,05E+01 9,11E-02 4,56E-05 2,08E-04 2,46E-01 1,02E+01 1,43E-02
+- Biogenic 2
+Climate change
+- Land use and kg CO eq 7,71E-01 5,35E-02 4,74E-06 1,27E-04 1,08E-05 7,17E-01 4,82E-05
+2
+LU change
+Ozone
+kg CFC11 eq 1,74E-05 2,24E-06 5,65E-09 6,42E-08 6,68E-09 1,51E-05 1,28E-08
+depletion
+Acidification mol H+ eq 1,92E+00 2,83E-01 4,60E-05 3,32E-03 1,72E-04 1,64E+00 3,81E-04
+Eutrophication,
+kg P eq 3,39E-01 3,53E-02 1,68E-06 1,55E-05 2,14E-06 3,04E-01 1,30E-05
+freshwater
+Eutrophication,
+kg N eq 3,27E-01 4,17E-02 1,07E-05 9,21E-04 1,60E-04 2,84E-01 3,59E-04
+marine
+Eutrophication,
+mol N eq 2,93E+00 4,50E-01 1,14E-04 1,02E-02 6,67E-04 2,47E+00 1,38E-03
+terrestrial
+Photochemical
+ozone kg NMVOC eq 8,15E-01 1,37E-01 4,00E-05 2,79E-03 2,20E-04 6,75E-01 4,18E-04
+formation
+Resource use,
+minerals and kg Sb eq 1,04E-02 9,69E-03 1,96E-07 5,80E-07 7,48E-08 7,21E-04 3,74E-07
+metals
+Resource use,
+MJ 6,90E+03 3,87E+02 6,45E-01 4,18E+00 4,21E-01 6,51E+03 1,12E+00
+fossils
+Water use
+m3 7,87E+01 8,15E+00 5,40E-02 1,30E-02 2,44E-03 7,05E+01 1,34E-02
+(AWARE)
+Particulate
+disease inc. 6,60E-06 1,70E-06 2,60E-10 2,74E-08 3,34E-09 4,86E-06 7,41E-09
+matter
+Ionising
+kBq U-235 eq 1,82E+02 3,55E+00 5,68E-04 2,06E-02 2,30E-03 1,79E+02 5,97E-03
+radiation
+Ecotoxicity,
+CTUe 6,13E+03 2,75E+03 1,31E-01 3,12E+00 7,38E-01 3,36E+03 2,19E+01
+freshwater
+Human toxicity,
+CTUh 1,13E-07 2,70E-08 8,85E-12 1,13E-10 3,95E-11 8,55E-08 4,35E-10
+cancer
+Human toxicity,
+CTUh 4,08E-06 1,23E-06 1,56E-10 3,17E-09 7,10E-10 2,83E-06 2,57E-08
+non-cancer
+Land use Pt 1,10E+03 1,44E+02 5,81E-02 3,89E+00 4,85E-01 9,47E+02 1,13E+00
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 13/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+UPSTREAM CORE DOWNSTREAM
+Resource use
+Unit Total
+parameters End of
+Manufacturing Distribution Installation Use
+life
+Use of non-
+renewable
+primary energy,
+excluding non-
+renewable MJ 6,89E+03 3,81E+02 6,45E-01 4,18E+00 4,21E-01 6,50E+03 1,12E+00
+primary energy
+resources used as
+raw materials
+(PENRE)
+Use of non-
+renewable
+primary energy
+MJ 5,87E+00 5,87E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+resources used as
+raw materials
+(PENRM)
+Total use of non-
+renew primary
+MJ 6,90E+03 3,87E+02 6,45E-01 4,18E+00 4,21E-01 6,50E+03 1,12E+00
+energy res
+(PENRT)
+Use of renewable
+primary energy,
+excluding
+renewable
+MJ 1,20E+03 3,88E+01 3,40E-01 4,78E-02 9,10E-03 1,16E+03 3,70E-02
+primary energy
+resources used as
+raw materials
+(PERE)
+Use of renewable
+primary energy
+resources used as MJ 2,87E+00 2,87E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+raw materials
+(PERM)
+Total use of
+renewable
+MJ 1,20E+03 4,17E+01 3,40E-01 4,78E-02 9,10E-03 1,16E+03 3,70E-02
+primary energy
+res (PERT)
+Use of secondary
+kg 1,82E-01 1,82E-01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+material (*)
+Use of renewable
+MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+secondary fuels
+Use of non-
+renewable MJ 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+secondary fuels
+Net use of fresh
+m3 5,84E+00 3,02E-01 1,28E-03 4,44E-04 1,35E-04 5,54E+00 4,52E-04
+water
+(*) = The recycled input percentages used to calculate the kg of secondary material are
+referred to the processes in the ecoinvent v3.8 database.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 14/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+UPSTREA
+CORE DOWNSTREAM
+Waste M
+production Unit Total End of
+Distributio Installatio
+indicators Manufacturing Use life
+n n
+Hazardous
+waste kg 3,67E-03 1,35E-03 1,80E-06 8,79E-06 1,00E-06 2,30E-03 2,45E-06
+disposed
+Non-
+hazardous 2,52E+0
+kg 2,82E+00 1,96E-03 3,10E-01 2,23E-01 2,15E+01 3,40E-01
+waste 1
+disposed
+Radioactiv
+4,80E- 5,90E-
+e waste kg 4,91E-02 1,09E-03 4,59E-07 2,84E-05 2,79E-06
+02 06
+disposed
+Componen
+0,00E+0 0,00E+0 0,00E+0 0,00E+0
+ts for re- kg 0,00E+00 0,00E+00 0,00E+00
+0 0 0 0
+use
+Materials
+0,00E+0 0,00E+0
+for kg 2,88E-01 1,58E-03 0,00E+00 1,22E-01 1,64E-01
+0 0
+recycling
+Materials
+0,00E+0 0,00E+0 0,00E+0 0,00E+0
+for energy kg 0,00E+00 0,00E+00 0,00E+00
+0 0 0 0
+recovery
+MJ
+per
+Exported energ 1,18E+0 0,00E+0 0,00E+0
+0,00E+00 0,00E+00 5,83E-01 6,01E-01
+energy y 0 0 0
+carrie
+r
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 15/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Additional environmental information
+Reciclability potential
+According to the waste treatment scenario calculation in SimaPro, based on the recycling
+rate in the technical report IEC/TR 62635 Edition 1.0, the following recyclability potentials
+were calculated.
+Recycling & Recovery rates of MDC605
+Total weight Recyclable Recoverable Recycling Recovery
+Model description
+(kg) mass (kg) mass (kg) rate (%) rate (%)
+MDC605 0,35 0,16 0,25 47% 72%
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 16/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Additional Norwegian requirements
+Greenhouse gas emissions from the use of electricity in the
+manufacturing phase
+The manufacturing site of MDC605 is located in Malaysia (Celestica Electronics). For the
+assembly of MDC605 in Celestica Electronics facility, the Malaysia electricity mix from
+ecoinvent 3.8 has been considered.
+Production mix from green energy purchasing certificate medium voltage (production of
+transmission lines, in addition to direct emissions and losses in grid) applied electricity for the
+manufacturing phase regarding the storage of MDC605 in ABB Dalmine facility.
+Data source Amount Unit
+ABB Green mix 0,03 kg CO -eq/kWh
+2
+Emission factor of product transport
+The emission factor for transport related to the distribution of the product from ABB Dalmine's
+headquarters in Via Friuli, 4, 24044 Dalmine (BG), Italy to Oslo, Norway is shown in the table
+below. Both transport by truck and by ferry to transport the product and its packaging has
+been considered. The processes related to the two type of transport are referred to ecoinvent
+3.8 database.
+Data source Distance Amount
+Lorry transport >32 metric ton 1791 km
+0,111 kg CO -eq
+2
+Ferry transport 156 km
+Dangerous substances
+The product contains no substances given by the REACH Candidate list.
+Indoor environment
+The product meets the requirements for low emissions.
+Carbon footprint
+Carbon footprint has not been worked out for the product.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 17/18
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+References
+[1] ABB S.p.A., 2B S.r.l., LCA Report “ABB Dalmine_LCA Report_MDC605”.
+[2] ABB Asea Brown Boveri S.p.A. (https://global.abb/group/en).
+[3] PRé Consultants, 2021. Software SimaPro versione 9.3.0.3 (www.pre.nl).
+[4] Ecoinvent, 2021. Swiss Centre for Life Cycle Assessment, v3.8 (www.ecoinvent.ch).
+[5] ISO (2021). ISO series on Life Cycle Assessment, UNI EN ISO 14040:2021, Environmental
+management -Life cycle assessment - Principles and framework (www.iso.org).
+[6] ISO (2021). ISO series on Life Cycle Assessment, UNI EN ISO 14044:2021, Environmental
+management - Life cycle assessment - Requirements and guidelines (www.iso.org).
+[7] EN 50693:2019-08. Product category rules for life cycle assessments of electronic and
+electrical products and systems. 2020.
+[8] PCR EPDItaly007 REV. 2. Electronic and electrical products and systems. 2020
+(www.epditaly.it/).
+[9] Sub-PCR EPDItaly015 REV. 1.5. Electronic and electrical products and systems –
+Switchboards. 2022 (www.epditaly.it/).
+[10] UNI EN 15804:2012+A2:2019. Sustainability of construction works - Environmental
+product declarations - Core rules for the product category of construction products.
+2019.
+[11] Google Maps (https://www.google.it/maps/preview).
+[12] Sea Rates (https://www.searates.com/it/).
+[13] International Electrotechnical Commission, IEC/TR 62635 Ed. 1.0 en:2012. Guidelines for
+End-Of-Life information provided by manufacturers and recyclers and for recyclability
+rate calculation of electrical and electronic equipment, 2012, ISBN 978-2-83220-413-9.
+[14] Eurostat 2022 (https://ec.europa.eu/eurostat/web/products-datasets/-
+/ENV_WAS.P.A.C).
+[15] ABB Asea Brown Boveri S.p.A., 2022. “MDC605_ACDC_PC&Efficiency”
+Program Operator and
+Ph. +47 23 08 80 00
+publisher
+The Norwegian EPD Foundation
+Post Box 5250 Majorstuen,
+email: post@epd-norge.no
+0303 Oslo Norway
+web www.epd-norge.no
+Owner of the declaration
+ABB Switzerland Ltd, Group
+Technology Management
+Brown Boveri Straße 6, 5400
+web www.abb.com
+Baden, Switzerland
+Author of the Life Cycle
+Ph. +39 041 5947937
+Assessment
+2B Srl
+Via della Chiesa Campocroce, 4 info@to-be.it
+email:
+31021 Mogliano Veneto (TV)
+web www.to-be.it
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+In Review Internal 2RDA045143 A EN 18/18
+© Copyright 2022 ABB. All rights reserved.

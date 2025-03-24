@@ -1,0 +1,88 @@
+{
+    "product_name": "Birsta S N2 W2 c/c 1 m",
+    "epd_id": "NEPD-6941-6333-EN",
+    "compliance": [],
+    "producer_name": "Saferoad RRS Sverige AB",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "unit": "kg CO2 -eq",
+            "values": [
+                {
+                    "value": "4,81E+01",
+                    "module": "A1-A3"
+                },
+                {
+                    "value": "3,75E-01",
+                    "module": "A4"
+                },
+                {
+                    "value": "3,90E-01",
+                    "module": "A5"
+                },
+                {
+                    "value": "1,90E-01",
+                    "module": "C1"
+                },
+                {
+                    "value": "3,75E-01",
+                    "module": "C2"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3"
+                },
+                {
+                    "value": "9,22E-03",
+                    "module": "C4"
+                },
+                {
+                    "value": "-6,83E+00",
+                    "module": "D"
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-fossil",
+            "unit": "kg CO2 -eq",
+            "values": [
+                {
+                    "value": "4,80E+01",
+                    "module": "A1-A3"
+                },
+                {
+                    "value": "3,75E-01",
+                    "module": "A4"
+                },
+                {
+                    "value": "9,90E-01",
+                    "module": "A5"
+                },
+                {
+                    "value": "9,90E-01",
+                    "module": "C1"
+                },
+                {
+                    "value": "3,75E-01",
+                    "module": "C2"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3"
+                },
+                {
+                    "value": "9,21E-03",
+                    "module": "C4"
+                },
+                {
+                    "value": "-6,78E+00",
+                    "module": "D"
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [],
+    "resource_use": [],
+    "end_of_life_waste": [],
+    "end_of_life_flow": []
+}

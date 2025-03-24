@@ -1,0 +1,591 @@
+{
+    "product_name": "Fl\u00fcgger Window",
+    "epd_id": "NEPD-2592-1315-EN",
+    "compliance": [
+        "EN 15804",
+        "ISO 14025",
+        "ISO 21930"
+    ],
+    "producer_name": "Fl\u00fcgger Norway AS",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "unit": "kg CO2-eq.",
+            "values": [
+                {
+                    "value": "2,23E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "2,68E-03",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,34E-01",
+                    "module": "A3"
+                },
+                {
+                    "value": "8,03E-02",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "unit": "kg CFC 11-eq.",
+            "values": [
+                {
+                    "value": "2,32E-07",
+                    "module": "A1"
+                },
+                {
+                    "value": "4,93E-10",
+                    "module": "A2"
+                },
+                {
+                    "value": "8,75E-09",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,58E-08",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "unit": "kg SO2-eq.",
+            "values": [
+                {
+                    "value": "1,39E-02",
+                    "module": "A1"
+                },
+                {
+                    "value": "9,54E-06",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,20E-03",
+                    "module": "A3"
+                },
+                {
+                    "value": "2,10E-04",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "EP",
+            "unit": "kg Phosphat-eq.",
+            "values": [
+                {
+                    "value": "1,65E-03",
+                    "module": "A1"
+                },
+                {
+                    "value": "1,51E-06",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,16E-04",
+                    "module": "A3"
+                },
+                {
+                    "value": "2,82E-05",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "POCP",
+            "unit": "kg Ethen-eq.",
+            "values": [
+                {
+                    "value": "1,28E-03",
+                    "module": "A1"
+                },
+                {
+                    "value": "3,79E-07",
+                    "module": "A2"
+                },
+                {
+                    "value": "5,94E-05",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,01E-05",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "ADPE",
+            "unit": "kg Sb-eq.",
+            "values": [
+                {
+                    "value": "8,79E-05",
+                    "module": "A1"
+                },
+                {
+                    "value": "6,65E-08",
+                    "module": "A2"
+                },
+                {
+                    "value": "3,00E-05",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,49E-06",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "4,06E+01",
+                    "module": "A1"
+                },
+                {
+                    "value": "4,03E-02",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,31E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,29E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "ADPM",
+            "unit": "kg Sb-eq.",
+            "values": [
+                {
+                    "value": "8,79E-05",
+                    "module": "A1"
+                },
+                {
+                    "value": "6,65E-08",
+                    "module": "A2"
+                },
+                {
+                    "value": "3,00E-05",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,49E-06",
+                    "module": "A4"
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "2,92E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "5,87E-04",
+                    "module": "A2"
+                },
+                {
+                    "value": "6,67E-01",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,67E-02",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "PERM",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "2,79E-02",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "PERT",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "2,92E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "5,87E-04",
+                    "module": "A2"
+                },
+                {
+                    "value": "6,95E-01",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,67E-02",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "4,06E+01",
+                    "module": "A1"
+                },
+                {
+                    "value": "4,11E-02",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,67E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,31E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "3,70E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "PENRT",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "4,43E+01",
+                    "module": "A1"
+                },
+                {
+                    "value": "4,11E-02",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,67E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,31E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "RSF",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "NRSF",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "FW",
+            "unit": "m3",
+            "values": [
+                {
+                    "value": "1,48E-01",
+                    "module": "A1"
+                },
+                {
+                    "value": "7,80E-06",
+                    "module": "A2"
+                },
+                {
+                    "value": "1,64E-03",
+                    "module": "A3"
+                },
+                {
+                    "value": "2,70E-04",
+                    "module": "A4"
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "7,55E-05",
+                    "module": "A1"
+                },
+                {
+                    "value": "1,04E-07",
+                    "module": "A2"
+                },
+                {
+                    "value": "4,01E-04",
+                    "module": "A3"
+                },
+                {
+                    "value": "3,20E-06",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "7,67E-01",
+                    "module": "A1"
+                },
+                {
+                    "value": "2,81E-03",
+                    "module": "A2"
+                },
+                {
+                    "value": "2,00E-01",
+                    "module": "A3"
+                },
+                {
+                    "value": "1,18E-01",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "1,33E-04",
+                    "module": "A1"
+                },
+                {
+                    "value": "2,80E-07",
+                    "module": "A2"
+                },
+                {
+                    "value": "6,60E-06",
+                    "module": "A3"
+                },
+                {
+                    "value": "8,96E-06",
+                    "module": "A4"
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "MFR",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "2,17E-03",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "MER",
+            "unit": "kg",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "3,76E-05",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "EEE",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "2,67E-03",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        },
+        {
+            "parameter": "EET",
+            "unit": "MJ",
+            "values": [
+                {
+                    "value": "0,0E+00",
+                    "module": "A1"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A2"
+                },
+                {
+                    "value": "2,86E-02",
+                    "module": "A3"
+                },
+                {
+                    "value": "0,0E+00",
+                    "module": "A4"
+                }
+            ]
+        }
+    ]
+}
