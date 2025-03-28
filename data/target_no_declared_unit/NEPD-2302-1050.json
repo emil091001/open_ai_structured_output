@@ -1,0 +1,269 @@
+{
+    "product_name": "weberfloor 4610 industry top",
+    "epd_id": "NEPD-2302-1050",
+    "compliance": [
+        "EN 15804",
+        "ISO 14025",
+        "ISO 21930"
+    ],
+    "producer_name": "Saint-Gobain Sweden AB, Weber floor",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "3,01E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "2,85E-08",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "values": [
+                {
+                    "value": "1,27E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP",
+            "values": [
+                {
+                    "value": "1,79E-04",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "POCP",
+            "values": [
+                {
+                    "value": "7,31E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPE",
+            "values": [
+                {
+                    "value": "3,14E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "3,93E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "values": [
+                {
+                    "value": "4,01E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERT",
+            "values": [
+                {
+                    "value": "4,01E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "values": [
+                {
+                    "value": "4,58E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRT",
+            "values": [
+                {
+                    "value": "4,58E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "values": [
+                {
+                    "value": "7,64E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RSF",
+            "values": [
+                {
+                    "value": "1,86E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NRSF",
+            "values": [
+                {
+                    "value": "6,54E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "FW",
+            "values": [
+                {
+                    "value": "6,46E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "5,82E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "values": [
+                {
+                    "value": "6,40E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "values": [
+                {
+                    "value": "2,22E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MFR",
+            "values": [
+                {
+                    "value": "5,26E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MER",
+            "values": [
+                {
+                    "value": "3,13E-04",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EEE",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EET",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ]
+}

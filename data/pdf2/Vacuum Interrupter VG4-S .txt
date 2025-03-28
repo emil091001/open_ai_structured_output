@@ -1,0 +1,622 @@
+—
+EPD
+Environmental Product Declaration
+Vacuum Interrupter VG4-S
+Production site: Ratingen, Germany
+DOCUMENT KIND IN COMPLIANCE WITH
+Environmental Product Declaration ISO 14025 and EN50693
+PROGRAM OPERATOR PUBLISHER
+The Norwegian EPD Foundation The Norwegian EPD Foundation
+REGISTRATION NUMBER OF THE PROGRAM OPERATOR ISSUE DATE
+NEPD-3887-2831-EN 11.11.2022
+VALID TO STATUS SECURITY LEVEL
+Approved Public
+2027-11-11
+OWNING ORGANIZATION DECLARATION NUMBER REV. LANG. PAGE
+ABB Switzerland Ltd 3XAA008728 B001 EN 1/19
+© Copyright 2022 ABB. All rights reserved.
+ver2-120423
+ENVIRONMENTAL PRODUCT DECLARATION
+EPD Owner ABB Switzerland Ltd, Group Technology Management
+Manufacturer name and ABB AG
+address Oberhausener Str. 33, 40472 Ratingen
+Organization no CH-020.3.900.058-8
+Seila Rodriguez Vilches – seila.rodriguez-vilches@ch.abb.com
+Company contact
+Sustainability Product Manager
+The Norwegian EPD Foundation
+Post Box 5250 Majorstuen, 0303 Oslo, Norway
+Program operator
+Ph.:+47 23 08 80 00
+email: post@epd-norge.no
+VG4-S
+FU: The functional unit of this study is to establish or
+interrupt the electrical continuity of a circuit within a
+Declared product,
+switchgear compartment in power systems during a
+functional unit (FU) and
+reference service life of 20 years including related accessories
+reference flow (RF)
+and packaging.
+RF: A single vacuum interrupter including related accessories
+and packaging.
+Vacuum interrupters (VIs) are the core component for all
+switching applications in medium voltage. The main purpose
+of the vacuum interrupter is to establish or to interrupt a
+Product description
+current flow by separation of the electrical contacts which
+results in a metal vapor arc. This arc is quickly extinguished
+due to the insulating properties of vacuum.
+46211 - Electrical apparatus for switching or protecting
+CPC code electrical circuits, or for making connexions to or in electrical
+circuits, for a voltage exceeding 1000 V
+Independent verification of the declaration and data,
+according to ISO 14025: 2010.
+☐INTERNAL ☒ EXTERNAL
+Independent verification
+Independent verifier approved by EPD Norway: Anne Rønning
+Signature:
+Håkon Hauan, CEO EPD-Norge
+Approved by
+Signature:
+Core PCR: EPDItaly007 – PCR for Electronic and Electrical
+Reference PCR and version Products and Systems, Rev. 2, 2020/10/21.
+number PCR: EPDItaly012 - Electronic and electrical products and
+systems – Switches, Rev. 0, 2020/03/16.
+EN 50693:2019 - Product category rules for life cycle
+Core PCR assessments of electronic and electrical products and
+systems.
+Product RSL description 20 years
+World (raw materials),
+Markets of applicability Germany (production, use and end-of-life)
+Europe (use and end-of-life)
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 2/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+This EPD is based on the LCA study described in the LCA
+LCA study
+report 3XAA008727
+EPD type Product specific
+EPD scope “Cradle to grave”
+Year of reported primary data 2021
+2B Srl (Italy)
+Technical support
+Via della Chiesa Campocroce 4, Mogliano Veneto (TV)
+LCA software SimaPro 9.4.0.1 (2021)
+LCI database ecoinvent v3.8 (2021)
+LCIA methodology EN 50693:2019
+EPDs published within the same product category, though
+originating from different programs, may not be comparable.
+Comparability Full conformance with a PCR allows EPD comparability only
+when all stages of a life cycle have been considered. However,
+variations and deviations are possible.
+The owner of the declaration shall be liable for the underlying
+information and evidence. EPD Norway shall not be liable with
+Liability
+respect to manufacturer, life cycle assessment data and
+evidences.
+Author of the life cycle Cemre Akdag – cemre.akdag@de.abb.com
+assessment R&D Engineer
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 3/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Contents
+ABB Purpose & Embedding Sustainability ..................................................................................... 5
+General Information ........................................................................................................................ 6
+Constituent materials ..................................................................................................................... 8
+LCA background information ........................................................................................................ 10
+Inventory analysis .......................................................................................................................... 13
+Environmental indicators .............................................................................................................. 15
+Additional environmental information ........................................................................................ 17
+References....................................................................................................................................... 18
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 4/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+ABB Purpose & Embedding Sustainability
+ABB is a leading global technology company that energizes the transformation of society
+and industry to achieve a more productive, sustainable future. By connecting software to
+its electrification, robotics, automation and motion portfolio, ABB pushes the boundaries
+of technology to drive performance to new levels. With a history of excellence stretching
+back more than 130 years, ABB’s success is driven by about 110 thousand talented em-
+ployees in over 100 countries.
+ABB's Electrification business offers a wide-ranging portfolio of products, digital solu-
+tions and services, from substation to socket, enabling safe, smart and sustainable elec-
+trification. Offerings encompass digital and connected innovations for low and medium
+voltage, including EV infrastructure, solar inverters, modular substations, distribution au-
+tomation, power protection, wiring accessories, switchgear, enclosures, cabling, sensing
+and control.
+ABB is committed to continually promoting and embedding sustainability across its op-
+erations and value chain, aspiring to become a role model for others to follow. With its
+ABB Purpose, ABB is focusing on reducing harmful emissions, preserving natural re-
+sources and championing ethical and human behavior.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 5/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+General Information
+The range of ABB Ratingen includes innovative and smart systems, with components and
+services for power distribution and switching and control technology. The product range
+of the Ratingen plant includes components such as vacuum interrupters, pole parts, cir-
+cuit breakers, current limiters and core modules for the production of primary gas-insu-
+lated switchgear. These components are widely used in associated plants within the
+worldwide ABB value chain as well as by OEM partners in the industry.
+ABB DE-ELDS adopts and implements for its own activities an integrated Quality/Environ-
+mental/Health Management System in compliance with the following standards:
+•UNI EN ISO 9001/2015 - Quality Management Systems- Requirements
+•UNI EN ISO 14001/2015 – Environmental Management Systems – Requirements
+•UNI EN ISO 45001:2018 - Occupational Health and Safety Management Systems
+The VI type VG4-S declared in this EPD includes one main version within different applica-
+tion cases, but all are covered with the same VI. This includes certain voltage levels (12 kV
+/ 17.5 kV / 24 kV) and specific current levels for rated current (1250 A) and short-circuit
+current (31.5 kA / 25 kA)
+Technical information
+Product Name VG4-S
+Rated voltage [kV] 12 / 17.5 / 24
+Rated current [A] 1250
+Rated short circuit breaking current [kA] 25 / 31.5
+Forming the heart of medium-voltage switchgear, vacuum interrupters (VIs) are an indis-
+pensable part of the medium-voltage distribution network. As the core component for all
+switching applications, VIs are widely used in utility power transmission systems, power
+generation units, and power-distribution systems for railways, arc furnace applications,
+and industrial plants. The main purpose of the vacuum interrupter is to establish or inter-
+rupt a current flow by separation of the electrical contacts which results in a metal vapor
+arc. This arc is quickly extinguished due to the insulating properties of the vacuum.
+To increase external dielectric strength and to protect the vacuum interrupter from the
+external influence it is embedded in silicone or epoxy resin or thermoplastic. The vacuum
+interrupter itself cannot work stand-alone, it always requires additional outer protection
+and terminal connection (pole part) and a mechanism to open the contacts (circuit
+breaker). The vacuum interrupters are embedded in a special cast resin or thermoplastic
+which makes the pole parts of the circuit-breaker notably robust and at the same time
+protects the ABB vacuum interrupters from impact, dust, moisture and external damage.
+The vacuum interrupter and the pole parts are maintenance-free products/components.
+The whole system cannot work stand-alone, it requires a mechanical or electrical drive to
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 6/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+create a gap between the two contacts. With additional drive the system can be seen as
+completed as a circuit breaker.
+Vacuum circuit breakers are used in electrical distribution for control and protection of
+cables, overhead lines, distribution substations, motors, transformers, generators and ca-
+pacitor banks. The scope of the medium voltage circuit breakers is to interrupt an electric
+current with a mechanical actuator (spring mechanism).
+The manufacturing of the VI’s and pole parts is located in ABB Ratingen, where the vacuum
+interrupters are assembled and produced. All components and some of the subassem-
+blies are produced by ABB’s suppliers and are then assembled in the factory.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 7/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Constituent materials
+The VG4-S part weights about 2.58 kg. All parts are included in the analysis.
+Product weight
+Materials Name CAS Number %
+[kg]
+Polyamide & Polybutylen-
+--- 0.024 0.93
+terephthalate glass filled
+Plastics
+Other plastics and rub-
+--- --- ---
+bers
+Stainless Steel 65997-19-5 0.36 14.14
+Copper 7440-50-8 1.79 69.49
+Metals
+Chromium 7440-47-3 0.08 3.1
+Silver 7440-22-4 0.009 0.36
+Ceramics 66402-68-4 0.31 11.95
+Others
+Others --- 0.0059 0.02
+Total 2.58 100
+VG4-S
+Silver Plastics
+0,36% 0,93%
+Stainless Steel
+14,14%
+Other
+0,02%
+Ceramics
+11,95%
+Chromium
+3,10%
+Copper
+69,49%
+For the packaging small parts as sticking labels and grease, which are representing a
+smaller fraction of the total mass, are neglected as their mass represents less than 2% of
+that of the whole component, as stated in the paragraph of cut-off criteria of EPDItaly-
+012: “Materials making up the switch itself whose total mass does not exceed 2% of the
+total weight of the device”.
+Scraps for metal working and plastic processes are included when already defined in
+ecoinvent. The single-use packaging and reusable packaging are also included in the anal-
+ysis in the manufacturing core stage. The packaging is common for VG4-S, it is composed
+of steel fixing brackets, a cardboard box, and a wooden pallet, resulting in a total weight
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 8/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+of 27.7 kg for single-use box and 36.2 kg for reusable packaging with additional packaging
+elements. ABB receives packaging components from outside suppliers and packages the
+vacuum interrupter before shipping them.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 9/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+LCA background information
+Functional Unit
+The functional unit of this study is to establish or interrupt the electrical continuity of a
+circuit within a switchgear compartment in power systems during a reference service life
+of 20 years.
+The reference flow is a single vacuum interrupter including related accessories and pack-
+aging.
+System Boundaries
+The life cycle of the vacuum interrupter VG4-S is a “from cradle to grave” analysis and co-
+vers the following main life cycle stages: manufacturing, including the relevant upstream
+process (e.g. acquisition of raw material, preparation of semi-finished goods, etc.) and
+the main manufacturing and processing steps; distribution; installation, including the rel-
+evant steps for the preparation of the product for use; use including the required mainte-
+nance steps within the RSL (reference service life of the product) associated to the refer-
+ence product; end-of-life stage, including the necessary steps until final disposal or
+recovery of the product system.
+The following table shows the stages of the product life cycle and the information stages
+according to EN-50693 for the evaluation of electronic and electrical products and sys-
+tems.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 10/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+The stages of the product life cycle and the information considered for the evaluation of
+the VG4-S are:
+• Manufacturing upstream includes raw materials, and production activities of ABB
+suppliers, including transport of semi-finished items and subassemblies to ABB
+Ratingen site.
+• The core part of the manufacturing stage includes local consumptions (ABB Rat-
+ingen) the relevant assembling and waste due to manufacturing as well as the
+packaging production.
+• The distribution stage includes the impacts related to the distribution of the prod-
+uct at the installation site.
+• The installation stage includes the end of life of the packaging.
+• The use and maintenance stages include the impact related to energy consump-
+tion during the service life of the product.
+• The end-of-life stage includes all activities related to waste treatment and dis-
+posal of the product at the end of its service life.
+Temporal and geographical boundaries
+The ABB component suppliers are sourced all over the world. All primary data collected
+from ABB are from 2021, which is a representative production year. Secondary data are
+also representative for this year, as provided by ecoinvent v3.8.
+The selected ecoinvent processes in the LCA model have global representativeness, due to
+the unclear origin of each component. In this way, a conservative approach has been
+adopted. The results of this study are only applicable to VG4-S vacuum interrupters pro-
+duced in Ratingen in 2021.
+Boundaries in the life cycle
+As indicated in the PCR EPDItaly012, capital goods, such as buildings, machinery, tools
+and infrastructure, the packaging for internal transport which cannot be allocated directly
+to the production of the reference product, may be excluded from the system boundary.
+Infrastructures, when present, such as processes deriving from the ecoinvent database
+have not been excluded.
+Data quality
+In this EPD, both primary and secondary data are used. Site-specific foreground data have
+been provided by ABB. The main data sources are the bill of materials available on the
+enterprise resource planning. For all processes for which primary are not available, generic
+data originating from the ecoinvent v3.8 database, allocation cut-off by classification, are
+used. The ecoinvent database is available in the SimaPro 9.4.0.1 software used for the cal-
+culations.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 11/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Environmental impact indicators
+The information obtained from the inventory analysis is aggregated according to the ef-
+fects related to the various environmental issues. According to PCR EPDItaly007 and
+EN 50693 the environmental impact indicators must be determined using the characteri-
+zation factors and impact assessment methods specified in
+EN 15804:2012+A2:2019.
+PCR EPDItaly007 and the EN 50693 standards establish four indicators for climate impact
+(GWP-GHG): GWP (total) which includes all greenhouse gases; GWP (fossil fuels); GWP (bi-
+ogenic carbon) which includes the emissions and absorption of biogenic carbon dioxide
+and biogenic carbon stored in the product; GWP (land use and land use change).
+Allocation rules
+Allocation keys are used for consumptions related to the manufacturing process in the
+production site as well as for company waste and product distribution. Since the factory
+produces several products (components, apparatus and switchgears), only a part of the
+environmental impact has been allocated to the specific production line. The values for
+the electricity, heat, pressurized air, and water consumption have been read and recorded
+from the counters which are distributed in the whole factory and are connected to certain
+areas or even single machines or single workstations.
+For the end-of-life allocation, the “polluter pays” principle is adopted according to what is
+defined in the CEN/TR 16970 standard, as required by the PCR EPDItaly007. This means
+that waste treatment processes are allocated to the product system that generates the
+waste until the end-of-waste state is reached. The environmental burdens of recycling and
+energy recovery processes are therefore allocated to the product system that generates
+the waste, while the product system that uses the exported energy and recycled materials
+receives it burden-free. However, the potential benefits and avoided loads from recovery
+and recycling processes are not considered because it is not required by EPDItaly007.
+Limitations and simplifications
+The raw material life cycle stage includes the extraction of all raw materials. There is no
+neglection of any components or materials within the analysis.
+For the packaging small parts such as sticking labels and grease, which are representing
+a smaller fraction of the total mass, are neglected as their mass represents less than 2%
+of that of the whole component, as stated in the paragraph of the cut-off criteria of
+EPDItaly-012: “Materials making up the switch itself whose total mass does not exceed 2%
+of the total weight of the device”. Scraps for metal working and plastic processes are
+included when already defined in ecoinvent.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 12/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Inventory analysis
+In this LCA both primary and secondary data are used. Site-specific foreground data have
+been provided by ABB. For data collection, Bills of Material (BOM) extracted from ABB's
+internal SAP and PLM software were used. They are a list of all the components and
+assemblies that constitute the finished product organized by level. Each item is matched
+with its code, quantity, weight, and supplier. The BOMs were then processed, adding
+material, surface area and other weight data taken from technical drawings. Finally, the
+manufacturing process and surface treatment were assigned, according to information
+provided by the R&D and Industrialization functions. Road distances between the
+suppliers and ABB were calculated using Google Maps, and marine distances using
+distances & time according to searates.com.
+All primary data collected from ABB are from 2021 which was a representative production
+year. The ecoinvent v3.8 cut-off by classification system processes are used to model the
+background system of the processes.
+The raw material inputs are modeled with data from ecoinvent representing a global
+market coverage. These datasets are assumed to be representative.
+Manufacturing stage
+The vacuum interrupter is composed of several components all of which are made from
+numerous materials. Most of the inputs to the products’ manufacturing stage are already
+produced components. Copper is the most frequently used material followed by stainless
+steel and ceramics.
+The single-use packaging and reusable packaging are also included in the analysis in the
+manufacturing core stage including all elements and components belonging to
+packaging. ABB receives packaging components from outside suppliers and packages the
+vacuum interrupter before shipping them.
+The transport distances from raw materials suppliers to the manufacturing are not
+known. However, this information is included in the data sets of ecoinvent “market for”.
+The distance from the subassembly or single parts manufacturing factory to ABB facility
+is calculated. In the factory, the different components and subassemblies are assembled
+into the vacuum interrupter. All the components are produced by ABB’s suppliers.
+The energy mix used for the production phase is representative for Ratingen production
+site and includes an autonomous combined heat and power plant (CHP) driven by natural
+gas.
+Distribution
+The transport distances from ABB plant to the place of use were exactly defined. There
+are four customers identified. The reference port is Rotterdam, NL.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 13/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Installation
+The installation phase only implies manual activities and no energy is consumed. This
+phase also includes the disposal of the packaging of the VG4-S.
+Use
+Use and maintenance are modelled according to the PCR EPDItaly012 – Switches for the
+VG4-S. As written in the PCR EPDItaly012 they are modelled according to the PCR
+EPDItaly007 and EN_50593 . For the use phase, the general European medium voltage
+electricity mix from ecoinvent v3.8 is used.
+Since no maintenance happens during the use phase the environmental impacts linked to
+this procedure have been omitted from the analysis. During the use phase, the VG4-S
+dissipates some electricity due to ohmic losses. Electricity consumption was calculated
+with the following formula:
+P * 8760 * RSL * α
+E [kWh]= use
+use 1000
+P =R*(0.5*I)2
+use
+α=0.3
+with
+• P =Power losses
+use
+• E =Energy losses
+use
+• RSL = Reference Service Lifetime
+• R = Resistance
+• I = Rated Current which is flowing through component during steady-state
+• 8760 h = The number of hours in a year;
+• α = Coefficient describing the amount of time in which the switch is requested
+to operate its function
+Parameters Values
+Nominal current [A] 1250
+RSL [Years] 20
+α [%] 30
+P [W] 3.52
+use
+E [kWh] 184.78
+use
+The RSL is adopted from the PCR EPDItaly012 with 20 years, the operational time and
+power are assumed to be 30% for all the service life. Since no maintenance happens during
+the use phase, the environmental impacts linked to this procedure are omitted from the
+analysis.
+End of life
+The transport distances from the place of use to the place of disposal are assumed to be
+100 km.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 14/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+The end-of-life stage is modelled according to PCR EPDItaly012 and IEC/TR 62635. The
+percentages for end-of-life treatments of circuit breakers are taken from IEC/TR 62635,
+while the data for packaging waste scenarios are provided by EUROSTAT.
+Environmental indicators
+The following tables show the environmental impact indicators of the life cycle of a single
+vacuum interrupter of type VG4-S, as indicated by PCR EPDItaly007, PCR EPDItaly012 and
+EN 50693:2019.
+The indicators are divided into the contribution of the processes to the different modules
+(upstream, core and downstream) and stages (manufacturing, distribution, installation,
+use and end-of-life).
+UPSTREAM CORE DOWNSTREAM
+Impact category Unit Total Distributi End of
+Manufacturing Installation Use
+on life
+kg CO2
+Climate change 1.25E+02 2.69E+01 2.18E+01 4.11E-01 5.02E-01 7.50E+01 5.20E-01
+eq
+Climate change - kg CO2
+1.22E+02 2.64E+01 2.24E+01 4.11E-01 6.39E-02 7.24E+01 4.61E-01
+Fossil eq
+Climate change - kg CO2
+2.67E+00 4.46E-01 -6.31E-01 1.04E-04 4.39E-01 2.36E+00 5.80E-02
+Biogenic eq
+Climate change -
+kg CO2
+Land use and Land 2.18E-01 4.47E-02 2.22E-03 2.53E-04 5.19E-05 1.71E-01 3.86E-04
+eq
+use change
+kg
+Ozone depletion CFC11 7.50E-06 1.65E-06 2.13E-06 8.68E-08 5.01E-09 3.59E-06 3.54E-08
+eq
+mol H+
+Acidification 1.76E+00 1.33E+00 3.09E-02 9.86E-03 2.09E-04 3.90E-01 1.71E-03
+eq
+Eutrophication,
+kg P eq 1.83E-01 1.10E-01 7.33E-04 1.73E-05 8.08E-06 7.25E-02 1.00E-04
+freshwater
+kg
+Photochemical
+NMVOC 4.96E-01 2.88E-01 3.78E-02 7.25E-03 2.14E-04 1.61E-01 1.39E-03
+ozone formation
+eq
+Depletion of
+abiotic resources
+kg Sb eq 3.62E-02 3.60E-02 3.07E-05 6.83E-07 2.26E-07 1.70E-04 4.06E-06
+– minerals and
+metals
+Depletion of
+abiotic resources MJ 2.12E+03 3.27E+02 2.37E+02 5.63E+00 4.87E-01 1.54E+03 4.74E+00
+– fossil fuels
+Water use
+m3 3.96E+01 2.20E+01 8.00E-01 1.34E-02 2.14E-03 1.68E+01 7.21E-02
+(AWARE)
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 15/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Resource use UPSTREAM CORE DOWNSTREAM
+Unit Total
+parameters Manufacturing Distribution Installation Use End of Life
+PENRE MJ 2.12E+03 3.26E+02 2.34E+02 5.63E+00 4.88E-01 1.54E+03 4.74E+00
+PERE MJ 3.50E+02 7.36E+01 9.01E+00 4.98E-02 2.14E-02 2.66E+02 3.39E-01
+PENRM MJ 4.32E+00 1.41E+00 2.91E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+PERM MJ 8.29E+00 0.00E+00 8.29E+00 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+PENRT MJ 2.12E+03 3.27E+02 2.37E+02 5.63E+00 4.88E-01 1.54E+03 4.74E+00
+PERT MJ 3.58E+02 7.36E+01 1.73E+01 4.98E-02 2.14E-02 2.66E+02 3.39E-01
+Net use of
+fresh water m3 1.87E+00 5.55E-01 2.37E-02 4.49E-04 1.21E-04 1.29E+00 2.51E-03
+(from AWARE)
+Use of
+secondary kg 1.80E-01 1.77E-01 3.51E-03 0.00E+00 0.00E+00 0.00E+00 0.00E+00
+material
+*PENRE: Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw material; *PERE:
+Use of renewable primary energy excluding renewable primary energy resources used as raw material; *PENRM: Use of non-
+renewable primary energy resources used as raw material; *PERM: Use of renewable primary energy resources used as raw ma-
+terial; *PENRT: Total use of non-renewable primary energy resources (primary energy and primary energy resources used as raw
+materials) ;*PERT: Total use of renewable primary energy resources (primary energy and primary energy resources used as raw
+materials)
+UPSTREAM CORE DOWNSTREAM
+Waste production
+Unit Total End of
+indicators Manufacturing Distribution Installation Use
+life
+Hazardous waste
+kg 5.62E-03 4.71E-03 3.42E-04 8.22E-06 1.00E-06 5.48E-04 7.68E-06
+disposed
+Non-hazardous
+kg 1.63E+01 9.90E+00 4.92E-01 1.96E-01 3.08E-02 5.11E+00 6.21E-01
+waste disposed
+Radioactive waste
+kg 1.27E-02 1.10E-03 1.99E-04 3.87E-05 2.42E-06 1.13E-02 2.03E-05
+disposed
+Materials for
+kg 4.41E-01 0.00E+00 1.41E-01 0.00E+00 2.83E-01 0.00E+00 1.69E-02
+energy recovery
+Materials for
+kg 3.55E+00 5.01E-01 7.41E-01 0.00E+00 3.33E-01 0.00E+00 1.97E+00
+recycling
+Exported thermal
+MJ 1.68E+00 0.00E+00 6.50E-01 0.00E+00 1.03E+00 0.00E+00 4.60E-04
+Energy
+Exported
+MJ 8.42E-01 0.00E+00 3.29E-01 0.00E+00 5.13E-01 0.00E+00 2.35E-04
+electricity energy
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 16/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Additional environmental information
+Reciclability potential
+The recyclability potential of the reference product is calculated by dividing “MFR: material
+for recycling” with the total weight of the vacuum interrupter This is based on the end-of-
+life scenario adopted from IEC/TR 62635 Edition 1.0 which is representative for Europe.
+The scenario is based on the rates given for materials that go through a separation pro-
+cess, and the production losses in the recycling processes have also been considered;
+thus, a conservative approach is adopted.
+Recyclability potential
+VG4-S 76.3 %
+GHG emissions from the use of electricity in the manufacturing phase
+The energy mix used for the production phase is representative for Ratingen production
+site and includes an autonomous combined heat and power plant (CHP) driven by natural
+gas.
+Data source Amount Unit
+kg CO2-
+Ecoinvent 3.8 heat and power co-generation, natural gas 0.6015
+eq/kWh
+Dangerous substances
+The product contains no substances given by the REACH Candidate list.
+Indoor environment
+The product meets the requirements for low emissions.
+Carbon footprint
+Carbon footprint has not been worked out for the product.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 17/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+References
+• Akdag, C. (2022) VG4_S: Life Cycle Assessment Report, Doc. no 3XAA008727, ABB
+Switzerland Ltd, Group Technology ManagementEN 50693:2019 - Product cate-
+gory rules for life cycle assessments of electronic and electrical products and
+systems
+• EN 15804:2012+A2:2019 – Sustainability of constructions – Environmental prod-
+ucts declarations (September 2019)
+• PCR EPDItaly007 - Electronic and electrical products and systems (rev.2), Octo-
+ber 2020
+• PCR EPDItaly012 - Electronic and electrical products and systems - Switches,
+March 2020
+• IEC/TR 62635 - Guidelines for end-of-life information provided by manufacturers
+and recyclers and for recyclability rate calculation of electrical and electronic
+equipment - Edition 1.0 2012-10
+• UNI EN ISO 14040:2021 - Environmental management -Life cycle assessment -
+Principles and framework
+• UNI EN ISO 14044:2021 - Environmental management - Life cycle assessment -
+Requirements and guidelines
+• Ecoinvent, 2021. Swiss Centre for Life Cycle Assessment, v3.8
+(www.ecoinvent.ch).
+• PRé Consultants, 2021. Software SimaPro version 9.3.0.2 (www.pre.nl).
+• https://ec.europa.eu/eurostat
+• General Program Instructions for The Norwegian EPD Foundation/EPD-Norge
+(www.epd-norge.no) version 5:2019
+• EPDItaly Regulations rev. 5.2 (16/02/2022)
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 18/19
+© Copyright 2022 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Program Operator and publisher Ph. +47 23 08 80 00
+The Norwegian EPD Foundation
+Post Box 5250 Majorstuen, 0303
+email: post@epd-norge.no
+Oslo
+Norway web www.epd-norge.no
+Owner of the declaration
+ABB Switzerland Ltd, Group
+Technology Management
+Brown Boveri Straße 6, 5400 Baden,
+web www.abb.com
+Switzerland
+Author of the life cycle assessment Ph. +49 170 4454877
+Cemre Akdag
+ABB AG email: cemre.akdag@de.abb.com
+Oberhausener Str. 33, 40472
+web www.abb.com
+Ratingen, Germany
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 3XAA008728 B001 EN 19/19
+© Copyright 2022 ABB. All rights reserved.

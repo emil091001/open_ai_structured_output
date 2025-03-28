@@ -1,14 +1,7 @@
 
 import json
+import os
 from config import *
-from metrics2 import Metrics
+from metrics import Metrics
+from tqdm import tqdm
 
-
-metrics = Metrics()
-
-metrics.calculate("data/output", "data/target")
-metrics.save("data/metrics.json")
-
-# metrics.load('data/metrics.json')
-
-print(json.dumps(metrics.table_averages(), indent=4))

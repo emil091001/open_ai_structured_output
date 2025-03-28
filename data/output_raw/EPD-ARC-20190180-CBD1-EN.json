@@ -1,0 +1,230 @@
+{
+    "product_name": "ArcelorMittal Tubular Products Europe Structural Hollow Section",
+    "epd_id": "EPD-ARC-20190180-CBD1-EN",
+    "declared_unit": {
+        "unit": "ton",
+        "amount": 1
+    },
+    "compliance": [],
+    "producer_name": "ArcelorMittal",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "2270",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-fossil",
+            "values": [
+                {
+                    "value": "22400",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "5.03E-12",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "values": [
+                {
+                    "value": "5.91",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP",
+            "values": [
+                {
+                    "value": "0.459",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP-freshwater",
+            "values": [
+                {
+                    "value": "0.0064",
+                    "module": "C3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP-marine",
+            "values": [
+                {
+                    "value": "-0.272",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP-terrestrial",
+            "values": [
+                {
+                    "value": "-3.15",
+                    "module": "C3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPM",
+            "values": [
+                {
+                    "value": "1.86E-4",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "22400",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [
+        {
+            "parameter": "PM",
+            "values": [
+                {
+                    "value": "9.54E-4",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "values": [
+                {
+                    "value": "1600",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERM",
+            "values": [
+                {
+                    "value": "0",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERT",
+            "values": [
+                {
+                    "value": "0",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "values": [
+                {
+                    "value": "24000",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "values": [
+                {
+                    "value": "0",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "values": [
+                {
+                    "value": "362",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "0.000954",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "values": [
+                {
+                    "value": "47.9",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "values": [
+                {
+                    "value": "0.646",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        }
+    ]
+}

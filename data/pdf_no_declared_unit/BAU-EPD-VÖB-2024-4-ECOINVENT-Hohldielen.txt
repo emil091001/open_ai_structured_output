@@ -1,0 +1,1170 @@
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+EPD - ENVIRONMENTAL PRODUCT DECLARATION
+UMWELT-PRODUKTDEKLARATION
+nach ISO 14025 und EN 15804+A2
+HERAUSGEBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+PROGRAMMBETREIBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+DEKLARATIONSINHABER Verband Österreichischer Beton- und Fertigteilwerke (VÖB)
+DEKLARATIONSNUMMER BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+AUSSTELLUNGSDATUM 25.09.2024
+GÜLTIG BIS 25.09.2029
+ANZAHL DER DATENSÄTZE 1
+ENERGIE MIX ANSATZ MARKTORIENTIERTER ANSATZ (MARKET BASED APPROACH)
+Hohldiele (Hohlplatte)
+Verband Österreichischer Beton- und Fertigteilwerke (VÖB)
+Seite 1 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Inhaltsverzeichnis der EPD
+1 Allgemeine Angaben ................................................................................................................................................................................. 4
+2 Produkt ..................................................................................................................................................................................................... 5
+2.1 Allgemeine Produktbeschreibung ...................................................................................................................................................... 6
+2.2 Anwendung ........................................................................................................................................................................................ 6
+2.3 Produktrelevanten Normen, Regelwerke und Vorschriften ............................................................................................................... 6
+2.4 Technische Daten ............................................................................................................................................................................... 7
+2.5 Grundstoffe / Hilfsstoffe .................................................................................................................................................................... 7
+2.6 Herstellung ......................................................................................................................................................................................... 8
+2.7 Verpackung ........................................................................................................................................................................................ 9
+2.8 Lieferzustand ...................................................................................................................................................................................... 9
+2.9 Transporte .......................................................................................................................................................................................... 9
+2.10 Produktverarbeitung / Installation ................................................................................................................................................ 9
+2.11 Nutzungsphase .............................................................................................................................................................................. 9
+2.12 Referenznutzungsdauer (RSL) ..................................................................................................................................................... 10
+2.13 Nachnutzungsphase .................................................................................................................................................................... 10
+2.14 Entsorgung .................................................................................................................................................................................. 10
+2.15 Weitere Informationen ............................................................................................................................................................... 10
+3 LCA: Rechenregeln .................................................................................................................................................................................. 11
+3.1 Deklarierte Einheit/ Funktionale Einheit .......................................................................................................................................... 11
+3.2 Systemgrenze ................................................................................................................................................................................... 11
+3.3 Flussdiagramm der Prozesse im Lebenszyklus ................................................................................................................................. 15
+3.4 Abschätzungen und Annahmen ....................................................................................................................................................... 16
+3.5 Abschneideregeln ............................................................................................................................................................................ 16
+3.6 Hintergrunddaten ............................................................................................................................................................................ 17
+3.7 Datenqualität ................................................................................................................................................................................... 17
+3.8 Betrachtungszeitraum ...................................................................................................................................................................... 18
+3.9 Allokation ......................................................................................................................................................................................... 18
+3.10 Vergleichbarkeit .......................................................................................................................................................................... 19
+4 LCA: Szenarien und weitere technische Informationen .......................................................................................................................... 20
+4.1 A1-A3 Herstellungsphase ................................................................................................................................................................. 20
+4.2 A4-A5 Errichtungsphase ................................................................................................................................................................... 20
+4.3 B1-B7 Nutzungsphase ...................................................................................................................................................................... 22
+4.4 C1-C4 Entsorgungsphase .................................................................................................................................................................. 22
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial ............................................................................................... 23
+5 LCA: Ergebnisse ....................................................................................................................................................................................... 25
+5.1 LCA: Ergebnisse "Hohldiele" ............................................................................................................................................................. 25
+6 LCA: Interpretation ................................................................................................................................................................................. 28
+7 Literaturhinweise .................................................................................................................................................................................... 32
+8 Verzeichnisse und Glossar ...................................................................................................................................................................... 34
+8.1 Abbildungsverzeichnis ...................................................................................................................................................................... 34
+Seite 2 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+8.2 Tabellenverzeichnis .......................................................................................................................................................................... 34
+8.3 Abkürzungen .................................................................................................................................................................................... 34
+Seite 3 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+1 Allgemeine Angaben
+Produktbezeichnung Deklarierte Einheit
+Hohldiele (Hohlplatte) 1 Tonne durchschnittliche Hohldiele
+Deklarationsnummer
+Deklariertes Bauprodukt
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+1 Tonne Hohldiele
+Deklarationsdaten
+Anzahl der Datensätze in diesem EPD-Dokument: 1
+Spezifische Daten
+Durchschnittsdaten
+Gültigkeitsbereich
+Deklarationsbasis Die EPD gilt für eine durchschnittliche Hohldiele.
+MS-HB Version 5.0.0 vom 20.09.2023 [1]
+PKR: Anforderungen an eine EPD für Beton und Repräsentativität
+Betonelemente
+PKR-Code: 2.17 Die Bewertung der durchschnittlichen Hohldiele basiert auf einer
+Version 10.0 vom 01.01.2024 [2] Datenerhebung in 7 Betonfertigteilwerken für das Referenzjahr 2022.
+(PKR geprüft u. zugelassen durch das unabhängige PKR-
+Gremium) Das repräsentative Marktgebiet (Produktion, Vertrieb, Anwendung,
+Entsorgung) der deklarierten Produkte ist Österreich.
+Der Nutzer des Rechners (Hersteller des deklarierten
+Produkts) haftet für die für Berechnungen angewandten Die EPD ist repräsentativ für die gesamte Produktionsmenge der
+Herstellerangaben und Nachweise. Eine Haftung der Bau EPD betrachteten Werke im Jahr 2022 (siehe Tabelle 1).
+GmbH und des Erstellers des Rechners für
+Herstellerinformationen, Ökobilanzdaten und Nachweise ist Die in der EPD bewertete Produktionstechnologie ist repräsentativ
+ausgeschlossen. für die Gesamtmenge der in den betrachteten Werken im Jahr 2022
+produzierten deklarierten Produkte (siehe Tabelle 1).
+Datenbank, Software, Version
+Datenbank: ecoinvent 3.9.1, Software: Ökobilanzrechner für
+Deklarationsart lt. EN 15804
+Betonfertigteile der floGeco GmbH (verifizierte Rechnerversion: BAU-
+von der Wiege zur Bahre und Modul D (Module A + B + C + D)
+EPD-LCA-Tool-2024-001-FloGeco-Betonfertigteile-v05-20240918-
+LCA-Methode: Cut-off by classification
+Locked)
+Charakterisierungsfaktoren: Joint Research Center, EF 3.1
+Ersteller der Ökobilanz Die Europäische Norm EN 15804:2019+A2+corr2021 dient als Kern-
+floGeco GmbH PKR. Die c-PKR des CEN ÖNORM EN 16757 [3] wurde angewendet.
+Unabhängige Verifizierung der Deklaration nach EN ISO 14025:2010
+Hinteranger 61d
+intern extern
+A-6161 Natters
+Österreich
+Verifizierer: DI Philipp Boogman, IBO Institut für Bauen und
+Ökologie
+Seite 4 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Deklarationsinhaber Eigentümer, Herausgeber und Programmbetreiber
+Verband Österreichischer Beton- und Fertigteilwerke (VÖB) Bau EPD GmbH
+Gablenzgasse 3/5. OG Seidengasse 13/3
+A-1150 Wien 1070 Wien
+Österreich Österreich
+DI (FH) DI DI Sarah Richter
+Leitung Konformitätsbewertungsstelle
+DI Philipp Boogman
+Verifizierer, IBO Institut für Bauen und Ökologie
+Seite 5 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+2 Produkt
+2.1 Allgemeine Produktbeschreibung
+Die betrachteten durchschnittlichen Hohldielen bestehen aus Spannbeton und werden in Produktionswerken unter kontrollierten
+Bedingungen in einem überwiegend automatisierten Prozess hergestellt. Im Zuge des Herstellprozesses werden Bewehrung, Beton und
+allenfalls Einbauteile in die Schalungen eingebracht, entsprechend verdichtet und zum Aushärten gebracht. Nach dem Aushärtevorgang
+werden die Fertigteile auf dem Lagerplatz für die Auslieferung zur Baustelle bereitgestellt.
+Zur Erstellung der Ökobilanz wurde der Ökobilanzrechner für Betonfertigteile der floGeco GmbH (verifizierte Rechnerversion: BAU-EPD-
+LCA-Tool-2024-001-FloGeco-Betonfertigteile-v05-20240918-Locked) verwendet. Die Ergebnisse sind repräsentativ für die in Tabelle 1
+dargestellten 7 Werke.
+Tabelle 1: Produktionswerke
+# Firma Werksstandort
+1 Josef Lehner GmbH Amstetten
+2 HABAU Hoch- und Tiefbaugesellschaft m.b.H. Perg
+3 Franz Oberndorfer GmbH & Co KG Gunskirchen
+4 Franz Oberndorfer GmbH & Co KG Großwilfersdorf
+5 Franz Oberndorfer GmbH & Co KG Herzogenburg
+6 Franz Oberndorfer GmbH & Co KG Radfeld
+7 Franz Oberndorfer GmbH & Co KG Wöllersdorf
+Die Gewichtung der durchschnittlichen Sachbilanzen und Ergebnisse erfolgt nach Produktionsanteil der jeweiligen Werke
+(Produktionsmengen der Werke werden aus Vertraulichkeitsgründen in der EPD nicht dargestellt, wurden jedoch mit dem Projektbericht
+verifiziert). Tabelle 2 zeigt die Gesamtproduktionsmenge der 7 Werke.
+Tabelle 2: Gesamtproduktionsmengen der betrachteten Hohldielen
+Produktionsmenge
+Produkt
+[t]
+Hohldielen 226 425
+Die EPD ist repräsentativ für die gesamte Produktionsmenge der betrachteten Werke im Jahr 2022 (siehe Tabelle 2).
+Die in der EPD bewertete Produktionstechnologie ist repräsentativ für die Gesamtmenge der in den betrachteten Werken im Jahr 2022
+produzierten deklarierten Produkte (siehe Tabelle 1 und Tabelle 2).
+Die Schwankungsbreite der Ergebnisse der deklarierten Produkte wird in Kapitel 6 LCA: Interpretation entsprechend dargestellt und
+diskutiert.
+Produktrelevante Normen können in Kapitel 2.3 eingesehen werden.
+2.2 Anwendung
+Hohldielen werden im Hochbau, Industrie- und Gewerbebau in als Deckenelemente eingesetzt.
+2.3 Produktrelevanten Normen, Regelwerke und Vorschriften
+Für das Inverkehrbringen des Produkts in der EU/EFTA (mit Ausnahme der Schweiz) gilt die Verordnung (EU) Nr. 305/2011(CPR). Das
+Produkt benötigt eine Leistungserklärung unter Berücksichtigung der geltenden harmonisierten Produktnorm (siehe Tabelle 3) und die CE-
+Kennzeichnung. Für Produkte, die nicht der CE Kennzeichnung unterliegen, gelten die Bestimmungen der Baustoffliste ÖA des OIB [4].
+Seite 6 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 3: Produktrelevante Normen
+Norm Titel
+ÖNORM EN 1168 Betonfertigteile - Hohlplatten
+ÖNORM EN 13369 Allgemeine Regeln für Betonfertigteile
+2.4 Technische Daten
+Die Gewichtung der durchschnittlichen Rohdichte erfolgt nach Produktionsanteil der jeweiligen Werke.
+Tabelle 4: Technische Daten Hohldiele
+Bezeichnung Wert Einheit
+2525
+Rohdichte kg/m³
+2467 – 2583
+Betondruckfestigkeitsklasse C40/50 – C55/67
+Betondruckfestigkeit f 40 – 55 N/mm²
+ck,cyl
+Betondruckfestigkeit f 50 – 67 N/mm²
+ck,cube
+Streckgrenze Bewehrungsstahl R - N/mm²
+e
+0,2%-Dehngrenze Bewehrungsstahl R - N/mm²
+p0,2
+Zugfestigkeit Spannstahl f 1570 N/mm²
+pk
+0,2%-Dehngrenze Spannstahl R 1570 N/mm²
+p0,2
+Bemessungsspezifikationen gemäß spezifischer Produktnorm – Tabelle 3
+2.5 Grundstoffe / Hilfsstoffe
+Die in Tabelle 5 und Tabelle 6 dargestellten Stofflisten basieren auf einer Datenerhebung in den 7 beteiligten Betonfertigteilwerken für das
+Referenzjahr 2022. Die Bewertung des Betons über die eingesetzten Betonrohstoffe (Tabelle 5) wird in die Bewertung des Fertigteils
+(Tabelle 6) entsprechend übernommen.
+Die Gewichtung der durchschnittlichen stofflichen Zusammensetzung erfolgt nach Produktionsanteil der jeweiligen Werke.
+Seite 7 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 5: Grundstoffe / Hilfsstoffe Beton Hohldiele
+Bestandteile: Funktion Massen %
+CEM I Betonrohstoff 2,4%
+CEM II/A Betonrohstoff 12,5%
+Sand 0/4 Betonrohstoff 31,4%
+Gesteinskörnung rund (4/GK) Betonrohstoff 24,4%
+Gesteinskörnung gebrochen (4/GK) Betonrohstoff 21,3%
+Rezyklierte Gesteinskörnung Betonrohstoff 2,0%
+Erhärtungsbeschleuniger Betonrohstoff <0,1%
+Erstarrungsbeschleuniger Betonrohstoff <0,1%
+Fließmittel Betonrohstoff <0,1%
+Verzögerer Betonrohstoff <0,1%
+Oberflächen- und Grundwasser Betonrohstoff 2,3%
+Trinkwasser Betonrohstoff 2,1%
+Recycling-Wasser Betonrohstoff 1,5%
+Tabelle 6: Grundstoffe / Hilfsstoffe Betonfertigteil Hohldiele
+Bestandteile: Funktion Massen %
+Beton (siehe Tabelle 5) Standardrohstoff 98,1%
+Spannstahl Standardrohstoff 1,9%
+Das Produkt/Erzeugnis/mindestens ein Teilerzeugnis enthält Stoffe der ECHA-Kandidatenliste der für eine Zulassung in Frage kommenden
+besonders besorgniserregenden Stoffe (en: Substances of Very High Concern – SVHC) (Datum 04.06.2024) oberhalb von 0,1 Massen-%:
+nein.
+2.6 Herstellung
+Die Herstellung der Spannbeton Hohldielen erfolgt in den Produktionswerken unter kontrollierten Bedingungen in einem überwiegend
+automatisierten Prozess (Extruderverfahren) auf stationären, beheizbaren Stahlschalungen. Im Zuge des Herstellprozesses werden
+Bewehrung und Beton in die Schalungen eingebracht, entsprechend verdichtet und zum Aushärten gebracht. Nach dem Aushärtevorgang
+werden die Fertigteile auf dem Lagerplatz für die Auslieferung zur Baustelle bereitgestellt (siehe Kapitel 3.3 – Abbildung 1).
+Seite 8 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+2.7 Verpackung
+Die betrachteten Werke weisen keine Verpackungsmaterialien für die hergestellten Hohldielen aus.
+2.8 Lieferzustand
+Hohldielen werden im ausgehärteten, einbaufähigen Zustand zum Transport auf das Transportfahrzeug gelegt und für den Transport
+entsprechend gesichert.
+Lieferabmessungen (Form und Größe) von Hohldielen variieren aufgrund der unterschiedlichen baulichen Anwendungen bzw. der
+planerischen Anforderungen und Bemessungsspezifikationen sehr stark und werden aufgrund der großen Varianz für die hier betrachteten
+durchschnittlichen Hohldielen nicht dargestellt.
+Hohldielen werden im Idealfall direkt nach der Anlieferung (just in time) eingebaut. Sollte eine entsprechende Lagerung vor dem Einbau
+notwendig sein, so erfolgt diese auf entsprechenden Unterlagen (Hölzer, etc.).
+2.9 Transporte
+Hohldielen werden überwiegend per LKW transportiert (ca. 98 %). Ein sehr kleiner Anteil der Auslieferung erfolgt mit der Bahn (ca. 2 %).
+Die Produkte werden überwiegend zu lokalen Absatzmärkten geliefert. Die betrachteten Produktionsstandorte und Herstellwerke für
+Hohldielen sind entsprechend über das Bundesgebiet verteilt. Die spezifischen Transportdistanzen und -prozesse für die deklarierten
+Fertigteile wurden im Zuge der Datenerhebung für die Produktionsanalyse entsprechend erhoben. Die Datenerhebung in den 7
+Betonfertigteilwerken für das Referenzjahr 2022 ergab, dass für den Transport von Hohldielen auf der Straße aufgrund des Gewichts der
+einzelnen Elemente bzw. aufgrund von entsprechenden Liefermengen hauptsächlich großklassige LKW mit hohen zulässigen
+Gesamtgewichten (>32 t) zum Einsatz kommen.
+2.10 Produktverarbeitung / Installation
+Für die Montagearbeiten müssen die allgemein gültigen Verlegeanleitungen des Herstellers eingehalten werden. Das Versetzen bzw. die
+Installation von Hohldielen erfolgt nach entsprechenden Vorarbeiten (Aufreißen von Fluchtlinien, Höhennivellement, usw.). Die Hohldielen
+werden zum Einheben an die vorgesehene Position im Bauwerk mittels Turmdrehkran bzw. Mobilkran (Teleskopkran) mit passenden,
+zugelassenen und geprüften Hebewerkzeugen versetzt. Gegebenenfalls sind für das Versetzen Hilfsmaterialien wie Auflagerstreifen,
+Vergussmörtel, Stützen, etc. anzuwenden.
+Diese EPD für Hohldielen fokussiert ausschließlich auf die zu deklarierenden Betonfertigteile und betrachtet keine auf der Baustelle zu
+ergänzenden Materialien (wie Distanzplättchen, Vergussmörtel, etc.), weil diese sehr stark von der tatsächlichen strukturellen Funktion
+sowie auch von der detaillierten Form des Fertigteils abhängen (Menge Vergussmörtel, usw.) und die EPD sowie der angewandte Rechner
+eine ökobilanzielle Bewertung einer deklarierten Einheit von 1 Tonne Fertigteil (unabhängig von der detaillierten Geometrie und der Statik
+bzw. den Charakteristika des tatsächlichen Bauwerks) anstrebt. Diese Materialien sind in spezifischen EPD bzw. in ökobilanziellen
+Bewertungen auf Bauwerksebene (mit) zu betrachten.
+Die für diese EPD angesetzten Krantypen bzw. Energieaufwände werden in Kapitel 4.2 dargestellt.
+2.11 Nutzungsphase
+Bei Hohldielen treten bei ordnungsgemäßer Planung, sach- und fachgerechtem Einbau und störungsfreier Nutzung in der Regel keine
+Änderungen der stofflichen Zusammensetzung über den Zeitraum der Nutzung auf.
+In dieser EPD wird die CO -Aufnahme durch Karbonatisierung in der Nutzungsphase nach ÖNORM EN 16757:2023 [3] berücksichtigt (siehe
+2
+3.2). Karbonatisierung ist ein natürlicher Prozess während des Lebenszyklus von Beton, durch den ein Teil des Kohlendioxids, das während
+der Zementproduktion emittiert wird, an den Beton rückgekoppelt wird.
+Seite 9 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+2.12 Referenznutzungsdauer (RSL)
+Die tatsächliche Nutzung der Hohldielen im Gebäude ist aufgrund der Vielzahl an Anwendungsmöglichkeiten nicht eindeutig definierbar,
+weshalb von den Herstellern keine durchschnittliche RSL für angegeben werden kann. Wenn keine Referenznutzungsdauer nach den Regeln
+ÖNORM EN 15804:2022 [5] (Anhang A) ermittelt werden kann, ist ein Default-Wert aus einer komplementären PKR der CEN/TC-
+Produktgremien zu verwenden. Die Vorgaben der ÖNORM EN 206:2021 [6] und der ÖNORM EN 16757:2023 – Anhang F [3] orientieren
+sich an einer Nutzungsdauer von 100 (siehe Tabelle 7).
+Tabelle 7: Referenz-Nutzungsdauern (RSL) nach ÖNORM EN 16757:2023 – Anhang F [3]
+RSL
+Nutzung
+[Jahre]
+Tragender Beton oder tragende Betonelemente für Gebäude (innen) (z.B. Bodenelemente) 100 Jahre
+2.13 Nachnutzungsphase
+Tragende Betonstrukturen werden meist mit Zerstörungsbaggern sowie Brechern zerkleinert und eine Trennung von Beton- und
+Stahlanteilen durchgeführt. Nach Erreichen des Endes der Abfalleigenschaften können aufbereitete Betone in folgenden Formen
+wiedereingesetzt werden:
+• zerkleinerter Beton (Betongranulat) ersetzt Primärmaterial ohne weitere Abfallbehandlung, z.B. im Strassenbau
+• zerkleinerter Beton (Betongranulat) ersetzt natürliche Gesteinskörnung in Frischbeton
+Aufbereitete Bewehrungsstähle und Stahleinbauteile können in die Stahlproduktion rückgeführt werden und dort die Herstellung von
+primärem Roheisen substituieren.
+Wo zerstörungsfrei möglich bzw. bei entsprechendem Erhaltungszustand können Betonfertigteile zur Wiederverwendung ausgebaut
+werden und die Herstellung von neuen bzw. primären Fertigteilen entsprechend ersetzen.
+Für die in dieser EPD deklarierten Hohldielen wird ein Rückbau mit Hydraulikbaggern und eine Recyclingquote von 98 % für Beton und Stahl
+angesetzt. Da ein vollständiges Recycling aufgrund von Verlusten bei Rückbau, Transport, usw. nicht realistisch ist, wird für 2 % der
+rückgebauten Beton- und Stahlkomponenten ein Deponierungsszenario angesetzt. Bei dem angesetzten Recycling-Szenario handelt es sich
+um ein Hersteller-Szenario, welches basierend auf Diskussionen mit Experten des VÖB festgelegt wurde und ein Szenario in der Zukunft
+abbildet (nach Ende der Lebensdauer). Dabei wurde berücksichtigt, dass Betonfertigteile zukünftig im Sinne einer Vermeidung von
+Sekundärrohstoffverschwendung möglichst im Ganzen rückgebaut (ausgehoben) und vollständig einem Recyclingprozess zugeführt
+werden. Das Recycling-Szenario ist im jeweiligen Anwendungsfall zwingend zu prüfen und entsprechend anzupassen.
+2.14 Entsorgung
+Nach dem Abbruch wird der grobe Betonschutt (inkl. aller zusätzlichen Bestandteile der Struktur) gemäß Abfallverordnung als Abfall
+betrachtet. Erreicht der Betonschutt das Ende der Abfalleigenschaften nicht, dann wird er auf einer Deponie für inerte Stoffe entsorgt. Die
+EAK-Abfallschlüsselnummer [7] für Beton ist 170101, jene für Stahl 170405.
+Für die in dieser EPD deklarierten Hohldielen wird ein Rückbau mit Hydraulikbaggern und eine Recyclingquote von 98 % für Beton und Stahl
+angesetzt. Da ein vollständiges Recycling aufgrund von Verlusten bei Rückbau, Transport, usw. nicht realistisch ist, wird für 2 % der
+rückgebauten Beton- und Stahlkomponenten ein Deponierungsszenario angesetzt. Bei dem angesetzten Recycling-Szenario handelt es sich
+um ein Hersteller-Szenario (siehe 2.13).
+In dieser EPD wird die CO -Aufnahme durch Karbonatisierung des rückgebauten Betons auf der Deponie (2 %) nach ÖNORM EN 16757:2023
+2
+[3] entsprechend bewertet (siehe 3.2). Karbonatisierung ist ein natürlicher Prozess während des Lebenszyklus von Beton, durch den ein
+Teil des Kohlendioxids, das während der Zementproduktion emittiert wird, an den Beton rückgekoppelt wird.
+2.15 Weitere Informationen
+Weitergehende Informationen zu Betonfertigteilen können der Webseite www.voeb.com entnommen werden.
+Seite 10 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+3 LCA: Rechenregeln
+3.1 Deklarierte Einheit/ Funktionale Einheit
+Für Betonelemente ist (sofern möglich) die Angabe einer funktionalen Einheit prinzipiell anzustreben. Aufgrund der Betrachtung von
+durchschnittlichen Hohldielen bzw. aufgrund der unterschiedlichen Größen, Formen und Anwendungsmöglichkeiten der betrachteten
+Fertigteile erfolgt in dieser EPD die Anwendung einer deklarierten Einheit.
+Die deklarierte Einheit ist 1 Tonne der durchschnittlichen Hohldiele. Die Durchschnittsbildung für die einzelnen Hauptuntergruppen erfolgt
+basierend auf einer Gewichtung nach Produktionsanteilen der jeweiligen Werke
+Tabelle 8: Deklarierte Einheit Hohldiele = 1 t
+Bezeichnung Wert Einheit
+Deklarierte Einheit 1 t
+2525
+Rohdichte (Reindichte) für Umrechnung in kg kg/m3
+2467 – 2583
+0,000396
+Massenbezogenes Volumen m3/kg
+0,000405 – 0,000387
+3.2 Systemgrenze
+Typ der Ökobilanz bzw. der EPD: von der Wiege zur Bahre und Modul D (A + B + C + D)
+Tabelle 9: Deklarierte Lebenszyklusphasen
+HERSTEL- ERRICH-
+ENTSORGUNGS- Vorteile und
+LUNGS- TUNGS- NUTZUNGSPHASE
+PHASE Belastungen
+PHASE PHASE
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+z t a z t a
+s n s n
+g
+n u lle ts tie r e b ffo ts h o R t r o p s n a r T g n u lle ts r e H t r o p s n a r T u a b n iE / u a B g n u z tu N g n u t la h d n a ts n I r u t a r a p e R z t a s r E g n u r ,ue au be mn r UE
+ie
+e ig r e n E r e h c ilb e ir te b
+ie
+r e s s a W r e h c ilb e ir te b h c u r b b A t r o p s n a r T
+g
+n u t fa h c s t r iw e b lla fb A g n u g r o s tn E s g n u d n e w r e v r e d e iW
+-,
+s g n u n n iw e g k c ü R-, la iz n e t o p g n ilc y c e R
+X X X X X X X X X X X X X X X X X
+X = in Ökobilanz enthalten; ND = Nicht deklariert
+Die geographische Systemgrenze der EPD bezieht sich auf Österreich, weshalb für die Ökobilanzierung (soweit möglich) österreichische
+Datensätze (z.B. für die Stromproduktion) herangezogen werden.
+Im Zuge der Analyse der Herstellungsphase (A1-A3) des betrachteten Betonfertigteils werden sämtliche Stoffe, Produkte und Energien, als
+auch anfallender Abfall und dessen Behandlung berücksichtigt.
+Modul A1: Herstellung von Rohstoffen und Bestandteilen
+Im ersten Schritt werden die Mengen der einzelnen Rohstoffe (pro Kubikmeter) des Betons (Zement, Zusatzstoffe, Gesteinskörnung,
+Betonzusatzmittel, Wasser) des betrachteten Fertigteils bewertet. Im nächsten Schritt werden die Mengen der einzelnen Rohstoffe (pro
+Seite 11 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tonne) der deklarierten Betonfertigteils bewertet. Die Bewertung des Betons (über die eingesetzten Betonrohstoffe) wird in die Bewertung
+des Fertigteils entsprechend übernommen.
+Modul A2: Transport der Rohstoffe ins Produktionswerk
+Die (durchschnittlichen) Transportdistanzen für die einzelnen Rohstoffe wurden getrennt für den Transport auf der Straße, mit dem Schiff
+bzw. mit der Bahn erfasst und ausgewertet. Für die deklarierten Durchschnittsfertigteile aus mehreren Werken werden die
+Rohstofftransportprozesse entsprechend der Produktionsanteile der einzelnen Werke gewichtet.
+Modul A3: Fertigteilherstellung
+Die Bewertung der Herstellungsprozesse von Betonfertigteilen umfasst
+• für die Herstellung verwendete Energieträger,
+• Produktion von Hilfsstoffen und Hilfsmaterialien,
+• Transporte im Werk,
+• Deponierung, Entsorgung und Aufbereitung (bis zum Ende der Abfallphase) jeglicher Outputs aus dem Herstellungsprozess.
+• Einsatz von Materialien und Ausrüstungen für die Abwasserbehandlung sowie
+• die Herstellung von Verpackungsmaterialien.
+Seite 12 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Modul A4: Transport zur Einbaustelle
+Hohldielen werden überwiegend per LKW transportiert (ca. 98 %). Ein sehr kleiner Anteil der Auslieferung erfolgt mit der Bahn (ca. 2 %).
+Eine Datenerhebung in über 30 österreichischen Betonfertigteilwerken für das Referenzjahr 2022 ergab, dass für den Transport von
+Fertigteilen auf der Straße aufgrund des Gewichts der einzelnen Elemente bzw. aufgrund von entsprechenden Liefermengen hauptsächlich
+großklassige LKW mit hohen zulässigen Gesamtgewichten (>32 t) zum Einsatz kommen. Deshalb werden die Transporte auf der Straße mit
+einem Datensatz für einen LKW mit einem höchstzulässigen Gesamtgewicht >32 Tonnen bewertet.
+Für die deklarierten Durchschnittsfertigteile aus mehreren Werken wurden in einer entsprechenden Auswertung die Transportprozesse
+zur Baustelle entsprechend der Produktionsanteile der einzelnen Werke gewichtet.
+Modul A5: Einbau bzw. Installation
+Die Hohldielen werden zum Einheben an die vorgesehene Position im Bauwerk mittels Turmdrehkran bzw. Mobilkran (Teleskopkran) mit
+passenden, zugelassenen und geprüften Hebewerkzeugen versetzt.
+Diese EPD für Hohldielen fokussiert rein auf die zu deklarierenden Betonfertigteile und betrachtet keine auf der Baustelle zu ergänzenden
+Materialien (wie Distanzplättchen, Vergussmörtel etc.), weil diese sehr stark von der tatsächlichen strukturellen Funktion sowie auch von
+der detaillierten Form des Fertigteils abhängen (Menge Vergussmörtel usw.) und die EPD eine ökobilanzielle Bewertung einer deklarierten
+Einheit von 1 Tonne Fertigteil (unabhängig von der detaillierten Geometrie und der Statik bzw. den Charakteristika des tatsächlichen
+Bauwerks) anstrebt.
+Die für diese EPD bzw. für die darin betrachteten Hohldielen angesetzten Krantypen bzw. Energieaufwände werden in Kapitel 4.2
+dargestellt.
+Modul B1: Nutzung
+Diese EPD berücksichtigt die CO -Aufnahme durch Karbonatisierung in der Nutzungsphase nach ÖNORM EN 16757:2023 [3]. Die
+2
+Karbonatisierung von Beton ist ein natürlicher Vorgang, bei dem in der Umgebungsluft vorhandenes CO in den Beton eindringt und mit
+2
+Hydratationsprodukten im Beton reagiert (Ca(OH) + CO -> CaCO + H 0).
+2 2 3 2
+Module B2 bis B7: restliche Nutzungsphase
+Bei Betonfertigteilen treten bei ordnungsgemäßer Planung, sach- und fachgerechtem Einbau und störungsfreier Nutzung in der Regel keine
+Änderungen der stofflichen Zusammensetzung über den Zeitraum der Nutzung auf. Die Module B2 Instandhaltung und B3 Reparatur sind
+für Betonfertigteile deshalb nicht relevant. Die Module B4 Ersatz und B5 Umbau/Erneuerung sind gleichbedeutend mit dem
+Produktlebensende. Die Module B6 Energieeinsatz und B7 Wassereinsatz sind für Betonfertigteile ohne eingebaute technische
+Komponenten nicht relevant.
+Modul C1: Abbruch/ Rückbau
+Diese EPD betrachtet für die betrachteten durchschnittlichen Hohldielen den Abbruch von Betonstrukturen (mit Betonzange und
+Hydraulikbagger) als typisches Rückbau-Szenario. Für die in dieser EPD betrachteten Hohldielen wird ein (baubetrieblich ermittelter)
+Energiebedarf für den Abbruch mit repräsentativer Gerätschaft angesetzt.
+Eine Wiederverwendung der Betonelemente in einem neuen Bauwerk nach zerstörungsfreiem Rückbau, d.h. nach einem entsprechenden
+Ausheben mit geeignetem Hebezeug, ist möglich, wird jedoch in dieser EPD nicht betrachtet.
+Modul C2: Transport zur Abfallbewirtschaftung bzw. Entsorgung
+Der Transport von abgebrochenen Betonstrukturen bzw. rückgebauten Betonfertigteilen erfolgt mittels LKW. Der Transport des
+rückgebauten Materials kann zur Wiederaufbereitung bzw. Wiederverwendung (C3) und/ oder zur Deponierung (C4) erfolgen. Deshalb ist
+entsprechend festzulegen, wieviel der rückgebauten Beton- und Stahlkomponenten einem Recyclingprozess (für Hohldielen 98 %) bzw.
+einer Deponierung (2 %) zugeführt werden. Bei dem angesetzten Recycling-Szenario handelt es sich um ein Hersteller-Szenario (siehe 2.13).
+Für diese EPD wurde eine repräsentative Transportdistanz von 25 km für den Transport zur Wiederaufbereitung bzw. Deponierung
+festgelegt.
+Seite 13 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Modul C3: Wiederaufbereitung und Wiederverwendung
+Die Recycling-Anteile für die Beton- und Stahlkomponenten werden entsprechend berücksichtigt (für Hohldielen 98 %). Bei dem
+angesetzten Recycling-Szenario handelt es sich um ein Hersteller-Szenario (siehe 2.13). Die Systemgrenze für rückgebauten Beton wird mit
+dem Eintreffen des rückgebauten Materials in das Recycling-Werk gesetzt, weil ab diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN
+15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind. Daher werden im betrachteten Produktsystem keine Belastungen
+aus der Wiederaufbereitung von Beton berücksichtigt. Die Systemgrenze für die rückgebauten Stahlkomponenten wird nach dem Sortieren
+und Pressen im Recycling-Werk gesetzt.
+Bei einer gesamthaften Wiederverwendung von ausgebauten Betonfertigteilen (Szenario wird in dieser EPD nicht betrachtet) würde die
+Systemgrenze beim Eintreffen des Elements an der neuen Einbaustelle (direkter Wiedereinbau) bzw. im Zwischenlager gesetzt werden,
+weil ab diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN 15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind.
+Modul C4: Entsorgung
+Die angegebenen Anteile für Deponierung (für Hohldielen 2 % der Beton- und Stahlkomponenten) werden in der EPD entsprechend
+berücksichtigt.
+Diese EPD berücksichtigt die CO -Aufnahme durch Karbonatisierung des rückgebauten Betons auf der Deponie nach ÖNORM EN
+2
+16757:2023 [3].
+Modul D: Wiederverwendungs-, Rückgewinnungs-, Recyclingpotenzial
+Nach Erreichen des Endes der Abfalleigenschaften kann der rezyklierte Beton (Aufbereitung zu Betongranulat – ggf. Zerkleinern, Sieben,
+etc.) primäre Gesteinskörnungen ersetzen und somit deren Produktion substituieren. Aufbereitete Bewehrungsstähle und Stahleinbauteile
+können in die Stahlproduktion rückgeführt werden und dort die Herstellung von primärem Roheisen substituieren. Diese EPD berücksichtigt
+eine entsprechende Bewertung des Recyclingpotentials von Beton und Stahl in Modul D. Für das Betongranulat wird hier nach ÖNORM EN
+15804:2022 [5] der Nettofluss aus Inputs minus Outputs an rezyklierter Gesteinskörnung herangezogen. Für die Stahlkomponenten
+(Bewehrungsstahl und Spannstahl) wird in Modul D Nettofluss über den Input an rezyklierten Stahl in den angewandten Stahldatensätzen
+(Rec-Inputs: Spannstahl 15%) und dem angesetzten Recycling-Output berücksichtigt.
+Wo zerstörungsfrei möglich bzw. bei entsprechendem Erhaltungszustand könnten Betonfertigteile zur Wiederverwendung in neuen
+Bauwerken ausgebaut werden und die Herstellung von neuen bzw. primären Fertigteilen entsprechend ersetzen (Szenario wird in dieser
+EPD nicht betrachtet).
+Zusatzbestandteile von Betonfertigteilen (kommen in den hier betrachteten Hohldielen nicht vor) könn(t)en im angewandten Rechner dem
+Deponierungsanteil (z.B. Steinwolle) zugrechnet bzw. einer thermischen Verwertung in Müllverbrennungsanlagen zugeordnet werden
+(Holzkomponenten, Kunststoffe).
+Die in Modul A5 anfallenden Verpackungsmaterialien (kommen bei den hier betrachteten Hohldielen nicht vor) werden einer thermischen
+Verwertung zugeführt. Für die thermische Verwertung der Verpackung werden die unteren Heizwerte aus den ecoinvent-Datensätzen für
+die thermische Verwertung entnommen. Es wird angenommen, dass sich die Energierückgewinnung auf 1/3 Strom (mit einem
+Wirkungsgrad von 17%) sowie 2/3 Wärme (mit einem Wirkungsgrad von 75%) aufteilt.
+Seite 14 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+3.3 Flussdiagramm der Prozesse im Lebenszyklus
+Abbildung 1: Flussdiagramm Herstellungsprozesse (A1-A3) Betonfertigteile inkl. Einbau (A4-A5) [3]
+Seite 15 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Abbildung 2: Typische Prozesse im Entsorgungsstadium von Betonelementen und deren Zuordnung zu den Lebenszyklusmodulen C1-C4
+und D (Transportprozesse und Nutzungsphase werden nicht gezeigt) [3]
+3.4 Abschätzungen und Annahmen
+Zur Erstellung der Ökobilanz wurde der Ökobilanzrechner für Betonfertigteile der floGeco GmbH (verifizierte Rechnerversion: BAU-EPD-
+LCA-Tool-2024-001-FloGeco-Betonfertigteile-v05-20240918-Locked) verwendet. Abschätzungen und Annahmen bezüglich der
+Ökobilanzmodellierungen im Rechner können im Projektbericht des floGeco-Rechentools [8] eingesehen werden. Die hier angesprochenen
+Abschätzungen und Annahmen beziehen sich auf die Datenerhebungen für diese EPD.
+Hinsichtlich Abschätzungen und Annahmen im Zuge der Datenerhebung und -auswertung für die EPD-Erstellung werden die Vorgaben und
+Empfehlungen des Managementsystem-Handbuchs (EPD-MS-HB)“ [1] und der PCR Anleitungstexte für Beton und Betonelemente [2] des
+Bau-EPD-Programms Österreich bzw. der ÖNORM EN 15804:2022 [5] beachtet.
+Nach Rücksprache mit Experten des VÖB wurde für rückgebaute Betonstrukturen eine Recyclingquote von 98 % und ein Deponierungsanteil
+von 2 % angesetzt. Bei dem angesetzten Recycling-Szenario handelt es sich um ein Hersteller-Szenario (siehe 2.13).
+Außerdem wurde für diese EPD nach Rücksprachen mit Experten des VÖB eine repräsentative Transportdistanz von 25 km für den Transport
+zur Wiederaufbereitung, Wiederverwendung, Deponierung bzw. zur thermischen Verwertung festgelegt
+3.5 Abschneideregeln
+Zur Erstellung der Ökobilanz wurde der Ökobilanzrechner für Betonfertigteile der floGeco GmbH (verifizierte Rechnerversion: BAU-EPD-
+LCA-Tool-2024-001-FloGeco-Betonfertigteile-v05-20240918-Locked) verwendet. Im Ökobilanzrechner angewandte Abschneideregeln
+können im Projektbericht des floGeco-Rechentools [8] eingesehen werden. Die hier angesprochenen Abschätzungen und Annahmen
+beziehen sich auf die Datenerhebungen für diese EPD.
+Die definitiven Materialverluste bei der Produktion (Anhaftungen am Mischer und Leitblechen) betragen im Durchschnitt weniger als 1%
+und werden nicht gesondert betrachtet. Größere anfallende Mengen (z. B. Fehlchargen) in einzelnen Werken werden entsprechend
+miterfasst.
+Seite 16 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Der Maschinenpark, Förderbänder, Gebäude, Straßen und Außenanlagen in den Betonwerken werden im Ökobilanzrechner gemäß den
+Abschneideregeln der ÖNORM EN 15804:2022 [5] nicht mitberücksichtigt.
+Die Systemgrenze für rezyklierte Gesteinskörnungen wird mit dem Eintreffen des (vorgebrochenen) Materials in das Kieswerk gesetzt, weil
+ab diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN 15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind.
+Wiederaufbereitetes Recycling-Wasser in den Werken und Silikastaub (ökonomische Allokation – siehe 3.7 bzw. 3.9 des Projektberichts
+des Ökobilanzrechners für Betonfertigteile [8]) gehen lastenfrei in die Ökobilanz ein.
+3.6 Hintergrunddaten
+Zur Erstellung der Ökobilanz wurde der Ökobilanzrechner für Betonfertigteile der floGeco GmbH verwendet (verifizierte Rechnerversion:
+BAU-EPD-LCA-Tool-2024-001-FloGeco-Betonfertigteile-v05-20240918-Locked). Im Ökobilanzrechner angewandte Hintergrunddaten
+können im Projektbericht des floGeco-Rechentools [8] eingesehen werden.
+Für die Erstellung des Ökobilanzrechners wurde als Hintergrund-Datenbank ecoinvent 3.9.1 mit dem Systemmodell „cut-off by
+classification“ verwendet [9]. Da die zu deklarierenden Betonfertigteile von Mitgliedern des Verbands Österreichischer Beton- und
+Fertigteilwerke hergestellt werden, wurden, soweit möglich, österreichische Hintergrunddaten für den Ökobilanzrechner herangezogen.
+Ansonsten wurden europäische, globale oder z.T. auch schweizerische (aufgrund der geographischen Nähe oft repräsentativer als der
+europäische/ globale Durchschnitt) Datensätze verwendet.
+Die angewandten Ökobilanzdatensätze für Zemente, AHWZ (aufbereitete, hydraulisch wirksame Zusatzstoffe) und Kalksteinmehl wurden
+basierend auf den Grundlagen- bzw. Sachbilanzdaten der Umweltproduktdeklaration (EPD – Environmental Product Declaration) für
+„Zement mit der durchschnittlichen Zusammensetzung in Österreich im Jahr 2017“ [10] modelliert.
+Für Gesteinskörnungen (Sand 0/4, Gesteinskörnung rund (4/x), Gesteinskörnung gebrochen (4/x), Rezyklierte Gesteinskörnung) werden im
+Ökobilanzrechner die Sachbilanzmodelle der EPD für Gesteinskörnungen des Fachverband der Schweizerischen Kies- und Betonindustrie
+aus dem Jahr 2018 (Produktionsjahr 2016) herangezogen [11].
+Für Betonzusatzmittel werden die Ergebnisse aus den EPD der European Federation of Concrete Admixtures Associations (EFCA) [12-17],
+welche 2021 (Produktionsjahr 2019) basierend auf der GaBi-Datenbank [18] erstellt wurden, angewandt. Für den im Rechner integrierten
+Betonzusatzstoff Pigmente wird die EPD der Lanxess Deutschland GmbH für "Iron Oxide Red Pigment (Fe2O3)" [19] aus dem Jahr 2023
+herangezogen (Basis GaBi-Datenbank [18]).
+Für Spannstahl wird die EPD der voestalpine Wire Austria GmbH für "Drawn Wire - Prestressing Wire and Strand" [20] aus dem Jahr 2023
+(Basis GaBi-Datenbank [18]) angesetzt.
+Zur Modellierung der Substitution von primärer Gesteinskörnung durch rezyklierte Gesteinskörnungen wird im Ökobilanzrechner das
+Sachbilanzmodell der EPD für rezyklierte Gesteinskörnungen des Fachverband der Schweizerischen Kies- und Betonindustrie aus dem Jahr
+2018 (Produktionsjahr 2016) herangezogen [11].
+Die Daten für die in dieser EPD betrachteten Hohldielen wurden über Datenerhebungen in den 7 beteiligten Werken erfasst. Die
+bereitgestellten Daten wurden entsprechend ausgewertet und gewichtet sowie vor der Eingabe in den angewandten Ökobilanzrechner auf
+Plausibilität geprüft. Die Vordergrunddaten stammen direkt von den beteiligten Herstellern und sind deshalb entsprechend repräsentativ
+für Hohldielen aus den 7 Werken.
+3.7 Datenqualität
+Für die Erstellung des Ökobilanzrechners wurde als Hintergrund-Datenbank ecoinvent 3.9.1 mit dem Systemmodell „cut-off by
+classification“ verwendet [9]. Die im Ökobilanzrechner für Betonfertigteile angewandten Hintergrunddaten können im Projektbericht des
+floGeco-Rechentools [8] eingesehen werden.
+Die Daten für die Produktion der durchschnittlichen Hohldielen wurden über Datenerhebungen in den 7 beteiligten Werken erfasst (mit
+Hilfe eines vom VÖB bereitgestellten Erhebungsbogens). Eine Prüfung auf Vollständigkeit und Plausibilität der Herstellerangaben erfolgte
+über mehrere Abstimmungen mit den einzelnen Herstellern. Dabei wurden die Kriterien der Bau EPD GmbH für die Datenerhebung
+eingehalten. Die bereitgestellten Daten wurden vor der Eingabe in den Ökobilanzrechner auf Plausibilität geprüft.
+Seite 17 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Bei der Erhebung der Vordergrunddaten (Primärdaten) in den beteiligten Werken wurden folgende Qualitätsanforderungen berücksichtigt:
+• Die Kriterien der Bau EPD GmbH für die Datenerhebung und die Abgrenzung der Stoff- und Energieströme werden eingehalten.
+• Die verwendeten Daten entsprechend dem Jahresdurchschnitt des Bezugsjahres 2022.
+• Alle wesentlichen Daten wie Energie- und Rohstoffbedarf sowie Transportwege innerhalb der Systemgrenze wurden vom
+Hersteller bereitgestellt.
+Die Anforderungen an die Hintergrunddaten gemäß den Vorgaben der Bau EPD GmbH (MS-HB [21]) werden mit dem angewandten
+Ökobilanzrechner für Betonfertigteile erfüllt. Die Hintergrund-Datenbank ecoinvent 3.9.1 [9] wurde im Jahr 2022 publiziert, beinhaltet
+jedoch einzelne Datensätze, deren Erhebungs- bzw. Bezugsjahr mehr als 10 Jahre (Anforderung ÖNORM EN 15804:2022 [5] bzw. Bau EPD
+GmbH) zurückliegt. Diese Datensätze wurden jedoch über die Jahre in den verschiedenen ecoinvent-Datenbank-Versionen unter
+Berücksichtigung notwendiger Anpassungen für Datenbank-Updates mitgeführt. In den Dokumentationen zur ecoinvent Datenbank v.3
+(„Übersicht und Methodik“ - https://ecoinvent.org/wp-content/uploads/2021/09/dataqualityguideline_ecoinvent_3_20130506.pdf,
+„Dokumentation der in der ecoinvent Datenbank 3.9.1 umgesetzten Änderungen“ - https://ecoinvent.org/the-ecoinvent-database/data-
+releases/ecoinvent-3-9-1/) können detaillierte Informationen über die Datenqualität der ecoinvent-Datensätze eingesehen werden.
+Die Modellierung der in den beteiligten Werken angewandten Strommixe erfolgt über einen im Ökobilanzrechner integrierten Strom-LCA-
+Rechner. Die Gewichtung der durchschnittlichen Stromzusammensetzung erfolgt basierend auf den Produktionsanteilen der jeweiligen
+Werke. Der Stromrechner ermöglicht die laut den Vorgaben der Bau EPD GmbH (MS-HB [21]) notwendige Berücksichtigung des
+tatsächlichen Produktmix des Stromlieferanten basierend auf der Stromkennzeichnung des eingesetzten Strommix (gem. § 78 Abs 1 und 2
+EIWOG 2010 und Stromkennzeichnungsverordnung 2011 VO). Details zum Strom-LCA-Rechner können im Projektbericht des
+Ökobilanzrechners für Betonfertigteile [8] eingesehen werden.
+3.8 Betrachtungszeitraum
+Die erhobenen Daten für die betrachteten Hohldielen entsprechen dem Jahresdurchschnitt des Produktionsjahres 2022. Die Produktions-
+und Absatzahlen im Jahr 2022 wurden durch die COVID-Pandemie nicht beeinträchtigt.
+3.9 Allokation
+Zur Erstellung der Ökobilanz wurde der Ökobilanzrechner für Betonfertigteile der floGeco GmbH verwendet (verifizierte Rechnerversion:
+BAU-EPD-LCA-Tool-2024-001-FloGeco-Betonfertigteile-v05-20240918-Locked). Im Ökobilanzrechner angewandte Allokationsregeln
+können im Projektbericht des floGeco-Rechentools [8] eingesehen werden.
+Eine ökonomische Co-Produkten-Allokation innerhalb eines Werkes (d.h. eine Aufteilung der Belastungen basierend auf den jeweiligen
+Anteilen der produzierten Betonfertigteile am Betriebseinkommen) ist aufgrund mangelnder Informationen in den Werken nicht möglich
+bzw. wollen einzelne Hersteller Daten zu Ihren Betriebseinkommen aus Vertraulichkeitsgründen (Betriebsgeheimnis) nicht offenlegen. Die
+Allokation für die innerhalb eines Werkes produzierten Betonfertigteile basiert deshalb auf den dazugehörigen Produktionsmengen der
+hergestellten Produktgruppen.
+Die angewandten Zement-Datensätze weisen ihre Ergebnisse entsprechend dem Verursacherprinzip nach ÖNORM EN 15804:2022 [5],
+CEN/TR 16970:2016 [22] und ÖNORM EN 16908:2022 [23] mit Netto-CO -Emissionen aus. D.h., Emissionen aus der Verbrennung von
+2
+Sekundärbrennstoffen, die noch einen Abfallstatus haben, werden dem verursachenden System zugeordnet und nicht im Zement-System
+berücksichtigt.
+Für die Zuteilung der Umweltlasten auf die Betonrohstoffe „Flugasche“ (Kohlekraftwerk), „Hochofenschlacke bzw. Hüttensand“ und
+„Silikastaub“ kommt die ökonomische Allokation zur Anwendung.
+Für rezyklierte Gesteinskörnungen wurde die Systemgrenze mit dem Eintreffen des (vorgebrochenen) Materials in das Kieswerk gesetzt,
+weil ab diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN 15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind.
+Wiederaufbereitetes Recycling-Wasser in den Werken geht lastenfrei in die Ökobilanz ein.
+Die Bewertung vorgelagerter Prozesse erfolgt durch die Nutzung von ecoinvent-Datensätzen und EPDs. Allokationsregeln in den
+Hintergrunddaten sind somit grundsätzlich der jeweiligen Datensatzdokumentation in ecoinvent bzw. den angewandten EPDs zu
+entnehmen.
+Seite 18 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Die Systemgrenze für rückgebauten Beton wird mit dem Eintreffen des rückgebauten Materials in das Recycling-Werk (C3) gesetzt, weil ab
+diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN 15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind. Daher werden
+im betrachteten Produktsystem keine Belastungen aus der Wiederaufbereitung von Beton berücksichtigt (siehe 3.2 bzw. 4.4). Die
+Systemgrenze für die rückgebauten Stahlkomponenten wird nach dem Sortieren und Pressen im Recycling-Werk gesetzt.
+Gutschriften für die Substitution von primärer Gesteinskörnung bzw. von primärem Roheisen sowie für rückgewonnene Energie aus der
+thermischen Verwertung werden Modul D zugerechnet.
+3.10 Vergleichbarkeit
+Grundsätzlich ist eine Gegenüberstellung oder die Bewertung von EPD-Daten nur möglich, wenn alle zu vergleichenden Datensätze nach
+EN 15804 in der gleichen Version erstellt wurden, die gleichen programmspezifischen PKR bzw. etwaige zusätzliche Regeln sowie die gleiche
+Hintergrunddatenbank verwendet wurden und darüber hinaus der Gebäudekontext bzw. produktspezifische Leistungsmerkmale
+berücksichtigt werden.
+Seite 19 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+4 LCA: Szenarien und weitere technische Informationen
+4.1 A1-A3 Herstellungsphase
+Laut ÖNORM EN 15804:2022 [5] sind für die Module A1-A3 keine technischen Szenarioangaben gefordert, weil die Bilanzierung dieser
+Module in der Verantwortung des Herstellers liegt und vom Verwender der Ökobilanz nicht verändert werden würden.
+Die Herstellerdaten für die deklarierten Betonfertigteile wurden mit Hilfe eines Erhebungsbogens des VÖB erfasst.
+Mit Hilfe des im Ökobilanzrechner intergierten Strom-LCA-Rechners erfolgt die Modellierung des durchschnittlichen Strommixes. Basierend
+auf den eingegeben (durchschnittlichen) Stromanteilen werden die Ökobilanz-Ergebnisse für den Strom auf Hoch-, Mittel- und
+Niederspannungsebene berechnet. Die Ökobilanzergebnisse für den Strommix auf den drei Spannungsebenen werden in die
+entsprechenden Bewertungen übernommen.
+Im nächsten Schritt werden die einzelnen Rohstoffe (A1) des Betons (Zement, Zusatzstoffe, Gesteinskörnung, Betonzusatzmittel, Wasser)
+des betrachteten Fertigteils bewertet (siehe 3.2). Anschließend werden im Ökobilanzrechner die Rohstoffe (A1) des zu deklarierenden
+Betonfertigteils bewertet (siehe 3.2).
+Hinsichtlich der Rohstofftransporte (A2) werden die (durchschnittlichen) Transportprozesse getrennt für den Transport auf der Straße, mit
+dem Schiff bzw. mit der Bahn betrachtet (siehe 3.2). Die Bewertung der Produktionsaufwände (siehe 3.2) basiert auf einer Datenerhebung
+in den beteiligten Betonfertigteilwerken.
+Sämtliche im Ökobilanzrechner für die Herstellungsphase (A1-A3) angewandten Sachbilanzdatensätze inkl. Gültigkeit (Datenbank/ Quelle,
+Land/ Region, Referenzjahr, Veröffentlichung/ Update) sowie die geographische, technische und zeitliche Repräsentativität (ÖNORM EN
+15804:2022 Annex E [5]) sämtlicher angewandten Datensätze werden in Anhang 1 des Projektberichts des Ökobilanzrechners für
+Betonfertigteile [8] dargestellt.
+4.2 A4-A5 Errichtungsphase
+Modul A4: Transport zur Einbaustelle
+Hohldielen werden überwiegend per LKW transportiert (ca. 98 %). Ein sehr kleiner Anteil der Auslieferung erfolgt mit der Bahn (ca. 2 %).
+Die (durchschnittlichen) Transportdistanzen wurden im Zuge der Datenerhebung erfasst und ausgewertet. Für die deklarierten
+Durchschnittsfertigteile aus mehreren Werken werden die Transportprozesse entsprechend der Produktionsanteile der einzelnen Werke
+gewichtet.
+Für die Transportprozesse in Modul A4 wird ein Datensatz für ein Transportfahrzeug mit einem höchstzulässigen Gesamtgewicht von >32
+Tonnen angesetzt.
+Tabelle 10 und Tabelle 11 zeigen die allgemeinen Parameter zur Beschreibung des Transports zur Einbaustelle mit LKW und Bahn.
+Tabelle 10: Beschreibung des Szenarios „Transport zur Einbaustelle (A4) – Straße“
+Parameter zur Beschreibung des Transportes zur Einbaustelle (A4) Wert Messgröße
+Mittlere Transportentfernung Hohldiele: 93,83 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) Euro 6 -
+Mittlerer Treibstoffverbrauch, Treibstofftyp: Diesel 36,47 l/100 km
+Mittlere Transportmenge 15,96 t
+Mittlere Auslastung (einschließlich Leerfahrten) 85 %
+Mittlere Rohdichte der transportierten Produkte Hohldiele: 2525 kg/m3
+Volumen-Auslastungsfaktor (Faktor: =1 oder <1 oder ≥ 1 für in Schachteln verpackte oder
+=1 -
+komprimierte Produkte
+Seite 20 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 11: Beschreibung des Szenarios „Transport zur Einbaustelle (A4) – Bahn“
+Parameter zur Beschreibung des Transportes zur Einbaustelle (A4) Wert Messgröße
+Mittlere Transportentfernung Hohldiele: 2,05 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) - -
+6,22E-02 kWh/tkm
+Mittlerer Treibstoffverbrauch, Treibstofftyp: Strom/ Diesel
+1,66E-03 l/tkm
+Mittlere Transportmenge 427 t
+Mittlere Auslastung (einschließlich Leerfahrten) 45 %
+Mittlere Rohdichte der transportierten Produkte Hohldiele: 2525 kg/m3
+Volumen-Auslastungsfaktor (Faktor: =1 oder <1 oder ≥ 1 für in Schachteln verpackte oder
+=1 -
+komprimierte Produkte
+Modul A5: Einbau bzw. Installation
+Je nach Fertigteiltyp sind für das Versetzen Hilfsmaterialien wie Auflagerstreifen, Vergussmörtel, Stützen, etc. anzuwenden. Diese EPD für
+durchschnittliche Hohldielen bzw. der Ökobilanzrechner für Betonfertigteile fokussiert ausschließlich auf die zu deklarierenden
+Betonfertigteile und betrachtet keine auf der Baustelle zu ergänzenden Materialien (wie Auflagerstreifen, Vergussmörtel, etc.), weil diese
+sehr stark von der tatsächlichen strukturellen Funktion sowie auch von der detaillierten Form des Fertigteils abhängen (Menge
+Vergussmörtel, usw.) und die EPD eine ökobilanzielle Bewertung einer deklarierten Einheit von 1 Tonne Fertigteil (unabhängig von der
+detaillierten Geometrie und der Statik bzw. den Charakteristika des tatsächlichen Bauwerks) anstrebt. Diese Materialien sind in spezifischen
+EPD bzw. in ökobilanziellen Bewertungen auf Bauwerksebene (mit) zu betrachten.
+Für die in dieser EPD betrachteten (durchschnittlichen) Hohldielen wurde ein Einheben mittels Turmdrehkran betrachtet. Aufgrund der
+Varianz der tatsächlichen Installationssituationen auf der Baustelle wird im Sinne eines Worst-Case-Szenarios der Turmdrehkran mit dem
+größten Strombedarf (1,40 kWh/t - Liebherr 150 EC-B 8) angesetzt.
+Außerdem wird im Modul A5 die Entsorgung der Verpackungsmaterialien in Form einer thermischen Verwertung von Kunststoffen (z.B.
+Folien) bzw. Holz (z.B. Stapelhölzer) bewertet. Auch der Transport der Verpackungsmaterialien zur thermischen Verwertung wird
+entsprechend bewertet. Keines der betrachteten Werke weist Verpackungsmaterialien für die hergestellten Hohldielen aus.
+Tabelle 12 zeigt die allgemeinen Parameter zur Beschreibung des Einbaus der Fertigteile (A5).
+Tabelle 12: Beschreibung des Szenarios „Einbau in das Bauwerk (A5)“
+Parameter zur Beschreibung des Einbaus ins Gebäude (A5) Wert Messgröße
+kg/t
+Hilfsstoffe für den Einbau (spezifiziert nach Stoffen) - t/t
+l/t
+Hilfsmittel für den Einbau (spezifiziert nach Type) Turmdrehkran -
+m3/t
+Wasserbedarf -
+l/t
+kg/t
+Sonstiger Ressourceneinsatz - t/t
+l/t
+Stromverbrauch 1,40 kWh/t
+Weiterer Energieträger: ……………. - kWh oder MJ/t
+Materialverlust auf der Baustelle vor der Abfallbehandlung, verursacht durch den
+- kg/t
+Einbau des Produktes (spezifiziert nach Stoffen)
+Holz:
+Output-Stoffe (spezifiziert nach Stoffen) infolge der Abfallbehandlung auf der Baustelle, Hohldiele: -
+z.B. Sammlung zum Recycling, für die Energierückgewinnung, für die Entsorgung kg/t
+(spezifiziert nach Entsorgungsverfahren) Kunststoff (PET):
+Hohldiele: -
+Direkte Emissionen in die Umgebungsluft (z.B. Staub, VOC), Boden und Wasser - kg/t
+Seite 21 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+4.3 B1-B7 Nutzungsphase
+Die Referenznutzungsdauern der deklarierten Produkte sind in Kapitel 2.12 dargestellt. In den Modulen B2-B7 gibt es keine Stoff- bzw.
+Massenströme, Input +/- Output = 0.
+Modul B1: Nutzung
+Karbonatisierung von Beton ist ein natürlicher Vorgang, bei dem in der Umgebungsluft vorhandenes CO in den Beton eindringt und mit
+2
+Hydratationsprodukten im Beton reagiert (Ca(OH) + CO -> CaCO + H 0). Diese EPD betrachtet mit Hilfe des Ökobilanzrechners für
+2 2 3 2
+Betonfertigteile die CO -Aufnahme durch Karbonatisierung in der Nutzungsphase nach ÖNORM EN 16757:2023 [3]. Zur Bewertung der
+2
+Karbonatisierung der hier betrachteten, durchschnittlichen Betonfertigteile werden eine repräsentative Betondruckfestigkeitsklasse
+(größter Mengenanteil) sowie ein charakteristisches Oberflächen/Volumen-Verhältnis angesetzt.
+4.4 C1-C4 Entsorgungsphase
+Modul C1: Abbruch/ Rückbau
+Diese EPD betrachtet für die betrachteten durchschnittlichen Hohldielen den Abbruch von Betonstrukturen als typisches Rückbau-Szenario.
+Für die in dieser EPD betrachteten durchschnittlichen Hohldielen wird ein (baubetrieblich ermittelter) Energiebedarf für den Abbruch mit
+repräsentativer Gerätschaft angesetzt.
+Das Szenario für den Abbruch berücksichtigt ein Abbruchverfahren mit Betonzange und Hydraulikbaggern. Dazu wurde der Energiebedarf
+für den Rückbau von einer Tonne der Betonstruktur eines Gebäudes (mit 62.000 m3 Gebäudevolumen – insgesamt 4 Hydraulikbagger im
+Einsatz) mit 33 MJ/t ermittelt, was bei einem Heizwert von 34,7 MJ/Liter Diesel einen Durchschnittlichen Dieselbedarf von 0,95 Liter pro t
+Fertigteil ergibt.
+Tabelle 13 zeigt die allgemeinen Parameter zur Beschreibung des Rückbaus der Fertigteile (C1).
+Tabelle 13: Beschreibung des Szenarios „Rückbau (C1)“
+Parameter zur Beschreibung des Rückbaus (C1) Wert Messgröße
+Hilfsstoffe für den Rückbau - kg/t
+Betonzange und
+Hilfsmittel für den Rückbau -
+Hydraulikbagger
+Wasserbedarf - m3/t
+Sonstiger Ressourceneinsatz - kg/t
+Stromverbrauch - kWh/t
+Weiterer Energieträger: Diesel 33 MJ/t
+Materialverlust auf der Baustelle vor der Abfallbehandlung, verursacht durch den Ausbau
+- kg/t
+des Produktes
+Output-Stoffe infolge der Abfallbehandlung auf der Baustelle, z.B. Sammlung zum Recycling: 980
+kg/t
+Recycling, für die Energierückgewinnung, für die Entsorgung Deponierung: 20
+Direkte Emissionen in die Umgebungsluft (z.B. Staub, VOC), Boden und Wasser - kg/t
+Modul C2: Transport zur Abfallbewirtschaftung bzw. Entsorgung
+Der Transport der abgebrochenen Betonstrukturen erfolgt mittels LKW. Der Transport des rückgebauten Materials (Beton- und
+Stahlkomponenten) erfolgt zur Wiederaufbereitung (C3 – 98 %) und zur Deponierung (C4 – 2 %).
+Für diese EPD wurde eine repräsentative Transportdistanz von 25 km für den Transport zur Wiederaufbereitung bzw. Deponierung
+festgelegt.
+Für die Transportprozesse in Modul C2 wird ein Datensatz für ein Transportfahrzeug mit einem höchstzulässigen Gesamtgewicht von 16-
+32 Tonnen angesetzt.
+Tabelle 14 zeigt die allgemeinen Parameter zur Beschreibung des Transports zur Entsorgung (C2).
+Seite 22 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 14: Beschreibung des Szenarios „Transport Entsorgung (C2)“
+Tabelle 15: Beschreibung des Szenarios „Transport Entsorgung (C2)“
+Parameter zur Beschreibung des Transportes Entsorgung (C2) Wert Messgröße
+Mittlere Transportentfernung 25 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) Euro 6 -
+Mittlerer Treibstoffverbrauch, Treibstofftyp: Diesel bzw. Schweröl 25,26 l/100 km
+Mittlere Transportmenge 5,79 t
+Mittlere Auslastung (einschließlich Leerfahrten) 85 % %
+Mittlere Rohdichte der transportierten Produkte Hohldiele: 2525 kg/m3
+Volumen-Auslastungsfaktor (Faktor: =1 oder <1 oder ≥ 1 für in Schachteln verpackte oder
+=1 -
+komprimierte Produkte
+Modul C3: Wiederaufbereitung und Wiederverwendung
+Die Recycling-Anteile für die Beton- und Stahlkomponenten werden entsprechend berücksichtigt (für Hohldielen 98 %). Bei dem
+angesetzten Recycling-Szenario handelt es sich um ein Hersteller-Szenario (siehe 2.13). Die Systemgrenze für rückgebauten Beton wird mit
+dem Eintreffen des rückgebauten Materials in das Recycling-Werk gesetzt, weil ab diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN
+15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind. Daher werden im betrachteten Produktsystem keine Belastungen
+aus der Wiederaufbereitung von Beton berücksichtigt. Die Systemgrenze für die rückgebauten Stahlkomponenten wird nach dem Sortieren
+und Pressen im Recycling Werk gesetzt.
+Modul C4: Entsorgung
+Die angegebenen Anteile für Deponierung (für Hohldielen 2 % der Beton- und Stahlkomponenten) werden in der EPD entsprechend
+berücksichtigt.
+Diese EPD berücksichtigt die CO -Aufnahme durch Karbonatisierung des rückgebauten Betons auf der Deponie nach ÖNORM EN
+2
+16757:2023 [3].
+Tabelle 16 zeigt die allgemeinen Parameter zur Beschreibung der Entsorgung des Produkts.
+Tabelle 16: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“
+Parameter für die Entsorgungsphase (C1–C4) Wert Messgröße
+kg
+getrennt
+Sammelverfahren, spezifiziert nach Art
+1000 kg
+gemischt
+kg
+Wiederverwendung
+Rückholverfahren, spezifiziert nach Art 980 kg
+Recycling
+kg
+Energierückgewinnung
+Deponierung, spezifiziert nach Art 20 kg
+Deponierung
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial
+Nach Erreichen des Endes der Abfalleigenschaften kann der aufbereitete Beton (Betongranulat) primäre Gesteinskörnungen ersetzen und
+somit deren Produktion substituieren. Aufbereitete Bewehrungsstähle und Stahleinbauteile können in die Stahlproduktion rückgeführt
+werden und dort den Einsatz von Roheisen (mit Hilfe von entsprechenden Prozessen in der Stahlherstellung) substituieren. Diese EPD
+berücksichtigt eine entsprechende Bewertung des Recyclingpotentials von Beton und Stahl in Modul D.
+Die in Modul A5 anfallenden Verpackungsmaterialien werden einer thermischen Verwertung zugeführt. Für die thermische Verwertung
+der Verpackung wird angesetzt, dass sich die Energierückgewinnung auf 1/3 Strom sowie 2/3 Wärme aufteilt, was im Modul D als
+entsprechendes Substitutionspotential berücksichtigt wird. Keines der betrachteten Werke weist Verpackungsmaterialien für die
+hergestellten Hohldielen aus.
+Seite 23 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 17: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“
+Parameter für das Modul (D) Wert Messgröße
+Materialien für Wiederverwendung oder Recycling
+- %
+aus A4-A5
+Holz:
+Hohldiele: -
+Energierückgewinnung bzw. Sekundärbrennstoffe
+kg/t
+aus A4-A5
+Kunststoff (PET):
+Hohldiele: -
+Materialien für Wiederverwendung oder Recycling
+- %
+aus B2-B5
+Energierückgewinnung bzw. Sekundärbrennstoffe
+- kg/t
+aus B2-B5
+Materialien für Wiederverwendung oder Recycling
+98 %
+aus C1-C4
+Energierückgewinnung bzw. Sekundärbrennstoffe
+- kg/t
+aus C1-C4
+Seite 24 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+5 LCA: Ergebnisse
+Die mit dem angewandten Ökobilanzrechner für Betonfertigteile berechenbaren Parameter bzw. Ökobilanzergebnisse entsprechen einer
+Bilanzierung nach ÖNORM EN 15804:2022 [5]. Es werden deshalb die ÖNORM EN 15804:2022 [5] angeführten Charakterisierungsfaktoren
+(Joint Research Center, EF 3.1) der Wirkungsabschätzung angewandt.
+Es gilt anzumerken, dass die Wirkungsabschätzungsergebnisse nur relative Aussagen sind, die keine Aussagen über „Endpunkte“ der
+Wirkungskategorien, Überschreitung von Schwellenwerten, Sicherheitsmarken oder über Risiken enthalten.
+5.1 LCA: Ergebnisse "Hohldiele"
+Tabelle 18: Ergebnisse Kernindikatoren für die Umweltwirkungen pro Tonne Hohldiele
+Tabelle 19: Ergebnisse zusätzliche Umweltwirkungsindikatoren pro Tonne Hohldiele
+Seite 25 / 36
+Param eter Einheit A 1 A 2 A 3 A 1-A 3 A 4 A 5 B 1 - Karb C1 C2 C3 C4 C4 - Karb D aus A 5 D aus C3 D aus C4
+G W P-gesam t kg CO äquiv 139,742 6,785 8,033 154,559 9,480 0,360 -3,942 3,275 4,621 0,483 0,122 -0,884 0,000 -28,310 0,0002
+G W P-fossil kg CO äquiv 139,710 6,781 8,029 154,520 9,475 0,359 -3,942 3,275 4,619 0,483 0,122 -0,884 0,000 -28,302 0,0002
+G W P-biogen kg CO äquiv 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,0002
+G W P-luluc kg CO äquiv 0,032 0,003 0,004 0,039 0,005 0,000 0,000 0,000 0,002 0,001 0,000 0,000 0,000 -0,008 0,0002
+O D P kg CFC-11 äquiv 2,31E-07 1,48E-07 3,53E-07 7,32E-07 2,15E-07 8,49E-09 0,00E+00 5,21E-08 1,01E-07 7,67E-09 3,52E-09 0,00E+00 0,00E+00 -6,65E-07 0,00E+00
++A P 3,10E-01 1,48E-02 2,48E-02 3,50E-01 2,37E-02 9,90E-04 0,00E+00 3,04E-02 1,01E-02 5,41E-03 9,16E-04 0,00E+00 0,00E+00 -1,18E-01 0,00E+00m ol H äquiv
+3-EP-Süssw asser 1,75E-02 4,82E-04 3,91E-04 1,83E-02 7,39E-04 3,58E-04 0,00E+00 1,01E-04 3,28E-04 2,84E-04 1,01E-05 0,00E+00 0,00E+00 -1,09E-02 0,00E+00kg PO äquiv4
+EP-Salzw asser kg N äquiv 9,37E-02 3,74E-03 9,60E-03 1,07E-01 6,47E-03 2,62E-04 0,00E+00 1,41E-02 2,55E-03 1,26E-03 3,52E-04 0,00E+00 0,00E+00 -3,28E-02 0,00E+00
+EP-Land m ol N äquiv 1,024 0,038 0,109 1,171 0,066 0,002 0,000 0,153 0,026 0,014 0,004 0,000 0,000 -0,343 0,000
+PO CP kg N M V O C äquiv 2,78E-01 2,30E-02 3,82E-02 3,39E-01 3,84E-02 7,52E-04 0,00E+00 4,53E-02 1,57E-02 4,21E-03 1,31E-03 0,00E+00 0,00E+00 -1,67E-01 0,00E+00
+A D P-M ineralien und M etalle kg Sb äquiv 1,10E-04 2,22E-05 9,46E-06 1,41E-04 2,66E-05 9,07E-07 0,00E+00 1,14E-06 1,51E-05 2,97E-05 1,69E-07 0,00E+00 0,00E+00 -2,55E-05 0,00E+00
+A D P-fossile Energieträger M J H 755,773 96,313 108,578 960,665 143,661 5,429 0,000 42,885 65,602 6,544 3,028 0,000 0,000 -316,132 0,000u
+W D P m 3 W elt äquiv entzogen 12,818 0,397 0,571 13,786 0,691 0,046 0,000 0,092 0,270 0,079 0,134 0,000 0,000 -1,972 0,000
+G W P = G lobales Erw ärm ungspotenzial; luluc = Landnutzung und Landnutzungsänderung; O D P = A bbaupotenzial der stratosphärischen O zonschicht; A P =
+V ersauerungspotenzial; EP = Eutrophierungspotenzial; PO CP = Bildungspotenzial für troposphärisches O zon; A D P = Potenzial für die V erknappung von
+Legende abiotischen Ressourcen; W D P = W asser-Entzugspotenzial (Benutzer)A
+1 = Rohstoffe, A 2 = Transportprozesse, A 3 = H erstellungsprozesse, C1 = Rückbauprozesse, C2 = Transportprozesse Rückbaum aterial, C3 =
+W iederaufbereitung/ Recycling, C4 = Entsorgung, D = Substitution im nächsten Produkt
+Param eter Einheit A 1 A 2 A 3 A 1-A 3 A 4 A 5 B 1 - Karb C1 C2 C3 C4 C4 - Karb D aus A 5 D aus C3 D aus C4
+PM * A uftreten von Krankheiten 9,82E-07 5,05E-07 5,21E-07 2,01E-06 9,35E-07 4,40E-09 0,00E+00 8,46E-07 3,44E-07 7,47E-08 2,01E-08 0,00E+00 0,00E+00 -2,36E-06 0,00E+00
+IRP* kBq U 235 äquiv 1,978 0,130 0,090 2,199 0,189 0,080 0,000 0,020 0,089 0,052 0,002 0,000 0,000 -1,215 0,000
+ETP-fw * CTU e 79,783 47,615 20,821 148,219 68,945 1,025 0,000 20,493 32,432 5,129 1,422 0,000 0,000 -92,063 0,000
+H TP-c* CTU h 5,25E-09 3,09E-09 2,20E-09 1,05E-08 4,28E-09 1,11E-10 0,00E+00 1,00E-09 2,11E-09 7,36E-10 5,17E-11 0,00E+00 0,00E+00 -1,46E-07 0,00E+00
+H TP-nc* CTU h 7,60E-08 6,84E-08 3,03E-08 1,75E-07 1,03E-07 2,50E-09 0,00E+00 6,97E-09 4,66E-08 3,32E-08 6,47E-10 0,00E+00 0,00E+00 -1,20E-07 0,00E+00
+SQ P* Punkte 17,039 58,232 267,680 342,951 145,632 1,597 0,000 2,889 39,664 11,616 6,013 0,000 0,000 -23,792 0,000
+PM = Potenzielles A uftreten von Krankheiten aufgrund von Feinstaubem issionen; IRP = Potenzielle W irkung durch Exposition des M enschen m it U 235; ETP-fw
+= Potenzielle Toxizitätsvergleichseinheit für Ö kosystem e - Süssw asser; H TP-c = Potenzielle Toxizitätsvergleichseinheit für den M enschen - kanzerogene
+Legende W irkung; H TP-nc = Potenzielle Toxizitätsvergleichseinheit für den M enschen - nicht kanzerogene W irkung; SQ P = Potenzieller BodenqualitätsindexA
+1 = Rohstoffe, A 2 = Transportprozesse, A 3 = H erstellungsprozesse, C1 = Rückbauprozesse, C2 = Transportprozesse Rückbaum aterial, C3 =
+W iederaufbereitung/ Recycling, C4 = Entsorgung, D = Substitution im nächsten Produkt
+*die im Rechner für den Zusatzstoff Pigm ente, säm tliche Zusatzm ittel, den Spannstahl, Baustahl und feurverzinkten Stahl angew andten D atensätze (IBU -EPD ) w eisen keine Ergebnisse für diese Indikatoren aus (deshalb keine Belastungen aus diesen
+datensätzen für diese Indikatoren)
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 20: Ergebnisse Parameter zur Beschreibung des Ressourceneinsatzes pro Tonne Hohldiele
+Tabelle 21: Ergebnisse Abfallkategorien und Outputflüsse pro Tonne Hohldiele
+Tabelle 22: Ergebnisse biogener Kohlenstoffgehalt am Werkstor pro Tonne Hohldiele
+Tabelle 23 zeigt die Einschränkungshinweise hinsichtlich der Deklaration maßgebender Kern- und zusätzlicher Umweltwirkungsindikatoren,
+die in den jeweiligen Projektberichten und EPD-Dokumenten platziert werden müssen.
+Seite 26 / 36
+Param eter
+PERE
+PERM
+PERT
+PEN RE
+PEN RM
+PEN RT
+SM
+RSF
+N RSF
+FW
+Legende
+*N D : Indicator N
+Param eter
+H W D
+N H W D
+RW D
+CRU
+M FR
+M ER
+EEE
+EET
+Legende
+ot D
+Einheit A 1 A 2 A 3 A 1-A 3 A 4 A 5 B 1 - Karb C1 C2 C3 C4 C4 - Karb D aus A 5 D aus C3 D aus C4
+M J H 126,033 1,514 63,323 190,871 2,471 3,808 0,000 0,244 1,031 1,015 0,026 0,000 0,000 -19,928 0,000u
+M J H 1,354 0,000 0,000 1,354 0,000 0,000 0,000 0,000 0,000 -1,327 0,000 0,000 0,000 0,000 0,000u
+M J H 127,388 1,514 63,323 192,225 2,471 3,808 0,000 0,244 1,031 -0,313 0,026 0,000 0,000 -19,928 0,000u
+M J H 755,457 96,314 108,581 960,352 143,664 5,429 0,000 42,885 65,603 6,545 3,029 0,000 0,000 -316,138 0,000u
+M J H 2,251 0,000 0,000 2,251 0,000 0,000 0,000 0,000 0,000 -2,206 0,000 0,000 0,000 0,000 0,000u
+M J H 757,708 96,314 108,581 962,603 143,664 5,429 0,000 42,885 65,603 4,338 3,029 0,000 0,000 -316,138 0,000u
+kg 34,431 0,000 0,000 34,431 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+M J H 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000u
+M J H 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000u
+3 N D * N D * N D * N D * N D * N D * N D * N D * N D * N D * N D * N D * N D * N D * N D *m
+PERE = Erneuerbare Prim ärenergie als Energieträger; PERM = Erneuerbare Prim ärenergie zur stofflichen N utzung; PERT = Total erneuerbare Prim ärenergie;
+PEN RE = N icht-erneuerbare Prim ärenergie als Energieträger; PEN RM = N icht-erneuerbare Prim ärenergie zur stofflichen N utzung; PEN RT = Total nicht-erneuerbare
+Prim ärenergie; SM = Einsatz von Sekundärstoffen; RSF = Erneuerbare Sekundärbrennstoffe; N RSF = N icht-erneuerbare Sekundärbrennstoffe;
+FW = Einsatz von Süssw asserressourcenA
+1 = Rohstoffe, A 2 = Transportprozesse, A 3 = H erstellungsprozesse, C1 = Rückbauprozesse, C2 = Transportprozesse Rückbaum aterial, C3 =
+W iederaufbereitung/ Recycling, C4 = Entsorgung, D = Substitution im nächsten Produkt
+eclared: die ecoinvent-D atensätze lassen keine vollständige Erfassung des Einsatzes von Süssw asserressourcen zu
+Einheit A 1 A 2 A 3 A 1-A 3 A 4 A 5 B 1 - Karb C1 C2 C3 C4 C4 - Karb D aus A 5 D aus C3 D aus C4
+kg 6,16E-04 6,13E-04 5,38E-04 1,77E-03 8,90E-04 1,03E-05 0,00E+00 2,89E-04 4,17E-04 3,63E-05 1,60E-05 0,00E+00 0,00E+00 -3,25E-03 0,00E+00
+kg 3,253 4,787 1,088 9,127 12,518 0,034 0,000 0,061 3,260 0,198 19,995 0,000 0,000 -1,265 0,000
+kg 3,64E-03 5,77E-05 4,14E-05 3,73E-03 8,34E-05 3,85E-05 0,00E+00 8,42E-06 3,93E-05 2,42E-05 8,01E-07 0,00E+00 0,00E+00 -5,16E-04 0,00E+00
+kg 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+kg 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+kg 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+M J 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+M J 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000 0,000
+H W D = G efährlicher A bfall zur D eponie; N H W D = Entsorgter nicht gefährlicher A bfall; RW D = Entsorgter radioaktiver A bfall; CRU = Kom ponenten für die
+W iederverw endung; M FR = Stoffe zum Recycling; M ER = Stoffe für die Energierückgew innung; EEE = Exportierte Energie elektrisch; EET = Exportierte
+Energie therm ischA
+1 = Rohstoffe, A 2 = Transportprozesse, A 3 = H erstellungsprozesse, C1 = Rückbauprozesse, C2 = Transportprozesse Rückbaum aterial, C3 =
+W iederaufbereitung/ Recycling, C4 = Entsorgung, D = Substitution im nächsten Produkt
+Parameter Einheit A1 A2 A3 A1-A3
+C-Gehalt-Produkt kg C 0,000 0,000 0,000 0,000
+C-Gehalt-Verpackung kg C 0,000 0,000 0,000 0,000
+A1 = Rohstoffe, A2 = Transportprozesse,
+Legende
+A3 = Herstellungsprozesse
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Tabelle 23: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren
+ILCD-Klassifizierung Indikator Einschränkungshinweis
+Treibhauspotenzial (GWP, en: Global Warming Potential) keine
+Potenzial des Abbaus der stratosphärischen Ozonschicht,
+keine
+ILCD-Typ 1 (ODP, en: Ozone Depletion Potential)
+potenzielles Auftreten von Krankheiten aufgrund von
+keine
+Feinstaubemissionen (PM, en: Particulate Matter)
+Versauerungspotenzial, kumulierte Überschreitung
+keine
+(AP, en: Acidification Potential)
+Eutrophierungspotenzial, in das Süßwasser gelangende
+keine
+Nährstoffanteile (EP-Süßwasser)
+Eutrophierungspotenzial, in das Salzwasser gelangende
+keine
+ILCD-Typ 2 Nährstoffanteile (EP-Salzwasser)
+Eutrophierungsspotenzial, kumulierte Überschreitung (EP-Land) keine
+troposphärisches Ozonbildungspotential
+keine
+(POCP, en: Photochemical Ozone Creation Potential)
+potenzielle Wirkung durch Exposition des Menschen mit U235
+1
+(IRP, en: Ionizing Radiation Potential)
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+nicht fossile Ressourcen (ADP-Mineralien und Metalle)
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+fossile Ressourcen (ADP-fossil)
+Wasser-Entzugspotenzial (Benutzer), entzugsgewichteter
+ILCD-Typ 3 2
+Wasserverbrauch (WDP, en: Water Deprivation Potential)
+potenzielle Toxizitätsvergleichseinheit für Ökosysteme (ETP-fw) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-c) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-nc) 2
+potenzieller Bodenqualitätsindex (SQP, en: Soil Quality Index) 2
+Einschränkungshinweis 1 — Diese Wirkungskategorie behandelt hauptsächlich die mögliche Wirkung einer
+ionisierenden Strahlung geringer Dosis auf die menschliche Gesundheit im Kernbrennstoffkreislauf. Sie berücksichtigt
+weder Auswirkungen, die auf mögliche nukleare Unfälle und berufsbedingte Exposition zurückzuführen sind, noch auf
+die Entsorgung radioaktiver Abfälle in unterirdischen Anlagen. Die potenzielle vom Boden, von Radon und von einigen
+Baustoffen ausgehende ionisierende Strahlung wird eben-falls nicht von diesem Indikator gemessen.
+Einschränkungshinweis 2 — Die Ergebnisse dieses Umweltwirkungsindikators müssen mit Bedacht angewendet
+werden, da die Unsicherheiten bei diesen Ergebnissen hoch sind oder da es mit dem Indikator nur
+begrenzte Erfahrungen gibt.
+Seite 27 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+6 LCA: Interpretation
+Es gilt anzumerken, dass die Wirkungsabschätzungsergebnisse nur relative Aussagen sind, die keine Aussagen über „Endpunkte“ der
+Wirkungskategorien, Überschreitung von Schwellenwerten, Sicherheitsmarken oder über Risiken enthalten.
+Alle wesentlichen Daten wie Energie- und Rohstoffbedarf sowie Transportwege innerhalb der Systemgrenze wurden von den Herstellern
+zur Erstellung der Ökobilanz bereitgestellt. Die Anforderungen an die Hintergrunddaten gemäß den Vorgaben der Bau EPD GmbH (MS-HB
+[2]) werden erfüllt. Die Qualität der angewandten Daten ermöglich deshalb die Erstellung von plausiblen und aussagekräftigen Ökobilanz-
+Ergebnissen.
+Abbildung 3 zeigt die Dominanzanalysen zur Interpretation der (wichtigsten) Ökobilanzergebnisse der Module A1 bis C4 (ohne
+Karbonatisierung und Modul D) für die betrachtete durchschnittliche Hohldiele.
+Die Betonrohstoffe (A1) haben für fast alle Indikatoren (bis auf ODP, HWD, NHWD) den größten Einfluss auf die Ergebnisse von A1-C4 (ohne
+Karbonatisierung und Modul D), gefolgt von den Transporten der Rohstoffe (A2) bzw. der Herstellungsprozesse im Werk (A3) und der
+Transporte zur Baustelle (A4) (Reihenfolge variiert in Abhängigkeit des Parameters). Für ODP hat der Herstellungsprozess (A3), für HWD
+der Transporte zur Baustelle (A4) und für NHWD die Deponierung (C4) den größten Einfluss auf die Ergebnisse von A1-C4.
+Der Einbau (A5) mittels Turmdrehkran ist bei einer Betrachtung von A1-C4 (ohne Karbonatisierung und Modul D) für alle Indikatoren von
+geringerer Bedeutung. Der Abbruch (C1) mittels Hydraulikbagger hat im Vergleich zum Einheben einen entsprechend höheren Einfluss auf
+die Ergebnisse A1-C4 (ohne Karbonatisierung und Modul D), was auf den höheren Energiebedarf für das Zerstören von Betonstrukturen
+zurückzuführen ist.
+Die Bedeutung des Transports der rückgebauten Materialien zur Wiederaufbereitung bzw. Entsorgung (C2) ist sehr stark von der
+Transportdistanz abhängig. Für einen Transport über 25 km ist der Einfluss von Modul C2 auf A1-C4 (ohne Karbonatisierung und Modul D)
+für alle Indikatoren gering.
+Die Systemgrenze für rückgebauten Beton wird mit dem Eintreffen des rückgebauten Materials in das Recycling-Werk (C3) gesetzt, weil ab
+diesem Zeitpunkt die 4 Kriterien nach ÖNORM EN 15804:2022 [5] für das Erreichen des Endes des Abfallstatus erfüllt sind. Daher werden
+im betrachteten Produktsystem keine Belastungen aus der Wiederaufbereitung von Beton berücksichtigt. Die Systemgrenze für die
+rückgebauten Stahlkomponenten wird nach dem Sortieren und Pressen im Recycling Werk gesetzt. Der Einfluss dieser Prozesse in C3 ist
+bei einer Betrachtung von A1-C4 (ohne Karbonatisierung und Modul D) als gering einzustufen.
+Der Einfluss der Deponierung von Beton und Stahlkomponenten (C4) ist sehr stark von der Recycling-Quote abhängig. Bei sehr hohen
+Recycling-Anteilen wie in dieser EPD (98 %) ist ein unbedeutender Einfluss der Deponierungsprozesse auf die Ergebnisse für A1-C4 zu
+erkennen.
+Der Einfluss der Karbonatisierung in B1 ist sehr stark vom Oberflächen/ Volumen-Verhältnis und der Betondruckfestigkeitsklasse der
+betrachteten Fertigteile abhängig. Bei der durchschnittlichen österreichischen Hohldiele liegt das Oberflächen/ Volumen-Verhältnis in der
+Kategorie zwischen 3 und 8 m²/m³, was für einen Beton der Kategorie C40/50 und höher ein Karbonatisierungspotenzial von ca. -2,3 % des
+GWP-gesamt von A1-C4 bedeutet.
+Die Karbonatisierung auf der Deponie (C4) ist sehr stark von der Recycling-Quote abhängig. Bei einem hohen Recycling- und folglich
+niedrigem Deponierungsanteil wie in dieser EPD angesetzt ist ein geringes Karbonatisierungspotenzial des Betonabbruchs zu erwarten (ca.
+-0,5 % des GWP-gesamt von A1-C4 für die durchschnittliche Hohldiele).
+Die möglichen Potentiale in Modul D aus der Verbrennung von Verpackungen und Transporthilfen sind abhängig von den jeweiligen
+Einsatzmengen. Keines der betrachteten Werke weist Verpackungsmaterialien für die hergestellten Hohldielen aus.
+Die Potentiale durch die Anwendung von rezyklierten Beton bzw. Stahl in einem Folgeprodukt (D aus C3) hängen stark von der Recycling-
+Quote ab, welche in dieser EPD mit 98 % sehr hoch angesetzt wurde. Der Einfluss von D aus C3 für rezyklierten Beton ist aufgrund der
+Nettofluss-Regel von der Einsatzmenge an rezyklierter Gesteinskörnung als Rohstoff (A1) abhängig und ist aufgrund des verhältnismäßig
+geringen Einflusses der zu substituierenden natürlichen Gesteinskörnung (für den Großteil der Indikatoren) eher gering (ca. -1,5 % des
+GWP-gesamt von A1-C4). Für rezyklierten Stahl entsteht in D aus C3 aufgrund des Recycling-Anteils von 15 % im eingesetzten Spannstahl
+und der angesetzten Recycling-Quote von 98 % für den rückgebauten Stahl aufgrund der Nettofluss-Regel ein Substitutionspotential von
+ca. -15 % des GWP-gesamt von A1-C4.
+Seite 28 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Abbildung 3: Dominanzanalyse Module A1-C4 Hohldiele
+Abbildung 4 zeigt die Dominanzanalyse der Module A1 bis A3 für die betrachteten durchschnittlichen Hohldielen.
+Auch für die A1-A3-Ergebnisse ist der größte Einfluss bei der Rohstoffherstellung (A1) zu erkennen. Die Module A2 und A3 haben über die
+gesamte Palette an Indikatoren gesehen einen ausgeglichenen Einfluss.
+Seite 29 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Abbildung 4: Dominanzanalyse Module A1-A3 Hohldiele
+Abbildung 5 zeigt die Dominanzanalyse für das Module A1 für die betrachteten durchschnittlichen Hohldielen.
+Hier ist der größte Einfluss auf den Großteil der Ergebnisse (ausgenommen sind hier SM und RW) beim Zement zu finden. Jedoch hat auch
+der eingesetzte Spannstahl einen nahezu gleichbedeutenden und zum Teil auch höheren Einfluss. Bei den Sekundärmaterialien (SM) haben
+das Recyclingwasser und die rezyklierte Gesteinskörnung den größten Einfluss.
+Seite 30 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Abbildung 5: Dominanzanalyse Modul A1 Hohldiele
+Zur Bewertung der Ergebnisschwankungen werden die maximalen und minimalen Werks-Ergebnisse für Hohldielen der hier betrachteten
+durchschnittlichen Hohldiele gegenübergestellt. Dabei erkennt man zum Beispiel für die A1-A3-GWP-gesamt-Ergebnisse eine
+Schwankungsbreite der Werke von ca. -10 % bis ca. +50 % im Vergleich zum Gesamtdurchschnitt der Werke. Die +50 % sind auf den hohen
+Spannstahl-Gehalt von 5 % in einem Werk zurückzuführen (liegt im Durchschnitt bei 1,9 %). Aufgrund der verhältnismäßig niedrigen
+Produktionsmenge in diesem Werk ist der Einfluss auf das Durchschnittsergebnis als gering einzustufen. Nimmt man den "Ausreiser" mit
++50 % aus der Bewertung so schwanken die A1-A3-GWP-gesamt-Ergebnisse der Hohldielen der betrachteten Werke um ca. -10 % bis ca.
++12 % im Vergleich zur durchschnittlichen Hohldiele.
+Seite 31 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+7 Literaturhinweise
+[1] Bau EPD GmbH: Managementsystem-Handbuch (EPD-MS-HB) des EPD-Programms, Stand 20.09.2023. Bau EPD Österreich, Wien,
+2023.
+[2] Bau EPD GmbH: PCR Anleitungstexte für Beton und Betonelemente, PCR-Code 2.17, Stand 01.01.2024. Bau EPD Österreich, Wien,
+2024.
+[3] ÖNORM EN 16757:2023. Nachhaltigkeit von Bauwerken - Umweltproduktdeklarationen - Produktkategorieregeln für Beton und
+Betonelemente. Austrian Standard Institute, Wien.
+[4] OIB-095.1-011/19:2019. Konsolidierte Fassung (15. März 2019) der Liste der Bauprodukte und der Anlagen A und B der
+Baustoffliste ÖA (Verordnung des OIB vom 15. August 2015 über die Baustoffliste ÖA, inklusive 1. Novelle) Österreichsiches
+Institut für Bautechnik, Wien.
+[5] ÖNORM EN 15804:2022. Nachhaltigkeit von Bauwerken – Umweltproduktdeklarationen – Grundregeln für die Produktkategorie
+Bauprodukte. Austrian Standard Institute, Wien.
+[6] ÖNORM EN 206:2021. Beton - Festlegung, Eigenschaften, Herstellung und Konformität. Austrian Standard Institute, Wien.
+[7] Europäische Kommission: Europäische Abfallartenkatalog (EAK). Europäische Kommission, Brüssel, 2021.
+[8] floGeco GmbH: Projektbericht - Ökobilanzrechner für Betonfertigteile - verifizierte Rechnerversion: 240419_floGeco-EPD-
+Rechner_v02. Bau EPD GmbH, Wien, 2024.
+[9] ecoinvent Association: ecoinvent Datenbank 3.9.1 – Systemmodell „Cut-Off by Classification", https://ecoinvent.org/the-
+ecoinvent-database/ [Zugriff am: 01.12.2023].
+[10] Vereinigung der Österreichischen Zementindustrie (VÖZ): Umwelt-Produktdeklaration nach ISO 14025 und EN 15804+A2 für
+österreichischen Durchschnittszement im Jahr 2017. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2020.
+[11] Fachverband der Schweizerischen Kies- und Betonindustrie (FSKB): Durchschnitts-EPD für Gesteinskörnungen - Natürliche GK 0/4
+mm, rund - Natürliche GK 0/4 mm, gebrochen - Natürliche GK 4/x mm, rund - Natürliche GK 4/x mm, gebrochen - Rezyklierte GK
+0/x mm. SÜGB – Schweizerischer Überwachungsverband für Gesteinsbaustoffe, Bern, 2018.
+[12] European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO
+14025 and EN 15804 - Concrete admixtures – Hardening Accelerators. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2021.
+[13] European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO
+14025 and EN 15804 - Concrete admixtures – Set Accelerators. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2021.
+[14] European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO
+14025 and EN 15804 - Concrete admixtures – Plasticisers and Superplasticisers. Institut Bauen und Umwelt e.V. (IBU), Berlin,
+2021.
+[15] European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO
+14025 and EN 15804 - Concrete admixtures – Water Resisting Admixtures. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2021.
+[16] European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO
+14025 and EN 15804 - Concrete admixtures – Air entrainers. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2021.
+[17] European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO
+14025 and EN 15804 - Concrete admixtures – Retarders. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2021.
+[18] Sphera Solutions GmbH: GaBi Datenbanken, https://gabi.sphera.com/deutsch/databases/gabi-databases/ [Zugriff am:
+01.12.2023].
+[19] Lanxess Deutschland GmbH: ENVIRONMENTAL PRODUCT DECLARATION as per ISO 14025 and EN 15804 - Iron Oxide Red Pigment
+(Fe2O3). Institut Bauen und Umwelt e.V. (IBU), Berlin, 2023.
+[20] voestalpine Wire Austria GmbH: ENVIRONMENTAL PRODUCT DECLARATION as per ISO 14025 and EN 15804 - Drawn Wire -
+Prestressing Wire and Strand. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2023.
+Seite 32 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+[21] Bau EPD GmbH: Managementsystem-Handbuch (EPD-MS-HB) des EPD-Programms, Stand 27.01.2023. Bau EPD Österreich, Wien,
+2023.
+[22] CEN/TR 16970:2016. Nachhaltiges Bauen - Leitfaden für die Anwendung von EN 15804. Europäische Komitee für Normung CEN,
+Brüssel.
+[23] ÖNORM EN 16908:2022. Zement und Baukalk - Umweltproduktdeklarationen - Produktkategorieregeln in Ergänzung zu EN
+15804. Austrian Standard Institute, Wien.
+Seite 33 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+8 Verzeichnisse und Glossar
+8.1 Abbildungsverzeichnis
+Abbildung 1: Flussdiagramm Herstellungsprozesse (A1-A3) Betonfertigteile inkl. Einbau (A4-A5) [3] .......................................................... 15
+Abbildung 2: Typische Prozesse im Entsorgungsstadium von Betonelementen und deren Zuordnung zu den Lebenszyklusmodulen C1-C4
+und D (Transportprozesse und Nutzungsphase werden nicht gezeigt) [3] ..................................................................................................... 16
+Abbildung 3: Dominanzanalyse Module A1-C4 Hohldiele .............................................................................................................................. 29
+Abbildung 4: Dominanzanalyse Module A1-A3 Hohldiele .............................................................................................................................. 30
+Abbildung 5: Dominanzanalyse Modul A1 Hohldiele...................................................................................................................................... 31
+8.2 Tabellenverzeichnis
+Tabelle 1: Produktionswerke ............................................................................................................................................................................ 6
+Tabelle 2: Gesamtproduktionsmengen der betrachteten Hohldielen .............................................................................................................. 6
+Tabelle 3: Produktrelevante Normen ............................................................................................................................................................... 7
+Tabelle 4: Technische Daten Hohldiele ............................................................................................................................................................. 7
+Tabelle 5: Grundstoffe / Hilfsstoffe Beton Hohldiele ....................................................................................................................................... 8
+Tabelle 6: Grundstoffe / Hilfsstoffe Betonfertigteil Hohldiele .......................................................................................................................... 8
+Tabelle 7: Referenz-Nutzungsdauern (RSL) nach ÖNORM EN 16757:2023 – Anhang F [3] ............................................................................ 10
+Tabelle 8: Deklarierte Einheit Hohldiele = 1 t ................................................................................................................................................. 11
+Tabelle 9: Deklarierte Lebenszyklusphasen .................................................................................................................................................... 11
+Tabelle 10: Beschreibung des Szenarios „Transport zur Einbaustelle (A4) – Straße“ ..................................................................................... 20
+Tabelle 11: Beschreibung des Szenarios „Transport zur Einbaustelle (A4) – Bahn“ ....................................................................................... 21
+Tabelle 12: Beschreibung des Szenarios „Einbau in das Bauwerk (A5)“ ......................................................................................................... 21
+Tabelle 13: Beschreibung des Szenarios „Rückbau (C1)“ ................................................................................................................................ 22
+Tabelle 14: Beschreibung des Szenarios „Transport Entsorgung (C2)“ ........................................................................................................... 23
+Tabelle 15: Beschreibung des Szenarios „Transport Entsorgung (C2)“ ........................................................................................................... 23
+Tabelle 16: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“ ........................................................................................... 23
+Tabelle 17: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“ ............................. 24
+Tabelle 18: Ergebnisse Kernindikatoren für die Umweltwirkungen pro Tonne Hohldiele .............................................................................. 25
+Tabelle 19: Ergebnisse zusätzliche Umweltwirkungsindikatoren pro Tonne Hohldiele.................................................................................. 25
+Tabelle 20: Ergebnisse Parameter zur Beschreibung des Ressourceneinsatzes pro Tonne Hohldiele ........................................................... 26
+Tabelle 21: Ergebnisse Abfallkategorien und Outputflüsse pro Tonne Hohldiele .......................................................................................... 26
+Tabelle 22: Ergebnisse biogener Kohlenstoffgehalt am Werkstor pro Tonne Hohldiele ................................................................................ 26
+Tabelle 23: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren ........................ 27
+8.3 Abkürzungen
+8.3.1 Abkürzungen gemäß ÖNORM EN 15804
+EPD Umweltproduktdeklaration (en: environmental product declaration)
+PKR Produktkategorieregeln, (en: product category rules)
+LCA Ökobilanz, (en: life cycle assessment)
+LCI Sachbilanz, (en: life cycle inventory analysis)
+LCIA Wirkungsabschätzung, (en: life cycle impact assessment)
+RSL Referenz-Nutzungsdauer, (en: reference service life)
+ESL Voraussichtliche Nutzungsdauer, (en: estimated service life)
+EPBD Richtlinie zur Energieeffizienz von Gebäuden, (en: Energy Performance of Buildings Directive)
+GWP Treibhauspotenzial (en: global warming potential)
+ODP Abbaupotenzial der stratosphärischen Ozonschicht (en: depletion potential of the stratospheric ozone layer)
+AP Versauerungspotenzial von Boden und Wasser (en: acidification potential of soil and water)
+EP Eutrophierungspotenzial (en: eutrophication potential)
+POCP Potenzial für die Bildung von troposphärischem Ozon (en: formation potential of tropospheric ozone)
+ADP Potenzial für die Verknappung von abiotischen Ressourcen (en: abiotic depletion potential)"
+8.3.2 Abkürzungen gemäß vorliegender PKR
+CE-Kennz. franz. Communauté Européenne = „Europäische Gemeinschaft“ oder Conformité Européenne, soviel wie
+„Übereinstimmung mit EU-Richtlinien“
+Seite 34 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (de: Verordnung über die Registrierung,
+Bewertung, Zulassung und Beschränkung chemischer Stoffe
+Seite 35 / 36
+BAU-EPD-VOEB-2024-4-ECOINVENT-Hohldiele
+Eigentümer und Herausgeber
+Bau EPD GmbH Tel +43 699 15 900 500
+Seidengasse 13/3 Mail office@bau-epd.at
+1070 Wien Web www.bau-epd.at
+Österreich
+Programmbetreiber
+Bau EPD GmbH
+Seidengasse 13/3 Tel +43 699 15 900 500
+1070 Wien Mail office@bau-epd.at
+Österreich Web www.bau-epd.at
+Ersteller der Ökobilanz
+floGeco GmbH Tel +43 664 13 51 523
+Fax
+Hinteranger 61d
+Mail office@flogeco.com
+A-6161 Natters
+Web www.flogeco.com
+Österreich
+Inhaber der Deklaration
+Verband Österreichischer Beton- und Tel +43 01 403 48 00
+Fertigteilwerke (VÖB) Fax +43 01 403 48 00 19
+Gablenzgasse 3/5. OG Mail office@voeb.co.at
+Web www.voeb.com
+A-1150 Wien
+Österreich
+Seite 36 / 36

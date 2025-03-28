@@ -1,0 +1,767 @@
+—
+EPD
+Environmental Product Declaration
+REX640 Protection and Control Relay
+Production site: Vaasa, Finland
+DOCUMENT KIND IN COMPLIANCE WITH
+Environmental Product Declaration ISO 14025 and EN 50693
+PROGRAM OPERATOR PUBLISHER
+The Norwegian EPD Foundation The Norwegian EPD Foundation
+EPD-NORWAY REGISTRATION NUMBER AND DECLARATION NUMBER ISSUE DATE
+NEPD-3951-2989-EN 2022-11-28
+VALID TO STATUS SECURITY LEVEL
+2027-11-28 Approved Public
+OWNING ORGANIZATION DECLARATION NUMBER REV. LANG. PAGE
+ABB Switzerland Ltd, Group Technology Management 2RCA057421 A en 1/24
+© Copyright 2021 ABB. All rights reserved.
+ver2-191222
+ENVIRONMENTAL PRODUCT DECLARATION
+EPD Owner ABB Swizerland Ltd, Group Technology Management
+Organisation no CHE-101.538.426
+Manufacturer name ABB Oy
+and address Muottite 2 A, Vaasa, Finland
+Seila Rodriguez-Vilches – seila.rodriguez-vilches@ch.abb.com
+Sustainability Product Manager
+Company contact
+Jani Valtari – jani.valtari@fi.abb.com
+R&D Manager
+The Norwegian EPD Foundation
+Post Box 5250 Majorstuen, 0303 Oslo, Norway
+Program operator
+phone: +47 23 08 80 00
+email: post@epd-norge.no
+REX640 Protection and Control Relay
+FU: To protect a power system against faults such as short circuit
+Declared product,
+and overload, during a service life of 10 years and with a use rate of
+functional unit (FU),
+100 %.
+and reference flow (RF)
+RF: A single protection and control relay, including related
+accessories and packaging.
+The REX640 relay is used in utility, industrial, and transport and
+infrastructure applications for protection, control, measurement, and
+super-vision of power distribution systems. REX640 is based on an
+application package concept, that offer a variety of ready-made
+Product description application packages to choose from. The available application
+packages provide feeder protection, power transformer protection,
+machine protection, shunt capacitor protection, busbar protection,
+automatic synchronization, Petersen coil control, Arc protection with
+supervised sensors.
+CPC code 4621 - Electricity distribution or control apparatus
+Independent verification of the declaration and data, according to
+ISO 14025:2010
+☐INTERNAL ☒ EXTERNAL
+Independent
+Independent verifier approved by EPD-Norway: Elisabet Amat Guasch
+verification
+Signature:
+Håkon Hauan, CEO EPD-Norge
+Approved by
+Signature:
+Reference PCR and EPDItaly007 – PCR for Electronic and Electrical Products and
+version number Systems, Rev. 2, 2020/10/21.
+EN 50693:2019 - Product category rules for life cycle assessments of
+Core PCR
+electronic and electrical products and systems
+10 years (this is a theoretical period selected for calculation purposes
+Product RSL
+only and it is not representative for the minimum, average, nor actual
+description
+service life of the product)
+Markets of Global: Manufacturing and distribution
+applicability Europe: Use and end-of-life
+This EPD is based on the LCA study described in the LCA report
+LCA study
+2RCA057422
+EPD type A specific product by a specific manufacturer
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 2/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+EPD scope “Cradle to grave”
+Year of reported
+2021
+primary data
+LCA software SimaPro 9.3.0.3 (2022)
+LCI database ecoinvent v3.8 (2021)
+LCIA methodology EN 50693:2019
+EPDs published within the same product category, though
+originating from different programs, may not be comparable. Full
+Comparability conformance with a PCR allows EPD comparability only when all
+stages of a life cycle have been considered. However, variations and
+deviations are possible.
+The owner of the declaration shall be liable for the underlying
+Liability information and evidence. EPD-Norway shall not be liable with
+respect to manufacturer, life cycle assessment data and evidences.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 3/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Contents
+ABB Purpose & Embedding Sustainability ..................................................................................... 5
+General Information ........................................................................................................................ 6
+Constituent materials .................................................................................................................... 10
+LCA background information ........................................................................................................ 11
+Inventory analysis .......................................................................................................................... 15
+Environmental indicators .............................................................................................................. 17
+Additional environmental information ........................................................................................ 22
+References...................................................................................................................................... 24
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 4/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+ABB Purpose & Embedding Sustainability
+ABB is a leading global technology company that energizes the transformation of society
+and industry to achieve a more productive, sustainable future. By connecting software to
+its electrification, robotics, automation and motion portfolio, ABB pushes the boundaries
+of technology to drive performance to new levels. With a history of excellence stretching
+back more than 130 years, ABB’s success is driven by about 110 thousand talented
+employees in over 100 countries.
+ABB's Electrification business offers a wide-ranging portfolio of products, digital
+solutions and services, from substation to socket, enabling safe, smart and sustainable
+electrification. Offerings encompass digital and connected innovations for low and
+medium voltage, including EV infrastructure, solar inverters, modular substations,
+distribution automation, power protection, wiring accessories, switchgear, enclosures,
+cabling, sensing and control.
+ABB is committed to continually promoting and embedding sustainability across its
+operations and value chain, aspiring to become a role model for others to follow. With its
+ABB Purpose, ABB is focusing on reducing harmful emissions, preserving natural
+resources and championing ethical and humane behavior.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 5/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+General Information
+REX640 is an all-in-one protection and control relay use in advanced power distribution
+and generation applications with unmatched flexibility available during the complete life
+cycle of the device. The relay has a modular design for both hardware and software, which
+allows customization and modification flexibility, and adaptation to changing protection
+requirements. REX640 relays are used in utility, industrial, and transport and
+infrastructure applications for protection, control, measurement, and super-vision of
+power distribution systems. REX640 is based on an application package concept, that
+offer a variety of ready-made application packages to choose from. The available
+application packages provide feeder protection, power transformer protection, machine
+protection, shunt capacitor protection, busbar protection, automatic synchronization,
+Petersen coil control, and Arc protection with supervised sensors throughout the relay life
+cycle.
+The products declared in this Environmental Product Declaration includes the
+configurations of the REX640 protection and control relays.
+General technical specifications for the REX640 are as follows:
+Description Value
+Width 304,0 mm
+Height 264,8 mm
+With compression type
+242,2 mm
+CT/VT connectors
+With ring lug type
+Depth 254,1 mm
+CT/VT connectors
+With grounding bar 274,0 mm
+Weight (exc. packaging 6,9…9,3 kg
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 6/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Power Supply Power Supply Power Supply
+Module 1001 Module 1002 Module 1003
+Nominal auxiliary 24, 30, 48, 60 V DC 100, 110, 120, 220, 240 110, 125 V DC
+voltage U V AC, 50 and 60 Hz
+n
+48, 60, 110, 125, 220,
+250 V DC
+Burden of auxiliary DC < 18,0 W AC < 20,0 W (nominal) DC < 17,0 W
+voltage supply under (nominal) / / < 25,0 W (max.) (nominal) /
+< 25,0 W (max.) < 25,0 W (max.)
+quiescent (P ) /
+q DC < 20,0 W (nominal)
+operating condition
+/ < 25,0 W (max.)
+The REX640 protection and control relays are produced in Vaasa, Finland, and the relays
+are sold globally.
+The manufacturing site in Vaasa, Finland, uses 100 % renewable energy for the electricity,
+more specifically, a 50/50 mix of wind and hydro. The plant is also certified according to
+the following standards:
+• ISO 9001:2015 – Quality management systems
+• ISO 14001:2015 – Environmental management systems
+• ISO 45001:2018 – Occupational health and safety management systems
+Note, ABB only performs final assembling and testing of the relays. ABB does not
+manufacture any parts or components themselves. Instead, this is outsourced and
+purchased from various suppliers. Most of the parts are purchased as sub-assemblies or
+ready modules.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 7/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+The relay has mandatory and optional slots. A mandatory slot always contains a module,
+but an optional slot may be empty, depending on the configration ordered. The module
+slots are shown in table 3.
+Due to the modular nature of the product, there is a significant variation within the REX640 in
+terms of environmental impacts. A representative relay is therefore selected as reference
+product and declared in this EPD. The configuration of the reference product has all module
+slots but one filled. The results of the study can be extrapolated for other relay
+configurations according to EN 50693. The extrapolation rules are provided together with
+the results.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 8/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Slot Description Module
+Base functionality REX640B10NN
+A1 - -
+A2 Communication module COM1002
+B Binary input/output module BI01001
+C Binary input/output module BI01001
+D Binary input/output module BI01001
+E Analogue input module 1 AIM1001
+F Analogue input module 2 AIM1002
+G Power supply module PSM1002
+Product REX640
+Average nominal power 16,5 W
+Weight (excl. packaging) 9,16 kg
+Ordering code REX640_11Z9
+The ordering code is generated based on selected configuration in the ABB’s product
+selection tool.
+Packaging materials and manuals associated with these products are also included in the
+study.
+Description Material and weight
+Manuals Printed paper, 43 g
+Packaging box Cardboard,471 g
+Box interior Moulded recycled fibre pulp, 384 g
+Pallet (6 pcs / pallet) Wooden pallet, 1767 g
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 9/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Constituent materials
+The reference product weighs ca 9,16 kg, including 7 slots of maximum 8 in terms of
+hardware. Stickers and glue used in PSM base plate assembly have been excluded as they
+are considered negligible to the overall environmental impacts. Due to the complex nature
+of the electronics, these are presented as a separate category, which includes printed
+wiring boards, electronic components, connectors, and cables. Electronics are typically
+composed of various plastics, copper, and precious metals.
+REX640 reference product (excl. packaging)
+Materials Name CAS Number Weight [kg] %
+Aluminium 7429-90-5 4,69 51
+Steel, stainless steel 12597-68-1 0,26 3
+Metals
+Steel, low-alloyed 12597-69-2 0,14 2
+Other metals 0,11 1
+Electronics (PWBs, compo-
+- 3,92 43
+Others nents, connectors, cables)
+Others - 0,04 0
+9,16 100
+REX640 reference product
+Other metals1 %
+Steel, low-alloyed2 % Others0 %
+Steel, stainless steel3 %
+Aluminum51 %
+Electronics43 %
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 10/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+LCA background information
+Functional Unit and Reference Flow
+The functional unit of this study is to protect a power system against faults such as short
+circuit and overload, during a service life of 10 years and with a use rate of 100 %. The
+reference flow is a single protection and control relay, including related accessories and
+packaging.
+Note, the reference service life (RSL) of 10 years is a theoretical period selected for
+calculation purposes only – this is not representative for the minimum, average, nor actual
+service life of the product.
+System Boundaries
+The life cycle analysis of the REX640, an EEPS (Electronic and Electrical Products and
+Systems), is a “from cradle to grave” analysis and covers the following main life cycle
+stages according to EN 50693: Manufacturing stage, including the relevant upstream pro-
+cess (e.g. acquisition of raw material, preparation of semi-finished goods, etc.) and the
+main manufacturing and processing steps; distribution stage; installation stage,
+including the relevant steps for the preparation of the product for use; use stage,
+including the re-quired maintenance steps within the RSL (reference service life)
+associated to the reference product; end-of-life stage, including the necessary steps until
+and for the final disposal or recovery of the product system.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 11/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+The following figure shows the stages of the product life cycle and the information stages
+according to the PCR EPDItaly007 for the evaluation of electronic and electrical products
+and systems.
+M E M
+A Manufacturing R Manufacturing A Distribution
+O
+E E
+R Acquisition of raw C Assembly R Transport to distributor/
+materials logistic center
+T T
+EoL treatment of
+S S
+Transport to generated waste Transport to place of use
+P N
+manufacturing site
+U Packaging production W
+Manufacturing of parts Installation
+O
+by ABB suppliers
+D Installation
+EoL treatment of generated
+waste (packaging)
+Use
+Usage
+End of Life
+Collection and transport
+EoL treatment
+More specifically, the stages of the product life cycle and the information considered for
+the evaluation of the REX640 are the following:
+• The upstream manufacturing stage: This includes the acquisition of raw
+materials as well as production and transportation of semi-finished parts,
+components, and sub-assemblies from both direct and indirect suppliers to ABB.
+Production losses are also included.
+• The core manufacturing stage: This includes the final assembling and testing at
+the local manufacturing site in Finland. It also includes the utility consumptions
+and the waste generated at the sites as well as the production and use of
+packaging materials.
+• The distribution stage: This includes all activities related to the distribution and
+transportation of the final product to the site of installation.
+• The installation stage: This includes the end of life of the packaging materials.
+• The use stage: This includes the power consumption throughout the reference
+service life of the product.
+• The end-of-life stage: This includes all activities related to waste treatment and
+disposal of the product at the end of its service life.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 12/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Temporal and geographical boundaries
+The component suppliers are sourced all over the world: Africa, Asia and Europe. All
+primary data collected from ABB are from 2021, which is a representative production year.
+Secondary data are provided by ecoinvent v3.8.
+Due to the unclear origin of each material, ecoinvent processes with a global
+representativeness have been used. Thus, a conservative approach has been adopted.
+Boundaries in the life cycle
+In terms of boundaries, the PCR EPDitaly007 requires to refer to chapter 4.2.3.1 in the
+standard EN 50693 for products that can be easily replaced or recovered. In accordance
+with EN 50693:2019, capital goods such as machinery, tools, buildings, infrastructure,
+packaging for internal transports, and administrative activities, which cannot be allocated
+directly to the production of the reference product, are excluded.
+Infrastructures, when present, such as processes deriving from the ecoinvent database
+have not been excluded.
+Data quality
+Both primary and secondary data are used. The main sources for primary data are the bill
+of materials as well as technical drawings and documents. Site specific foreground data
+have been provided by ABB. For all processes for which primary are not available, generic
+data originating from the ecoinvent v3.8 database, “allocation, cut-off by classification”,
+are used. The ecoinvent database is available in SimaPro 9.3.0.3 which is the LCA software
+used for the calculations.
+Environmental impact indicators
+The information obtained from the inventory analysis is aggregated according to the
+effects related to the various environmental issues. In accordance with the PCR
+EPDItaly007, the environmental impact indicators are determined by using the
+characterization factors and impact assessment methods specified in EN
+15804:2012+A2:2019.
+Note, the PCR EPDItaly007 uses four different indicators for climate change (GWP-GHG):
+GWP (total), which includes all greenhouse gases; GWP (fossil fuels); GWP (biogenic
+carbon), which includes the emissions and absorption of biogenic carbon dioxide and
+biogenic carbon stored in the product; GWP (land use).
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 13/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Allocation rules
+The utility consumption and waste generation of the ABB’s production plant are allocated
+to the production of one relay by using allocation rules. Because the plant is focused on
+relay production, the total utility consumption and waste generation for 2021 are simply
+divided by the total output of relays during the same year. Utility consumption and waste
+generation deriving from offices and administrative activities are not excluded because it
+is not possible to accurately allocate the inventory only for the production. Thus, a
+conservative approach is adopted.
+For the end-of-life allocation, the “polluter pays” principle is adopted according to what is
+defined in the CEN/TR 16970 standard, as required by the PCR EPDItaly007. This means,
+waste treatment processes are allocated to the product system that generates the waste
+until the end-of-waste state is reached. The environmental burdens of recycling and
+energy recovery processes are therefore allocated to the product system that generates
+the waste, while the product system that uses the exported energy and recycled materials
+receives it burden-free. However, the potential benefits and avoided loads from recovery
+and recycling processes are not considered because it is not required by EPDItaly007.
+Limitations and simplifications
+The PCR EPDItaly007 does not provide any details about cut-off criteria; it refers to
+chapter 4.2.3.3 in the standard EN 50693. According to EN 50693, the cut-off criteria can
+be set to a maximum of 5 % of the overall environmental impacts given by the LCIA results.
+In this study, stickers and glue used in PSM base plate assembly have been excluded as
+they are considered negligible to the overall environmental impacts.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 14/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Inventory analysis
+In this study, both primary and secondary data are used. The main sources for primary
+data are the bill of materials as well as technical drawings and documents. Site specific
+foreground data have been provided by ABB. The ecoinvent v3.8 cut-off by classification
+system processes are used to model the background system of the processes.
+Due to the complex supply chain of the REX640, ecoinvent processes are selected with a
+global representativeness.
+Manufacturing stage
+Aluminium and electronics are the most frequently used materials, followed by stainless
+and low-alloyed steel.
+To account for the production efforts of metal parts, “metal working, average”-processes
+are most commonly used.
+The printed wiring boards (PWB) are modelled on a component level. Thus, every single
+component that is mounted on the PWBs is categorized and grouped into the most
+corresponding component found in ecoinvent. Furthermore, due to the high impacts of
+gold, primary data are used to model the specific amounts of gold used in each connector.
+The transport distances of raw materials to the manufacturing site of the first known
+supplier in the supply chain are assumed to be included in ecoinvent’s “market for”-
+processes. Additional transports of semi-finished parts, components, and sub-
+assemblies between indirect suppliers, direct suppliers, and ABB’s production plant are
+added separately. Intercontinental transports are assumed to be by air. Thus, a
+conservative approach is adopted.
+The core manufacturing stage of the REX640 takes place in ABB manufacturing site in
+Finland. The utility consumption and waste generation of the ABB’s production plant are
+allocated to the production of one relay according to the provided allocation rules.
+Packaging materials and manuals are also included in the analysis, in the core
+manufacturing stage.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 15/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Distribution
+The relays are in general delivered directly to the customer, and the most common type of
+transport is by road and air. ABB does not have any additional distribution centres. The
+relays are neither repacked throughout the distribution stage.
+A distribution scenario is developed based on primary data. A weighted average is
+calculated for air, sea, and road transports based on delivery statistics from 2021.
+Installation
+The installation phase only implies manual activities, and no energy is consumed. Thus, in
+the LCA, this phase only includes the end-of-life of the packaging materials and manuals
+that are discarded after installation. Statistical data are adopted from Eurostat (2018) to
+create a scenario which is representative for Europe. A transport distance of 100 km is
+assumed because the actual location of disposal is unknown.
+Use
+The use phase considers the power consumption over the reference service life of 10 years
+as defined in the functional unit. A use rate of 100 % is assumed because under normal
+operational circumstances, the relay is always powered on in a stand-by mode. Variations
+in power consumption from other modes are therefore considered negligible, including
+power losses from input and output signals. Because this product is sold globally and is
+not limited to any specific country, the latest energy mix for the European Union is
+adopted as suggested by the standard EN 50693. The emission factor is derived from GWP
+- total from the selected impact assessment method. For reference, the following table
+shows the greenhouse gas emissions per kWh (EN 15804:2012+A2:2019 method, GWP
+indicator):
+Electricity mix Data source Amount Unit
+European electricity mix:
+Electricity, medium voltage {RER}| Ecoinvent v3.8 0,40 kg CO2-eq/kWh
+market group for | Cut-off, S
+End of life
+The end-of-life stage is modelled according to the PCR EPDItaly007 and IEC/TR 62635. The
+percentages for end-of-life treatments of the product are adopted from IEC/TR 62635
+(Annex D, example 2), which is representative for Europe. The scenario is based on the
+rates given for materials that go through a separation process and thus, a conservative
+approach is adopted. A transport distance of 100 km is assumed because the distance to
+the actual location of disposal is unknown.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 16/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Environmental indicators
+This chapter presents the environmental impact indicators for the selected reference
+product of REX640, according to the PCR EPDItaly007. Extrapolation rules are thereafter
+provided, based on a sensitivity analysis, which allows for estimating more precise
+impacts of other relay configurations.
+The indicators are divided into the contribution of the processes to the different modules
+(upstream, core and downstream) and stages (manufacturing, distribution, installation,
+use and end-of-life).
+REX640 reference product
+Product: REX640
+Ordering code: REX640_11Z9
+Hardware: 7 of 8 slots filled
+Nominal power: 16,5 W (measured, average)
+UPSTREAM CORE DOWNSTREAM
+Impact category Unit Total
+Manufacturing Distribution Installation Use End-of-life
+GWP - total kg CO2 eq. 8,63E+02 2,35E+02 1,35E+00 4,13E+01 1,46E+00 5,77E+02 5,91E+00
+GWP - fossil kg CO2 eq. 8,41E+02 2,33E+02 3,56E+00 4,13E+01 7,43E-02 5,58E+02 5,73E+00
+GWP - biogenic kg CO2 eq. 1,97E+01 1,81E+00 -2,30E+00 1,46E-02 1,39E+00 1,86E+01 1,79E-01
+GWP - luluc kg CO2 eq. 1,82E+00 4,25E-01 7,87E-02 3,00E-03 2,60E-05 1,31E+00 8,04E-04
+ODP kg CFC-11 eq. 5,27E-05 1,52E-05 3,15E-07 9,40E-06 1,18E-08 2,76E-05 7,25E-08
+AP mol H+ eq. 5,49E+00 2,24E+00 2,26E-02 2,15E-01 4,00E-04 3,00E+00 4,69E-03
+EP - freshwater kg P eq. 8,42E-01 2,82E-01 1,53E-03 6,24E-04 1,00E-05 5,57E-01 2,52E-04
+POCP kg NMVOC eq. 2,52E+00 1,04E+00 1,60E-02 2,23E-01 4,54E-04 1,24E+00 4,07E-03
+ADP – minerals
+kg Sb eq. 8,62E-02 8,48E-02 4,55E-05 1,64E-05 2,20E-07 1,32E-03 8,29E-06
+and metals
+MJ, net calorific
+ADP – fossil 1,54E+04 2,87E+03 4,91E+01 5,80E+02 8,60E-01 1,19E+04 8,98E+00
+value
+WDP m3 eq. 2,18E+02 8,58E+01 2,36E+00 4,99E-01 -6,37E-03 1,29E+02 1,73E-01
+GWP-fossil: Global Warming Potential fossil; GWP-biogenic: Global Warming Potential biogenic; GWP-luluc: Global Warming
+Potential land use and land use change; ODP: Depletion potential of the stratospheric ozone layer; AP: Acidification potential;
+EP-freshwater: Eutrophication potential-freshwater compartment; POCP: Formation potential of tropospheric ozone; ADP-
+minerals & metals: Abiotic Depletion for non-fossil resources potential; ADP-fossil: Abiotic Depletion for fossil resources potential,
+WDP: Water deprivation potential.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 17/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Resource UPSTREAM CORE DOWNSTREAM
+use Unit Total
+parameters Manufacturing Distribution Installation Use End-of-life
+MJ, low cal.
+PENRE 1,54E+04 2,81E+03 4,90E+01 5,80E+02 8,60E-01 1,19E+04 8,98E+00
+value
+MJ, low cal.
+PERE 2,54E+03 3,23E+02 9,09E+01 2,14E+00 1,54E-02 2,12E+03 7,14E-01
+value
+MJ, low cal.
+PENRM 5,66E+01 5,66E+01 0,00E+00 0 0 0 0
+value
+MJ, low cal.
+PERM 4,32E+01 0 4,32E+01 0 0 0 0
+value
+MJ, low cal.
+PENRT 1,54E+04 2,87E+03 4,90E+01 5,80E+02 8,60E-01 1,19E+04 8,98E+00
+value
+MJ, low cal.
+PERT 2,58E+03 3,23E+02 1,34E+02 2,14E+00 1,54E-02 2,12E+03 7,14E-01
+value
+FW m3 1,33E+01 2,96E+00 1,54E-01 1,91E-02 -5,89E-05 1,01E+01 6,42E-03
+MS kg 3,73E+00 3,37E+00 3,60E-01 0 0 0 0
+RSF MJ 0 0 0 0 0 0 0
+NRSF MJ 0 0 0 0 0 0 0
+PENRE: Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw material; PERE:
+Use of renewable primary energy excluding renewable primary energy resources used as raw material; PENRM: Use of non-
+renewable primary energy resources used as raw material; PERM: Use of renewable primary energy resources used as raw
+material; PENRT: Total use of non-renewable primary energy resources (primary energy and primary energy resources used as
+raw materials); PERT: Total use of renewable primary energy resources (primary energy and primary energy resources used as
+raw materials); FW: Net use of fresh water; MS: Use of secondary materials; RFS: Use of renewable secondary fuels, NRSF: Use
+of non-renewable secondary fuels.
+Waste UPSTREAM CORE DOWNSTREAM
+production Unit Total
+indicators Manufacturing Distribution Installation Use End-of-life
+HWD kg 3,89E-02 3,30E-02 1,19E-04 1,54E-03 2,15E-06 4,23E-03 1,71E-05
+NHWD kg 7,64E+01 3,32E+01 9,58E-01 1,66E+00 1,39E-01 3,95E+01 9,32E-01
+RWD kg 1,00E-01 8,13E-03 1,91E-04 4,11E-03 5,03E-06 8,80E-02 4,00E-05
+MER kg 3,09E+00 0 5,45E-01 0 8,79E-01 0 1,67E+00
+MFR kg 9,92E+00 1,23E+00 1,58E+00 0 1,72E+00 0 5,40E+00
+CRU kg 0 0 0 0 0 0 0
+ETE MJ 1,92E+01 0 1,63E+00 0 3,09E+00 0 1,45E+01
+EEE MJ 9,82E+00 0 7,99E-01 0 1,54E+00 00 7,49E+00
+HWD: hazardous waste disposed; NHWD: non-hazardous waste disposed; RWD: radioactive waste disposed; MER: materials
+for energy recovery; MFR: material for recycling; CRU: components for reuse; ETE: exported thermal energy; EEE: exported
+electricity energy.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 18/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Extrapolation rules
+Due to the large variations in environmental impacts present within the REX640,
+extrapolation rules are established according to EN 50693. The rules are based on a
+sensitivity analysis and the changes in percentages are presented in tables in the
+following pages, in relation to the reference product. This allows for estimating more
+precise impacts of other relay configurations. The following rules are established:
+1. The upstream manufacturing stage, distribution stage, and end-of-life stage can be
+extrapolated based on the number of hardware modules.
+• Range of variation: 0–4 empty slots
+• Reference product: 1 empty slot
+• Formula for 2-4 empty slots: 𝑉𝑎𝑙𝑢𝑒 ∗(1−𝑐ℎ𝑎𝑛𝑔𝑒%∗(𝑛 −1))
+refproduct emptyslots
+• Formula for 0 empty slots: 𝑉𝑎𝑙𝑢𝑒 ∗(1+ 𝑐ℎ𝑎𝑛𝑔𝑒%∗0,31)
+refproduct
+2. The use stage can be extrapolated based on the actual, measured nominal power
+consumption.
+• Formula: 𝑉𝑎𝑙𝑢𝑒 ∗(1−𝑐ℎ𝑎𝑛𝑔𝑒%∗(16,5−P ))
+𝑟𝑒𝑓𝑝𝑟𝑜𝑑𝑢𝑐𝑡 nominal
+• Range of variation: 12–20 W
+Example 1: A REX640 relay that have 3 hardware module slots empty, and a measured
+nominal power consumption at 15 W.
+• GWP-total in upstream stage = 235,0 kg CO -eq * (1 – 9 % * (3 – 1) = 192,5 kg CO -eq
+2 2
+• GWP-total in use stage = 577,5 kg CO -eq * (1 – 16,5% * (16,5–15)) = 525,0 kg CO -eq
+2 2
+Example 2: REX640 relay that have 0 hardware module slots empty, and a measured
+nominal power consumption at 18 W.
+• GWP-fossil in distribution = 41,3 kg CO -eq * (1 + 6 % * 0,31) = 42,0 kg CO -eq
+2 2
+• GWP-fossil in use stage = 557,5 kg CO -eq * (1 – 6,1 ,5% * (16,5-18)) = 608,2 kg CO -eq
+2 2
+An REX640 extrapolation tool with changeable parameters is provided in:
+https://search.abb.com/library/Download.aspx?DocumentID=2RCA057534&LanguageC
+ode=en&DocumentPartId=&Action=Launch
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 19/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Change per hardware module Change per Watt
+Impact
+category Upstream Core
+Distribution Installation Use End-of-life Use
+manufacturing manufacturing
+GWP - total 9,0 % - 6,0 % - - 15,3 % 6,1 %
+GWP - fossil 9,1 % - 6,0 % - - 15,7 % 6,1 %
+GWP -
+3,3 % - 5,9 % - - 0,6 % 6,1 %
+biogenic
+GWP - luluc 7,9 % - 6,2 % - - 4,9 % 6,1 %
+ODP 9,2 % - 6,0 % - - 6,8 % 6,1 %
+AP 10,9 % - 6,1 % - - 8,0 % 6,1 %
+EP -
+10,4 % - 6,0 % - - 5,7 % 6,1 %
+freshwater
+POCP 9,7 % - 6,1 % - - 9,7 % 6,1 %
+ADP –
+minerals and 11,1 % - 6,0 % - - 2,2 % 6,1 %
+metals
+ADP – fossil 9,6 % - 6,0 % - - 6,0 % 6,1 %
+WDP 9,8 % - 6,0 % - - 10,7 % 6,1 %
+GWP-fossil: Global Warming Potential fossil; GWP-biogenic: Global Warming Potential biogenic; GWP-luluc: Global Warming
+Potential land use and land use change; ODP: Depletion potential of the stratospheric ozone layer; AP: Acidification potential;
+EP-freshwater: Eutrophication potential-freshwater compartment; POCP: Formation potential of tropospheric ozone; ADP-
+minerals & metals: Abiotic Depletion for non-fossil resources potential; ADP-fossil: Abiotic Depletion for fossil resources
+potential, WDP: Water deprivation potential.
+Change per hardware module Change per Watt
+Resource use
+parameters Upstream Core
+Distribution Installation Use End-of-life Use
+manufacturing manufacturing
+PENRE 9,4 % - 6,0 % - - 6,0 % 6,1 %
+PERE 9,3 % - 6,0 % - - 4,4 % 6,1 %
+PENRM 19,2 % - - - - - -
+PERM - - - - - - -
+PENRT 9,6 % - 6,0 % - - 6,0 % 6,1 %
+PERT 9,3 % - 6,0 % - - 4,4 % 6,1 %
+FW 9,0 % - 6,0 % - - 9,7 % 6,1 %
+MS 0,4 % - - - - - -
+RSF - - - - - - -
+NRSF - - - - - - -
+PENRE: Use of non-renewable primary energy excluding non-renewable primary energy resources used as raw material; PERE:
+Use of renewable primary energy excluding renewable primary energy resources used as raw material; PENRM: Use of non-
+renewable primary energy resources used as raw material; PERM: Use of renewable primary energy resources used as raw
+material; PENRT: Total use of non-renewable primary energy resources (primary energy and primary energy resources used as
+raw materials); PERT: Total use of renewable primary energy resources (primary energy and primary energy resources used as
+raw materials); FW: Net use of fresh water; MS: Use of secondary materials; RFS: Use of renewable secondary fuels, NRSF: Use
+of non-renewable secondary fuels.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 20/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Waste Change per hardware module Change per Watt
+production
+Upstream Core
+indicators Distribution Installation Use End-of-life Use
+manufacturing manufacturing
+HWD 8,4 % - 5,9 % - - 8,2 % 6,1 %
+NHWD 8,9 % - 6,0 % - - 4,4 % 6,1 %
+RWD 9,3 % - 6,0 % - - 5,4 % 6,1 %
+MER - - - - - 17,1 % -
+MFR 1,0 % - - - - 2,6 % -
+CRU - - - - - - -
+ETE - - - - - 17,1 % -
+EEE - - - - - 17,1 % -
+HWD: hazardous waste disposed; NHWD: non-hazardous waste disposed; RWD: radioactive waste disposed; MER: materials for
+energy recovery; MFR: material for recycling; CRU: components for reuse; ETE: exported thermal energy; EEE: exported
+electricity energy.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 21/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Additional environmental information
+Recyclability potential
+The recyclability potential of the reference product is calculated by dividing “MFR: material
+for recycling” with the total weight of the relay. This is based on the end-of-life scenario
+adopted from IEC/TR 62635 (Annex D, example 2) which is representative for Europe. The
+scenario is based on the rates given for materials that go through a separation process,
+and the production losses in the recycling processes have also been considered; thus, a
+conservative approach is adopted. Recyclability potentials for other relay configurations
+are also provided, which is based on a sensitivity analysis and extrapolation procedures.
+Product Recyclability potential
+REX640, full relay (extrapolated) 58,5 %
+REX640, 1 slot empty (reference product) 58,9 %
+REX640, 2 slots empty (extrapolated) 62,8 %
+REX640, 3 slots empty (extrapolated) 66,7 %
+REX640, 4 slots empty (extrapolated) 70,6 %
+REACH and RoHS compliance of REX640
+As part of ABB’s values, and in alignment with the Supplier Code of Conduct, we seek to
+work with companies who contribute to a sustainable development and are ethically,
+socially, environmentally, and economically responsible.
+ABB is responsible for ensuring that our products comply with legal requirements. There
+are also other sets of environmental requirements not necessarily originating from
+legislation, but which are of great importance as ABB customers are demanding
+compliance with them.
+ABB Distribution Solutions has contacted suppliers of REX640 to collect component and
+material information. This information includes, but is not limited to:
+• Full Material Disclosure
+• RoHS compliance certificate
+• REACH compliance certificate
+• Component lifecycle status
+Thus, the purpose is to avoid chemicals, materials and substances that
+• may represent hazards to the environment, or
+• the health of workers, customers, consumers and other stakeholders, or
+• could negatively influence end-of-life properties.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 22/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+Additional Norwegian requirements
+Greenhouse gas emissions from the use of electricity in the
+manufacturing phase
+Production mix from green energy purchasing certificate medium voltage (production of
+transmission lines, in addition to direct emissions and losses in grid) applied electricity
+for the manufacturing process.
+Electricity mix Data source Amount Unit
+ABB FI – custom:
+Ecoinvent v3.8 0,0259 kg CO2-eq/kWh
+50 % wind + 50 % hydro
+Dangerous substances
+The product contains no substances given by the REACH Candidate list.
+Indoor environment
+The product meets the requirements for low emissions.
+Carbon footprint
+Carbon footprint has not been worked out for the product.
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 23/24
+© Copyright 2021 ABB. All rights reserved.
+ENVIRONMENTAL PRODUCT DECLARATION
+References
+• Kurki, M. (2022). REX640 Life Cycle Assessment Report 2RCA057422
+• EN 50693:2019 – Product category rules for life cycle assessments of electronic and
+electrical products and systems
+• EN 15804:2012+A2:2019 – Sustainability of constructions - Environmental product
+declarations (September 2019)
+• PCR EPDItaly007 – Electronic and electrical products and systems (rev.2), October
+2020
+• IEC/TR 62635 – Guidelines for end-of-life information provided by manufacturers and
+recyclers and for recyclability rate calculation of electrical and electronic equipment -
+Edition 1.0 2012-10
+• ISO 14025:2010 – Environmental labels and declarations - Type III environmental
+declarations - Principles and procedures
+• ISO 14040:2006 - Environmental management - Life cycle assessment - Principles
+and framework
+• ISO 14044:2006 - Environmental management - Life cycle assessment -
+Requirements and guidelines
+• Ecoinvent, 2021. Swiss Centre for Life Cycle Assessment, v3.8 (www.ecoinvent.ch)
+• PRé Consultants, 2022. Software SimaPro version 9.3.0.3. (www.pre.nl)
+• Eurostat (2018) – treatment of waste by waste category, hazardousness and waste
+management operations.
+(http://appsso.eurostat.ec.europa.eu/nui/show.do?lang=en&dataset=env_wastrt)
+• EN 16258:2012 – Methodology for calculation and declaration of energy consumption
+and GHG emissions of transport services (freight and passengers)
+• EPDItaly Regulations rev. 5.2 (16th February 2022)
+• General Programme Instructions for The Norwegian EPD Foundation/EPD-Norway
+(www.epd-norge.no) version 5:2019
+Program Operator and publisher Ph. +47 23 08 80 00
+The Norwegian EPD Foundation
+Post Box 5250 Majorstuen, email post@epd-norge.no
+0303 Oslo, Norway web www.epd-norge.no
+Owner of the declaration
+ABB Swizerland Ltd, Group
+Technology Management
+Brown Boveri Straße 6, 5400
+web www.abb.com
+Baden, Switzerland
+Author Ph. +358 50 334 1214
+Martina Kurki
+ABB Oy email martina.kurki@fi.abb.com
+Muottitie 2 A, Vaasa, Finland web www.abb.com
+STATUS SECURITY LEVEL DOCUMENT ID. REV. LANG. PAGE
+Approved Public 2RCA057421 A en 24/24
+© Copyright 2021 ABB. All rights reserved.

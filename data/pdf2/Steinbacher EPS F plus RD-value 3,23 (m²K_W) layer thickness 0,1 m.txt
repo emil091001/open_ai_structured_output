@@ -1,0 +1,741 @@
+Deklarationsnummer der EPD
+EPD - ENVIRONMENTAL PRODUCT DECLARATION
+UMWELT-PRODUKTDEKLARATION
+nach ISO 14025 und EN 15804+A2
+EIGENTÜMER UND HERAUSGEBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+PROGRAMMBETREIBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+DEKLARATIONSINHABER Steinbacher Dämmstoffe GmbH
+DEKLARATIONSNUMMER BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-F-plus
+AUSSTELLUNGSDATUM 24.08.2023
+GÜLTIG BIS 24.08.2028
+ANZAHL DATENSÄTZE 1
+ENERGIE MIX ANSATZ MARKTORIENTIERTER ANSATZ (MARKED BASED APPROACH)
+EPS F-plus Dämmstoff
+Steinbacher Dämmstoffe GmbH
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Inhaltsverzeichnis der EPD
+1 Allgemeine Angaben ................................................................................................................................................................................. 3
+2 Produkt ..................................................................................................................................................................................................... 4
+2.1 Allgemeine Produktbeschreibung ...................................................................................................................................................... 4
+2.2 Anwendung ........................................................................................................................................................................................ 4
+2.3 Produktrelevanten Normen, Regelwerke und Vorschriften ............................................................................................................... 5
+2.4 Technische Daten ............................................................................................................................................................................... 5
+2.5 Grundstoffe / Hilfsstoffe .................................................................................................................................................................... 5
+2.6 Herstellung ......................................................................................................................................................................................... 6
+2.7 Verpackung ........................................................................................................................................................................................ 7
+2.8 Lieferzustand ...................................................................................................................................................................................... 7
+2.9 Transporte .......................................................................................................................................................................................... 7
+2.10 Produktverarbeitung / Installation ................................................................................................................................................ 7
+2.11 Nutzungsphase .............................................................................................................................................................................. 7
+2.12 Referenznutzungsdauer (RSL) ....................................................................................................................................................... 7
+2.13 Nachnutzungsphase ...................................................................................................................................................................... 7
+2.14 Entsorgung .................................................................................................................................................................................... 7
+2.15 Weitere Informationen ................................................................................................................................................................. 8
+3 LCA: Rechenregeln .................................................................................................................................................................................... 8
+3.1 Deklarierte Einheit/ Funktionale Einheit ............................................................................................................................................ 8
+3.2 Systemgrenze ..................................................................................................................................................................................... 8
+3.3 Flussdiagramm der Prozesse im Lebenszyklus ................................................................................................................................... 9
+3.4 Abschätzungen und Annahmen ......................................................................................................................................................... 9
+3.5 Abschneideregeln .............................................................................................................................................................................. 9
+3.6 Hintergrunddaten .............................................................................................................................................................................. 9
+3.7 Datenqualität ................................................................................................................................................................................... 10
+3.8 Betrachtungszeitraum ...................................................................................................................................................................... 10
+3.9 Allokation ......................................................................................................................................................................................... 10
+3.10 Vergleichbarkeit .......................................................................................................................................................................... 10
+4 LCA: Szenarien und weitere technische Informationen .......................................................................................................................... 11
+4.1 A1-A3 Herstellungsphase ................................................................................................................................................................. 11
+4.2 A4-A5 Errichtungsphase ................................................................................................................................................................... 11
+4.3 B1-B7 Nutzungsphase ...................................................................................................................................................................... 11
+4.4 C1-C4 Entsorgungsphase .................................................................................................................................................................. 12
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial ............................................................................................... 12
+5 LCA: Ergebnisse ....................................................................................................................................................................................... 13
+6 LCA: Interpretation ................................................................................................................................................................................. 17
+7 Literaturhinweise .................................................................................................................................................................................... 18
+8 Verzeichnisse und Glossar ...................................................................................................................................................................... 19
+8.1 Abbildungsverzeichnis ...................................................................................................................................................................... 19
+8.2 Tabellenverzeichnis .......................................................................................................................................................................... 19
+8.3 Abkürzungen .................................................................................................................................................................................... 19
+8.3.1 Abkürzungen gemäß ÖNORM EN 15804 ................................................................................................................................ 19
+8.3.2 Abkürzungen gemäß vorliegender PKR .................................................................................................................................. 19
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+1 Allgemeine Angaben
+Produktbezeichnung Deklariertes Bauprodukt / Deklarierte Einheit
+EPS F-plus Dämmstoff 1 m² durchschnittlicher EPS F-plus Dämmstoff mit einem RD-Wert
+von 3,23 (m²K)/W
+Deklarationsnummer
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Anzahl Datensätze in diesem EPD-Dokument: 1
+Deklarationsdaten
+Spezifische Daten
+Gültigkeitsbereich
+Durchschnittsdaten
+Die vorliegende Umwelt-Produktdeklaration deklariert einen
+durchschnittlichen EPS-Dämmstoff der Produktgruppe F-plus,
+produziert am Standort Erpfendorf, Österreich, wobei konkret die
+Deklarationsbasis
+Produkttypen EPS F-plus, EPS F-plus flexx, EPS F-plus sun und EPS F-
+MS-HB Version 4.0 vom 27.01.2023:
+plus sunflexx umfasst sind.
+PKR: Dämmstoffe aus Schaumkunststoffen (EPS und XPS)
+Die Umwelt-Produktdeklaration bezieht sich auf eine deklarierte
+PKR-Code: 2.22.1.1
+Einheit von 1 m² mit einem RD-Wert von 3,23 (m²K)/W – das
+Version 15.0 vom 27.01.2023
+entspricht einer Dämmstoffstärke von 100 mm – bei einer Dichte von
+(PKR geprüft u. zugelassen durch das unabhängige PKR-
+15 kg/m³.
+Gremium)
+Eine im Rahmen der Interpretation durchgeführte
+Sensitivitätsanalyse zeigt, dass die Ergebnisse für die einzelnen
+Der Inhaber der Deklaration haftet für die
+Produkttypen nur geringfügig von jenen des deklarierten
+zugrundeliegenden Angaben und Nachweise; eine Haftung
+Durchschnitts abweichen. Daher ist von einer hohen
+der Bau EPD GmbH in Bezug auf Herstellerinformationen,
+Repräsentativität der deklarierten Ergebnisse für alle betrachteten
+Ökobilanzdaten und Nachweise ist ausgeschlossen.
+Produkttypen auszugehen.
+Deklarationsart lt. EN 15804 Datenbank, Software, Version
+Von der Wiege bis zur Bahre Datenbank: ecoinvent 3.8, Software: SimaPro (Version 9.4.0.2)
+LCA-Methode: Cut-off by classification Version Charakterisierungsfaktoren: Joint Research Center, EF 3.0
+Die Europäische Norm EN 15804:2019+A2:2019 dient als Kern-PKR.
+Ersteller der Ökobilanz
+IBO GmbH Unabhängige Verifizierung der Deklaration nach EN ISO 14025:2010
+Alserbachstraße 5/8 intern extern
+1090 Wien
+Österreich Verifiziererin 1: Dipl.-Ing. (FH) Angela Schindler
+Verifizierer 2: DI Dr. Florian Gschösser
+Deklarationsinhaber Herausgeber und Programmbetreiber
+Steinbacher Dämmstoff GmbH Bau EPD GmbH
+Salzburger Straße 35 Seidengasse 13/3
+6383 Erpfendorf 1070 Wien
+Österreich Österreich
+DI (FH) DI DI Sarah Richter
+Leitung Konformitätsbewertungsstelle
+Dipl.-Ing. (FH) Angela Schindler DI Dr. Florian Gschösser
+Verifiziererin Verifizierer
+Information: EPD der gleichen Produktgruppe aus verschiedenen Programmbetrieben müssen nicht zwingend vergleichbar sein.
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+2 Produkt
+2.1 Allgemeine Produktbeschreibung
+Betrachtet werden graue Fassadendämmplatten aus expandiertem Polystyrol (EPS) mit Infrarotstrahlungsabsorbern zur Wärme- und
+Schalldämmung, die in Wärmedämmverbundsystemen (WDVS) angewendet werden. Der verwendet EPS Hartschaum ist ein Dämmstoff
+mit geschlossener Zellstruktur, aus verschweißtem geblähtem Polystyrol, bestehend aus 98 % Luft und 2 % Polystyrol. Die deklarierten
+Produkte umfassen sowohl das Standardprodukt EPS-F plus sowie die verschiedenen weiterverarbeiteten Varianten, wobei alle lediglich
+an einem Standort (Erpfendorf, Tirol, Österreich) hergestellt werden. Produkttypen mit dem Zusatz „flexx“ werden mittels Sägeblättern
+mit geringer Tiefe geschlitzt. Produkte mit dem Zusatz „sun“ werden auf einer Seite mit weißer Farbe versehen, welche lediglich für den
+Einbau eine Rolle spielt und keinerlei Auswirkungen auf die technischen Eigenschaften des Produkts hat. Alle Produkttypen sind zudem als
+Ausführung mit Nut und fremder Feder verfügbar. Alle genannten Produkte unterliegen der Produktnorm ÖNORM EN 13163
+„Wärmedämmstoffe für Gebäude ― Werkmäßig hergestellte Produkte aus expandiertem Polystyrol (EPS) ― Spezifikation“ und werden
+mit dem entsprechenden CE Schlüssel gekennzeichnet.
+Tabelle 1: Im Rahmen der EPD betrachtete Produkttypen
+Produkttyp Stärke
+EPS-F plus 10 – 500 mm
+EPS-F plus flexx 100 – 300 mm
+EPS-F plus sun 100 – 300 mm
+EPS-F plus sunflexx 100 – 300 mm
+In der vorliegenden EPD wird ein durchschnittliches Produkt, basierend auf dem Verhältnis der Produktionsmengen der einzelnen
+Produkttypen aus Tabelle 1 deklariert.
+2.2 Anwendung
+Hauptanwendungsgebiet für das hier deklarierte Produkt ist die Fassadendämmung mit Wärmedämmverbundsystemen (WDVS). In
+Tabelle 2 sind die möglichen Anwendungsgebiete nach ÖNORM EN 16783 – Anhang A gekennzeichnet.
+Tabelle 2: Anwendungsbereiche für Wärmedämmung nach ÖNORM EN 16783 - Anhang A
+Anwendungs-
+Anwendungsbereich Benennung Beschreibung der Anwendung
+möglichkeit
+Außendämmung von Steildach oder Decke, vor Bewitterung geschützt,
+DAD
+Dämmung unter Deckung)
+Außendämmung von Flachdach oder Decke, vor Bewitterung geschützt,
+DAA
+Dämmung unter Abdichtungen)
+DUK Außendämmung des Daches, der Bewitterung ausgesetzt (Umkehrdach)
+Zwischensparrendämmung, zweischaliges Dach, nicht begehbar, aber
+DZ
+zugängliche oberste Geschossdecken
+Decke, Dach, Boden DI Innendämmung der Decke (unterseitig) oder des Daches, Dämmung unter
+den Sparren/Tragkonstruktion, abgehängte Decke usw.
+DEO Innendämmung der Decke oder Bodenplatte (oberseitig) unter Estrich ohne
+Schallschutzanforderungen
+DES Innendämmung der Decke oder Bodenplatte (oberseitig) unter Estrichmit
+Schallschutzanforderungen
+Wärmedämmung zwischen den Dachsparren, belüfteter Raum
+VR
+direktoberhalb der Wärmedämmung
+Außendämmung der Wand hinter Bekleidung (einschließlich belüfteter
+WAB X
+Fassaden)
+WAA Außendämmung der Wand hinter Abdichtung X
+WAP Außendämmung der Wand unter Putz X
+WZ Dämmung von zweischaligen Wänden, Kerndämmung X
+Wand
+WH Dämmung von Holzrahmen- und Holztafelbauweise X
+WI Innendämmung der Wand X
+Dämmung zwischen Haustrennwänden mit Schallschutzanforderungen
+WTH
+(zwischen benachbarten Häusern)
+WTR Dämmung von Raumtrennwänden
+Außen liegende Wärmedämmung von Wänden gegen Erdreich (außerhalb
+Umfassung PW
+der Abdichtung)
+Seite 4 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+PB FI Außen liegende Wärmedämmung unter der Bodenplatte gegen Erdreich
+(außerhalb der Abdichtung) Wärmedämmung als horizontale
+Bodenfrostdämmung
+2.3 Produktrelevanten Normen, Regelwerke und Vorschriften
+Tabelle 3: Produktrelevante Normen
+Norm Titel
+Wärmedämmstoffe für Gebäude - Werkmäßig hergestellte Produkte aus expandiertem Polystyrol (EPS) –
+ÖNORM EN 13163
+Spezifikation
+Werkmäßig hergestellte Dämmstoffe für den Wärme- und/oder Schallschutz im Hochbau - Produktarten,
+ÖNORM B 6000
+Leistungsanforderungen und Verwendungsbestimmungen
+2.4 Technische Daten
+In der untenstehenden Tabelle sind die technischen Daten gemäß ÖNORM EN 13163 angegeben. Die Bezeichnung NPD steht für «No
+Performance Determined» (keine Leistung festgestellt). Das heißt für diese Leistung wird keine Anforderung an das Produkt gestellt.
+Die deklarierte Leistung ist EN 13163-L(3)-W(2)-T(1)-S(2)-P(3)-DS(N)2-DS(70,-)1-TR150-BS100 und ist für alle im Rahmen dieser EPD
+betrachteten Produkttypen sowie deren Durchschnitt gleichermaßen gültig.
+Tabelle 4: Technische Daten für Produkte gemäß ÖNORM EN 13163
+Bezeichnung Wert Einheit
+Wärmeleitfähigkeit 0,031 W/m·K
+Rohdichte bzw. Rohdichtebereich 15 - 18 kg/m³
+Euroklasse des Brandverhaltens nach ÖNORM EN 13501-1 E
+Dimensionsstabilität im Normalklima DS(N)2 %
+Dimensionsstabilität unter definierten Temperatur- und Luftfeuchtebedingungen DS(70,-)1 %
+Druckspannung bei 10% Stauchung NPD
+Biegefestigkeit BS100 kPa
+Zugfestigkeit senkrecht zur Plattenebene TR150 kPa
+Verformung bei definierter Druck- und Temperaturbeanspruchung NPD
+Langzeit-Kriechverhalten bei Druckbeanspruchung NPD
+Relative Verformung unter zyklischer Belastung NPD
+Wasseraufnahme bei langzeitigem Eintauchen NPD
+Langzeitige Wasseraufnahme durch Diffusion NPD
+Widerstandsfähigkeit gegen Frost-Tau-Wechselbeanspruchung nach der Wasseraufnahme nach
+NPD
+langzeitigem vollständigem Eintauchen
+Widerstandsfähigkeit gegen Frost-Tau-Wechselbeanspruchung nach der langzeitigen
+NPD
+Wasseraufnahme durch Diffusion
+Wasserdampf-Diffusionswiderstandszahl µ NPD
+Dynamische Steifigkeit NPD
+Zusammendrückbarkeit NPD
+Langzeit-Dickenverringerung NPD
+Die Produktdatenblätter sowie Leistungserklärungen aller deklarierter Produkte sind online (www.steinbacher.at/downloads-und-
+service/downloads/) zu finden.
+2.5 Grundstoffe / Hilfsstoffe
+Die unten angeführte Zusammensetzung (Tabelle 5) bezieht sich auf das deklarierte Durchschnittsprodukt. Die Angaben zum Granulat
+(Tabelle 6) sind für alle betrachteten und im Umfang dieser EPD liegenden Produkttypen gleich und entsprechen somit auch der
+Zusammensetzung für das deklarierte Produkt.
+Seite 5 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Tabelle 5: Grundstoffe in Masse-%
+Bestandteil Funktion Massen %
+PS-Granulat Hauptbestandteil > 99
+Farbbeschichtung Beschichtung < 1
+Tabelle 6: Grundstoffe im PS-Granulat in Masse-%
+Bestandteil Funktion Massen %
+Styrol Hauptbestandteil ca. 88
+Pentan Treibmittel ca. 6
+Grafit Infrarotabsorber ca. 4
+pFR Polymeres Flammschutzmittel < 1
+Wachse und Minerale Additive < 1
+Hilfsstoffe / Zusatzmittel
+Während des Aufschäumens des PS-Granulats wird das Pentan freigesetzt und verbleibt somit nicht im fertigen Produkt. Vom für diesen
+Vorgang eingesetzten Dampf verbleiben ca. 0,1 % als Wasser im fertigen Produkt, dies entspricht < 1 Masse-% bezogen auf dessen
+Zusammensetzung.
+2.6 Herstellung
+Die Herstellung lässt sich in die Bereiche Schäumen sowie Schneiden unterteilen. Roh- und Hilfsstoffe werden separat gelagert. Mittels
+ERP-System werden die geforderten Mengen der kommenden Tage erfasst und abhängig von den EPS-Qualitäten der tatsächliche
+Materialbedarf errechnet. Im Prozess selbst wird in einem ersten Schritt der Vorschäumer eingestellt und anschließend das EPS-
+Rohmaterial darin (vor-)geschäumt. Dies kann kontinuierlich oder diskontinuierlich erfolgen. Während dieses Prozesses werden relevante
+Parameter laufend überprüft und ggf. Anpassungen vorgenommen. Das vorgeschäumte Material wird in Silos eingeblasen und verweilt
+dort für 8 bis 12 Stunden damit Kondensat entweichen kann und eine Stabilisation der Zellstruktur erfolgt. Im Anschluss wird das Material
+in Blockformen eingeblasen und mittels eines Dampf-Luftgemisches geschäumt. Fehlerhafte Blöcke werden gekennzeichnet und in den
+Prozess rückgeführt. Blöcke ohne Fehler werden in entsprechende Lagergassen befördert, um dort zu trocknen bzw. auszukühlen und
+abschließend dem Blocklager zugeführt. Für das Schneiden wird die Schneideanlage (z.B. hinsichtlich Temperatur und Geschwindigkeit)
+entsprechend der Materialqualitäten sowie der geforderten Stärke des Endprodukts eingestellt. Die EPS-Blöcke werden im Anschluss der
+Schneideanlage zugeführt. Es erfolgt eine kontinuierliche Überwachung der relevanten Parameter, bei Bedarf werden Anpassungen im
+Schneideprozess durchgeführt. Zugeschnittene Blöcke werden automatisch gebündelt. Nach Kennzeichnung des Bündels erfolgt eine
+Kontrolle des Produkts alle 2 Stunden. Abschließend wird die verpackte Ware an das Lager übergeben. In der untenstehenden Abbildung
+ist ein vereinfachtes Prozessbild dargestellt.
+Abbildung 1: Flussdiagramm Herstellungsprozess
+Seite 6 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+2.7 Verpackung
+Das Produkt wird in Kunststofffolien (PE) verpackt und für den Auslieferungstransport auf EPS-Klötze (aus der Produktion) gestapelt. Bei
+all diesen Bestandteilen handelt es sich grundsätzlich um Einwegprodukte, welche im Rahmen der Einbauphase entfernt und in weiterer
+Folge verwertet oder entsorgt werden müssen.
+2.8 Lieferzustand
+Das Produkt wird in der Abmessung 1000 mm x 500 mm (L x B) ausgeliefert. Die Dicken variieren dabei abhängig von Produkttyp und
+Einsatzgebiet, vgl. dazu Tabelle 1.
+2.9 Transporte
+Die Auslieferung des Produkts erfolgt bis auf wenige Ausnahmen ausschließlich mittels LKW. Die Transportdistanz ist vom tatsächlichen
+Einsatzort abhängig – dieser ist zu einem überwiegenden Anteil im Inland (Österreich). In Abhängigkeit der Vertriebsanteile ins In- bzw.
+Ausland sowie den entsprechenden durchschnittlichen Transportdistanzen wurde ein repräsentativer Transport abgebildet. Details dazu
+sind in Kapitel 4.2 zu finden.
+2.10 Produktverarbeitung / Installation
+Die Produkttype EPS-F plus wird als Bestandteil in Wärmedämmverbundsystemen (WDVS) verbaut. WDVS-Aufbauten setzen sich
+üblicherweise aus den folgenden Schichten zusammen: Kleber, EPS-F plus, Verdübelung (optional, je nach System/Aufbau), Unterputz inkl.
+Armierungsgitter sowie Oberputz. Durch den mehrschichtigen Aufbau wird das System von mechanischen Einflüssen wie z.B. Windsog oder
+Hagel geschützt. Zusätzlich ist dadurch eine Schutzwirkung gegen Regen oder UV-Strahlung gegeben.
+2.11 Nutzungsphase
+Bei Dämmstoffen aus EPS treten bei ordnungsgemäßer Planung, sach- und fachgerechtem Einbau und störungsfreier Nutzung keine
+Änderungen der stofflichen Zusammensetzung über den Zeitraum der Nutzung auf.
+2.12 Referenznutzungsdauer (RSL)
+Es liegt keine Referenznutzungsdauer nach den Regeln der EN 15804+A2 (Anhang A) und kein Default-Wert aus einer komplementären PKR
+vor. Die übliche Nutzungsdauer beträgt für EPS-Dämmplatten und somit für das vorliegende Produkt 50 Jahre. Die tatsächliche
+Nutzungsdauer hängt allerdings vorwiegend von der Gebäudenutzungsdauer ab.
+Tabelle 7: Nutzungsdauer
+Bezeichnung Wert Einheit
+Polystyrol expandiert (EPS) -F- Fassadendämmplatte 50 Jahre
+2.13 Nachnutzungsphase
+HBCD-freie EPS-Dämmstoffabfälle wie das deklarierte Produkt sollen getrennt gesammelt und in zulässiger Weise verwertet werden. Die
+Wiederverwendung und die Vorbereitung zur Wiederverwendung sind zulässig. Beispielsweise können gemahlene EPS-Abfälle als
+wärmedämmender Leichtzuschlag für Beton, Trittschalldämmungen, Mauerziegel, Mörtel und Putze verwendet werden.
+Eine großflächige stoffliche Verwertung (Recycling) im Industriemaßstab findet aktuell nicht statt, allerdings befinden sich entsprechende
+Prozesse gerade in der fortgeschrittenen Entwicklung. Die Kerntechnologie hierbei ist das Auflösen des EPS-Materials in einem Lösemittel
+um Feststoff-Verunreinigungen (bspw. Zement) zu entfernen. Anschließend erfolgt mittels Zugabe einer weiteren Flüssigkeit die
+Überführung des PS in ein Gel, welches nach Abtrennung der Prozess-Flüssigkeiten zu neuem Granulat verarbeitet werden kann. Darüber
+hinaus sind weitere Ansätze des chemischen Recyclings in der Entwicklung, z.B. durch Depolymerisation.
+Im Rahmen der Bilanzierung in der vorliegenden EPD werden allerdings keine Szenarien der stofflichen Verwertung betrachtet.
+2.14 Entsorgung
+Sofern keine Wiederverwendung oder kein Recycling stattfinden, kann das EPS-Material einer Verbrennung zugeführt werden. Die
+Tatsache, ob es sich um eine Verwertung (R-Verfahren) oder Beseitigung (D-Verfahren) handelt ist dabei von der zur Verbrennung
+genutzten Anlage und deren Energieeffizienz (R-Wert) abhängig. In der vorliegenden EPD handelt es sich um eine Verwertung (R-
+Verfahren). Die Deponierung von EPS-Abfällen ist auf Grund des TOC-Gehalts nicht zulässig.
+Der Abfallcode nach dem europäischem Abfallkatalog ist 17 06 04.
+Seite 7 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+2.15 Weitere Informationen
+Weitere Informationen sind auf der Homepage des Deklarationsinhabers (www.steinbacher.at) zu finden.
+3 LCA: Rechenregeln
+3.1 Deklarierte Einheit/ Funktionale Einheit
+Die deklarierte Einheit ist 1 m² Dämmstoff mit einem RD-Wert von 3,23 (m²K)/W. Dies entspricht einer Dammstoffstärke von 100 mm und
+somit einem Dämmstoffvolumen von 0,1 m³. Die nachfolgende Tabelle zeigt die für die Rechnung notwendigen Daten. Eine Umrechnung
+auf 1 m² anderer Dämmstoffstärken ist linear über das entsprechende Stärkenverhältnis möglich.
+Es handelt sich laut Bau-EPD MS HB um die Deklaration eines spezifischen Produkts aus einem Werk eines Herstellers (Typ 1a).
+Tabelle 8: Deklarierte Einheit
+Bezeichnung Wert Einheit
+Deklarierte Einheit 1 m²
+RD-Wert 3,23 (m²K)/W
+Dammstoffstärke 100 mm
+Rohdichte 15 kg/m³
+Umrechnungsfaktor der Ökobilanzergebnisse auf 1 m³ Dämmstoff 10 -
+3.2 Systemgrenze
+Der vorliegende Projektbericht bezieht sich auf eine EPD von der Wiege bis zur Bahre und Modul D (Module A+B+C+D). Sämtliche in
+folgender Tabelle enthaltenen Module wurden deklariert.
+Tabelle 9: Deklarierte Lebenszyklusphasen
+HERSTEL- ERRICH-
+ENTSORGUNGS- Vorteile und
+LUNGS- TUNGS- NUTZUNGSPHASE
+PHASE Belastungen
+PHASE PHASE
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+z t a z t a
+s n s n
+g
+n u lle ts tie r e b ffo ts h o R t r o p s n a r T g n u lle ts r e H t r o p s n a r T u a b n iE / u a B g n u z tu N g n u t la h d n a ts n I r u t a r a p e R z t a s r E g n u r e u e n r E ,u a b m U
+ie
+e ig r e n E r e h c ilb e ir te b
+ie
+r e s s a W r e h c ilb e ir te b h c u r b b A t r o p s n a r T
+g
+n u t fa h c s t r iw e b lla fb A g n u g r o s tn E s g n u d n e w r e v r e d e iW
+-,
+s g n u n n iw e g k c ü R-, la iz n e t o p g n ilc y c e R
+X X X X X X X X X X X X X X X X X
+A1–A3:
+Die produktspezifischen Sachbilanzdaten von der Aufbereitung des PS-Granulats bis zum ausgelieferten Dämmstoff wurden berücksichtigt.
+Darüber hinaus wurde auch die Herstellung des Rohstoffs PS-Granulat inkl. dessen Transport zur Verarbeitungsanlage mit spezifischen
+Daten modelliert. Die zur Granulatherstellung genutzten Rohstoffe (Styrol, Grafit, Pentan, etc.) wurden mittels generischer Daten
+abgebildet. Alle Pentan-Emissionen wurden, wie in der PKR-B gefordert der Phase A1–A3 zugeordnet. Der Energiegehalt wird als
+Werkstoffeigenschaft betrachtet (ÖNORM EN 16485, 6.3.4.2).
+A4–A5:
+A4 bildet den Transport des Dämmstoffes zum Einbau ab. Details dazu sind in Kapitel 4.2 dargestellt. In A5 wird der Einbau des Produktes
+sowie die zusätzliche Herstellung eines Materialverlustes (3%) bilanziert. Darüber hinaus sind auch die Entsorgung der Verluste sowie der
+Verpackungsabfälle (siehe ebenfalls Kapitel 4.2) inkludiert.
+Seite 8 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+B1–B7:
+Die Stadien B1 Nutzung, B2 Instandhaltung und B3 Reparatur sind für die vorliegende Produktgruppe nicht relevant, allfällige Emissionen
+von Treibmittelresten wurden bereits in A1-A3 berücksichtigt. Das Stadium B4 Ersatz ist gleichbedeutend mit dem Produktlebensende. Es
+fallen keine Stoff- und Energieflüsse bei der Entnahme des Produkts an. Die Stadien B5 Umbau/Erneuerung, B6 Energieeinsatz und B7
+Wassereinsatz sind auf Dämmstoffebene nicht anwendbar.
+C1–C4:
+Für die Entsorgung wird ein Szenario mit Verbrennung des Dämmstoffs betrachtet (Verbrennung mit Energierückgewinnung = R-
+Verfahren). Die Umweltwirkung der Abfallaufbereitung und der Verbrennungsprozess wurden in C3 deklariert. Bei der Abfallbehandlung
+produzierte Nutzenergie wurde als exportierte Energie in C3 (Indikatoren EEE und EET) modelliert.
+D:
+Die mit der erzeugten Nutzenergie verbundenen Gutschriften werden in Modul D deklariert.
+3.3 Flussdiagramm der Prozesse im Lebenszyklus
+Abbildung 2: Flussdiagramm der Prozesse im Lebenszyklus
+3.4 Abschätzungen und Annahmen
+Produkt- bzw. komponentenspezifische Heizwerte liegen nicht vor, daher wurden Literaturwerte herangezogen welche untenstehend
+(bezogen auf 0% Wassergehalt) dargestellt sind:
+• EPS: 39,60 MJ/kg – Quelle: ecoinvent, gilt für das Produkt selbst sowie die EPS-Klötze (Verpackung)
+• PE: 42,47 MJ/kg – Quelle: ecoinvent, gilt für alle PE-Verpackungen
+3.5 Abschneideregeln
+Grundsätzlich wurden alle Input- sowie Outputströme in der Herstellungsphase, zu welchen Daten vorliegen, berücksichtigt. Die
+Verpackungen der angelieferten Roh- und Hilfsstoffe wurden auf Grund der geringen Bedeutung (in Summe unter 1 Massenprozent aller
+Inputs in A1-A3) und fehlender Informationen bzgl. genauer Herkunft nicht inkludiert. In den Produktionsabfällen scheinen diese
+Materialien trotz den geringen Mengen hingegen auf, da hier konkrete quantitative Daten und Informationen bzgl. der weiteren
+Behandlung vorliegen. Diese Informationen beziehen sich allerdings auf die gesamten Abfälle, welcher Anteil davon den Verpackungen
+entspricht ist nicht bekannt bzw. wurde vom Hersteller nicht deklariert.
+Die Energie für das Schlitzen der Produkttypen flexx und sunflexx wurden vom Hersteller nicht separat deklariert, ist aber im Gesamtkontext
+als vernachlässigbar einzustufen und wird daher in der Bilanzierung nicht berücksichtigt.
+3.6 Hintergrunddaten
+Für die Hintergrunddaten wurde die ecoinvent-Datenbank in der Version 3.8 eingesetzt.
+Seite 9 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+3.7 Datenqualität
+Die Sammlung der Vordergrunddaten erfolgte über einen an die Firma Steinbacher und das deklarierte Produkt angepassten
+Datenerhebungsbogen. Rückfragen wurden in einem iterativen Prozess schriftlich via E-Mail, telefonisch bzw. persönlich/in Web-Meetings
+geklärt. Durch die intensive Diskussion zur möglichst realitätsnahen Abbildung der Stoff- und Energieflüsse ist von einer hohen Qualität der
+erhobenen Vordergrunddaten auszugehen. Bei der Auswahl der Hintergrunddaten wurde auf die technologische, geographische und
+zeitbezogene Repräsentativität der Datengrundlage geachtet. Bei Fehlen spezifischer Daten wurde auf generische Datensätze bzw. einen
+repräsentativen Durchschnitt zurückgegriffen. Bei den eingesetzten ecoinvent-Hintergrunddatensätzen handelt es sich um die aktuell
+verfügbaren Datensätze. Der Großteil der eingesetzten ecoinvent-Hintergrunddatensätze ist nicht älter als zehn Jahre. Dabei handelt es
+sich entweder gemäß Datenbankdokumentation meist um entsprechend aktualisierte oder auf aktuelle Verhältnisse extrapolierte
+Datensätze. Ältere Datensätze werden als Abschätzung für Komponenten mit einem geringen Einfluss auf das Gesamtergebnis
+herangezogen. Auf Literaturquellen basierende Abschätzungen orientieren sich an der aktuellsten, verfügbaren Datengrundlage und dem
+technologiebezogenen Stand der Technik.
+3.8 Betrachtungszeitraum
+Die erhobenen Vordergrunddaten beziehen sich auf das Produktionsjahr 2020.
+3.9 Allokation
+In der Lieferkette: Die Abbildung vorgelagerter Prozesse in der Lieferkette (A1-A3) erfolgt durch die Nutzung von ecoinvent-Datensätzen.
+Allokationsregeln in den Hintergrunddaten sind somit grundsätzlich der jeweiligen Datensatzdokumentation zu entnehmen.
+In den Primärdaten bzgl. Nebenprodukten: Im Rahmen der Produktion der EPS-Dämmstoffe (Modul A3) wird ein Nebenprodukt erzeugt.
+Dabei handelt es sich um EPS-Material, welches dem Dämmstoff sehr ähnlich ist, allerdings lose verkauft wird. Eine Allokation zwischen
+dem deklarierten Produkt (Hauptprodukt) und dem Nebenprodukt erfolgt auf Basis der entsprechenden Jahresumsatzmengen
+(ökonomische Allokation) und inkludiert die Vorprodukte inkl. deren Transport ins Werk, die im Rahmen der Herstellung eingesetzten
+Energieträger und Hilfsstoffe sowie die Entsorgung der Produktionsabfälle. Dabei entfallen 98,7 % der Belastungen auf das deklarierte
+Produkt. Die Verpackung wird lediglich dem Hauptprodukt zugerechnet, da das Nebenprodukt unverpackt verkauft bzw. ausgeliefert wird.
+Hinsichtlich Recycling bzw. therm. Verwertung: Alle Gutschriften für zurückgewonnene Energie aus der thermischen Verwertung von
+Verpackungsabfällen (A5) und dem Produkt selbst (C3) wurden Modul D zugerechnet.
+3.10 Vergleichbarkeit
+Grundsätzlich ist eine Gegenüberstellung oder die Bewertung von EPD-Daten nur möglich, wenn alle zu vergleichenden Datensätze nach
+EN 15804 in der gleichen Version erstellt wurden, die gleichen programmspezifischen PKR bzw. etwaige zusätzliche Regeln sowie die gleiche
+Hintergrunddatenbank verwendet wurden und darüber hinaus der Gebäudekontext bzw. produktspezifische Leistungsmerkmale
+berücksichtigt werden.
+Seite 10 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+4 LCA: Szenarien und weitere technische Informationen
+4.1 A1-A3 Herstellungsphase
+Laut ÖNORM EN 15804 sind für die Module A1-A3 keine technischen Szenarioangaben gefordert, weil die Bilanzierung dieser Module in
+der Verantwortung des Herstellers liegt und vom Verwender der Ökobilanz nicht verändert werden darf.
+4.2 A4-A5 Errichtungsphase
+Die durchschnittliche Auslieferungsdistanz beträgt 103,5 km. Die Auslieferung erfolgt dabei ausschließlich mittels LKW.
+Tabelle 10: Beschreibung des Szenarios „Transport zur Baustelle (A4)“
+Parameter zur Beschreibung des Transportes zur Baustelle (A4) Wert Messgröße
+Mittlere Transportentfernung 103,5 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) EURO 6 -
+Mittlerer Treibstoffverbrauch, Treibstofftyp: Diesel 4,39E-3 l/100 km
+Mittlere Transportmenge 5,79 t
+Mittlere Auslastung (einschließlich Leerfahrten) 501 %
+Mittlere Rohdichte der transportierten Produkte 15 kg/m3
+Volumen-Auslastungsfaktor (Faktor: =1 oder <1 oder ≥ 1 für in Schachteln verpackte oder
+1 -
+komprimierte Produkte
+Im Modul A5 sind die Produktion des Verschnittes, dessen Entsorgung sowie die Entsorgung der anfallenden Verpackungsabfälle inkludiert.
+Das deklarierte Produkt wird grundsätzlich als Komponente in einem WDVS eingebaut. Die anderen Systemkomponenten werden im
+Rahmen der Bilanzierung allerdings nicht berücksichtigt.
+Tabelle 11: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“
+Parameter zur Beschreibung des Einbaus ins Gebäude (A5) Wert Messgröße
+Hilfsstoffe für den Einbau (spezifiziert nach Stoffen) kg/t
+t/t
+l/t
+Hilfsmittel für den Einbau (spezifiziert nach Type) -
+Wasserbedarf m3/t
+l/t
+Sonstiger Ressourceneinsatz kg/t
+t/t
+l/t
+Stromverbrauch kWh oder MJ/t
+Weiterer Energieträger: …………… kWh oder MJ/t
+Materialverlust auf der Baustelle vor der Abfallbehandlung, verursacht durch den Einbau des
+Produktes:
+Verschnitt 0,0465 kg/m²
+Output-Stoffe infolge der Abfallbehandlung auf der Baustelle:
+PE-Folie zur Energierückgewinnung mittels Verbrennung 0,016 kg/m²
+EPS Klötze zur Energierückgewinnung mittels Verbrennung 0,011 kg/m²
+UV-Wickelfolie zur Energierückgewinnung mittels Verbrennung 0,006 kg/m²
+Direkte Emissionen in die Umgebungsluft (z.B. Staub, VOC), Boden und Wasser
+kg/t
+4.3 B1-B7 Nutzungsphase
+Nutzungsdauer: 50 Jahre
+1 Die tatsächliche Auslastung ist auf Grund der geringen Dichte des deklarierten Produkts niedriger, allerdings kann der Wert in der
+Bilanzierungssoftware nicht angepasst werden. Eine durchgeführte Abschätzung zeigt, dass eine Anpassung auf den tatsächlichen Auslastungswert
+zu einer eine Erhöhung um etwas über 1 % für die meisten Indikatoren führen würde.
+Seite 11 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+In der Nutzungsphase (B1) finden für Dämmstoffe aus EPS keine für die Ökobilanz relevanten Stoff- und Energieflüsse statt. Während der
+Nutzung finden für Dämmstoffe aus EPS keine Instandhaltungs-, Reparatur-, Ersatz oder Umbauprozesse statt, weshalb die Module B2 bis
+B5 keine Umweltwirkung verursachen. Die Module B6 und B7 sind für Dämmstoffe aus EPS nicht relevant, womit ebenfalls keine
+Umweltwirkung verursacht wird. Somit gibt es in den Modulen B1-B7 gibt es keine Stoff- bzw. Massenströme, Input +/- Output = 0.
+4.4 C1-C4 Entsorgungsphase
+Im Rahmen der Entsorgung wird ein Szenario der thermischen Verwertung in einer MVA mit Energierückgewinnung betrachtet. Da davon
+auszugehen ist, dass die Anlage einen R1 – Wert > als 0,6 hat, liegt auch tatsächlich eine Verwertung und keine Beseitigung vor. Der
+Transport zur Behandlungsanlage im Modul C2 wurde in beiden Fällen mit 150 km angenommen.
+Tabelle 12: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“
+Parameter für die Entsorgungsphase (C1-C4) Wert Messgröße
+kg
+getrennt
+Sammelverfahren, spezifiziert nach Art
+1,5 kg
+gemischt
+kg
+Wiederverwendung
+Rückholverfahren, spezifiziert nach Art kg
+Recycling
+1,5 kg
+Energierückgewinnung
+Deponierung, spezifiziert nach Art kg
+Deponierung
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial
+Das gesamte Material (deklariertes Produkt, Verschnitt und Verpackung) wird thermisch verwertet, es findet keine Wiederverwendung
+und/oder stoffliche Verwertung statt. Die mittels Verbrennung in der MVA rückgewonnene Energie, wird als Gutschrift im
+Informationsmodul D deklariert.
+Tabelle 13: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“
+Parameter für das Modul (D) Wert Messgröße
+Materialien für Wiederverwendung oder Recycling aus A4-A5 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus A4-A5 1,295 MJ/m²
+Materialien für Wiederverwendung oder Recycling aus B2-B5 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus B2-B5 MJ/m²
+Materialien für Wiederverwendung oder Recycling aus C1-C4 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus C1-C4 24,32 MJ/m²
+Seite 12 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+5 LCA: Ergebnisse
+Die folgenden Tabellen enthalten die Ökobilanzergebnisse für 1m² durchschnittlichen EPS F-plus Dämmstoff mit einem RD-Wert von 3,23 (m²K)/W und einer Dichte von 15 kg/m³.
+Tabelle 14: Ergebnisse der Ökobilanz Umweltauswirkungen
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5 D aus C3
+GWP total kg CO2 äquiv 5,67E+00 2,53E-02 4,16E-01 0,00E+00 0,00E+00 4,79E-02 4,72E+00 0,00E+00 -6,20E-02 -1,16E+00
+GWP fossil fuels kg CO2 äquiv 5,67E+00 2,53E-02 4,16E-01 0,00E+00 0,00E+00 4,78E-02 4,72E+00 0,00E+00 -5,87E-02 -1,10E+00
+GWP biogenic2 kg CO2 äquiv 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 -3,25E-03 -6,10E-02
+GWP luluc kg CO2 äquiv 1,11E-03 1,01E-05 3,52E-05 0,00E+00 0,00E+00 2,27E-05 9,15E-06 0,00E+00 -3,02E-05 -5,67E-04
+ODP kg CFC-11 äquiv 3,64E-07 5,86E-09 1,18E-08 0,00E+00 0,00E+00 1,08E-08 3,14E-09 0,00E+00 -8,27E-09 -1,55E-07
+AP mol H+ äquiv 2,44E-02 7,18E-05 7,74E-04 0,00E+00 0,00E+00 2,33E-04 5,32E-04 0,00E+00 -1,41E-04 -2,65E-03
+EP freshwater kg PO43- äquiv 1,00E-03 1,66E-06 3,06E-05 0,00E+00 0,00E+00 3,62E-06 5,04E-06 0,00E+00 -3,94E-05 -7,41E-04
+EP marine kg N äquiv 4,32E-03 1,46E-05 1,48E-04 0,00E+00 0,00E+00 7,76E-05 2,71E-04 0,00E+00 -3,42E-05 -6,43E-04
+EP terrestrial mol N äquiv 4,60E-02 1,59E-04 1,57E-03 0,00E+00 0,00E+00 8,48E-04 2,77E-03 0,00E+00 -3,02E-04 -5,68E-03
+POCP kg NMVOC äquiv 9,12E-02 6,11E-05 2,79E-03 0,00E+00 0,00E+00 2,43E-04 7,32E-04 0,00E+00 -9,09E-05 -1,71E-03
+ADPE kg Sb äquiv 2,19E-05 8,96E-08 6,77E-07 0,00E+00 0,00E+00 2,20E-07 9,20E-08 0,00E+00 -9,67E-08 -1,82E-06
+ADPF MJ Hu 1,49E+02 3,83E-01 4,54E+00 0,00E+00 0,00E+00 7,20E-01 2,07E-01 0,00E+00 -8,79E-01 -1,65E+01
+WDP m3 Welt äquiv entz. 2,42E+00 1,13E-03 7,30E-02 0,00E+00 0,00E+00 2,31E-03 5,58E-03 0,00E+00 -7,28E-03 -1,37E-01
+GWP = Globales Erwärmungspotenzial; luluc = land use and land use change;
+ODP = Abbaupotenzial der stratosphärischen Ozonschicht;
+Legende AP = Versauerungspotenzial, kumulierte Überschreitung; EP = Eutrophierungspotenzial;
+POCP = Bildungspotenzial für troposphärisches Ozon; ADPE = Potenzial für den abiotischen Abbau nicht fossiler Ressourcen;
+ADPF = Potenzial für den abiotischen Abbau fossiler Brennstoffe; WDP = Wasser-Entzugspotenzial (Benutzer)
+2 Für den vorliegenden Fall wurden die sehr geringen biogenen Treibhausgasemissionen in den Energiebereitstellungsprozessen vernachlässigt. Der Indikator wird daher über alle Lebenszyklusphasen mit dem
+Wert 0 deklariert.
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Tabelle 15: Zusätzliche Umweltindikatoren
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5 D aus C3
+Auftreten von
+PM 2,24E-07 1,60E-09 7,14E-09 0,00E+00 0,00E+00 3,01E-09 3,97E-09 0,00E+00 -3,90E-10 -7,32E-09
+Krankheiten
+IRP kBq U235 äquiv 1,78E-01 1,97E-03 5,66E-03 0,00E+00 0,00E+00 3,83E-03 1,08E-03 0,00E+00 -6,77E-03 -1,27E-01
+ETP-fw CTUe 5,69E+01 3,01E-01 2,61E+00 0,00E+00 0,00E+00 5,88E-01 2,25E+01 0,00E+00 -3,14E-01 -5,90E+00
+HTP-c CTUh 1,03E-08 9,68E-12 3,45E-10 0,00E+00 0,00E+00 2,15E-11 6,90E-10 0,00E+00 -1,01E-11 -1,90E-10
+HTP-nc CTUh 3,49E-08 3,04E-10 1,37E-09 0,00E+00 0,00E+00 5,94E-10 5,97E-09 0,00E+00 -2,62E-10 -4,92E-09
+SQP Dimensionslos 1,17E+01 2,67E-01 3,86E-01 0,00E+00 0,00E+00 4,25E-01 9,19E-02 0,00E+00 -1,36E-01 -2,56E+00
+PM = Potenzielles Auftreten von Krankheiten aufgrund von Feinstaubemissionen;
+IRP = Potenzielle Wirkung durch Exposition des Menschen mit U235; ETP-fw = Potenzielle Toxizitätsvergleichseinheit für Ökosysteme;
+Legende
+HTP-c = Potenzielle Toxizitätsvergleichseinheit für den Menschen - kanzerogene Wirkung;
+HTP-nc = Potenzielle Toxizitätsvergleichseinheit für den Menschen - nicht kanzerogene Wirkung; SQP = Potenzieller Bodenqualitätsindex
+Tabelle 16: Ergebnisse der Ökobilanz Ressourceneinsatz
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5 D aus C3
+PERE MJ Hu 3,63E+00 5,27E-03 1,10E-01 0,00E+00 0,00E+00 1,17E-02 1,21E-02 0,00E+00 -2,60E-01 -4,89E+00
+PERM MJ Hu 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+PERT MJ Hu 3,63E+00 5,27E-03 1,10E-01 0,00E+00 0,00E+00 1,17E-02 1,21E-02 0,00E+00 -2,60E-01 -4,89E+00
+PENRE MJ Hu 8,87E+01 3,83E-01 5,87E+00 0,00E+00 0,00E+00 7,20E-01 5,96E+01 0,00E+00 -8,79E-01 -1,65E+01
+PENRM MJ Hu 6,07E+01 0,00E+00 -1,33E+00 0,00E+00 0,00E+00 0,00E+00 -5,94E+01 0,00E+00 0,00E+00 0,00E+00
+PENRT MJ Hu 1,49E+02 3,83E-01 4,54E+00 0,00E+00 0,00E+00 7,20E-01 2,07E-01 0,00E+00 -8,79E-01 -1,65E+01
+SM kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+RSF MJ Hu 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+NRSF MJ Hu 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+FW m3 4,19E-03 -8,50E-07 1,26E-04 0,00E+00 0,00E+00 -1,22E-06 9,23E-06 0,00E+00 -9,73E-05 -1,83E-03
+PERE = Erneuerbare Primärenergie als Energieträger; PERM = Erneuerbare Primärenergie zur stofflichen Nutzung;
+PERT = Total erneuerbare Primärenergie; PENRE = Nicht-erneuerbare Primärenergie als Energieträger;
+Legende PENRM = Nicht-erneuerbare Primärenergie zur stofflichen Nutzung; PENRT = Total nicht erneuerbare Primärenergie;
+SM = Einsatz von Sekundärstoffen; RSF = Erneuerbare Sekundärbrennstoffe; NRSF = Nicht erneuerbare Sekundärbrennstoffe;
+FW = Einsatz von Süßwasserressourcen
+Seite 14 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Tabelle 17: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien
+Parameter Einheit A1-A3 A4 A5 B1-B7 C1 C2 C3 C4 D aus A5 D aus C3
+HWD kg 5,15E-05 1,00E-06 1,76E-06 0,00E+00 0,00E+00 1,93E-06 1,69E-06 0,00E+00 -1,00E-06 -1,89E-05
+NHWD kg 2,63E-01 2,01E-02 1,34E-02 0,00E+00 0,00E+00 3,06E-02 6,76E-02 0,00E+00 -3,73E-03 -7,01E-02
+RWD kg 2,10E-04 5,16E-06 7,01E-06 0,00E+00 0,00E+00 9,61E-06 1,13E-06 0,00E+00 -3,38E-06 -6,36E-05
+CRU kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MFR kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MER kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+EEE MJ 0,00E+00 0,00E+00 3,67E-01 0,00E+00 0,00E+00 0,00E+00 6,90E+00 0,00E+00 0,00E+00 0,00E+00
+EET MJ 0,00E+00 0,00E+00 9,28E-01 0,00E+00 0,00E+00 0,00E+00 1,74E+01 0,00E+00 0,00E+00 0,00E+00
+HWD = Gefährlicher Abfall zur Deponie; NHWD = Entsorgter nicht gefährlicher Abfall; RWD = Entsorgter radioaktiver Abfall;
+Legende CRU =Komponenten für die Wiederverwendung; MFR = Stoffe zum Recycling; MER = Stoffe für die Energierückgewinnung;
+EEE = Exportierte Energie elektrisch; EET = Exportierte Energie thermisch
+Tabelle 18: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren
+ILCD-Klassifizierung Indikator Einschränkungshinweis
+Treibhauspotenzial (GWP, en: Global Warming Potential) keine
+Potenzial des Abbaus der stratosphärischen Ozonschicht,
+keine
+ILCD-Typ 1 (ODP, en: Ozone Depletion Potential)
+potenzielles Auftreten von Krankheiten aufgrund von
+keine
+Feinstaubemissionen (PM, en: particulate Matter)
+Versauerungspotenzial, kumulierte Überschreitung
+keine
+(AP, en: Acidification Potential)
+Eutrophierungspotenzial, in das Süßwasser gelangende
+keine
+Nährstoffanteile (EP-Süßwasser)
+Eutrophierungspotenzial, in das Salzwasser gelangende
+keine
+ILCD-Typ 2 Nährstoffanteile (EP-Salzwasser)
+Eutrophierungsspotenzial, kumulierte Überschreitung (EP-Land) keine
+troposphärisches Ozonbildungspotential
+keine
+(POCP, en: Photochemical Ozone Creation Potential)
+potenzielle Wirkung durch Exposition des Menschen mit U235
+1
+(IRP, en: potential ionizing radiation)
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+nicht fossile Ressourcen (ADP-Mineralien und Metalle)
+ILCD-Typ 3
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+fossile Ressourcen (ADP-fossil)
+Seite 15 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Wasser-Entzugspotenzial (Benutzer), entzugsgewichteter
+2
+Wasserverbrauch (WDP, en: Water Deprivation Potential)
+potenzielle Toxizitätsvergleichseinheit für Ökosysteme (ETP-fw) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-c) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-nc) 2
+potenzieller Bodenqualitätsindex (SQP, en: Soil Quality Index) 2
+Einschränkungshinweis 1 — Diese Wirkungskategorie behandelt hauptsächlich die mögliche Wirkung einer
+ionisierenden Strahlung geringer Dosis auf die menschliche Gesundheit im Kernbrennstoffkreislauf. Sie berücksichtigt
+weder Auswirkungen, die auf mögliche nukleare Unfälle und berufsbedingte Exposition zurückzuführen sind, noch auf
+die Entsorgung radioaktiver Abfälle in unterirdischen Anlagen. Die potenzielle vom Boden, von Radon und von einigen
+Baustoffen ausgehende ionisierende Strahlung wird eben-falls nicht von diesem Indikator gemessen.
+Einschränkungshinweis 2 — Die Ergebnisse dieses Umweltwirkungsindikators müssen mit Bedacht angewendet
+werden, da die Unsicherheiten bei diesen Ergebnissen hoch sind oder da es mit dem Indikator nur
+begrenzte Erfahrungen gibt.
+Seite 16 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+6 LCA: Interpretation
+Die Phase A1–A3 stellt für praktisch alle Indikatoren den dominierenden Faktor (> 89% des Gesamtwerts) dar. Einzig für das GWP fossil
+(und damit verbunden das GWP total) ist die Phase C3, bedingt durch die im Rahmen der thermischen Verwertung entstehenden
+Emissionen, von ähnlich relevanter Bedeutung. Da im gesamten Produktsystem lediglich sehr geringe Mengen an biogenen
+Treibhausgasemissionen (aus Prozessen der Energiebereitstellung) vorhanden sind und diese im Rahmen der Bilanzierung vernachlässigt
+werden, wird der entsprechende Indikatorwert (GWP biogen) für alle Lebenszyklusphasen mit 0 deklariert.
+Eine genauere Betrachtung des Moduls A1–A3 zeigt, dass die Herstellung des Granulats hinsichtlich aller Indikatoren den größten
+Einflussfaktor darstellt. Die Werte liegen dabei um/über 90 %, einzig beim Indikator ODP sind es lediglich 77,5 %. Hier spielt die zur EPS
+Herstellung genutzte thermische Energie ebenfalls eine Rolle (15 %). Eine detaillierte Betrachtung der Granulatherstellung zeigt, dass die
+Herstellung der Einsatzstoffe (vor allem Styrol) den größten Einflussfaktor darstellt, diese wurden mittels generischer Daten abgebildet.
+Darüber hinaus spielen für einige Kernindikatoren auch der Transport sowie die benötigte elektrische Energie eine Rolle.
+Die Repräsentativität der in dieser EPD abgebildeten durchschnittlichen Ergebnisse ist für die einzelnen Produkttypen als sehr gut
+einzustufen. Eine durchgeführte Sensitivitätsanalyse zeigt, dass es bei den Kernindikatoren zu einer maximalen Abweichung von 6,7 %
+(beim Indikator Versauerungspotenzial) kommt. Für nahezu alle Kernindikatoren beträgt die maximale Abweichung vom Durchschnittswert
+weniger als 5%.
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+7 Literaturhinweise
+ISO 14025
+ÖNORM EN ISO 14025:2010-07-01: Umweltkennzeichnung und -deklarationen – Typ III Umweltdeklarationen – Grundsätze und
+Verfahren
+ISO 14040
+ÖNORM EN ISO 14040:2021-03-01: Umweltmanagement – Ökobilanz – Grundsätze und Rahmenbedingungen (ISO 14040:2006 + Amd
+1:2020)
+ISO 14044
+ÖENORM EN ISO 14044:2021-03-01 Umweltmanagement - Ökobilanz - Anforderungen und Anleitungen (ISO 14044:2006 + Amd 1:2017 +
+Amd 2:2020)
+EN 15804
+ÖNORM EN 15804:2022-02-15: Nachhaltigkeit von Bauwerken – Umweltdeklarationen für Produkte – Grundregeln für die
+Produktkategorie Bauprodukte
+EN16449
+ÖNORM EN 16449: Holz- und Holzprodukte - Berechnung der Speicherung atmosphärischen Kohlenstoff-Dioxids
+EN 16485
+ÖNORM EN 16485:2014-05-01: Rund- und Schnittholz – Umweltproduktdeklarationen – Produktkategorieregeln für Holz und
+Holzwerkstoffe im Bauwesen
+MS-HB Kerndokument
+Management-System Handbuch: Qualitätssicherung und Verifizierung. Allgemeine Produktkategorieregeln für EPDs. Allgemeine
+Ökobilanzrechenregeln für EPDs. Zur Erstellung von Typ III Umweltproduktdeklarationen. Version 4.0, 27.01.2023
+PKR-B
+PKR Anleitungstexte für Bauprodukte nach ISO 14025 und EN 15804+A2: Teil B: Anforderungen an eine EPD für Dämmstoffe aus
+Schaumkunststoffen (EPS und XPS), PKR-Code: 2.22.1.1. Version 15.0, 27.01.2023
+ecoinvent
+ecoinvent Version 3.8 (2021) Database, ecoinvent Association, Zürich.
+Seite 18 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+8 Verzeichnisse und Glossar
+8.1 Abbildungsverzeichnis
+Abbildung 1: Flussdiagramm Herstellungsprozess ........................................................................................................................................... 6
+Abbildung 2: Flussdiagramm der Prozesse im Lebenszyklus ............................................................................................................................ 9
+8.2 Tabellenverzeichnis
+Tabelle 1: Im Rahmen der EPD betrachtete Produkttypen ............................................................................................................................... 4
+Tabelle 2: Anwendungsbereiche für Wärmedämmung nach ÖNORM EN 16783 - Anhang A .......................................................................... 4
+Tabelle 3: Produktrelevante Normen ............................................................................................................................................................... 5
+Tabelle 4: Technische Daten für Produkte gemäß ÖNORM EN 13163 ............................................................................................................. 5
+Tabelle 5: Grundstoffe in Masse-% ................................................................................................................................................................... 6
+Tabelle 6: Grundstoffe im PS-Granulat in Masse-% .......................................................................................................................................... 6
+Tabelle 7: Nutzungsdauer ................................................................................................................................................................................. 7
+Tabelle 8: Deklarierte Einheit ........................................................................................................................................................................... 8
+Tabelle 9: Deklarierte Lebenszyklusphasen ...................................................................................................................................................... 8
+Tabelle 10: Beschreibung des Szenarios „Transport zur Baustelle (A4)“ ........................................................................................................ 11
+Tabelle 11: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“ ......................................................................................................... 11
+Tabelle 12: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“ ........................................................................................... 12
+Tabelle 13: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“ ............................. 12
+Tabelle 14: Ergebnisse der Ökobilanz Umweltauswirkungen ......................................................................................................................... 13
+Tabelle 15: Zusätzliche Umweltindikatoren ................................................................................................................................................... 14
+Tabelle 16: Ergebnisse der Ökobilanz Ressourceneinsatz .............................................................................................................................. 14
+Tabelle 17: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien ................................................................................................... 15
+Tabelle 18: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren ........................ 15
+8.3 Abkürzungen
+8.3.1 Abkürzungen gemäß ÖNORM EN 15804
+EPD Umweltproduktdeklaration (en: environmental product declaration)
+PKR Produktkategorieregeln, (en: product category rules)
+LCA Ökobilanz, (en: life cycle assessment)
+LCI Sachbilanz, (en: life cycle inventory analysis)
+LCIA Wirkungsabschätzung, (en: life cycle impact assessment)
+RSL Referenz-Nutzungsdauer, (en: reference service life)
+GWP Treibhauspotenzial (en: global warming potential)
+ODP Abbaupotenzial der stratosphärischen Ozonschicht (en: depletion potential of the stratospheric ozone layer)
+AP Versauerungspotenzial von Boden und Wasser (en: acidification potential of soil and water)
+EP Eutrophierungspotenzial (en: eutrophication potential)
+POCP Potenzial für die Bildung von troposphärischem Ozon (en: formation potential of tropospheric ozone)
+ADP Potenzial für die Verknappung von abiotischen Ressourcen (en: abiotic depletion potential)"
+8.3.2 Abkürzungen gemäß vorliegender PKR
+CE-Kennz. franz. Communauté Européenne = „Europäische Gemeinschaft“ oder Conformité Européenne, soviel wie
+„Übereinstimmung mit EU-Richtlinien“
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (de: Verordnung über die Registrierung,
+Bewertung, Zulassung und Beschränkung chemischer Stoffe
+Seite 19 von 20
+BAU-EPD-Steinbacher-2023-1-Ecoinvent-EPS-Fplus
+Herausgeber
+Bau EPD GmbH Tel +43 699 15 900 500
+Seidengasse 13/3 Mail office@bau-epd.at
+1070 Wien Web www.bau-epd.at
+Österreich
+Programmbetreiber
+Bau EPD GmbH
+Seidengasse 13/3 Tel +43 699 15 900 500
+1070 Wien Mail office@bau-epd.at
+Österreich Web www.bau-epd.at
+Ersteller der Ökobilanz
+Tudor Dobra Mail tudor.dobra@ibo.at
+IBO GmbH Tel +43 1 3192005
+Alserbachstraße 5/8 Fax +43 1 3192005 50
+1090 Wien Mail ibo@ibo.at
+Österreich Web www.ibo.at
+Inhaber der Deklaration
+Steinbacher Dämmstoff GmbH Tel +43 5352 700 0
+Salzburger Straße 35 Fax +43 5352 700 1199
+6383 Erpfendorf Mail office@steinbacher.at
+Österreich Web www.steinbacher.at

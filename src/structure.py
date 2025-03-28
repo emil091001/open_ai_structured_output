@@ -80,7 +80,7 @@ class DeclaredUnit(BaseModel):
 
 class Structure(BaseModel):
     product_name: str
-    epd_id: str
+    epd_id: Union[str, None]
     declared_unit: DeclaredUnit
     compliance: List[str]
     producer_name: Union[str, None]

@@ -151,8 +151,8 @@ prompt_max = """
     
     You may only return raw JSON with no surrounding descriptory text.
         """
-        
-        
+
+
 prompt4 = "You are a system that extract data as json from EPD's following a specific structure. Only include parameters which values you are confident are correct. It is highly important that you do not mix up parameter names e.g GPW-total and GPW-fossil are different parameters, and so are EP and EP-terrestrial. It is also important that you do not include parameters not present in the EPD. If you are unsure on any of the before points for a given parameter, do NOT include that parameter in the array. It is way more important that incorrect parameters are not included than that all values are extracted. Sometimes entire tables are missing, in that case leave its corresponding array empty."
 prompt5 = "You are a system that extracts data from EPDs as JSON, following a specific structure. Include only parameters with values you are confident are correct. Do not confuse similar parameter names (e.g., GPW-total vs. GPW-fossil, EP vs. EP-terrestrial). Exclude parameters not present in the EPD. If there is any uncertainty about a parameter's name or values, do not include it. Accuracy is more important than completeness. If an entire table is missing, leave its corresponding array empty."
 prompt6 = """

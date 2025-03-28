@@ -3,6 +3,8 @@ import os
 from config import *
 from tqdm import tqdm
 import random
+from datetime import datetime
+from prompts import *
 
 
 class Preprocessor():
@@ -31,7 +33,7 @@ class Preprocessor():
         return dataset
 
 
-dataset = Preprocessor(PROMPT1, PDF_PATH, TARGET_PATH).process()
+dataset = Preprocessor(prompt4, PDF_PATH, TARGET_PATH).process()
 random.shuffle(dataset)
 train_set = dataset[:TRAIN_SIZE]
 val_set = dataset[TRAIN_SIZE:TRAIN_SIZE + VAL_SIZE]
@@ -39,18 +41,18 @@ test_set = dataset[TRAIN_SIZE + VAL_SIZE:]
 
 
 # Save train set to train.jsonl
-with open("data/dataset/train1000.jsonl", "w") as train_file:
+with open(f"data/dataset/train{TRAIN_SIZE}_{datetime.now()}.jsonl", "w") as train_file:
     for entry in train_set:
         train_file.write(json.dumps(entry) + "\n")
 
 # Save validation set to val.jsonl
-with open("data/dataset/val200.jsonl", "w") as val_file:
+with open(f"data/dataset/val{VAL_SIZE}_{datetime.now()}.jsonl", "w") as val_file:
     for entry in val_set:
         val_file.write(json.dumps(entry) + "\n")
 
 
 # Save test set to test.jsonl
-with open("data/dataset/test.jsonl", "w") as test_file:
+with open(f"data/dataset/test{datetime.now()}.jsonl", "w") as test_file:
     for entry in test_set:
         test_file.write(json.dumps(entry) + "\n")
 

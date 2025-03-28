@@ -1,0 +1,35 @@
+{"MessageCode":"LCA_ERROR_UNKNOWN","Message":"Divide by zero error encountered.","StackTrace":" at
+Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action\u00601
+wrapCloseInAction)\r\n at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean
+callerHasConnectionLock, Boolean asyncClose)\r\n at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior,
+SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj,
+Boolean\u0026 dataReady)\r\n at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean\u0026 moreRows)\r\n at
+Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean\u0026 more)\r\n at
+Microsoft.Data.SqlClient.SqlDataReader.Read()\r\n at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Read()\r\n
+at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable\u00601.Enumerator.MoveNext()\r\n at
+System.Collections.Generic.List\u00601..ctor(IEnumerable\u00601 collection)\r\n at System.Linq.Enumerable.ToList[TSource]
+(IEnumerable\u00601 source)\r\n at LCA.Service.Implementation.PdfService.GetVariantsAndOptions(Int32 epdHeadingId) in
+C:\\gitlab-runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.services\\Implementation\\PdfService.cs:line 713\r\n at
+LCA.API.Pages.eEPD.EPDENNSModel.GetVariantsAndOptions() in C:\\gitlab-runner\\builds\\fb_TQ2Z-
+\\0\\lcatools\\lcatoolsapi\\lca.api\\Pages\\eEPD\\EPDENNS.cshtml.cs:line 736\r\n at LCA.API.Pages.eEPD.EPDENNSModel.OnGet()
+in C:\\gitlab-runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.api\\Pages\\eEPD\\EPDENNS.cshtml.cs:line 135\r\n at
+lambda_method6044(Closure , Object , Object[] )\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[]
+arguments)\r\n at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026
+state, Boolean\u0026 isCompleted)\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeNextResourceFilter\u003Eg__Awaited|25_0(ResourceInvoker
+invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state,
+Boolean\u0026 isCompleted)\r\n at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()\r\n---
+End of stack trace from previous location ---\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Logged|17_1(ResourceInvoker invoker)\r\n
+at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Logged|17_1(ResourceInvoker invoker)\r\n
+at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task
+requestTask, ILogger logger)\r\n at LCA.API.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\\gitlab-
+runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.api\\Middlewares\\ErrorHandlerMiddleware.cs:line 48"}
+1 / 1

@@ -1,0 +1,44 @@
+{"MessageCode":"LCA_ERROR_UNKNOWN","Message":"Execution Timeout Expired. The timeout period elapsed prior to completion of
+the operation or the server is not responding.\r\nOperation cancelled by user.","StackTrace":" at
+Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action\u00601
+wrapCloseInAction)\r\n at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean
+callerHasConnectionLock, Boolean asyncClose)\r\n at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior,
+SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj,
+Boolean\u0026 dataReady)\r\n at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()\r\n at
+Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()\r\n at
+Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString,
+Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)\r\n at
+Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean
+returnStream, Boolean isAsync, Int32 timeout, Task\u0026 task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean
+describeParameterEncryptionRequest)\r\n at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior,
+RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource\u00601 completion, Int32 timeout, Task\u0026 task,
+Boolean\u0026 usedCache, Boolean asyncWrite, Boolean inRetry, String method)\r\n at
+Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)\r\n at
+Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)\r\n at
+LCA.Data.Context.LcaDbContext.RawSqlQueryWithParameter(String query, SqlParameter[] parameters) in C:\\gitlab-
+runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.data\\Context\\LcaDbContext.Helper.cs:line 43\r\n at
+LCA.Service.Implementation.PdfService.GetEPDCalculationTotalForEPDEN15804A2SumA1A3(Nullable\u00601 epdId) in C:\\gitlab-
+runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.services\\Implementation\\PdfService.cs:line 235\r\n at
+LCA.API.Pages.eEPD.EPDENNSModel.GetEPDCalculation() in C:\\gitlab-runner\\builds\\fb_TQ2Z-
+\\0\\lcatools\\lcatoolsapi\\lca.api\\Pages\\eEPD\\EPDENNS.cshtml.cs:line 625\r\n at LCA.API.Pages.eEPD.EPDENNSModel.OnGet()
+in C:\\gitlab-runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.api\\Pages\\eEPD\\EPDENNS.cshtml.cs:line 140\r\n at
+lambda_method23776(Closure , Object , Object[] )\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.VoidHandlerMethod.Execute(Object receiver, Object[]
+arguments)\r\n at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026
+state, Boolean\u0026 isCompleted)\r\n at
+Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeNextResourceFilter\u003Eg__Awaited|25_0(ResourceInvoker
+invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State\u0026 next, Scope\u0026 scope, Object\u0026 state,
+Boolean\u0026 isCompleted)\r\n at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()\r\n---
+End of stack trace from previous location ---\r\n at
+Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Logged|17_1(ResourceInvoker invoker)\r\n
+at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.\u003CInvokeAsync\u003Eg__Logged|17_1(ResourceInvoker invoker)\r\n
+at Microsoft.AspNetCore.Routing.EndpointMiddleware.\u003CInvoke\u003Eg__AwaitRequestTask|6_0(Endpoint endpoint, Task
+requestTask, ILogger logger)\r\n at LCA.API.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\\gitlab-
+runner\\builds\\fb_TQ2Z-\\0\\lcatools\\lcatoolsapi\\lca.api\\Middlewares\\ErrorHandlerMiddleware.cs:line 46"}
+1 / 1

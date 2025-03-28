@@ -1,0 +1,730 @@
+Deklarationsnummer der EPD
+EPD - ENVIRONMENTAL PRODUCT DECLARATION
+UMWELT-PRODUKTDEKLARATION
+nach ISO 14025 und EN 15804+A2
+EIGENTÜMER UND HERAUSGEBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+PROGRAMMBETREIBER Bau EPD GmbH, A-1070 Wien, Seidengasse 13/3, www.bau-epd.at
+DEKLARATIONSINHABER Mischek Systembau GmbH
+DEKLARATIONSNUMMER BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+AUSSTELLUNGSDATUM 14.03.2025
+GÜLTIG BIS 14.03.2030
+ANZAHL DATENSÄTZE 1
+ENERGIE MIX ANSATZ MARKTORIENTIERTER ANSATZ (MARKET BASED APPROACH)
+Mischek Doppelwand mit Ortbetonergänzungen
+Mischek Systembau GmbH
+Seite 1 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Inhaltsverzeichnis der EPD
+1 Allgemeine Angaben ................................................................................................................................................................................. 4
+2 Produkt ..................................................................................................................................................................................................... 5
+2.1 Allgemeine Produktbeschreibung ..................................................................................................................................................... 5
+2.2 Anwendung ....................................................................................................................................................................................... 5
+2.3 Produktrelevante Normen, Regelwerke und Vorschriften ............................................................................................................... 5
+2.4 Technische Daten.............................................................................................................................................................................. 5
+2.5 Grundstoffe / Hilfsstoffe ................................................................................................................................................................... 6
+2.6 Herstellung ....................................................................................................................................................................................... 6
+2.7 Verpackung ....................................................................................................................................................................................... 8
+2.8 Lieferzustand .................................................................................................................................................................................... 8
+2.9 Transporte ........................................................................................................................................................................................ 8
+2.10 Produktverarbeitung / Installation .............................................................................................................................................. 8
+2.11 Nutzungsphase ............................................................................................................................................................................ 8
+2.12 Referenznutzungsdauer (RSL) ...................................................................................................................................................... 8
+2.13 Nachnutzungsphase .................................................................................................................................................................... 8
+2.14 Entsorgung .................................................................................................................................................................................. 9
+2.15 Weitere Informationen ................................................................................................................................................................ 9
+3 LCA: Rechenregeln .................................................................................................................................................................................. 10
+3.1 Deklarierte Einheit/ Funktionale Einheit ......................................................................................................................................... 10
+3.2 Systemgrenze .................................................................................................................................................................................. 10
+3.3 Flussdiagramm der Prozesse im Lebenszyklus ................................................................................................................................ 11
+3.4 Abschätzungen und Annahmen ...................................................................................................................................................... 11
+3.5 Abschneideregeln ........................................................................................................................................................................... 12
+3.6 Hintergrunddaten ........................................................................................................................................................................... 12
+3.7 Datenqualität .................................................................................................................................................................................. 12
+3.8 Betrachtungszeitraum .................................................................................................................................................................... 12
+3.9 Allokation ........................................................................................................................................................................................ 12
+3.10 Vergleichbarkeit ........................................................................................................................................................................ 12
+4 LCA: Szenarien und weitere technische Informationen .......................................................................................................................... 13
+4.1 A1–A3 Herstellungsphase ............................................................................................................................................................... 13
+4.2 A4-A5 Errichtungsphase.................................................................................................................................................................. 13
+4.3 B1-B7 Nutzungsphase ..................................................................................................................................................................... 13
+4.4 C1-C4 Entsorgungsphase ................................................................................................................................................................ 14
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial ............................................................................................. 14
+5 LCA: Ergebnisse ....................................................................................................................................................................................... 15
+5.1 Ergebnisse der Ökobilanz Mischek Doppelwand ............................................................................................................................ 15
+6 LCA: Interpretation ................................................................................................................................................................................. 20
+6.1 Mischek Doppelwand ..................................................................................................................................................................... 20
+7 Literaturhinweise .................................................................................................................................................................................... 21
+Seite 2 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+8 Verzeichnisse und Glossar ...................................................................................................................................................................... 22
+8.1 Abbildungsverzeichnis .................................................................................................................................................................... 22
+8.2 Tabellenverzeichnis ........................................................................................................................................................................ 22
+8.3 Abkürzungen ................................................................................................................................................................................... 22
+8.3.1 Abkürzungen gemäß ÖNORM EN 15804 .............................................................................................................................. 22
+8.3.2 Abkürzungen gemäß vorliegender PKR ................................................................................................................................ 22
+Seite 3 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+1 Allgemeine Angaben
+Produktbezeichnung Deklariertes Bauprodukt / Deklarierte Einheit
+Betonfertigteile Mischek Doppelwand mit 1 t Betonfertigteil für den Einsatz als Doppelwand mit
+Ortbetonergänzungen Ortbetonergänzungen auf der Baustelle. Die Produkte werden aus
+Gesteinskörnung, Zement, Wasser, Bewehrungsstahl
+Deklarationsnummer
+Betonzusatzstoff, Zusatzmittel und Einbauteilen hergestellt.
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Deklarationsdaten
+Anzahl Datensätze in diesem EPD-Dokument: 1
+Spezifische Daten
+Durchschnittsdaten
+Gültigkeitsbereich
+Deklarationsbasis Die hier verwendeten Daten repräsentieren die Betonfertigteile der
+MS-HB Version 5.0.0 vom 20.09.2023: MISCHEK Systembau GmbH aus von April 2023 bis März 2024 aus
+PKR Teil B: Anforderungen an eine EPD für Beton und dem Werk in Gerasdorf in Österreich. Das repräsentative Marktgebiet
+Betonelemente der Produkte ist Österreich.
+PKR-Code: 2.17
+Version 10.0 vom 01.01.2024
+(PKR geprüft u. zugelassen durch das unabhängige PKR-
+Gremium
+Der Inhaber der Deklaration haftet für die
+zugrundeliegenden Angaben und Nachweise; eine Haftung
+der Bau EPD GmbH in Bezug auf Herstellerinformationen,
+Ökobilanzdaten und Nachweise ist ausgeschlossen.
+Deklarationsart lt. EN 15804 Datenbank, Software, Version
+Von der Wiege bis zur Bahre und Modul D Ecoinvent 3.9.1, SimaPro 9.5.0.1
+LCA-Methode: Cut-off by classification Version Charakterisierungsfaktoren: Joint Research Center, EF 3.1
+Ersteller der Ökobilanz Die Europäische Norm EN 15804:2019+A2 dient als Kern-PKR.
+IBO GmbH
+Alserbachstraße 5/8 Unabhängige Verifizierung der Deklaration nach EN ISO 14025:2010
+1090 Wien intern extern
+Österreich
+Verifizierer 1: MBA and Eng., Dipl.-Ing. (FH) Patrick WORTNER
+Verifizierer 2: DI Dr. sc. ETHZ Florian Gschösser
+Deklarationsinhaber Herausgeber und Programmbetreiber
+MISCHEK Systembau GmbH Bau EPD GmbH
+Donau-City-Straße 9 Seidengasse 13/3
+1220 Wien 1070 Wien
+Österreich Österreich
+DI (FH) DI DI Sarah Richter
+Leitung Konformitätsbewertungsstelle
+MBA and Eng., Dipl.-Ing. (FH) Patrick WORTNER DI Dr. sc. ETHZ Florian Gschösser
+Verifizierer Verifizierer
+Information: EPD der gleichen Produktgruppe aus verschiedenen Programmbetrieben müssen nicht zwingend vergleichbar sein.
+Seite 4 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+2 Produkt
+2.1 Allgemeine Produktbeschreibung
+Betrachtet werden Betonfertigteile der Firma Mischek Systembau GmbH aus dem Werk in Gerasdorf. Es handelt sich um das Produkt
+Mischek Doppelwand mit Ortbetonergänzungen auf der Baustelle. Das Produkt fällt in die Produktgruppe der vorgefertigten
+Betonerzeugnisse.
+Die Mischek Doppelwand ist ein Wandelement nach ÖNORM EN 14992:2007+A1:2012(Wandplatten d 18 - d4 0 cm), welches auf der
+Baustelle mit Ortbeton vergossen wird.
+Die Sachbilanzdaten repräsentieren die gesamte von April 2023 bis März 2024 produzierte Menge an Betonfertigteilen. Die Produkte sind
+in unterschiedlichen Abmessungen erhältlich. Für die Bilanzierung hat der Hersteller eine durchschnittliche Zusammensetzung anhand der
+produzierten Gesamtmengen pro Jahr und Produkt ermittelt. Die Betonfertigteile bestehen aus Gesteinskörnung, Zement, Wasser,
+Bewehrungsstahl, Einbauteilen und Zusatzstoffen. Die Fertigteile werden auf die Baustelle ausgeliefert und dort mit Ortbeton ergänzt,
+wobei die Bewehrung bereits im Produkt enthalten ist. Der Ortbeton wird in A5 berücksichtigt.
+2.2 Anwendung
+Die Betonfertigteile werden als Doppelwände mit Ortbetonergänzungen, hauptsächlich im mehrgeschossigen Wohnbau angewendet. Die
+Vorzüge des Verbundwerkstoffes, aus den Komponenten Beton und Bewehrungsstahl, sind Tragfähigkeit, Dauerhaftigkeit,
+Brandbeständigkeit und Schallschutz.
+2.3 Produktrelevante Normen, Regelwerke und Vorschriften
+Tabelle 1: Produktrelevante Normen
+Norm Titel
+ÖNORM EN 14992: 2012 Betonfertigteile- Wandelemente
+ÖNORM EN 13369: 20181001 Allgemeine Regeln für Betonfertigteile
+ÖNORM B 4710-1:20180101 Beton- Festlegungen, Eigenschaften, Herstellung, Verwendung und Konformität
+ÖNORM B 4707:20170601 Bewehrungsstahl- Anforderungen, Klassifizierung und Prüfung
+Vorgefertigte Betonerzeugnisse - Anforderungen, Prüfungen und Verfahren für den Nachweis der
+ÖNORM B 3328:20211115
+Normkonformität von Fertigteilen aus Beton, Stahlbeton und Spannbeton
+ÖNORM EN 206:20210701 Beton - Festlegung, Eigenschaften, Herstellung und Konformität
+ÖNORM EN 14992:20120901 Betonfertigteile - Wandelemente
+Der Hersteller bestätigt die Konformität des Produkts durch eine Leistungserklärung gemäß Anhang III der Verordnung (EU) Nr. 305/2011.
+2.4 Technische Daten
+Der Bezeichnungsschlüssel für die technischen Daten stammt aus der ÖNORM EN 14992:2012-09-01. In Tabelle 2 sind die maximalen
+Abmessungen des Produkts aufgeführt, da die Produkte in unterschiedlichen Abmessungen produziert werden können. Für die
+Bilanzierung hat der Hersteller eine durchschnittliche Zusammensetzung anhand der produzierten Gesamtmengen pro Jahr und Produkt
+ermittelt.
+Seite 5 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Tabelle 2: Technische Daten für Betone bzw. Betonelemente
+Bezeichnung Wert Einheit
+Rohdichte 2340 kg/m³
+Druckfestigkeit C25/30 37 N/mm²
+Zugfestigkeit 1,1–1,3 N/mm²
+Biegezugfestigkeit 3,0–5,0 N/mm²
+Elastizitätsmodul 33000 N/mm²
+Ausgleichsfeuchtegehalt 3 %
+Expositionsklasse XC2 und XC3 -
+Nennwert Größtkorn Dmax GK16 mm
+Klasse des Chloridgehalts in ≤ 0,10% %
+Konsistenzklasse C F4 -
+Wärmeleitfähigkeit 2,1 W/(mK)
+Bemessungswert Wärmeleitfähigkeit 1,15–1,65 W/(mK)
+Wasserdampfdiffusionswiderstandszahl 60–130
+Schallabsorptionsgrad 0,01 %
+Max. Abmessungen 760 x 320 cm
+Tiefe 180,200,220,250,300,350,400 mm
+2.5 Grundstoffe / Hilfsstoffe
+Die in Tabelle 3 dargestellte Zusammensetzung ist eine vom Hersteller durchschnittlich ermittelte Zusammensetzung, die anhand der
+produzierten Gesamtmengen ermittelt wurde, da die Produkte in unterschiedlichen Abmessungen erhältlich sind.
+Tabelle 3: Grundstoffe in Masse-%
+Bestandteile in Masse % Doppelwand
+Zuschlagstoffe (Gesteinskörnung etc.) 82 %
+Bindemittel 10 %
+Betonzusatzstoff 2 %
+Wasser 2 %
+Zusatzmittel < 1 %
+Bewehrungsstahl 4 %
+Einbauteile aus Stahl < 1 %
+Elektroeinbauteile < 1 %
+2.6 Herstellung
+Die Ausgangsstoffe (Zement, Gestein, Zusatzstoffe) werden entsprechend den Anforderungen mittels Dosierverfahren in der Mischanlage
+mit Zugabe von Wasser miteinander vermengt. Die Weiterverarbeitung erfolgt durch den Betonverteiler dieser bringt das fertige
+Betongemisch in die Produktionsstätte. Mischek Doppelwand wird in der Umlaufanlage 2 gefertigt. Der Beton wird durch den Verteiler in
+eine vorbereitete Schalung und schon eingelegter Bewehrung und Einbauteile eingebracht und verdichtet. Die Informationen zur Schalung
+und Bewehrung werden den Werkszeichnungen entnommen. Das betonierte Element wird in die Härtekammer eingebracht und gelagert.
+In der Härtekammer herrscht eine konstante Temperatur von 37° C. Die Verweildauer in der Kammer beträgt mindestens 8 h. Im Anschluss
+wird das Element durch einen Mitarbeiter ausgeschalt und in einem Transportgestell verstaut. Die Transportgestelle werden mit einem
+LKW auf dem Fertigteillager gelagert. Das Qualitätsmanagement erfolgt nach ÖNORM EN ISO 9001 durch ein System der werkseigenen
+Produktionskontrolle.
+Seite 6 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Abbildung 1: Beispiel eines Flussdiagramms Herstellungsprozess
+Schalung
+Für die Herstellung der Betonfertigteile kommt ein vollautomatisches Robotersystem zum Einsatz. Ein Lagerroboter wählt die
+erforderlichen Abschaler, entsprechend der vom Leitsystem übermittelten CAD-Daten, aus dem Schalungslager. Der Schalungsroboter
+positioniert sie danach maßgenau auf die Schalfläche, gemäß der zu produzierenden Elemente und aktiviert die integrierten Magnete der
+Schalungen. Am Ende des Produktionsprozesses erkennt der Entschalroboter die Schalungen durch Scannen der Paletten und nimmt sie
+vollautomatisch auf. Anschließend werden die Abschaler automatisch einem System zum Reinigen und Aufbringen eines Trennmittels
+zugeführt und schließlich längensortiert zurück im Schalungslager deponiert.
+Mattenschweißanlage
+Die Automatisierungstechnik ermöglicht das Heften von Bewehrungsstahl von rechtwinkeligen zueinander verlaufenden Längs- und
+Querdrähten. Bewehrungsmatten mit verschiedenen Rastern, Abmessungen und Drahtdurchmessern können individuell nach CAD-
+Vorgaben gefertigt werden. Das modulare System der Anlage ermöglicht eine genaue Umsetzung der jeweiligen Anforderungen. Jede
+Bewehrungsmatte wird ohne Verschnitt und Zuschneiden produziert.
+Einbauteile
+Die Einbauteile werden händisch gemäß dem Werksplan eingelegt (geklebt oder auf die vom Schalungsroboter angebrachten Magneten
+aufgesteckt).
+Mischer
+Im Mischer werden die Ausgangsstoffe (Zement, Gestein, Zusatzstoffe) entsprechend den Anforderungen mittels Dosierungsverfahren in
+der Mischanlage mit Zugabe von Wasser miteinander vermengt. Die Weiterverarbeitung erfolgt durch den Betonverteiler, dieser bringt
+das fertige Betongemisch in die jeweilige Produktionsstätte.
+Kleingeräte
+Es kommen in der Produktion der Fertigteilelemente diverse Kleingeräte wie z.B. Schlagschrauber, Winkelschleifer, Drahtbindegerät,
+Eisenbiegemaschinen, Klebepistolen und Staubsauer zum Einsatz.
+Lärmmessungen werden in regelmäßigen Abständen von der Allgemeinen Unfallversicherungsanstalt durchgeführt. Das Personal wird mit
+einer Persönlichen Schutzausrüstung wie z.B. Gehörschutz ausgestattet. Die Maschinen entsprechen den Europäischen Richtlinien.
+Seite 7 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+2.7 Verpackung
+Es kommen keine Verpackungsmaterialien zum Einsatz. Die Produkte werden ohne Verpackung gelagert und verkauft. Lediglich für
+Auslieferung werden Paletten verwendet.
+2.8 Lieferzustand
+Die Stahlbetonfertigteile werden nach der Herstellung in Ladegestelle auf dem Fertigteillagerplatz für die Auslieferung zwischengelagert.
+Die Produkte haben im Mittel folgende Abmessungen:
+- Mischek Doppelwand: 2,65 m x 3,04 m x 0,18–0,4 m
+2.9 Transporte
+Die Produkte werden mit einem EURO6 LKW > 32 t durchschnittlich 54 km im Inland transportiert.
+2.10 Produktverarbeitung / Installation
+Für die Installation der Doppelwände ist die VÖB-Richtlinie Montageanleitung für Doppelwände zu beachten. Vor der Montage ist zunächst
+auf die Höhengenauigkeit der Bodenplatte zu achten. Vor dem Anheben der Elemente mit dem Kran ist zunächst eine Sichtprüfung der
+Elemente auf Beschädigungen durchzuführen. Für eine Zwischenlagerung ist eine geeignete ebene Lagerfläche bereitzustellen. Es wird ein
+Mörtelbett erstellt auf das die Wand mit einem Kran positioniert wird. Mit 2 Schrägstützen pro Element wird die Wand für die weitere
+Montage abgestützt. Danach erfolgt eine Abschalung der Fugen mit einer Rundschnur. Nachfolgend pumpt eine Betonpumpe den Ortbeton
+in den Hohlraum der Doppelwand. Zum Schluss wird die Rundschnur nach dem Aushärten wieder entfernt.
+2.11 Nutzungsphase
+Bei Betonfertigteilen treten bei ordnungsgemäßer Planung, sach- und fachgerechtem Einbau und störungsfreier Nutzung in der Regel keine
+Änderungen der stofflichen Zusammensetzung über den Zeitraum der Nutzung auf.
+Beton nimmt während des Lebenszyklus Kohlendioxids aus der Luft auf, bindet ihn und kompensiert damit einen Teil der CO₂-
+Prozessemissionen aus der Herstellung. Die Karbonatisierung wurde nach ÖNORM EN 16757:2022 (D) Anhang G berechnet.
+Das Produkt enthält keine Stoffe der ECHA-Kandidatenliste der für eine Zulassung in Frage kommenden besonders besorgniserregenden
+Stoffe (en: Substances of Very High Concern – SVHC) oberhalb von 0,1 Massen-%.
+2.12 Referenznutzungsdauer (RSL)
+Es konnte keine Referenznutzungsdauer nach den Regeln der EN 15804+A2 (Anhang A) ermittelt werden. Daher wurde die EN 16757
+herangezogen
+Tabelle 4: Referenz-Nutzungsdauer (RSL)
+Bezeichnung Wert Einheit
+Betonfertigteil 100 Jahre
+2.13 Nachnutzungsphase
+Eine Wiederverwertung der Betonbauteile als rezyklierte Gesteinskörnung in Recyclingbeton ist möglich und wird in seltenen Fällen auch
+praktiziert. Allerdings entspricht dies nicht der gängigen Praxis, da der Betonabbruch derzeit zum Großteil für den Straßenbau verwendet
+wird (Downcycling). Theoretisch ist auch eine Wiederverwendung der Betonfertigteile technisch bedingt möglich, aber auch dies wird in
+der Praxis nicht angewandt. Diese EPD betrachtet ein Szenario von 98 % Recycling und 2 % Deponierung.
+Seite 8 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+2.14 Entsorgung
+Üblicherweise erfolgt der Abbruch der Wände oder Decken aus Beton mit einem Hydraulikbagger und einer Betonzange. Zur weiteren
+Zerkleinerung wird ein Hydromeißel eingesetzt. Daraufhin wird das Bruchmaterial in einer Recyclinganlage mit Brechern zu Kies, Gestein
+und Staub zerkleinert. Die tatsächliche Recyclingrate ist nicht bekannt. Rezyklierte Gesteinskörnung kann u.a. im Straßenbau, Erdbau,
+Asphalt- und in der Betonherstellung verwendet werden.
+Die Abfallcodes nach dem europäischen Abfallkatalog sind die folgenden:
+35103 – Eisen- und Stahlabfälle (Metall)
+31409 – Bauschutt
+31427 – Betonabbruch
+2.15 Weitere Informationen
+Zusätzliche Informationen können von der Homepage https://mischek-systembau.at/ bezogen werden.
+Seite 9 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+3 LCA: Rechenregeln
+3.1 Deklarierte Einheit/ Funktionale Einheit
+Die deklarierte Einheit ist 1 t Stahlbetonfertigteil. Die Produkte sind in unterschiedlichen Abmessungen erhältlich. Für die Bilanzierung hat
+der Hersteller eine durchschnittliche Zusammensetzung anhand der produzierten Gesamtmengen pro Jahr und Produkt ermittelt.
+Tabelle 5: Deklarierte Einheit
+Bezeichnung Wert Einheit
+Deklarierte Einheit 1 t
+Rohdichte 2340 kg/m³
+3.2 Systemgrenze
+Der vorliegende Projektbericht bezieht sich auf eine EPD von der Wiege bis zur Bahre und Modul D (Module A+B+C+D). Sämtliche in
+folgender Tabelle gekennzeichneten Module wurden deklariert.
+Tabelle 6: Deklarierte Lebenszyklusphasen
+HERSTEL- ERRICH-
+ENTSORGUNGS- Vorteile und
+LUNGS- TUNGS- NUTZUNGSPHASE
+PHASE Belastungen
+PHASE PHASE
+A1 A2 A3 A4 A5 B1 B2 B3 B4 B5 B6 B7 C1 C2 C3 C4 D
+z t a z t a
+s n s n
+g
+n u lle ts tie r e b ffo ts h o R t r o p s n a r T g n u lle ts r e H t r o p s n a r T u a b n iE / u a B g n u z tu N g n u t la h d n a ts n I r u t a r a p e R z t a s r E g n u r e u e n r E ,u a b m U
+ie
+e ig r e n E r e h c ilb e ir te b
+ie
+r e s s a W r e h c ilb e ir te b h c u r b b A t r o p s n a r T
+g
+n u t fa h c s t r iw e b lla fb A g n u g r o s tn E s g n u d n e w r e v r e d e iW
+-,
+s g n u n n iw e g k c ü R-, la iz n e t o p g n ilc y c e R
+x x x x x x x x x x x x x x x x x
+A1–A3 Herstellungsphase
+In der Herstellungsphase werden sämtliche Einsatzstoffe für die Betonfertigteile bilanziert.
+A4–A5 Errichtungsphase
+Die Betonfertigteile werden im Durchschnitt 54 km zur Baustelle geliefert.
+Für den Einbau wird ein Mörtelbett erstellt auf das die Wand mit einem Mobilkran positioniert wird. Mit 2 Schrägstützen pro Element wird
+die Wand für die weitere Montage abgestützt. Danach erfolgt die Abschalung der Fugen mit Rundschnur aus PU-Schaum. Folgend pumpt
+eine Betonpumpe den Ortbeton in den Hohlraum der Doppelwand, wobei die Rundschnur nach dem Aushärten wieder entfernt werden
+kann.
+B1–B7 – Nutzungsphase
+Die Karbonatisierung in der Nutzungsphase B1 wurde nach ÖNORM EN 16757:2022 (D) Anhang G berechnet. Da während der
+Lebensdauer weder eine Instandhaltung B2, Reparatur B3 oder ein Ersatz B4 erfolgt, verursachen diese Lebenszyklusphasen auch keine
+Umweltwirkungen.
+Seite 10 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+C1–C4 – Entsorgungsphase
+Der Abriss des Gebäudes erfolgt mit einem Bagger. In dieser EPD wird 98 Recycling und 2 % Deponierung berechnet. Das Sortieren und
+Pressen des Bewehrungsstahls und der Einbauteile aus Stahl wird in C3 berücksichtigt. Die Elektroeinbauteile und der Kunststoffanteil der
+Metallschiene wird der thermischen Verwertung zugeführt und in C3 bilanziert. Als mittlere Transportdistanz wurden 50 km zur
+Baurestmassendeponie und zum Recyclingwerk im Modul C2 festgelegt. Für die Kunststoffeinbauteile wurde mit einer Transportdistanz
+von 150 km zur MVA angesetzt. Die Karbonatisierung während der Deponierung wurde nach ÖNORM EN 16757:2022 (D) Anhang G
+berechnet.
+Modul D
+Der Betonbruch kann nach Ende des Abfallstatus zur rezyklierten Gesteinskörnung weiterverarbeitet werden und ersetzt damit primäre
+Gesteinskörnung. Es wird die Aufbereitung im Recyclingwerk berücksichtigt und die Substitution der primären Gesteinskörnung. Für die
+Kunststoffanteile wird die rückgewonnene Energie aus der thermischen Verwertung berechnet. Ebenso wird die zurückgewonnene Energie
+des Abfalls der Rundschnur, die auf der Baustelle während des Einbaus anfällt und in der Müllverbrennung thermisch verwertet werden
+kann, berücksichtigt.
+3.3 Flussdiagramm der Prozesse im Lebenszyklus
+Abbildung 2: Systemgrenze
+3.4 Abschätzungen und Annahmen
+Folgende Heizwerte wurden angenommen:
+- Gas 41,42 MJ/m³, Quelle: Durchschnitt der Rechnungen Januar–März
+- Hackgut 10,08 MJ/kg, Schüttdichte 210 kg/m³
+- Polyvinylchlorid 21,5 MJ, Quelle: ecoinvent 3.9.1
+- Polypropylen 32,78 MJ, Quelle: ecoinvent 3.9.1
+- Polyurethan 30,67 MJ, Quelle: ecoinvent 3.9.1
+Seite 11 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+3.5 Abschneideregeln
+Grundsätzlich wurden alle Input- sowie Outputströme in der Herstellungsphase berücksichtigt. Die Verpackungen der Materialien vom
+Einbau wurden aufgrund sehr geringer Mengen (< 1 %) abgeschnitten. Daten für die Werksinfrastruktur liegen nicht vor und werden gemäß
+der Abschneideregeln EN 15804 nicht berücksichtigt.
+3.6 Hintergrunddaten
+Sämtliche Hintergrunddaten wurden der Datenbank ecoinvent v3.9.1 – allocation, cut-off by classification entnommen. Für die
+eingesetzten Zementsorten wurde auf die EPD Zement Holcim (2023) zurückgegriffen, wobei das GWP biogen jeweils auf „0“ gesetzt wurde,
+da bei der Herstellung von Zement kein positives GWP biogen resultieren kann. Für das Fließmittel wird die EPD der European Federation
+of Concrete Admixtures Associations (EFCA) herangezogen (EFCA (2023). Die Indikatoren PM, IR, ETP-fw, HTP-c, HTP-nc und SQP wurden
+in der EFCA EPD nicht deklariert, daher trägt das Fließmittel nichts zum Ergebnis dieser Indikatoren bei.
+3.7 Datenqualität
+Die Sammlung der Vordergrunddaten erfolgte über einen an die Firma Mischek Systembau GmbH übermittelten Datenerhebungsbogen.
+Rückfragen wurden in einem iterativen Prozess schriftlich via E-Mail oder telefonisch mit dem Werksleiter geklärt. Im Rahmen eines
+Fertigungsstättenbesuchs erfolgte eine Prüfung auf Vollständigkeit und Plausibilität der Herstellerangaben vor Ort. Außerdem erfolgte eine
+Plausibilitätsprüfung mit vergleichbaren EPDs, sodass die Daten als plausibel erachtet werden können.
+Es wurde ein konsistentes und einheitliches Berechnungsverfahren gemäß ISO 14044 angewandt. Beim Fehlen spezifischer Daten wurde
+auf generische Datensätze zurückgegriffen. Bei der Auswahl der Hintergrunddaten wurde auf die technologische, geographische und
+zeitbezogene Repräsentativität der Datengrundlage geachtet. Die Hintergrund-Datenbank ecoinvent 3.9.1 wurde im Jahr 2023 publiziert,
+beinhaltet jedoch einzelne Datensätze, deren Erhebungs- bzw. Bezugsjahr mehr als 10 Jahre (Anforderung EN 15804 bzw. Bau EPD GmbH)
+zurückliegt. Diese Datensätze wurden über die Jahre in den verschiedenen ecoinvent-Datenbank-Versionen unter Berücksichtigung
+notwendiger Anpassungen für Datenbank-Updates mitgeführt. Dennoch sind diese Datensätze mit einem entsprechenden
+Schwankungspotential behaftet, weil (technologische) Entwicklungen der letzten Jahre darin zum Teil nicht abgebildet sind.
+3.8 Betrachtungszeitraum
+Die Vordergrunddaten beziehen sich auf den Zeitraum von April 2023 bis März 2024. Der Betonzusatzstoff wird erst seit Ende 2023
+produziert, sodass sich sämtliche Stoff- und Energieströme desselben auf das 1. Quartal 2024 beziehen.
+3.9 Allokation
+Es gibt neben den Stahlbetonfertigteilen keine Nebenprodukte im Werk.
+Für die generischen Daten kommen die Allokationsregeln gemäß der eingesetzten Datenbank bzw. Datensätze zum Zug. Der Hersteller hat
+für 2022 spezifische Produktionsenergiekennwerte angegeben; die neu erfassten Verbrauchsdaten (April 2023–März 2024) wurden unter
+der Annahme unveränderter spezifischer Verbräuche entsprechend verteilt.
+Die Systemgrenze für Betonfertigteilelemente wird mit dem Eintreffen des Materials im Recycling-Werk gesetzt, da dort das Ende des
+Abfallstatus erreicht ist. Die Belastungen aus der Wiederaufbereitung werden damit in Modul D berücksichtigt. Für den Stahl wird wie
+unter 3.2 beschrieben das Sortieren und Pressen in C3 berücksichtigt.
+3.10 Vergleichbarkeit
+Grundsätzlich ist eine Gegenüberstellung oder die Bewertung von EPD-Daten nur möglich, wenn alle zu vergleichenden Datensätze nach
+EN 15804 in der gleichen Version erstellt wurden, die gleichen programmspezifischen PKR bzw. etwaige zusätzliche Regeln sowie die gleiche
+Hintergrunddatenbank verwendet wurden und darüber hinaus der Gebäudekontext bzw. produktspezifische Leistungsmerkmale
+berücksichtigt werden.
+Seite 12 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+4 LCA: Szenarien und weitere technische Informationen
+4.1 A1–A3 Herstellungsphase
+Laut ÖNORM EN 15804 sind für die Module A1–A3 keine technischen Szenarioangaben gefordert, weil die Bilanzierung dieser Module in
+der Verantwortung des Herstellers liegt und vom Verwender der Ökobilanz nicht verändert werden darf.
+4.2 A4-A5 Errichtungsphase
+Die Produkte werden mittels LKW zur Baustelle transportiert. Alle Produkte werden zu 100 % im Inland vertrieben.
+Tabelle 7: Beschreibung des Szenarios „Transport zur Baustelle (A4)“ in Bezug auf die deklarierte Einheit von 1 t
+Parameter zur Beschreibung des Transportes zur Baustelle (A4) Wert Messgröße
+Mittlere Transportentfernung 54 km
+Fahrzeugtyp nach Kommissionsdirektive 2007/37/EG (Europäischer Emissionsstandard) EURO 6 -
+Mittlerer Treibstoffverbrauch, Treibstofftyp: Diesel 0,75 l/100 km
+Mittlere Transportmenge 19 t
+Mittlere Auslastung (einschließlich Leerfahrten) 41 %
+Mittlere Rohdichte der transportierten Produkte 2,5 t /m³
+Volumen-Auslastungsfaktor (Faktor: =1 oder <1 oder ≥ 1 für in Schachteln verpackte oder
+1 -
+komprimierte Produkte
+Tabelle 8: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“ Mischek Doppelwand
+Parameter zur Beschreibung des Einbaus ins Gebäude (A5) Wert Messgröße
+Hilfsstoffe für den Einbau
+Zementmörtel 4,3E-1 kg/t
+Ortbeton 3,1E-1 m³/t
+Bewehrungsstahl 4,43 kg/t
+Hilfsmittel für den Einbau
+Schrägstützen 8,8E-3 kg/t
+Rundschnur aus PE-Schaum 5,7E-3 kg/t
+Wasserbedarf m³/t
+l/t
+Sonstiger Ressourceneinsatz kg/t
+t/t
+l/t
+Stromverbrauch 1,3 MJ/t
+Weiterer Energieträger
+Diesel 5,73 MJ/t
+Materialverlust auf der Baustelle vor der Abfallbehandlung, verursacht durch den Einbau
+kg/t
+des Produktes
+Output-Stoffe infolge der Abfallbehandlung auf der Baustelle
+Polyurethan zur thermischen Verbrennung 2,43E-2 kg/t
+Direkte Emissionen in die Umgebungsluft (z.B. Staub, VOC), Boden und Wasser kg/t
+4.3 B1-B7 Nutzungsphase
+Angabe Referenznutzungsdauer: 100 Jahre
+Während der Nutzungsphase B2–B5 des Produkts finden, abgesehen von der Karbonatisierung, keine für die Ökobilanz relevanten Stoff-
+und Energieströme statt. Die Karbonatisierung wurde nach ÖNORM EN 16757:2022 (D) Anhang G berechnet.
+Seite 13 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+4.4 C1-C4 Entsorgungsphase
+Nach dem Abriss des Gebäudes werden 98 %recycelt und 2 % deponiert. Der recycelte Beton kann primäre Gesteinskörnung ersetzen. Der
+Bewehrungsstahl und die Einbauteile aus Stahl werden recycelt. Die Kunststoffanteile werden der thermischen Verwertung mit
+Energierückgewinnung zugeführt. Für diese Anteile ist gemäß CEWEP (2013) für europäische Müllverbrennungsanlagen davon auszugehen, dass
+die Anlage einen R1-Wert > 0,6 aufweist. Es handelt sich daher um eine Abfallbewirtschaftung, die in der Phase C3 deklariert wird. Für den Transport
+in C2 werden 50 km zur Deponie und zum Recyclingwerk angenommen. Für die Kunststoffanteile werden 150 km zur MVA angesetzt.
+Tabelle 9: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“ für Mischek Doppelwand
+Parameter für die Entsorgungsphase (C1-C4) Wert Messgröße
+kg
+getrennt
+Sammelverfahren, spezifiziert nach Art
+1000 kg
+gemischt
+kg
+Wiederverwendung
+Rückholverfahren, spezifiziert nach Art 980 kg
+Recycling
+>1 kg
+Energierückgewinnung
+Deponierung, spezifiziert nach Art 20 kg
+Deponierung
+4.5 D Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial
+Der Betonabbruch kann wie unter 3.2 beschrieben nach der Aufbereitung primärere Gesteinskörnung substituieren. Die Metallschiene aus
+Stahl substituiert Primärstahl. Für die Kunststoffanteile wird die rückgewonnene Energie aus der thermischen Verwertung berechnet.
+Tabelle 10: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“ Doppelwand
+Parameter für das Modul (D) Wert Messgröße
+Materialien für Wiederverwendung oder Recycling aus A4-A5 - %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus A4-A5 3,05E-01 MJ/t
+Materialien für Wiederverwendung oder Recycling aus B2-B5 - %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus B2-B5 - MJ/t
+Materialien für Wiederverwendung oder Recycling aus C1-C4 98 %
+Energierückgewinnung bzw. Sekundärbrennstoffe aus C1-C4 7,13 MJ/t
+Seite 14 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+5 LCA: Ergebnisse
+Die Ergebnisse beziehen sich auf die deklarierte Einheit von 1 t.
+5.1 Ergebnisse der Ökobilanz Mischek Doppelwand
+Tabelle 11: Ergebnisse der Ökobilanz Umweltauswirkungen für das Produkt Mischek Doppelwand
+Parameter Einheit A1–A3 A4 A5 B1 B6 B7 C1 C2 C3 C4 ModulD
+GWP total kg CO 2 äquiv 8,87E+01 5,37E+00 6,72E+01 -2,90E+00 0,00E+00 0,00E+00 6,07E+00 1,17E+01 4,14E+00 9,13E-02 -5,80E+00
+GWP fossil fuels kg CO 2 äquiv 8,86E+01 5,37E+00 6,71E+01 -2,90E+00 0,00E+00 0,00E+00 6,07E+00 1,17E+01 4,14E+00 9,13E-02 -5,80E+00
+GWP biogenic kg CO 2 äquiv 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+GWP luluc kg CO 2 äquiv 4,67E-02 2,62E-03 2,29E-02 0,00E+00 0,00E+00 0,00E+00 6,83E-04 5,37E-03 2,60E-04 2,43E-05 -2,35E-03
+ODP kg CFC-11 äquiv 2,69E-06 1,22E-07 4,56E-07 0,00E+00 0,00E+00 0,00E+00 9,66E-08 2,56E-07 5,28E-08 3,97E-09 -4,32E-08
+AP mol H+ äquiv 2,75E-01 1,33E-02 1,95E-01 0,00E+00 0,00E+00 0,00E+00 5,63E-02 4,58E-02 2,29E-02 7,47E-04 -3,21E-02
+EP freshwater kg PO 43- äquiv 1,57E-02 3,96E-04 1,51E-02 0,00E+00 0,00E+00 0,00E+00 1,86E-04 8,09E-04 9,44E-05 5,56E-06 -1,68E-03
+EP marine kg N äquiv 7,56E-02 3,62E-03 6,15E-02 0,00E+00 0,00E+00 0,00E+00 2,61E-02 1,74E-02 1,05E-02 3,24E-04 -7,93E-03
+EP terrestrial mol N äquiv 8,64E-01 3,72E-02 6,95E-01 0,00E+00 0,00E+00 0,00E+00 2,84E-01 1,85E-01 1,15E-01 3,48E-03 -1,08E-01
+POCP kg NMVOC äquiv 2,76E-01 2,17E-02 1,94E-01 0,00E+00 0,00E+00 0,00E+00 8,40E-02 6,73E-02 3,43E-02 1,37E-03 -2,81E-02
+ADPE kg Sb äquiv 2,25E-04 1,50E-05 2,16E-04 0,00E+00 0,00E+00 0,00E+00 2,12E-06 3,74E-05 1,68E-06 1,24E-07 -6,77E-05
+ADPF MJ H u 7,73E+02 8,15E+01 4,05E+02 0,00E+00 0,00E+00 0,00E+00 7,95E+01 1,65E+02 3,36E+01 2,92E+00 -6,94E+01
+WDP m3 Welt äquiv entz. 1,11E+01 3,89E-01 3,01E+01 0,00E+00 0,00E+00 0,00E+00 1,71E-01 6,26E-01 8,54E-01 1,54E-02 3,10E+00
+GWP = Globales Erwärmungspotenzial; luluc = land use and land use change; ODP = Abbaupotenzial der stratosphärischen Ozonschicht; AP =
+Legende Versauerungspotenzial, kumulierte Überschreitung; EP = Eutrophierungspotenzial;POCP = Bildungspotenzial für troposphärisches Ozon; ADPE = Potenzial für
+den abiotischen Abbau nicht fossiler Ressourcen; ADPF = Potenzial für den abiotischen Abbau fossiler Brennstoffe; WDP = Wasser-Entzugspotenzial (Benutzer)
+Für alle GWP-Indikatoren in A1–A3 werden die Nettowerte deklariert. Der Abfallstatus der (abfallbasierten) Brennstoffe wurde nachgewiesen. Die Bruttoemissionen (d.h.,
+einschließlich CO
+2
+aus der Verbrennung von Abfällen) betragen 1,08E+02 kg CO
+2
+äquiv/t (GWP-fossil). Für alle GWP Indikatoren in A5 sind ebenfalls Nettowerte deklariert.
+Seite 15 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Tabelle 12: Zusätzliche Umweltindikatoren für das Produkt Mischek Doppelwand*
+Parameter Einheit A1–A3 A4 A5 B1 B6 B7 C1 C2 C3 C4 Modul D
+PM Auftreten von Krankheiten 4,74E-06 5,31E-07 2,35E-06 0,00E+00 0,00E+00 0,00E+00 9,01E-06 8,21E-07 6,39E-07 1,88E-08 -6,70E-07
+IRP kBq U235 äquiv 4,76E+00 1,03E-01 2,61E+00 0,00E+00 0,00E+00 0,00E+00 3,77E-02 2,67E-01 4,41E-02 2,75E-03 -6,56E-01
+ETF-fw CTUe 5,72E+02 3,92E+01 1,88E+02 0,00E+00 0,00E+00 0,00E+00 3,80E+01 8,36E+01 2,73E+01 1,20E+00 -2,63E+02
+HTTP-c CTUh 1,81E-07 2,39E-09 3,96E-08 0,00E+00 0,00E+00 0,00E+00 1,86E-09 4,91E-09 1,01E-08 5,97E-11 -9,40E-07
+HTTP-nc CTUh 9,71E-07 5,82E-08 3,46E-07 0,00E+00 0,00E+00 0,00E+00 1,29E-08 1,10E-07 8,05E-09 5,14E-10 -6,39E-08
+SQP Dimensionslos 7,61E+02 8,27E+01 4,10E+02 0,00E+00 0,00E+00 0,00E+00 5,36E+00 8,47E+01 3,39E+00 6,03E+00 -1,10E+02
+PM = Potenzielles Auftreten von Krankheiten aufgrund von Feinstaubemissionen; IRP = Potenzielle Wirkung durch Exposition des Menschen mit U235; ETP-fw
+Legende = Potenzielle Toxizitätsvergleichseinheit für Ökosysteme; HTP-c = Potenzielle Toxizitätsvergleichseinheit für den Menschen - kanzerogene Wirkung; HTP-nc =
+Potenzielle Toxizitätsvergleichseinheit für den Menschen - nicht kanzerogene Wirkung; SQP = Potenzieller Bodenqualitätsindex
+* Der verwendete Datensatz des Zusatzmittels (IBU-EPD) hat die Indikatoren dieser Tabelle nicht deklariert (ND), daher sind in diesen Werten die Belastungen des Zusatzmittels nicht
+inbegriffen.
+Tabelle 13: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren
+ILCD-Klassifizierung Indikator Einschränkungshinweis
+Treibhauspotenzial (GWP, en: Global Warming Potential) keine
+Potenzial des Abbaus der stratosphärischen Ozonschicht,
+keine
+ILCD-Typ 1 (ODP, en: Ozone Depletion Potential)
+potenzielles Auftreten von Krankheiten aufgrund von
+keine
+Feinstaubemissionen (PM, en: particulate Matter)
+Versauerungspotenzial, kumulierte Überschreitung
+keine
+(AP, en: Acidification Potential)
+Eutrophierungspotenzial, in das Süßwasser gelangende
+keine
+Nährstoffanteile (EP-Süßwasser)
+Eutrophierungspotenzial, in das Salzwasser gelangende
+keine
+ILCD-Typ 2 Nährstoffanteile (EP-Salzwasser)
+Eutrophierungsspotenzial, kumulierte Überschreitung (EP-Land) keine
+troposphärisches Ozonbildungspotential
+keine
+(POCP, en: Photochemical Ozone Creation Potential)
+potenzielle Wirkung durch Exposition des Menschen mit U235
+1
+(IRP, en: potential ionizing radiation)
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+nicht fossile Ressourcen (ADP-Mineralien und Metalle)
+ILCD-Typ 3
+Potenzial für die Verknappung von abiotischen Ressourcen für
+2
+fossile Ressourcen (ADP-fossil)
+Seite 16 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Wasser-Entzugspotenzial (Benutzer), entzugsgewichteter
+2
+Wasserverbrauch (WDP, en: Water Deprivation Potential)
+potenzielle Toxizitätsvergleichseinheit für Ökosysteme (ETP-fw) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-c) 2
+potenzielle Toxizitätsvergleichseinheit für den Menschen (HTP-nc) 2
+potenzieller Bodenqualitätsindex (SQP, en: Soil Quality Index) 2
+Einschränkungshinweis 1 — Diese Wirkungskategorie behandelt hauptsächlich die mögliche Wirkung einer
+ionisierenden Strahlung geringer Dosis auf die menschliche Gesundheit im Kernbrennstoffkreislauf. Sie berücksichtigt
+weder Auswirkungen, die auf mögliche nukleare Unfälle und berufsbedingte Exposition zurückzuführen sind, noch auf
+die Entsorgung radioaktiver Abfälle in unterirdischen Anlagen. Die potenzielle vom Boden, von Radon und von einigen
+Baustoffen ausgehende ionisierende Strahlung wird eben-falls nicht von diesem Indikator gemessen.
+Einschränkungshinweis 2 — Die Ergebnisse dieses Umweltwirkungsindikators müssen mit Bedacht angewendet
+werden, da die Unsicherheiten bei diesen Ergebnissen hoch sind oder da es mit dem Indikator nur
+begrenzte Erfahrungen gibt.
+Seite 17 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Tabelle 14: Ergebnisse der Ökobilanz Ressourceneinsatz für das Produkt Mischek Doppelwand
+Parameter Einheit A1–A3 A4 A5 B1 B6 B7 C1 C2 C3 C4 Modul D
+PERE MJ Hu 2,61E+02 1,15E+00 7,65E+01 0,00E+00 0,00E+00 0,00E+00 4,38E-01 2,77E+00 7,38E-01 5,33E-02 -1,17E+01
+PERM MJ Hu 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+PERT MJ Hu 2,61E+02 1,15E+00 7,65E+01 0,00E+00 0,00E+00 0,00E+00 4,38E-01 2,77E+00 7,38E-01 5,33E-02 -1,17E+01
+PENRE MJ Hu 7,53E+02 8,15E+01 4,05E+02 0,00E+00 0,00E+00 0,00E+00 7,95E+01 1,65E+02 2,08E+01 2,92E+00 -4,94E+01
+PENRM MJ Hu 2,00E+01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 -2,00E+01 0,00E+00 0,00E+00
+PENRT MJ Hu 7,73E+02 8,15E+01 4,05E+02 0,00E+00 0,00E+00 0,00E+00 7,95E+01 1,65E+02 7,49E-01 2,92E+00 -6,94E+01
+SM kg 3,44E+01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 3,28E+01 0,00E+00 0,00E+00
+RSF MJ Hu 5,43E+01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+NRSF MJ Hu 1,65E+02 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+FW m³ ND ND ND ND ND ND ND ND ND ND ND
+Legende PERE = Erneuerbare Primärenergie als Energieträger; PERM = Erneuerbare Primärenergie zur stofflichen Nutzung; PERT = Total erneuerbare Primärenergie;
+PENRE = Nicht-erneuerbare Primärenergie als Energieträger; PENRM = Nicht-erneuerbare Primärenergie zur stofflichen Nutzung; PENRT = Total nicht
+erneuerbare Primärenergie; SM = Einsatz von Sekundärstoffen;
+RSF = Erneuerbare Sekundärbrennstoffe; NRSF = Nicht erneuerbare Sekundärbrennstoffe; FW = Einsatz von Süßwasserressourcen
+ND: Nicht deklariert. Die ecoinvent-Datensätze lassen keine vollständige Erfassung des Einsatzes von Süßwasserressourcen zu.
+Tabelle 15: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien für das Produkt Mischek Doppelwand
+Parameter Einheit A1–A3 A4 A5 B1 B6 B7 C1 C2 C3 C4 Modul D
+HWD kg 2,71E-03 5,06E-04 1,87E-03 0,00E+00 0,00E+00 0,00E+00 5,35E-04 1,05E-03 2,27E-04 1,45E-05 -5,96E-04
+NHWD kg 2,26E+01 7,14E+00 1,93E+01 0,00E+00 0,00E+00 0,00E+00 1,14E-01 6,81E+00 1,43E-01 2,03E+01 -8,02E-01
+RWD kg 3,51E-03 4,51E-05 1,22E-03 0,00E+00 0,00E+00 0,00E+00 1,56E-05 1,20E-04 2,37E-05 1,15E-06 -2,72E-04
+CRU kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MFR kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+MER kg 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00
+EEE MJ 0,00E+00 0,00E+00 9,24E-02 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 2,02E+00 0,00E+00 0,00E+00
+EET MJ 0,00E+00 0,00E+00 2,34E-01 0,00E+00 0,00E+00 0,00E+00 0,00E+00 0,00E+00 5,11E+00 0,00E+00 0,00E+00
+Legende HWD = Gefährlicher Abfall zur Deponie; NHWD = Entsorgter nicht gefährlicher Abfall; RWD = Entsorgter radioaktiver Abfall; CRU =Komponenten für die Wiederverwendung;
+MFR = Stoffe zum Recycling; MER = Stoffe für die Energierückgewinnung; EEE = Exportierte Energie elektrisch; EET = Exportierte Energie thermisch
+Seite 18 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Tabelle 16: Informationen zur Beschreibung des biogenen Kohlenstoffgehalts am Werkstor für das Produkt Mischek Doppelwand
+Biogener Kohlenstoffgehalt Wert Einheit
+Biogener Kohlenstoff im Produkt 0,00E+00 kg C
+Biogener Kohlenstoff in der zugehörigen Verpackung 0,00E+00 kg C
+Anmerkung: 1 kg biogener Kohlenstoff entspricht 44/12 kg CO₂
+Seite 19 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+6 LCA: Interpretation
+6.1 Mischek Doppelwand
+Die Auswertung der Doppelwand zeigen, dass bei allen Umweltindikatoren mit Ausnahme des Wasserentzugspotenzials, die
+Herstellungsphase A1–A3 dominierend ist. Dabei liegen die Auswirkungen der dominierenden Umweltindikatoren der Herstellungsphase
+zwischen 40–74 %. An dieser Lebenszyklusphase A1–A3 hat der Zement bei allen Indikatoren mit Ausnahme des EP freshwater, ADPE, ADPF
+und WDP den größten Anteil. Dies zeigt sich vor allem bei ODP mit 58 % und beim GWP total mit 50 %, bei den anderen dominierenden
+Indikatoren liegt der Zement zwischen 27–38 %. Ebenso sind der Bewehrungsstahl und die Metallschiene bei allen Indikatoren
+dominierend. Besonders hoch ist der Anteil bei EP freshwater mit 51 % beim Bewehrungsstahl und 27 % der Metallschiene. Der Impact der
+Metallschiene an den Umweltauswirkungen lässt sich auf 7–22 % beziffern. Neben der Herstellungsphase ist vor allem der Einbau A5 mit
+12–68 % sehr bedeutend. Dies ist damit zu begründen, dass während des Einbaus die Doppelwand mit Ortbeton vergossen wird. Die
+restlichen Lebenszyklusphasen haben eine geringere Bedeutung. Einzige Ausnahme ist der Abbruch C1 bei den Kategorien
+Versauerungspotenzial, Eutrophierungspotenzial marine und terrestrial sowie Bildungspotenzial für troposphärisches Ozon mit einem
+Anteil von 9–14 %.
+Doppelwand A1-A3
+100%
+90% 24% % 834 %%% 59% % 44 %% 12% 11% 11% 22% 77 %% 13 0% %
+80% 1 21 %% 07 %% 14% 27% 15 2% % 14 0% % 10% 5% 19% 16%
+70% 18% 12% 3% 2% 3% 14% 2%
+60% 0% 17% 15% 2% 22% 5%
+26% 26%
+50% 17% 0% 27%
+13%
+40%
+51%
+50% 58% 38%
+30% 34% 25% 10% 25%
+27%
+16%
+20% 8%
+1 00 %%
+37 %% 25 %%
+96 %% 435 %%% 96 %% 15 1%
+%
+99 %% 18% 1 62 %% 648 %%%
+GWP total ODP AP EP EP marine EP POCP ADPE ADPF WDP
+freshwater terrestrial
+Kies Transport Zement Betonzusatzstoff Wasser
+Bewehrungsstahl Zusatzmittel Metallschiene Elektroeinbauteile Schalung
+Trennmittel Verpackung Produktionsenergie Abfall
+Abbildung 3: Auswertung der Herstellungsphase A1-A3
+Seite 20 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+7 Literaturhinweise
+ISO 14025
+ÖNORM EN ISO 14025:2010-07-01: Umweltkennzeichnung und -deklarationen – Typ III Umweltdeklarationen – Grundsätze und
+Verfahren
+ISO 14040
+ÖNORM EN ISO 14040:2021-03-01: Umweltmanagement – Ökobilanz – Grundsätze und Rahmenbedingungen (ISO 14040:2006 + Amd
+1:2020)
+ISO 14044
+ÖENORM EN ISO 14044:2021-03-01 Umweltmanagement - Ökobilanz - Anforderungen und Anleitungen (ISO 14044:2006 + Amd 1:2017 +
+Amd 2:2020)
+EN 15804
+ÖNORM EN 15804:2022-02-15: Nachhaltigkeit von Bauwerken – Umweltdeklarationen für Produkte – Grundregeln für die
+Produktkategorie Bauprodukte
+Bau-EPD (2023)
+Management-System Handbuch. Qualitätssicherung und Verifizierung. Allgemeine Produktkategorieregeln für EPDs. Allgemeine
+Ökobilanzrechenregeln für EPDs zur Erstellung von Typ III Umweltproduktdeklarationen. Version: 5.0.0. Stand 20.09.2023
+CEWEP (2013)
+O.Reimann: CEWEP Energy Report III (Status 2007-2010). Results of Specific Data for Energy, R1 Plant Efficincy Factor and NCV of 314
+European Waste-to-Energy (WtE) Plants. Würzburg/Brussels 2013
+Ecoinvent (2022)
+ecoinvent Version 3.9.1 (2022) Database, ecoinvent Association, Zürich.
+EPD Zement Holcim (2023)
+Bau-EPD GmbH: EPD- Environmental Product Declaration. Umweltproduktdeklaration nach ISO 14025 und EN 15804+A2. CEM I 52,5 R
+(Werk Mannersdorf), CEM I 52,5 R (Werk Retznei). CEM I 52,5 N - SR 0 WT 38 C3A-frei (Werk Mannersdorf). CEM I 42,5 N - SR 0 WT 27 C3A-
+frei (Werk Mannersdorf), CEM I 42,5 N - SR 0 WT 27 C3A-frei (Werk Retznei). CEM II/A-S 42,5 R WT 42 (Werk Mannersdorf), CEM II/A-S
+52,5 N WT 42 (Werk Retznei). CEM II/B-M (S-L) 42,5 N WT 38 (Werk Mannersdorf), CEM II/B-M (S-L) 42,5 N WT 38 (Werk Retznei), CEM
+II/B-M (S-LL) 42,5 N WT 38 (Werk Mannersdorf), CEM II/C-M (S-LL) 42,5 N (Werk Mannersdorf), CEM II/C-M (S-F) 42,5 N (Werk Retznei),
+CEM III/B 32,5 N - LH/SR (Werk Retznei), AHWZ (Werk Mannersdorf), AHWZ (Werk Retznei). Holcim. 2023
+EFCA (2023)
+European Federation of Concrete Admixtures Associations Ltd. (EFCA): ENVIRONMENTAL PRODUCT DECLARATION as per ISO 14025 and
+EN 15804 - Concrete admixtures – Plasticisers and Superplasticisers. Institut Bauen und Umwelt e.V. (IBU), Berlin, 2023.
+PKR B (2024)
+PKR Anleitungstext für Bauprodukte nach ISO 14025 und EN 15804+A2. Aus dem Programm für EPDs (Environmental Product
+Decalartions) der Bau EPD GmbH. Teil B: Anforderungen an eine EPD für Beton und Betonelemente. PCR-Code 2.17. Stand 30.05.2023
+Seite 21 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+8 Verzeichnisse und Glossar
+8.1 Abbildungsverzeichnis
+Abbildung 1: Beispiel eines Flussdiagramms Herstellungsprozesse ................................................................................................................. 7
+Abbildung 2: Systemgrenze ............................................................................................................................................................................ 11
+Abbildung 3: Auswertung der Herstellungsphase A1-A3 ................................................................................................................................ 20
+8.2 Tabellenverzeichnis
+Tabelle 1: Produktrelevante Normen ............................................................................................................................................................... 5
+Tabelle 2: Technische Daten für Betone bzw. Betonelemente ......................................................................................................................... 6
+Tabelle 3: Grundstoffe in Masse-% ................................................................................................................................................................... 6
+Tabelle 4: Referenz-Nutzungsdauer (RSL) ........................................................................................................................................................ 8
+Tabelle 5: Deklarierte Einheit ......................................................................................................................................................................... 10
+Tabelle 6: Deklarierte Lebenszyklusphasen .................................................................................................................................................... 10
+Tabelle 7: Beschreibung des Szenarios „Transport zur Baustelle (A4)“ in Bezug auf die deklarierte Einheit von 1 t ..................................... 13
+Tabelle 8: Beschreibung des Szenarios „Einbau in das Gebäude (A5)“ Mischek Doppelwand ....................................................................... 13
+Tabelle 9: Beschreibung des Szenarios „Entsorgung des Produkts (C1 bis C4)“ für Mischek Doppelwand .................................................... 14
+Tabelle 10: Beschreibung des Szenarios „Wiederverwendungs-, Rückgewinnungs- und Recyclingpotenzial (Modul D)“ Doppelwand ........ 14
+Tabelle 11: Ergebnisse der Ökobilanz Umweltauswirkungen für das Produkt Mischek Doppelwand ............................................................ 15
+Tabelle 12: Zusätzliche Umweltindikatoren für das Produkt Mischek Doppelwand* .................................................................................... 16
+Tabelle 13: Klassifizierung von Einschränkungshinweisen zur Deklaration von Kern- und zusätzlichen Umweltindikatoren ........................ 16
+Tabelle 14: Ergebnisse der Ökobilanz Ressourceneinsatz für das Produkt Mischek Doppelwand ................................................................. 18
+Tabelle 15: Ergebnisse der Ökobilanz Output-Flüsse und Abfallkategorien für das Produkt Mischek Doppelwand ...................................... 18
+Tabelle 16: Informationen zur Beschreibung des biogenen Kohlenstoffgehalts am Werkstor für das Produkt Mischek Doppelwand ......... 19
+8.3 Abkürzungen
+8.3.1 Abkürzungen gemäß ÖNORM EN 15804
+EPD Umweltproduktdeklaration (en: environmental product declaration)
+PKR Produktkategorieregeln, (en: product category rules)
+LCA Ökobilanz, (en: life cycle assessment)
+LCI Sachbilanz, (en: life cycle inventory analysis)
+LCIA Wirkungsabschätzung, (en: life cycle impact assessment)
+RSL Referenz-Nutzungsdauer, (en: reference service life)
+GWP Treibhauspotenzial (en: global warming potential)
+ODP Abbaupotenzial der stratosphärischen Ozonschicht (en: depletion potential of the stratospheric ozone layer)
+AP Versauerungspotenzial von Boden und Wasser (en: acidification potential of soil and water)
+EP Eutrophierungspotenzial (en: eutrophication potential)
+POCP Potenzial für die Bildung von troposphärischem Ozon (en: formation potential of tropospheric ozone)
+ADP Potenzial für die Verknappung von abiotischen Ressourcen (en: abiotic depletion potential)"
+8.3.2 Abkürzungen gemäß vorliegender PKR
+CE-Kennz. franz. Communauté Européenne = „Europäische Gemeinschaft“ oder Conformité Européenne, soviel wie
+„Übereinstimmung mit EU-Richtlinien“
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (de: Verordnung über die Registrierung,
+Bewertung, Zulassung und Beschränkung chemischer Stoffe
+Seite 22 von 23
+BAU-EPD-Mischek-2025-2-ecoinvent-Doppelwand
+Herausgeber
+Bau EPD GmbH Tel +43 664 2427429
+Seidengasse 13/3 Mail office@bau-epd.at
+1070 Wien Web www.bau-epd.at
+Österreich
+Programmbetreiber
+Bau EPD GmbH
+Seidengasse 13/3 Tel +43 664 2427429
+1070 Wien Mail office@bau-epd.at
+Österreich Web www.bau-epd.at
+Ersteller der Ökobilanz
+IBO GmbH Tel +43 1 3192005
+Alserbachstraße 5/8 Fax +43 1 3192005-50
+1090 Wien Mail ibo@ibo.at
+Österreich Web www.ibo.at
+Inhaber der Deklaration
+Mischek Systembau GmbH Tel +43 2246 2501–0
+Donau-City-Straße 9 Fax +43 2246 2501–579
+1220 Wien Mail systembau@mischek.at
+Österreich Web www.mischek-systembau.at
+Seite 23 von 23

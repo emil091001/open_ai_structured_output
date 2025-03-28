@@ -1,0 +1,296 @@
+{
+    "product_name": "ArcelorMittal Tubular Products Europe Structural Hollow Section",
+    "epd_id": "EPD-ARC-20190180-CBD1-EN",
+    "compliance": [],
+    "producer_name": "ArcelorMittal",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "2270",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1.84",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-1320",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "5.03E-12",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "4.40E-14",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "6.13E-12",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "values": [
+                {
+                    "value": "5.91",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0.0058",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-3.15",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP",
+            "values": [
+                {
+                    "value": "0.459",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0.00064",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-0.272",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "POCP",
+            "values": [
+                {
+                    "value": "0.709",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0.000401",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-0.403",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPM",
+            "values": [
+                {
+                    "value": "1.86E-4",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "5.58E-7",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "4.54E-5",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "22400",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "20.7",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-10900",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [
+        {
+            "parameter": "PM",
+            "values": [
+                {
+                    "value": "1600",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "11.6",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "710",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "IRP",
+            "values": [
+                {
+                    "value": "362",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "558",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "values": [
+                {
+                    "value": "1600",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "11.6",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "710",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "values": [
+                {
+                    "value": "24000",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "32",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-10700",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "0.000954",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0.000000168",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-0.000110",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "values": [
+                {
+                    "value": "47.9",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "10",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "-22.1",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "110",
+                    "module": "C3",
+                    "scenario": null
+                },
+                {
+                    "value": "0",
+                    "module": "D",
+                    "scenario": null
+                }
+            ]
+        }
+    ]
+}

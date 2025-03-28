@@ -1,0 +1,1569 @@
+{
+    "product_name": "Concrete C16/20 CIIIB ECOPact, Mix code TOL2927/006, Tolworth plant, United Kingdom",
+    "epd_id": "IBU-CEI-HOL-2205120-UK2024001503-ISUE002-EN",
+    "compliance": [
+        "EN 15804+A2",
+        "ISO 14025"
+    ],
+    "producer_name": "Aggregate Industries",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "1,33E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,46E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,01E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "-2,12E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "9,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,34E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "2,59E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-4,20E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-fossil",
+            "values": [
+                {
+                    "value": "1,33E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,46E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,01E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "-2,12E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "9,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,34E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "2,59E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-4,19E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-biogenic",
+            "values": [
+                {
+                    "value": "1,19E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,88E-04",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,25E-03",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "7,31E-04",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "3,39E-04",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "7,69E-04",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-4,87E-03",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-luluc",
+            "values": [
+                {
+                    "value": "8,65E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "2,23E-05",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,26E-04",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "2,22E-04",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "7,82E-05",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,64E-04",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-2,75E-04",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "3,53E-06",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "3,44E-07",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "4,15E-07",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "2,02E-06",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "9,59E-07",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "5,70E-07",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-7,09E-07",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "values": [
+                {
+                    "value": "2,75E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "3,62E-03",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "2,03E-02",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "9,70E-02",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "1,48E-02",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "2,30E-02",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-3,12E-02",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "ADPE",
+            "values": [
+                {
+                    "value": "3,52E-06",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "9,48E-08",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,25E-07",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,66E-07",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "3,52E-07",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,87E-07",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-9,34E-07",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "9,78E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "2,05E+01",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,50E+01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "1,25E+02",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "6,00E+01",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "7,92E+01",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-6,92E+01",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "WDP",
+            "values": [
+                {
+                    "value": "1,78E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,06E-03",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,70E-01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "3,21E-02",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "2,32E-02",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "5,11E-02",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-8,26E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "EP-freshwater",
+            "values": [
+                {
+                    "value": "1,25E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,08E-05",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,89E-04",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "5,40E-05",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "8,01E-05",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,18E-03",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-7,11E-04",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "EP-marine",
+            "values": [
+                {
+                    "value": "8,08E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,15E-03",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "8,69E-03",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,36E-02",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,64E-03",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,01E-02",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-1,36E-02",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "EP-terrestrial",
+            "values": [
+                {
+                    "value": "8,78E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "8,93E-03",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "9,51E-02",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,78E-01",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "5,08E-02",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,08E-01",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-1,48E-01",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [
+        {
+            "parameter": "PM",
+            "values": [
+                {
+                    "value": "2,73E-06",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "9,50E-08",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "5,00E-07",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "2,61E-06",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "3,65E-07",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "5,43E-07",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-8,06E-07",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "ETP-fw",
+            "values": [
+                {
+                    "value": "3,96E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "9,26E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,18E+01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,15E+01",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "2,88E+01",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,53E+01",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-2,18E+01",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "HTP-c",
+            "values": [
+                {
+                    "value": "5,95E-08",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,43E-10",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "6,48E-10",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "5,42E-10",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "3,89E-10",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "2,14E-10",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-7,75E-10",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "HTP-nc",
+            "values": [
+                {
+                    "value": "1,68E-06",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,62E-08",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "2,37E-08",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,25E-08",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "5,19E-08",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,31E-08",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-2,32E-08",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "SQP",
+            "values": [
+                {
+                    "value": "2,82E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,05E+01",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,67E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "7,88E-01",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "5,22E-01",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,60E+01",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-2,50E+02",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "IRP",
+            "values": [
+                {
+                    "value": "1,51E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "9,14E-02",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,26E-01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "5,49E-01",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "2,59E-01",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,70E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-1,05E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        }
+    ],
+    "resource_use": [
+        {
+            "parameter": "PERM",
+            "values": [
+                {
+                    "value": "7,84E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "7,12E-04",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "values": [
+                {
+                    "value": "6,89E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "6,26E-02",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "PENRT",
+            "values": [
+                {
+                    "value": "9,81E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "2,05E+01",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,50E+01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "1,25E+02",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "6,00E+01",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "7,92E+01",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-6,92E+01",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "values": [
+                {
+                    "value": "1,40E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "1,27E-01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "2,35E+03",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "RSF",
+            "values": [
+                {
+                    "value": "9,63E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "8,74E-01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "NRSF",
+            "values": [
+                {
+                    "value": "2,47E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "2,24E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "4,73E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "2,92E-03",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "6,36E-03",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "7,09E-03",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "1,46E-02",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "1,28E-02",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-3,28E-02",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "values": [
+                {
+                    "value": "1,81E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "1,46E-04",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "3,53E-04",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "8,91E-04",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "4,23E-04",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "5,93E-04",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "-5,02E-04",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "MFR",
+            "values": [
+                {
+                    "value": "7,16E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "2,14E+01",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "2,36E+03",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "MER",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "EEE",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        },
+        {
+            "parameter": "EET",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A4",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "A5",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "B1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C1",
+                    "scenario": null
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C2",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C3",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "C4",
+                    "scenario": "Recycled"
+                },
+                {
+                    "value": "0,00E+00",
+                    "module": "D",
+                    "scenario": "Recycled"
+                }
+            ]
+        }
+    ]
+}
