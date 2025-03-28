@@ -215,6 +215,7 @@ class Metrics:
         for property in self.list_properties:
             averages[property]["precision"] = averages[property]["precision"] / len(metrics_list)
             averages[property]["recall"] = averages[property]["recall"] / len(metrics_list)
+            averages[property]["f1"] = 2 * (averages[property]["precision"] * averages[property]["recall"]) / (averages[property]["precision"] + averages[property]["recall"])
             
         for property in self.dict_properties:
             for sub_property in averages[property]:
@@ -223,6 +224,7 @@ class Metrics:
         for table in self.tables:
             averages[table]["precision"] = averages[table]["precision"] / len(metrics_list)
             averages[table]["recall"] = averages[table]["recall"] / len(metrics_list)
+            averages[table]["f1"] = 2 * (averages[table]["precision"] * averages[table]["recall"]) / (averages[table]["precision"] + averages[table]["recall"])
             
         return averages
 
