@@ -191,23 +191,23 @@ class Metrics:
 
         for metrics in metrics_list:
             for property in self.primitive_properties:
-                averages[property] = averages.get(property, 0) + int(metrics[property])
+                averages[property] = averages.get(property, 0) + float(metrics[property])
             
             for property in self.list_properties:
                 averages[property] = averages.get(property, {})
-                averages[property]["precision"] = averages[property].get("precision", 0) + int(metrics[property]["precision"])
-                averages[property]["recall"] = averages[property].get("recall", 0) + int(metrics[property]["recall"])
+                averages[property]["precision"] = averages[property].get("precision", 0) + float(metrics[property]["precision"])
+                averages[property]["recall"] = averages[property].get("recall", 0) + float(metrics[property]["recall"])
                 
             for property in self.dict_properties:
                 averages[property] = averages.get(property, {})
                 for sub_property in metrics[property]:
-                    averages[property][sub_property] = averages[property].get(sub_property, 0) + int(metrics[property][sub_property])
+                    averages[property][sub_property] = averages[property].get(sub_property, 0) + float(metrics[property][sub_property])
                 
             for table in self.tables:
                 table_metrics = metrics[table]
                 averages[table] = averages.get(table, {})
-                averages[table]["precision"] = averages[table].get("precision", 0) + int(table_metrics["precision"])
-                averages[table]["recall"] = averages[table].get("recall", 0) + int(table_metrics["recall"])
+                averages[table]["precision"] = averages[table].get("precision", 0) + float(table_metrics["precision"])
+                averages[table]["recall"] = averages[table].get("recall", 0) + float(table_metrics["recall"])
             
         for property in self.primitive_properties:
             averages[property] = averages[property] / len(metrics_list)
@@ -215,7 +215,7 @@ class Metrics:
         for property in self.list_properties:
             averages[property]["precision"] = averages[property]["precision"] / len(metrics_list)
             averages[property]["recall"] = averages[property]["recall"] / len(metrics_list)
-            averages[property]["f1"] = 2 * (averages[property]["precision"] * averages[property]["recall"]) / (averages[property]["precision"] + averages[property]["recall"])
+            averages[property]["F1"] = 2 * (averages[property]["precision"] * averages[property]["recall"]) / (averages[property]["precision"] + averages[property]["recall"])
             
         for property in self.dict_properties:
             for sub_property in averages[property]:
@@ -224,7 +224,7 @@ class Metrics:
         for table in self.tables:
             averages[table]["precision"] = averages[table]["precision"] / len(metrics_list)
             averages[table]["recall"] = averages[table]["recall"] / len(metrics_list)
-            averages[table]["f1"] = 2 * (averages[table]["precision"] * averages[table]["recall"]) / (averages[table]["precision"] + averages[table]["recall"])
+            averages[table]["F1"] = 2 * (averages[table]["precision"] * averages[table]["recall"]) / (averages[table]["precision"] + averages[table]["recall"]) if averages[table]["precision"] + averages[table]["recall"] > 0 else 0
             
         return averages
 
