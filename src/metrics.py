@@ -151,40 +151,8 @@ class Metrics:
             target_table = getattr(target, table)
             output_table = getattr(output, table)
             metrics[table] = self.compare_tables(target_table, output_table)
-        
-        
-        
-        
+                
         return metrics
-
-    def calculate_table(
-            self, target: Structure, output: Structure) -> Dict[str, Dict[str, float]]:
-
-        results = {}
-
-        for table in self.tables:
-            target_params = getattr(target, table)
-            output_params = getattr(output, table)
-            tp, fp, fn, false_positive_elements, false_negative_elements = self.compare_tables(
-                target_params, output_params)
-
-            precision = tp / (tp + fp) if tp + fp > 0 else 1.0
-            recall = tp / (tp + fn) if tp + fn > 0 else 1.0
-
-            if self.verbose:
-                results[table] = {
-                    'precision': precision,
-                    'recall': recall,
-                    'false_positives': false_positive_elements,
-                    'false_negatives': false_negative_elements
-                }
-            else:
-                results[table] = {
-                    'precision': precision,
-                    'recall': recall
-                }
-
-        return results
 
     def average(self, metrics_list: List[Dict[str, any]]):
         averages = {}
