@@ -12,4 +12,5 @@ def convert_to_float(sci_str: Union[str, None]) -> Union[float, None]:
         # Convert to float
         return float(formatted_str)
     except ValueError:
-        raise ValueError(f"Invalid scientific notation string: {sci_str}")
+        #raise ValueError(f"Invalid scientific notation string: {sci_str}")
+        return None
