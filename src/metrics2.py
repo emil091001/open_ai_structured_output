@@ -1,4 +1,3 @@
-
 from collections import defaultdict
 from structure import Structure
 from utils.float_conversion import convert_to_float
@@ -26,7 +25,6 @@ class Metric:
         self.fp = defaultdict(lambda: defaultdict(int))
         self.fn = defaultdict(lambda: defaultdict(int))
     
-    
     def format(self, s: Structure):
         values = dict()
         
@@ -41,7 +39,6 @@ class Metric:
                     
                     values[name] = values.get(name, {})
                     values[name][module] = value
-                    
                     
         return values
         
@@ -75,19 +72,18 @@ class Metric:
                 fn = self.fn[parameter][module]
                 
                 if tp + fp == 0:
-                    precision[parameter][module] = 0
+                    precision[parameter][module] = 1
                 else:
                     precision[parameter][module] = tp / (tp + fp)
                 
                 if tp + fn == 0:
-                    recall[parameter][module] = 0
+                    recall[parameter][module] = 1
                 else:
                     recall[parameter][module] = tp / (tp + fn)
                     
                 if precision[parameter][module] + recall[parameter][module] == 0:
-                    f1[parameter][module] = 0
+                    f1[parameter][module] = 1
                 else:
                     f1[parameter][module] = (2 * precision[parameter][module] * recall[parameter][module]) / (precision[parameter][module] + recall[parameter][module])
         
         return precision, recall, f1
-                        
