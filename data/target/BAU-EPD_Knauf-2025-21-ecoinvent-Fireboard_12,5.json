@@ -3,7 +3,7 @@
     "epd_id": "BAU-EPD_Knauf-2025-21-ecoinvent-Fireboard_12,5",
     "declared_unit": {
         "unit": "m2",
-        "amount": 1
+        "amount": 1.0
     },
     "compliance": [
         "EN 15804+A2 (EF 3.1)",
@@ -13,7 +13,6 @@
     "environmental_impact": [
         {
             "parameter": "GWP-total",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "3,91E+00",
@@ -94,7 +93,6 @@
         },
         {
             "parameter": "GWP-fossil",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "3,97E+00",
@@ -175,7 +173,6 @@
         },
         {
             "parameter": "GWP-biogenic",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "-7,18E-02",
@@ -256,7 +253,6 @@
         },
         {
             "parameter": "GWP-luluc",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "2,20E-03",
@@ -337,7 +333,6 @@
         },
         {
             "parameter": "ODP",
-            "unit": "kg CFC11-eq",
             "values": [
                 {
                     "value": "1,29E-07",
@@ -418,7 +413,6 @@
         },
         {
             "parameter": "AP",
-            "unit": "mol H+-eq",
             "values": [
                 {
                     "value": "2,06E-02",
@@ -499,7 +493,6 @@
         },
         {
             "parameter": "POCP",
-            "unit": "kg NMVOC-eq",
             "values": [
                 {
                     "value": "1,74E-02",
@@ -580,7 +573,6 @@
         },
         {
             "parameter": "ADPE",
-            "unit": "kg Sb-eq",
             "values": [
                 {
                     "value": "1,57E-04",
@@ -661,7 +653,6 @@
         },
         {
             "parameter": "ADPF",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "6,04E+01",
@@ -742,7 +733,6 @@
         },
         {
             "parameter": "WDP",
-            "unit": "m3 world-eq. Deprived",
             "values": [
                 {
                     "value": "1,12E+00",
@@ -823,7 +813,6 @@
         },
         {
             "parameter": "EP-freshwater",
-            "unit": "kg P-eq",
             "values": [
                 {
                     "value": "7,06E-04",
@@ -904,7 +893,6 @@
         },
         {
             "parameter": "EP-marine",
-            "unit": "kg N-eq",
             "values": [
                 {
                     "value": "4,43E-03",
@@ -985,7 +973,6 @@
         },
         {
             "parameter": "EP-terrestrial",
-            "unit": "mol N-eq.",
             "values": [
                 {
                     "value": "4,77E-02",
@@ -1068,7 +1055,6 @@
     "additional_environmental_impact": [
         {
             "parameter": "PM",
-            "unit": "Disease incidence",
             "values": [
                 {
                     "value": "1,84E-07",
@@ -1149,7 +1135,6 @@
         },
         {
             "parameter": "ETP-fw",
-            "unit": "CTUe",
             "values": [
                 {
                     "value": "1,67E+01",
@@ -1230,7 +1215,6 @@
         },
         {
             "parameter": "HTP-c",
-            "unit": "CTUh",
             "values": [
                 {
                     "value": "4,67E-09",
@@ -1311,7 +1295,6 @@
         },
         {
             "parameter": "HTP-nc",
-            "unit": "CTUh",
             "values": [
                 {
                     "value": "8,91E-08",
@@ -1392,7 +1375,6 @@
         },
         {
             "parameter": "SQP",
-            "unit": "-",
             "values": [
                 {
                     "value": "7,79E+00",
@@ -1473,7 +1455,6 @@
         },
         {
             "parameter": "IRP",
-            "unit": "kBq U235-eq",
             "values": [
                 {
                     "value": "2,97E-01",
@@ -1556,7 +1537,6 @@
     "resource_use": [
         {
             "parameter": "PERE",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "2,95E+00",
@@ -1637,7 +1617,6 @@
         },
         {
             "parameter": "PERM",
-            "unit": "",
             "values": [
                 {
                     "value": "6,29E-01",
@@ -1718,7 +1697,6 @@
         },
         {
             "parameter": "PERT",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "3,58E+00",
@@ -1799,7 +1777,6 @@
         },
         {
             "parameter": "PENRE",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "5,83E+01",
@@ -1880,7 +1857,6 @@
         },
         {
             "parameter": "PENRM",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "2,12E+00",
@@ -1961,7 +1937,6 @@
         },
         {
             "parameter": "PENRT",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "6,04E+01",
@@ -2042,7 +2017,6 @@
         },
         {
             "parameter": "SM",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2123,7 +2097,6 @@
         },
         {
             "parameter": "RSF",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2204,7 +2177,6 @@
         },
         {
             "parameter": "NRSF",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2287,7 +2259,6 @@
     "end_of_life_waste": [
         {
             "parameter": "HWD",
-            "unit": "kg",
             "values": [
                 {
                     "value": "2,58E-04",
@@ -2368,7 +2339,6 @@
         },
         {
             "parameter": "NHWD",
-            "unit": "kg",
             "values": [
                 {
                     "value": "1,05E+00",
@@ -2449,7 +2419,6 @@
         },
         {
             "parameter": "RWD",
-            "unit": "kg",
             "values": [
                 {
                     "value": "1,38E-04",
@@ -2532,7 +2501,6 @@
     "end_of_life_flow": [
         {
             "parameter": "CRU",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2613,7 +2581,6 @@
         },
         {
             "parameter": "MFR",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2694,7 +2661,6 @@
         },
         {
             "parameter": "MER",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2775,7 +2741,6 @@
         },
         {
             "parameter": "EEE",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2856,7 +2821,6 @@
         },
         {
             "parameter": "EET",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",

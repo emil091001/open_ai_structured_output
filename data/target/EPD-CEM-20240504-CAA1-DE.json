@@ -1,1 +1,383 @@
-{"product_name":"CEM I 42,5 R (na)","epd_id":"EPD-CEM-20240504-CAA1-DE","declared_unit":{"unit":"ton","amount":1},"compliance":["DIN EN 15804+A2","ISO 14025"],"producer_name":"Cemex Deutschland AG","environmental_impact":[{"parameter":"GWP-total","unit":"kg CO2-eq","values":[{"value":"6,33E+02","module":"A1-A3","scenario":null}]},{"parameter":"GWP-fossil","unit":"kg CO2-eq","values":[{"value":"6,33E+02","module":"A1-A3","scenario":null}]},{"parameter":"GWP-biogenic","unit":"kg CO2-eq","values":[{"value":"4,83E-02","module":"A1-A3","scenario":null}]},{"parameter":"GWP-luluc","unit":"kg CO2-eq","values":[{"value":"4,19E-02","module":"A1-A3","scenario":null}]},{"parameter":"ODP","unit":"kg CFC11-eq","values":[{"value":"1,34E-05","module":"A1-A3","scenario":null}]},{"parameter":"AP","unit":"mol H+-eq","values":[{"value":"2,08E+00","module":"A1-A3","scenario":null}]},{"parameter":"POCP","unit":"kg NMVOC-eq","values":[{"value":"9,49E-01","module":"A1-A3","scenario":null}]},{"parameter":"ADPE","unit":"kg Sb-eq","values":[{"value":"1,29E-04","module":"A1-A3","scenario":null}]},{"parameter":"ADPF","unit":"MJ","values":[{"value":"2,25E+03","module":"A1-A3","scenario":null}]},{"parameter":"WDP","unit":"m3 world-eq. Deprived","values":[{"value":"3,68E+01","module":"A1-A3","scenario":null}]},{"parameter":"EP-freshwater","unit":"kg P-eq","values":[{"value":"4,86E-02","module":"A1-A3","scenario":null}]},{"parameter":"EP-marine","unit":"kg N-eq","values":[{"value":"3,31E-03","module":"A1-A3","scenario":null}]},{"parameter":"EP-terrestrial","unit":"mol N-eq.","values":[{"value":"3,24E+00","module":"A1-A3","scenario":null}]}],"additional_environmental_impact":[{"parameter":"PM","unit":"Disease incidence","values":[{"value":"2,13E-05","module":"A1-A3","scenario":null}]},{"parameter":"ETP-fw","unit":"CTUe","values":[{"value":"8,17E+01","module":"A1-A3","scenario":null}]},{"parameter":"HTP-c","unit":"CTUh","values":[{"value":"9,85E-07","module":"A1-A3","scenario":null}]},{"parameter":"HTP-nc","unit":"CTUh","values":[{"value":"1,39E-05","module":"A1-A3","scenario":null}]},{"parameter":"SQP","unit":"-","values":[{"value":"7,97E+02","module":"A1-A3","scenario":null}]}],"resource_use":[{"parameter":"PERE","unit":"MJ","values":[{"value":"3,18E+01","module":"A1-A3","scenario":null}]},{"parameter":"PERM","unit":"","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"PERT","unit":"MJ","values":[{"value":"3,18E+01","module":"A1-A3","scenario":null}]},{"parameter":"PENRE","unit":"MJ","values":[{"value":"2,25E+03","module":"A1-A3","scenario":null}]},{"parameter":"PENRM","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"PENRT","unit":"MJ","values":[{"value":"2,25E+03","module":"A1-A3","scenario":null}]},{"parameter":"SM","unit":"kg","values":[{"value":"6,09E+02","module":"A1-A3","scenario":null}]},{"parameter":"RSF","unit":"MJ","values":[{"value":"1,18E+03","module":"A1-A3","scenario":null}]},{"parameter":"NRSF","unit":"MJ","values":[{"value":"8,91E+02","module":"A1-A3","scenario":null}]},{"parameter":"FW","unit":"m3","values":[{"value":"9,25E-01","module":"A1-A3","scenario":null}]}],"end_of_life_waste":[{"parameter":"HWD","unit":"kg","values":[{"value":"1,40E-01","module":"A1-A3","scenario":null}]},{"parameter":"NHWD","unit":"kg","values":[{"value":"1,19E+00","module":"A1-A3","scenario":null}]},{"parameter":"RWD","unit":"kg","values":[{"value":null,"module":"A1-A3","scenario":null}]}],"end_of_life_flow":[{"parameter":"CRU","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"MFR","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"MER","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"EEE","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"EET","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]}]}
+{
+    "product_name": "CEM I 42,5 R (na)",
+    "epd_id": "EPD-CEM-20240504-CAA1-DE",
+    "declared_unit": {
+        "unit": "ton",
+        "amount": 1.0
+    },
+    "compliance": [
+        "DIN EN 15804+A2",
+        "ISO 14025"
+    ],
+    "producer_name": "Cemex Deutschland AG",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "6,33E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-fossil",
+            "values": [
+                {
+                    "value": "6,33E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-biogenic",
+            "values": [
+                {
+                    "value": "4,83E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "GWP-luluc",
+            "values": [
+                {
+                    "value": "4,19E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "1,34E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "values": [
+                {
+                    "value": "2,08E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "POCP",
+            "values": [
+                {
+                    "value": "9,49E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPE",
+            "values": [
+                {
+                    "value": "1,29E-04",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "2,25E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "WDP",
+            "values": [
+                {
+                    "value": "3,68E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP-freshwater",
+            "values": [
+                {
+                    "value": "4,86E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP-marine",
+            "values": [
+                {
+                    "value": "3,31E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP-terrestrial",
+            "values": [
+                {
+                    "value": "3,24E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [
+        {
+            "parameter": "PM",
+            "values": [
+                {
+                    "value": "2,13E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ETP-fw",
+            "values": [
+                {
+                    "value": "8,17E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "HTP-c",
+            "values": [
+                {
+                    "value": "9,85E-07",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "HTP-nc",
+            "values": [
+                {
+                    "value": "1,39E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "SQP",
+            "values": [
+                {
+                    "value": "7,97E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "values": [
+                {
+                    "value": "3,18E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERT",
+            "values": [
+                {
+                    "value": "3,18E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "values": [
+                {
+                    "value": "2,25E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRT",
+            "values": [
+                {
+                    "value": "2,25E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "values": [
+                {
+                    "value": "6,09E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RSF",
+            "values": [
+                {
+                    "value": "1,18E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NRSF",
+            "values": [
+                {
+                    "value": "8,91E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "FW",
+            "values": [
+                {
+                    "value": "9,25E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "1,40E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "values": [
+                {
+                    "value": "1,19E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "values": [
+                {
+                    "value": null,
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MFR",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MER",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EEE",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EET",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ]
+}

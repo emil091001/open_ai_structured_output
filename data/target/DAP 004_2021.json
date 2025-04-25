@@ -1,1 +1,272 @@
-{"product_name":"Thermo-lacquering of aluminum and steel profiles","epd_id":"DAP 004:2021","declared_unit":{"unit":"m2","amount":1},"compliance":["EN 15804","ISO 14025"],"producer_name":"GODILAC II, S.A.","environmental_impact":[{"parameter":"GWP-total","unit":"kg CO2-eq","values":[{"value":"1,12E+00","module":"A1-A3","scenario":null}]},{"parameter":"ODP","unit":"kg CFC11-eq","values":[{"value":"1,20E-03","module":"A1-A3","scenario":null}]},{"parameter":"AP","unit":"mol H+-eq","values":[{"value":"4,42E-03","module":"A1-A3","scenario":null}]},{"parameter":"EP","unit":"kg PO_4^3-eq","values":[{"value":"6,40E-04","module":"A1-A3","scenario":null}]},{"parameter":"POCP","unit":"kg NMVOC-eq","values":[{"value":"7,59E-01","module":"A1-A3","scenario":null}]},{"parameter":"ADPE","unit":"kg Sb-eq","values":[{"value":"6,22E-05","module":"A1-A3","scenario":null}]},{"parameter":"ADPF","unit":"MJ","values":[{"value":"3,50E+01","module":"A1-A3","scenario":null}]}],"additional_environmental_impact":[],"resource_use":[{"parameter":"PERE","unit":"MJ","values":[{"value":"2,49E+00","module":"A1-A3","scenario":null}]},{"parameter":"PERM","unit":"","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"PERT","unit":"MJ","values":[{"value":"2,49E+00","module":"A1-A3","scenario":null}]},{"parameter":"PENRE","unit":"MJ","values":[{"value":"3,58E+01","module":"A1-A3","scenario":null}]},{"parameter":"PENRM","unit":"MJ","values":[{"value":"1,31E+00","module":"A1-A3","scenario":null}]},{"parameter":"PENRT","unit":"MJ","values":[{"value":"3,71E+01","module":"A1-A3","scenario":null}]},{"parameter":"SM","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"RSF","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"NRSF","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"FW","unit":"m3","values":[{"value":"4,48E-01","module":"A1-A3","scenario":null}]}],"end_of_life_waste":[{"parameter":"HWD","unit":"kg","values":[{"value":"1,52E-03","module":"A1-A3","scenario":null}]},{"parameter":"NHWD","unit":"kg","values":[{"value":"1,02E+00","module":"A1-A3","scenario":null}]},{"parameter":"RWD","unit":"kg","values":[{"value":"1,90E-04","module":"A1-A3","scenario":null}]}],"end_of_life_flow":[{"parameter":"CRU","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"MFR","unit":"kg","values":[{"value":"4,60E-02","module":"A1-A3","scenario":null}]},{"parameter":"MER","unit":"kg","values":[{"value":"3,43E-02","module":"A1-A3","scenario":null}]},{"parameter":"EEE","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"EET","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]}]}
+{
+    "product_name": "Thermo-lacquering of aluminum and steel profiles",
+    "epd_id": "DAP 004:2021",
+    "declared_unit": {
+        "unit": "m2",
+        "amount": 1.0
+    },
+    "compliance": [
+        "EN 15804",
+        "ISO 14025"
+    ],
+    "producer_name": "GODILAC II, S.A.",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "1,12E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "1,20E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "AP",
+            "values": [
+                {
+                    "value": "4,42E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP",
+            "values": [
+                {
+                    "value": "6,40E-04",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "POCP",
+            "values": [
+                {
+                    "value": "7,59E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPE",
+            "values": [
+                {
+                    "value": "6,22E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "3,50E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "values": [
+                {
+                    "value": "2,49E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERT",
+            "values": [
+                {
+                    "value": "2,49E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "values": [
+                {
+                    "value": "3,58E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "values": [
+                {
+                    "value": "1,31E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRT",
+            "values": [
+                {
+                    "value": "3,71E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RSF",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NRSF",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "FW",
+            "values": [
+                {
+                    "value": "4,48E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "1,52E-03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "values": [
+                {
+                    "value": "1,02E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "values": [
+                {
+                    "value": "1,90E-04",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MFR",
+            "values": [
+                {
+                    "value": "4,60E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MER",
+            "values": [
+                {
+                    "value": "3,43E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EEE",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EET",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ]
+}

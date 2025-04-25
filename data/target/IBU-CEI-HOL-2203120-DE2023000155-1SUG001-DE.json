@@ -1,1 +1,262 @@
-{"product_name":"Holcim ECOPlanet C4  Plant Beckum","epd_id":"IBU-CEI-HOL-2203120-DE2023000155-1SUG001-DE","declared_unit":{"unit":"ton","amount":1},"compliance":["EN 15804+A1","ISO 14025"],"producer_name":"Holcim (Deutschland) GmbH","environmental_impact":[{"parameter":"GWP-total","unit":"kg CO2-eq","values":[{"value":"4,83E+02","module":"A1-A3","scenario":null}]},{"parameter":"ODP","unit":"kg CFC11-eq","values":[{"value":"1,55E-12","module":"A1-A3","scenario":null}]},{"parameter":"EP","unit":"kg PO_4^3-eq","values":[{"value":"9,57E-02","module":"A1-A3","scenario":null}]},{"parameter":"POCP","unit":"kg NMVOC-eq","values":[{"value":"7,14E-02","module":"A1-A3","scenario":null}]},{"parameter":"ADPE","unit":"kg Sb-eq","values":[{"value":"1,43E-05","module":"A1-A3","scenario":null}]},{"parameter":"ADPF","unit":"MJ","values":[{"value":"1,69E+03","module":"A1-A3","scenario":null}]}],"additional_environmental_impact":[],"resource_use":[{"parameter":"PERE","unit":"MJ","values":[{"value":"1,15E+02","module":"A1-A3","scenario":null}]},{"parameter":"PERM","unit":"","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"PERT","unit":"MJ","values":[{"value":"1,15E+02","module":"A1-A3","scenario":null}]},{"parameter":"PENRE","unit":"MJ","values":[{"value":"2,01E+03","module":"A1-A3","scenario":null}]},{"parameter":"PENRM","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"PENRT","unit":"MJ","values":[{"value":"2,01E+03","module":"A1-A3","scenario":null}]},{"parameter":"SM","unit":"kg","values":[{"value":"1,66E+01","module":"A1-A3","scenario":null}]},{"parameter":"RSF","unit":"MJ","values":[{"value":"6,94E+02","module":"A1-A3","scenario":null}]},{"parameter":"NRSF","unit":"MJ","values":[{"value":"1,04E+03","module":"A1-A3","scenario":null}]},{"parameter":"FW","unit":"m3","values":[{"value":"6,08E-01","module":"A1-A3","scenario":null}]}],"end_of_life_waste":[{"parameter":"HWD","unit":"kg","values":[{"value":"3,97E-06","module":"A1-A3","scenario":null}]},{"parameter":"NHWD","unit":"kg","values":[{"value":"9,88E-01","module":"A1-A3","scenario":null}]},{"parameter":"RWD","unit":"kg","values":[{"value":"1,24E-01","module":"A1-A3","scenario":null}]}],"end_of_life_flow":[{"parameter":"CRU","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"MFR","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"MER","unit":"kg","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"EEE","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]},{"parameter":"EET","unit":"MJ","values":[{"value":"0,00E+00","module":"A1-A3","scenario":null}]}]}
+{
+    "product_name": "Holcim ECOPlanet C4  Plant Beckum",
+    "epd_id": "IBU-CEI-HOL-2203120-DE2023000155-1SUG001-DE",
+    "declared_unit": {
+        "unit": "ton",
+        "amount": 1.0
+    },
+    "compliance": [
+        "EN 15804+A1",
+        "ISO 14025"
+    ],
+    "producer_name": "Holcim (Deutschland) GmbH",
+    "environmental_impact": [
+        {
+            "parameter": "GWP-total",
+            "values": [
+                {
+                    "value": "4,83E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ODP",
+            "values": [
+                {
+                    "value": "1,55E-12",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EP",
+            "values": [
+                {
+                    "value": "9,57E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "POCP",
+            "values": [
+                {
+                    "value": "7,14E-02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPE",
+            "values": [
+                {
+                    "value": "1,43E-05",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "ADPF",
+            "values": [
+                {
+                    "value": "1,69E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "additional_environmental_impact": [],
+    "resource_use": [
+        {
+            "parameter": "PERE",
+            "values": [
+                {
+                    "value": "1,15E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PERT",
+            "values": [
+                {
+                    "value": "1,15E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRE",
+            "values": [
+                {
+                    "value": "2,01E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRM",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "PENRT",
+            "values": [
+                {
+                    "value": "2,01E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "SM",
+            "values": [
+                {
+                    "value": "1,66E+01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RSF",
+            "values": [
+                {
+                    "value": "6,94E+02",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NRSF",
+            "values": [
+                {
+                    "value": "1,04E+03",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "FW",
+            "values": [
+                {
+                    "value": "6,08E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_waste": [
+        {
+            "parameter": "HWD",
+            "values": [
+                {
+                    "value": "3,97E-06",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "NHWD",
+            "values": [
+                {
+                    "value": "9,88E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "RWD",
+            "values": [
+                {
+                    "value": "1,24E-01",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ],
+    "end_of_life_flow": [
+        {
+            "parameter": "CRU",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MFR",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "MER",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EEE",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        },
+        {
+            "parameter": "EET",
+            "values": [
+                {
+                    "value": "0,00E+00",
+                    "module": "A1-A3",
+                    "scenario": null
+                }
+            ]
+        }
+    ]
+}

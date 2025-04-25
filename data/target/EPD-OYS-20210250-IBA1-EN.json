@@ -3,7 +3,7 @@
     "epd_id": "EPD-OYS-20210250-IBA1-EN",
     "declared_unit": {
         "unit": "m2",
-        "amount": 1
+        "amount": 1.0
     },
     "compliance": [
         "DIN EN 15804+A2",
@@ -13,7 +13,6 @@
     "environmental_impact": [
         {
             "parameter": "GWP-total",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "3,01E+00",
@@ -69,17 +68,11 @@
                     "value": "-6,25E-01",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "3,99E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "GWP-fossil",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "2,96E+00",
@@ -135,17 +128,11 @@
                     "value": "-6,37E-01",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "4,04E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "GWP-biogenic",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "-2,03E-02",
@@ -201,17 +188,11 @@
                     "value": "1,28E-02",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "-1,17E-01",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "GWP-luluc",
-            "unit": "kg CO2-eq",
             "values": [
                 {
                     "value": "7,01E-02",
@@ -267,17 +248,11 @@
                     "value": "-4,61E-04",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "7,09E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "ODP",
-            "unit": "kg CFC11-eq",
             "values": [
                 {
                     "value": "5,23E-08",
@@ -333,17 +308,11 @@
                     "value": "-7,77E-10",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "5,23E-08",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "AP",
-            "unit": "mol H+-eq",
             "values": [
                 {
                     "value": "1,05E-02",
@@ -399,17 +368,11 @@
                     "value": "-9,28E-04",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,40E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "POCP",
-            "unit": "kg NMVOC-eq",
             "values": [
                 {
                     "value": "8,48E-03",
@@ -465,17 +428,11 @@
                     "value": "-6,95E-04",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,20E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "ADPE",
-            "unit": "kg Sb-eq",
             "values": [
                 {
                     "value": "1,28E-02",
@@ -531,17 +488,11 @@
                     "value": "-2,24E-07",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,28E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "ADPF",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "7,03E+01",
@@ -597,17 +548,11 @@
                     "value": "-1,08E+01",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "8,66E+01",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "WDP",
-            "unit": "m3 world-eq. Deprived",
             "values": [
                 {
                     "value": "1,79E+00",
@@ -663,17 +608,11 @@
                     "value": "-8,86E-02",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,81E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "EP-freshwater",
-            "unit": "kg P-eq",
             "values": [
                 {
                     "value": "1,49E-03",
@@ -729,17 +668,11 @@
                     "value": "-2,70E-06",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,49E-03",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "EP-marine",
-            "unit": "kg N-eq",
             "values": [
                 {
                     "value": "2,32E-03",
@@ -795,17 +728,11 @@
                     "value": "-2,43E-04",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "3,44E-03",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "EP-terrestrial",
-            "unit": "mol N-eq.",
             "values": [
                 {
                     "value": "2,54E-02",
@@ -861,11 +788,6 @@
                     "value": "-2,59E-03",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "3,77E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         }
@@ -873,7 +795,6 @@
     "additional_environmental_impact": [
         {
             "parameter": "PM",
-            "unit": "Disease incidence",
             "values": [
                 {
                     "value": null,
@@ -934,7 +855,6 @@
         },
         {
             "parameter": "ETP-fw",
-            "unit": "CTUe",
             "values": [
                 {
                     "value": null,
@@ -995,7 +915,6 @@
         },
         {
             "parameter": "HTP-c",
-            "unit": "CTUh",
             "values": [
                 {
                     "value": null,
@@ -1056,7 +975,6 @@
         },
         {
             "parameter": "HTP-nc",
-            "unit": "CTUh",
             "values": [
                 {
                     "value": null,
@@ -1117,7 +1035,6 @@
         },
         {
             "parameter": "SQP",
-            "unit": "-",
             "values": [
                 {
                     "value": null,
@@ -1180,7 +1097,6 @@
     "resource_use": [
         {
             "parameter": "PERE",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "4,43E+00",
@@ -1236,17 +1152,11 @@
                     "value": "-2,82E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "5,24E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "PERM",
-            "unit": "",
             "values": [
                 {
                     "value": "6,06E-01",
@@ -1302,17 +1212,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,48E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "PERT",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "5,04E+00",
@@ -1368,17 +1272,11 @@
                     "value": "-2,82E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "6,72E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "PENRE",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "5,09E+01",
@@ -1434,17 +1332,11 @@
                     "value": "-1,08E+01",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "6,72E+01",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "PENRM",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "1,95E+01",
@@ -1500,17 +1392,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,95E+01",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "PENRT",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "7,04E+01",
@@ -1566,17 +1452,11 @@
                     "value": "-1,08E+01",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "8,66E+01",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "SM",
-            "unit": "kg",
             "values": [
                 {
                     "value": "1,70E-02",
@@ -1632,17 +1512,11 @@
                     "value": "5,99E-02",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,70E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "RSF",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -1697,18 +1571,12 @@
                 {
                     "value": "0,00E+00",
                     "module": "D",
-                    "scenario": null
-                },
-                {
-                    "value": "0,00E+00",
-                    "module": "A1A3",
                     "scenario": null
                 }
             ]
         },
         {
             "parameter": "NRSF",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -1764,17 +1632,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "0,00E+00",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "FW",
-            "unit": "m3",
             "values": [
                 {
                     "value": "4,31E-02",
@@ -1830,11 +1692,6 @@
                     "value": "-3,26E-03",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "4,60E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         }
@@ -1842,7 +1699,6 @@
     "end_of_life_waste": [
         {
             "parameter": "HWD",
-            "unit": "kg",
             "values": [
                 {
                     "value": "2,14E-04",
@@ -1898,17 +1754,11 @@
                     "value": "-4,29E-09",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "2,14E-04",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "NHWD",
-            "unit": "kg",
             "values": [
                 {
                     "value": "2,34E-02",
@@ -1964,17 +1814,11 @@
                     "value": "-4,96E-03",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "5,29E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "RWD",
-            "unit": "kg",
             "values": [
                 {
                     "value": "9,11E-04",
@@ -2030,11 +1874,6 @@
                     "value": "-8,00E-04",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "3,22E-03",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         }
@@ -2042,7 +1881,6 @@
     "end_of_life_flow": [
         {
             "parameter": "CRU",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2098,17 +1936,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "4,28E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "MFR",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2164,17 +1996,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "5,50E-03",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "MER",
-            "unit": "kg",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2230,17 +2056,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "3,08E-03",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "EEE",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2296,17 +2116,11 @@
                     "value": "0,00E+00",
                     "module": "D",
                     "scenario": null
-                },
-                {
-                    "value": "1,14E-02",
-                    "module": "A1A3",
-                    "scenario": null
                 }
             ]
         },
         {
             "parameter": "EET",
-            "unit": "MJ",
             "values": [
                 {
                     "value": "0,00E+00",
@@ -2361,11 +2175,6 @@
                 {
                     "value": "0,00E+00",
                     "module": "D",
-                    "scenario": null
-                },
-                {
-                    "value": "2,04E-02",
-                    "module": "A1A3",
                     "scenario": null
                 }
             ]

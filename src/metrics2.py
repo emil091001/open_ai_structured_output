@@ -24,6 +24,7 @@ class Metric:
         self.tp = defaultdict(lambda: defaultdict(int))
         self.fp = defaultdict(lambda: defaultdict(int))
         self.fn = defaultdict(lambda: defaultdict(int))
+        self.tn = defaultdict(lambda: defaultdict(int))
     
     def format(self, s: Structure):
         values = dict()
@@ -59,17 +60,23 @@ class Metric:
                 
                 if convert_to_float(target_value) != convert_to_float(output_value) and target_value is not None:
                     self.fn[parameter][module] = self.fn.get(parameter, {}).get(module, 0) + 1
+                    
+                if convert_to_float(target_value) == convert_to_float(output_value) and target_value is None:
+                    self.tn[parameter][module] = self.tn.get(parameter, {}).get(module, 0) + 1
     
     def calculate(self):
         precision = defaultdict(lambda: defaultdict(float))
         recall = defaultdict(lambda: defaultdict(float))
         f1 = defaultdict(lambda: defaultdict(float))
+        fpr = defaultdict(lambda: defaultdict(float))
+        specificity = defaultdict(lambda: defaultdict(float))
         
         for parameter in self.parameters:
             for module in self.modules:
                 tp = self.tp[parameter][module]
                 fp = self.fp[parameter][module]
                 fn = self.fn[parameter][module]
+                tn = self.tn[parameter][module]
                 
                 if tp + fp == 0:
                     precision[parameter][module] = 1
@@ -81,9 +88,19 @@ class Metric:
                 else:
                     recall[parameter][module] = tp / (tp + fn)
                     
+                if fp + tn == 0:
+                    fpr[parameter][module] = None
+                else:
+                    fpr[parameter][module] = fp / (fp + tn)
+                    
+                if tn + fp == 0:
+                    specificity[parameter][module] = None
+                else:
+                    specificity[parameter][module] = tn / (tn + fp)
+                    
                 if precision[parameter][module] + recall[parameter][module] == 0:
-                    f1[parameter][module] = 1
+                    f1[parameter][module] = 0
                 else:
                     f1[parameter][module] = (2 * precision[parameter][module] * recall[parameter][module]) / (precision[parameter][module] + recall[parameter][module])
         
-        return precision, recall, f1
+        return precision, recall, f1, fpr, specificity

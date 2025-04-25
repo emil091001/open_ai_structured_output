@@ -2,13 +2,12 @@
 import json
 import os
 from config import *
-from metrics import Metrics
+from metrics2 import Metric
 from structure import Structure
 import copy
 from tqdm import tqdm
 
 from utils.float_conversion import convert_to_float
-
 
 class Filter:
     tables = [
@@ -21,7 +20,7 @@ class Filter:
     def __init__(self, min_param_count=2):
         self.min_param_count = min_param_count
 
-    def __call__(self, output: Structure) -> Structure:
+    def __call__(self, output: Structure, source: str) -> Structure:
         filtered_output = copy.deepcopy(output)
         value_hashes = set()
         parameter_names = set()
@@ -43,7 +42,7 @@ class Filter:
                 # if value_hash in value_hashes and not self.all_values_zero(parameter.values):
                 #     continue
 
-                if parameter.parameter in parameter_names:
+                if parameter.parameter in parameter_names and parameter_hash in filtered_parameters.keys():
                     filtered_parameters.pop(parameter_hash)
                     continue
 
@@ -57,6 +56,11 @@ class Filter:
                     initial_modules = {value.module for value in parameter.values}
                     
                 for value in parameter.values:
+                    float_val = convert_to_float(value.value)
+                    
+                    # if float_val != None and float_val != 0 and value.value not in source:
+                    #     filtered_parameters[parameter_hash].values.remove(value)
+                        
                     if value.module not in initial_modules:
                         filtered_parameters[parameter_hash].values.remove(value)
 
@@ -112,30 +116,52 @@ class Filter:
 
 
 filter = Filter(min_param_count=0)
-metrics = Metrics(verbose=True)
+metrics = Metric()
 
-metric_list = []
+extention = "sampling_lrm1"
 
-for file_name in tqdm(os.listdir("data/output")[:1000]):
-    target_path = os.path.join(TARGET_PATH, file_name)
-    output_path = os.path.join("data/output", file_name)
-    target = Structure.parse_file(target_path)
-    output = Structure.parse_file(output_path)
+output_path = f"data/output_{extention}"
 
-    n_removed_params, filtered_output = filter(output)
-
-
-    metric = metrics.calculate(target, filtered_output)
+for file_name in os.listdir(output_path)[:1000]:
+    target_path = os.path.join("data/target", file_name)
+    source_path = os.path.join("data/pdf", file_name.replace(".json", ".txt"))
+    output_file_path = os.path.join(output_path, file_name)
     
+    if not os.path.exists(target_path):
+        print("AAAAAAAERRRRRRRRRR")
+        continue
+    
+    try:
+        target = Structure.parse_file(target_path)
+        output = Structure.parse_file(output_file_path)
+    except Exception as e:
+        print(f"XXXXXXXXX Error processing file: {file_name}: {e}")
+        continue
+    
+    with open(source_path, 'r') as f:
+        source = f.read()
+    
+
+    #n_removed_params, filtered_output = filter(output, source)
+
+
+    metrics.add(target, output)
+
+
     # if metric['additional_environmental_impact']['recall'] != 1:
     #     with open(f'data/metrics/{file_name}', 'w') as f:
     #         json.dump(metric, f, indent=4)
             
     #     break
     
-    metric_list.append(metric)
 
 
-average_metrics = metrics.average(metric_list)
 
-print(json.dumps(average_metrics, indent=4))
+
+precision, recall, f1, fpr, specificity = metrics.calculate()
+
+json.dump(precision, open(f"data/metrics/precision_{extention}.json", 'w'), indent=4)
+json.dump(recall, open(f"data/metrics/recall_{extention}.json", 'w'), indent=4)
+json.dump(f1, open(f"data/metrics/f1_{extention}.json", 'w'), indent=4)
+json.dump(fpr, open(f"data/metrics/fpr_{extention}.json", 'w'), indent=4)
+json.dump(specificity, open(f"data/metrics/specificity_{extention}.json", 'w'), indent=4)
