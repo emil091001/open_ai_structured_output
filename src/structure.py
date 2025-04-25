@@ -3,7 +3,7 @@ from typing import List, Literal, TypeVar, Union
 from pydantic import BaseModel
 
 
-Module = Literal["A1-A3", "A1A3", "A1", "A2", "A3", "A4", "A5", "B1",
+Module = Literal["A1-A3", "A1", "A2", "A3", "A4", "A5", "B1",
                  "B2", "B3", "B4", "B5", "B6", "B7", "C1", "C2", "C3", "C4", "D"]
 
 EnvironmentalImpactParameterName = Literal[
@@ -28,7 +28,7 @@ EnvironmentalImpactParameterName = Literal[
 
 AdditionalEnvironmentalImpactParameterName = Literal[
     "PM",
-    "IRP",
+    "IR",
     "ETP-fw",
     "HTP-c",
     "HTP-nc",
@@ -63,12 +63,10 @@ EndOfLifeFlowParameterName = Literal[
     "EET"
 ]
 
-
 class Value(BaseModel):
     value: Union[str, None]
     module: Module
     scenario: Union[str, None]
-
 
 class Parameter[T](BaseModel):
     parameter: T
